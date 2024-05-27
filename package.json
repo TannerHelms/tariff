@@ -1,0 +1,19 @@
+{
+    "name": "tariff",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "start": "cd client && yarn && yarn dev",
+      "worker": "cd worker && py product.py",
+      "generate": "cd client && prisma generate",
+      "migrate": "cd client && prisma migrate dev",
+      "migrate-deploy": "cd client && prisma migrate deploy",
+      "migrate-reset": "cd client && prisma migrate reset",
+      "seed": "cd client && prisma db seed",
+      "console": "cd client && prisma-repl",
+      "studio": "cd client && prisma studio",
+      "reset": "cd client && prisma db push --force-reset",
+      "push": "cd client && prisma db push"
+    },
+}
+  
