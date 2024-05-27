@@ -38,3 +38,18 @@ services:
       - REDIS_HOSTS=local:redis:6379
     depends_on:
       - redis
+  worker:
+    env_file:
+      - ./.env
+    container_name: worker
+    build:
+      context: ./worker
+    depends_on:
+      - redis
+    stdin_open: true
+    tty: true
+    deploy:
+      mode: replicated
+      replicas: 1
+    volumes:
+      - ./worker/product.py:/app/product.py
