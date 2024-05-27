@@ -38,7 +38,7 @@ async def process(job, job_token):
             'id': job_id
         },
         data={
-            'result': json.dumps({'code': '1234'}),
+            'result': json.dumps({'code': '1234', 'message': 'Job completed', 'test': 'hello world'}),
             'status': 'COMPLETED'
         }
     )

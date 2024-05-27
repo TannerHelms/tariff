@@ -34,7 +34,8 @@ export const restartJob = async (jobId: string) => {
             id: jobId
         },
         data: {
-            status: Status.PENDING
+            status: Status.PENDING,
+            result: null,
         }
     })
 
