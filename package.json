@@ -14,6 +14,6 @@
       "studio": "cd client && prisma studio",
       "reset": "cd client && prisma db push --force-reset",
       "push": "cd client && prisma db push"
-    },
+    }
 }
   
