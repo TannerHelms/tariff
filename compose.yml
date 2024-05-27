@@ -1,0 +1,40 @@
+volumes:
+  db:
+  redis:
+services: 
+  postgres:
+    image: postgres
+    container_name: postgres
+    ports:
+      - ${DB_PORT}:5432
+    volumes:
+      - db:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - POSTGRES_DB=${DB_NAME}
+      - POSTGRES_USER=${DB_USER}
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    tty: true
+  redis:
+    container_name: redis
+    image: redis
+    ports:
+      - ${REDIS_PORT}:6379
+    restart: always
+    command: redis-server --save 20 1 --loglevel warning
+    volumes:
+      - redis:/data
+  redis-commander:
+    container_name: commander
+    image: rediscommander/redis-commander
+    restart: always
+    ports:
+      - ${REDIS_COMMANDER_PORT}:8081
+    environment:
+      - REDIS_HOSTS=local:redis:6379
+    depends_on:
+      - redis
