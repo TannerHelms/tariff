@@ -6,9 +6,9 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import { getJobs, restartJob } from "@/utils/actions";
+import { deleteJob, getJobs, restartJob } from "@/utils/actions";
 import { Job, Status } from "@prisma/client";
-import { ReloadIcon } from "@radix-ui/react-icons";
+import { ReloadIcon, TrashIcon } from "@radix-ui/react-icons";
 import { useEffect, useState } from "react";
 import { Card } from "../ui/card";
 import { ScrollArea } from "../ui/scroll-area";
@@ -112,8 +112,12 @@ export default function ProductList() {
                         {job.status === "COMPLETED" && (
                           <div className="flex flex-row gap-2 items-center">
                             <ReloadIcon
-                              className="cursor-pointer"
+                              className="cursor-pointer size-5"
                               onClick={() => restartJob(job.id)}
+                            />
+                            <TrashIcon
+                              className="cursor-pointer size-5"
+                              onClick={() => deleteJob(job.id)}
                             />
                           </div>
                         )}

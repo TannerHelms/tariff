@@ -50,3 +50,12 @@ export const restartJob = async (jobId: string) => {
         ...payload
     })
 }
+
+
+export const deleteJob = async (jobId: string) => {
+    return db.job.delete({
+        where: {
+            id: jobId
+        }
+    })
+}
