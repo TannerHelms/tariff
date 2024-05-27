@@ -1,6 +1,6 @@
 'use server'
 
-import { Job } from "@prisma/client"
+import { Job, Status } from "@prisma/client"
 import db from "./db"
 import productQueue from "./redis"
 import { Product } from "./types"
@@ -23,7 +23,29 @@ export const createProduct = async (product: Product) => {
 export const getJobs = async (): Promise<Job[]> => {
     return db.job.findMany({
         orderBy: {
-            createdAt: "desc"
+            updatedAt: "desc"
         }
+    })
+}
+
+export const restartJob = async (jobId: string) => {
+    const job = await db.job.update({
+        where: {
+            id: jobId
+        },
+        data: {
+            status: Status.PENDING
+        }
+    })
+
+    if (!job) {
+        throw new Error("Job not found")
+    }
+
+    const payload = JSON.parse(job.payload)
+
+    await productQueue.add("product", {
+        jobId: job.id,
+        ...payload
     })
 }
