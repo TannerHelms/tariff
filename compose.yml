@@ -41,7 +41,6 @@ services:
   worker:
     env_file:
       - ./.env
-    container_name: worker
     build:
       context: ./worker
     depends_on:

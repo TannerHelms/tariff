@@ -30,7 +30,7 @@ async def process(job, job_token):
     )
 
     # Process the Job
-    time.sleep(1)
+    time.sleep(3)
 
     # Update the job status
     await db.job.update(
@@ -38,7 +38,7 @@ async def process(job, job_token):
             'id': job_id
         },
         data={
-            'result': json.dumps({'code': '1234', 'message': 'Job completed', 'test': 'hello world'}),
+            'result': json.dumps({'code': '1912', 'message': 'Job completed 10122', 'test': 'hello world done'}),
             'status': 'COMPLETED'
         }
     )
