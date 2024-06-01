@@ -1,0 +1,270 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+0101	 	Live horses, asses, mules and hinnies:				
+ 	Horses:				
+0101.21.00	 	Purebred breeding animals		Free 1/		Free
+0101.21.00.10	10  	Males	
+No.
+0101.21.00.20	20  	Females	
+No.
+0101.29.00	 	Other		Free 1/		20%
+0101.29.00.10	10  	Imported for immediate slaughter	
+No.
+0101.29.00.90	90  	Other	
+No.
+0101.30.00	00  	Asses	
+No.
+6.8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+0101.90	 	Other:				
+0101.90.30	00  	Imported for immediate slaughter	
+No.
+Free 1/		Free
+0101.90.40	00  	Other	
+No.
+4.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0102	 	Live bovine animals:				
+ 	Cattle:				
+0102.21.00	 	Purebred breeding animals		Free 1/		Free
+ 	Dairy:				
+0102.21.00.10	10  	Male	
+No.
+0102.21.00.20	20  	Female	
+No.
+ 	Other:				
+0102.21.00.30	30  	Male	
+No.
+0102.21.00.50	50  	Female	
+No.
+0102.29	 	Other:				
+0102.29.20	 	Cows imported specially for dairy purposes		Free 1/		6.6¢/kg
+0102.29.20.11	11  	Weighing less than 90 kg each	
+No.
+kg
+0102.29.20.12	12  	Weighing 90 kg or more each	
+No.
+kg
+0102.29.40	 	Other		1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+ 	Weighing less than 90 kg each:				
+0102.29.40.24	24  	Male	
+No.
+kg
+0102.29.40.28	28  	Female	
+No.
+kg
+ 	Weighing 90 kg or more but less than 200 kg each:				
+0102.29.40.34	34  	Male	
+No.
+kg
+0102.29.40.38	38  	Female	
+No.
+kg
+ 	Weighing 200 kg or more but less than 320 kg each:				
+0102.29.40.54	54  	Male	
+No.
+kg
+0102.29.40.58	58  	Female	
+No.
+kg
+ 	Weighing 320 kg or more each:				
+ 	For immediate slaughter:				
+0102.29.40.62	62  	Steers	
+No.
+kg
+0102.29.40.64	64  	Bulls	
+No.
+kg
+0102.29.40.66	66  	Cows	
+No.
+kg
+0102.29.40.68	68  	Heifers	
+No.
+kg
+ 	For breeding:				
+0102.29.40.72	72  	Male	
+No.
+kg
+0102.29.40.74	74  	Female	
+No.
+kg
+ 	Other:				
+0102.29.40.82	82  	Male	
+No.
+kg
+0102.29.40.84	84  	Female	
+No.
+kg
+ 	Buffalo:				
+0102.31.00	 	Purebred breeding animals		Free 1/		Free
+0102.31.00.10	10  	Male	
+No.
+0102.31.00.20	20  	Female	
+No.
+0102.39.00	 	Other		1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0102.39.00.10	10  	Bison	
+No.
+kg
+ 	Other:				
+ 	Weighing less than 90 kg each:				
+0102.39.00.24	24  	Male	
+No.
+kg
+0102.39.00.28	28  	Female	
+No.
+kg
+ 	Weighing 90 kg or more but less than 200 kg each:				
+0102.39.00.34	34  	Male	
+No.
+kg
+0102.39.00.38	38  	Female	
+No.
+kg
+ 	Weighing 200 kg or more but less than 320 kg each:				
+0102.39.00.54	54  	Male	
+No.
+kg
+0102.39.00.58	58  	Female	
+No.
+kg
+ 	Weighing 320 kg or more each:				
+0102.39.00.61	61  	For immediate slaughter	
+No.
+kg
+ 	For breeding:				
+0102.39.00.72	72  	Male	
+No.
+kg
+0102.39.00.74	74  	Female	
+No.
+kg
+ 	Other:				
+0102.39.00.82	82  	Male	
+No.
+kg
+0102.39.00.84	84  	Female	
+No.
+kg
+0102.90.00	00  	Other	
+No.
+kg
+1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0103	 	Live swine:				
+0103.10.00	00  	Purebred breeding animals	
+No.
+Free 1/		Free
+ 	Other:				
+0103.91.00	 	Weighing less than 50 kg each		Free 1/		4.4¢/kg
+0103.91.00.10	10  	Weighing less than 7 kg each	
+No.
+kg
+0103.91.00.20	20  	Weighing 7 kg or more but less than 23 kg each	
+No.
+kg
+0103.91.00.30	30  	Weighing 23 kg or more but less than 50 kg each	
+No.
+kg
+0103.92.00	 	Weighing 50 kg or more each		Free 1/		4.4¢/kg
+0103.92.00.10	10  	Imported for immediate slaughter	
+No.
+kg
+0103.92.00.20	20  	Breeding animals other than purebred breeding animals	
+No.
+kg
+0103.92.00.91	91  	Other	
+No.
+kg
+0104	 	Live sheep and goats:				
+0104.10.00	00  	Sheep	
+No.
+kg
+Free 1/		$3/head
+0104.20.00	00  	Goats	
+No.
+68¢/head 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$3/head
+0105	 	Live poultry of the following kinds: Chickens, ducks, geese, turkeys and guineas:				
+ 	Weighing not more than 185 g:				
+0105.11.00	 	Chickens		0.9¢ each 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢ each
+ 	Breeding stock, whether or not purebred:				
+0105.11.00.10	10  	Layer-type (egg-type)	
+No.
+0105.11.00.20	20  	Broiler-type (meat-type)	
+No.
+0105.11.00.40	40  	Other	
+No.
+0105.12.00	00  	Turkeys	
+No.
+0.9¢ each 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢ each
+0105.13.00	00  	Ducks	
+No.
+0.9¢ each 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢ each
+0105.14.00	00  	Geese	
+No.
+0.9¢ each 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢ each
+0105.15.00	00  	Guinea fowls	
+No.
+0.9¢ each 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢ each
+ 	Other:				
+0105.94.00	00  	Chickens	
+No.
+kg
+2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg
+0105.99.00	00  	Other	
+No.
+kg
+2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg
+0106	 	Other live animals:				
+ 	Mammals:				
+0106.11.00	00  	Primates	
+No.
+Free 1/		15%
+0106.12.01	00  	Whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals of the order Sirenia); seals, sea lions and walruses (mammals of the suborder Pinnipedia)	
+No.
+Free 1/		15%
+0106.13.00	00  	Camels and other camelids (Camelidae)	
+No.
+Free 1/		15%
+0106.14.00	00  	Rabbits and hares	
+No.
+Free 1/		15%
+0106.19	 	Other:				
+0106.19.30	00  	Foxes	
+No.
+4.8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+0106.19.91	 	Other		Free 1/		15%
+0106.19.91.20	20  	Dogs	
+No.
+0106.19.91.95	95  	Other	
+No.
+0106.20.00	00  	Reptiles (including snakes and turtles)	
+No.
+Free 1/		15%
+ 	Birds:				
+0106.31.00	00  	Birds of prey	
+No.
+1.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0106.32.00	00  	Psittaciformes (including parrots, parakeets, macaws and cockatoos)	
+No.
+1.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0106.33.00	00  	Ostriches; emus (Dromaius novaehollandiae)	
+No.
+1.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0106.39.01	00  	Other	
+No.
+1.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Insects:				
+0106.41.00	00  	Bees	
+kg
+Free 1/		15%
+0106.49.00	 	Other		Free 1/		15%
+0106.49.00.10	10  	Leaf cutter bee larvae	
+kg
+0106.49.00.90	90  	Other	
+kg
+0106.90.01	 	Other		Free 1/		15%
+0106.90.01.10	10  	Worms	
+kg
+0106.90.01.20	20  	Bait (other than worms)	
+kg
+0106.90.01.80	80  	Other	
+kg

@@ -1,0 +1,1668 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+4401	 	Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms:				
+ 	Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms:				
+4401.11.00	00  	Coniferous	
+kg
+Free 1/		20%
+4401.12.00	00  	Nonconiferous	
+kg
+Free 1/		20%
+ 	Wood in chips or particles:				
+4401.21.00	00  	Coniferous	
+t dwb
+Free 1/		Free
+4401.22.00	00  	Nonconiferous	
+t dwb
+Free 1/		Free
+ 	Sawdust and wood waste and scrap, agglomerated in logs, briquettes, pellets or similar forms:				
+4401.31.00	00  	Wood pellets	
+kg
+Free 1/		Free 1/
+4401.32.00	00  	Wood briquettes	
+kg
+Free 1/		Free 1/
+4401.39	 	Other:				
+4401.39.20	00  	Artificial fire logs composed of wax and sawdust, with or without added materials	
+kg
+Free 1/		20%
+4401.39.42	 	Other		Free 1/		Free 1/
+4401.39.42.10	10  	Sawdust	
+kg
+4401.39.42.20	20  	Shavings	
+kg
+4401.39.42.90	90  	Other	
+kg
+ 	Sawdust and wood waste and scrap, not agglomerated:				
+4401.41.00	00  	Sawdust	
+kg
+Free 1/		Free
+4401.49.00	 	Other		Free 1/		Free
+4401.49.00.20	20  	Shavings	
+kg
+4401.49.00.90	90  	Other	
+kg
+4402	 	Wood charcoal (including shell or nut charcoal), whether or not agglomerated:				
+4402.10.00	00  	Of bamboo	
+t
+Free 1/		Free
+4402.20.00	00  	Of shell or nut	
+t
+Free 1/		Free
+4402.90.01	00  	Other	
+t
+Free 1/		Free
+4403	 	Wood in the rough, whether or not stripped of bark or sap- wood, or roughly squared:				
+ 	Treated with paint, stain, creosote or other preservatives:				
+4403.11.00	 	Coniferous		Free 1/		Free
+ 	Poles, piles and posts:				
+4403.11.00.20	20  	Telephone, telegraph and electrical power poles	
+m
+4403.11.00.40	40  	Fence posts	
+m
+4403.11.00.50	50  	Other	
+m
+4403.11.00.60	60  	Other	
+m3
+4403.12.00	 	Nonconiferous		Free 1/		Free
+ 	Poles, piles and posts:				
+4403.12.00.20	20  	Telephone, telegraph and electrical power poles	
+m
+4403.12.00.40	40  	Fence posts	
+m
+4403.12.00.50	50  	Other	
+m
+4403.12.00.60	60  	Other	
+m3
+ 	Other, coniferous:				
+4403.21.01	 	Of pine (Pinus spp.), of which the smallest cross-sectional dimension is 15 cm or more		Free 1/		Free
+ 	Poles, piles and posts:				
+4403.21.01.12	12  	Telephone, telegraph and electrical power poles	
+m
+4403.21.01.15	15  	Fence posts	
+m
+4403.21.01.16	16  	Other	
+m
+ 	Logs and timber:				
+4403.21.01.20	20  	Southern yellow pine (Loblolly pine (Pinus taeda)), long leaf pine (Pinus palustris), pitch pine (Pinus rigida), short leaf pine (Pinus echinata), slash pine (Pinus elliottii) and Virginia pine (Pinus virginiana)	
+m3
+4403.21.01.25	25  	Ponderosa pine (Pinus ponderosa)	
+m3
+4403.21.01.30	30  	Other	
+m3
+4403.21.01.65	65  	Other	
+m3
+4403.22.01	 	Of pine (Pinus spp.), other		Free 1/		Free
+4403.22.01.08	08  	Pulpwood	
+m3
+ 	Poles, piles and posts:				
+4403.22.01.12	12  	Telephone, telegraph and electrical power poles	
+m
+4403.22.01.15	15  	Fence posts	
+m
+4403.22.01.16	16  	Other	
+m
+ 	Logs and timber:				
+4403.22.01.20	20  	Southern yellow pine (Loblolly pine (Pinus taeda)), long leaf pine (Pinus palustris), pitch pine (Pinus rigida), short leaf pine (Pinus echinata), slash pine (Pinus elliottii) and Virginia pine (Pinus virginiana)	
+m3
+4403.22.01.25	25  	Ponderosa pine (Pinus ponderosa)	
+m3
+4403.22.01.30	30  	Other	
+m3
+4403.22.01.65	65  	Other	
+m3
+4403.23.01	 	Of fir (Abies spp.) and spruce (Picea spp.), of which the smallest cross-sectional dimension is 15 cm or more		Free 1/		Free
+ 	Poles, piles and posts:				
+4403.23.01.12	12  	Telephone, telegraph and electrical power poles	
+m
+4403.23.01.15	15  	Fence posts	
+m
+4403.23.01.16	16  	Other	
+m
+ 	Logs and timber:				
+4403.23.01.35	35  	Spruce (Picea spp.)	
+m3
+4403.23.01.42	42  	Other fir; balsam	
+m3
+4403.23.01.65	65  	Other	
+m3
+4403.24.01	 	Of fir (Abies spp.) and spruce (Picea spp.), other		Free 1/		Free
+4403.24.01.04	04  	Pulpwood	
+m3
+ 	Poles, piles and posts:				
+4403.24.01.12	12  	Telephone, telegraph and electrical power poles	
+m
+4403.24.01.15	15  	Fence posts	
+m
+4403.24.01.16	16  	Other	
+m
+ 	Logs and timber:				
+4403.24.01.35	35  	Spruce (Picea spp.)	
+m3
+4403.24.01.42	42  	Other fir; balsam	
+m3
+4403.24.01.65	65  	Other	
+m3
+4403.25.01	 	Other, of which the smallest cross-sectional dimension is 15 cm or more		Free 1/		Free
+ 	Poles, piles and posts:				
+4403.25.01.12	12  	Telephone, telegraph and electrical power poles	
+m
+4403.25.01.15	15  	Fence posts	
+m
+4403.25.01.16	16  	Other	
+m
+ 	Logs and timber:				
+4403.25.01.40	40  	Douglas-fir (Pseudotsuga menziesii)	
+m3
+4403.25.01.50	50  	Western hemlock (Tsuga heterophylla)	
+m3
+4403.25.01.52	52  	Other hemlock	
+m3
+4403.25.01.55	55  	Western red cedar (Thuja plicata)	
+m3
+4403.25.01.57	57  	Other cedar	
+m3
+4403.25.01.64	64  	Other	
+m3
+4403.25.01.65	65  	Other	
+m3
+4403.26.01	 	Other		Free 1/		Free
+4403.26.01.08	08  	Pulpwood	
+m3
+ 	Poles, piles and posts:				
+4403.26.01.12	12  	Telephone, telegraph and electrical power poles	
+m
+4403.26.01.15	15  	Fence posts	
+m
+4403.26.01.16	16  	Other	
+m
+ 	Logs and timber:				
+4403.26.01.40	40  	Douglas-fir (Pseudotsuga menziesii)	
+m3
+4403.26.01.50	50  	Western hemlock (Tsuga heterophylla)	
+m3
+4403.26.01.52	52  	Other hemlock	
+m3
+4403.26.01.55	55  	Western red cedar (Thuja plicata)	
+m3
+4403.26.01.57	57  	Other cedar	
+m3
+4403.26.01.64	64  	Other	
+m3
+4403.26.01.65	65  	Other	
+m3
+ 	Other, of tropical wood:				
+4403.41.00	00  	Dark Red Meranti, Light Red Meranti and Meranti Bakau	
+m3
+Free 1/		Free
+4403.42.00	00  	Teak	
+m3
+Free 1/		Free
+4403.49.02	00  	Other	
+m3
+Free 1/		Free
+ 	Other:				
+4403.91.00	 	Of oak (Quercus spp.)		Free 1/		Free
+4403.91.00.20	20  	Of red oak	
+m3
+4403.91.00.40	40  	Other	
+m3
+4403.93.01	00  	Of beech (Fagus spp.), of which the smallest cross-sectional dimension is 15 cm or more	
+m3
+Free 1/		Free
+4403.94.01	00  	Of beech (Fagus spp.), other	
+m3
+Free 1/		Free
+4403.95.01	 	Of birch (Betula spp.), of which the smallest cross-sectional dimension is 15 cm or more		Free 1/		Free
+4403.95.01.27	27  	Poles, piles and posts	
+m3
+4403.95.01.30	30  	Other	
+m3
+4403.96.01	 	Of birch (Betula spp.), other		Free 1/		Free
+4403.96.01.23	23  	Pulpwood	
+m3
+4403.96.01.27	27  	Poles, piles and posts	
+m3
+4403.96.01.30	30  	Other	
+m3
+4403.97.00	 	Of poplar and aspen (Populus spp.)		Free 1/		Free
+4403.97.00.22	22  	Pulpwood	
+m3
+4403.97.00.26	26  	Poles, piles and posts	
+m3
+ 	Other:				
+4403.97.00.65	65  	Of yellow poplar (Liriodendron tulipifera)	
+m3
+4403.97.00.67	67  	Of other poplar; of aspen or cottonwood	
+m3
+4403.98.00	 	Of eucalyptus (Eucalyptus spp.)		Free 1/		Free
+4403.98.00.23	23  	Pulpwood	
+m3
+4403.98.00.28	28  	Poles, piles and posts	
+m3
+4403.98.00.95	95  	Other	
+m3
+4403.99.01	 	Other		Free 1/		Free
+4403.99.01.23	23  	Pulpwood	
+m3
+4403.99.01.28	28  	Poles, piles and posts	
+m3
+ 	Other:				
+4403.99.01.40	40  	Of ash (Fraxinus spp.)	
+m3
+4403.99.01.50	50  	Of western red alder (Alnus rubra)	
+m3
+4403.99.01.55	55  	Of cherry (Prunus spp.)	
+m3
+4403.99.01.60	60  	Of maple (Acer spp.)	
+m3
+4403.99.01.70	70  	Of walnut (Juglans spp.)	
+m3
+4403.99.01.75	75  	Of paulownia (Paulownia spp.)	
+m3
+4403.99.01.95	95  	Other	
+m3
+4404	 	Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking-sticks, umbrellas, tool handles or the like; chipwood and the like:				
+4404.10.00	 	Coniferous		Free 1/		Free
+4404.10.00.40	40  	Fence pickets, palings and rails	
+kg
+4404.10.00.80	80  	Poles, piles and posts	
+kg
+4404.10.00.90	90  	Other	
+kg
+4404.20.00	 	Nonconiferous		Free 1/		Free 1/
+4404.20.00.40	40  	Fence pickets, palings and rails	
+kg
+4404.20.00.80	80  	Poles, piles and posts	
+kg
+4404.20.00.90	90  	Other	
+kg
+4405.00.00	00  	Wood wool (excelsior); wood flour	
+kg
+3.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4406	 	Railway or tramway sleepers (cross-ties) of wood:				
+ 	Not impregnated:				
+4406.11.00	00  	Coniferous	
+m3
+No.
+Free 1/		Free
+4406.12.00	00  	Nonconiferous	
+m3
+No.
+Free 1/		Free
+ 	Other:				
+4406.91.00	00  	Coniferous	
+m3
+No.
+Free 1/		Free
+4406.92.00	00  	Nonconiferous	
+m3
+No.
+Free 1/		Free
+4407	 	Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm:				
+ 	Coniferous:				
+4407.11.00	 	Of pine (Pinus spp.)		Free 1/		$1.70/m3 1/
+4407.11.00.01	01  	Finger-jointed	
+m3
+ 	Other:				
+4407.11.00.02	02  	Treated with paint, stain, creosote or other preservative	
+m3
+ 	Not treated:				
+ 	Eastern white pine (Pinus strobus) and red pine (Pinus resinosa):				
+4407.11.00.42	42  	Rough	
+m3
+4407.11.00.43	43  	Other	
+m3
+ 	Lodgepole pine (Pinus contorta):				
+4407.11.00.44	44  	Rough	
+m3
+4407.11.00.45	45  	Other	
+m3
+ 	Southern yellow pine (Loblolly pine (Pinus taeda)), long leaf pine (Pinus palustris), pitch pine (Pinus rigida), short leaf pine (Pinus echinata), slash pine (Pinus elliottii) and Virginia pine (Pinus virginiana):				
+4407.11.00.46	46  	Rough	
+m3
+4407.11.00.47	47  	Other	
+m3
+ 	Ponderosa pine (Pinus ponderosa):				
+4407.11.00.48	48  	Rough	
+m3
+4407.11.00.49	49  	Other	
+m3
+ 	Other pine:				
+4407.11.00.52	52  	Rough	
+m3
+4407.11.00.53	53  	Other	
+m3
+4407.12.00	 	Of fir (Abies spp.) and spruce (Picea spp.)		Free 1/		$1.70/m3 1/
+4407.12.00.01	01  	Finger-jointed	
+m3
+ 	Other:				
+4407.12.00.02	02  	Treated with paint, stain, creosote or other preservative	
+m3
+ 	Not treated:				
+ 	Sitka spruce (Picea sitchensis):				
+4407.12.00.17	17  	Rough	
+m3
+4407.12.00.18	18  	Other	
+m3
+ 	Other spruce:				
+4407.12.00.19	19  	Rough	
+m3
+4407.12.00.20	20  	Other	
+m3
+ 	Fir (Abies spp.):				
+4407.12.00.58	58  	Rough	
+m3
+4407.12.00.59	59  	Other	
+m3
+4407.13.00	00  	Of S-P-F (spruce (Picea spp.), pine (Pinus spp.) and fir (Abies spp.))	
+m3
+Free 1/		$1.70/m3 1/
+4407.14.00	00  	Of Hem-fir (Western hemlock (Tsuga heterophylla) and fir (Abies spp.))	
+m3
+Free 1/		$1.70/m3
+4407.19.00	 	Other		Free 1/		$1.70/m3 1/
+4407.19.00.01	01  	Finger-jointed	
+m3
+ 	Other:				
+4407.19.00.02	02  	Treated with paint, stain, creosote or other preservative	
+m3
+ 	Not treated:				
+ 	Douglas-fir (Pseudotsuga menziesii):				
+ 	Rough:				
+4407.19.00.54	54  	Having a minimum dimension less than 5.1 cm	
+m3
+4407.19.00.55	55  	Having a minimum dimension 5.1 cm or more but less than 12.7 cm	
+m3
+4407.19.00.56	56  	Having a minimum dimension 12.7 cm or more	
+m3
+4407.19.00.57	57  	Other	
+m3
+ 	Hemlock (Tsuga spp.):				
+4407.19.00.64	64  	Rough	
+m3
+4407.19.00.65	65  	Other	
+m3
+ 	Larch (Larix spp.):				
+4407.19.00.66	66  	Rough	
+m3
+4407.19.00.67	67  	Other	
+m3
+ 	Western red cedar:				
+4407.19.00.68	68  	Rough	
+m3
+4407.19.00.69	69  	Other	
+m3
+ 	Yellow cedar (Chamaecyparis nootkatensis):				
+4407.19.00.74	74  	Rough	
+m3
+4407.19.00.75	75  	Other	
+m3
+ 	Other cedar (Thuja spp., Juniperus spp., Chamaecyparis spp., Cupressus spp. and Libocedrus spp.):				
+4407.19.00.76	76  	Rough	
+m3
+4407.19.00.77	77  	Other	
+m3
+ 	Redwood (Sequoia sempervirens):				
+4407.19.00.82	82  	Rough	
+m3
+4407.19.00.83	83  	Other	
+m3
+ 	Other:				
+4407.19.00.92	92  	Rough	
+m3
+4407.19.00.93	93  	Other	
+m3
+ 	Of tropical wood:				
+4407.21.00	00  	Mahogany (Swietenia spp.)	
+m3
+Free 1/		$1.27/m3
+4407.22.00	 	Virola, Imbuia and Balsa		Free 1/		$1.27/m3
+4407.22.00.06	06  	Balsa (Ochroma lagopus)	
+m3
+4407.22.00.91	91  	Other	
+m3
+4407.23.01	00  	Teak	
+m3
+Free 1/		$1.27/m3 1/
+4407.25.00	00  	Dark Red Meranti, Light Red Meranti and Meranti Bakau	
+m3
+Free 1/		$1.27/m3
+4407.26.00	00  	White Lauan, White Meranti, White Seraya, Yellow Meranti and Alan	
+m3
+Free 1/		$1.27/m3
+4407.27.00	00  	Sapelli	
+m3
+Free 1/		$1.27/m3
+4407.28.00	00  	Iroko	
+m3
+Free 1/		$1.27/m3
+4407.29.02	 	Other		Free 1/		$1.27/m3 1/
+4407.29.02.06	06  	Acajou d'Afrique (Khaya spp.), also known as African mahogany	
+m3
+4407.29.02.11	11  	Anigre (Aningeria spp.), also known as Aningre, Aniegre or Anegre	
+m3
+4407.29.02.16	16  	Keruing (Dipterocarpus spp.)	
+m3
+4407.29.02.20	20  	Ipé (Tabebuia spp. or Handroanthus spp.), also known as Tahibo or Taheebo, LaPacho or Lapacho, Brazilian walnut and Patagonian walnut	
+m3
+4407.29.02.40	40  	Andiroba (Carapa guianensis and C. procera), Padauk (Pterocarpus spp.), also known as Padouk	
+m3
+4407.29.02.60	60  	Cedro (Cedrela spp.), also known as Spanish Cedar	
+m3
+4407.29.02.85	85  	Jatoba (Hymenaea spp.), also known as Brazilian Cherry	
+m3
+4407.29.02.96	96  	Other	
+m3
+ 	Other:				
+4407.91.00	 	Of oak (Quercus spp.)		Free 1/		$1.27/m3 1/
+4407.91.00.22	22  	Red oak	
+m3
+4407.91.00.63	63  	Other	
+m3
+4407.92.00	00  	Of beech (Fagus spp.)	
+m3
+Free 1/		$1.27/m3
+4407.93.00	 	Of maple (Acer spp.)		Free 1/		$1.27/m3
+4407.93.00.10	10  	Hard maple	
+m3
+4407.93.00.20	20  	Other	
+m3
+4407.94.00	00  	Of cherry (Prunus spp.)	
+m3
+Free 1/		$1.27/m3
+4407.95.00	00  	Of ash (Fraxinus spp.)	
+m3
+Free 1/		$1.27/m3
+4407.96.00	 	Of birch (Betula spp.)		Free 1/		$1.27/m3 1/
+4407.96.00.11	11  	North American (Betula alleghaniensis, Betula papyrifera, Betula lenta, Betula nigra)	
+m3
+4407.96.00.13	13  	European (Betula pendula, Betula pubescens), also known as Baltic, Russian or Chinese birch	
+m3
+4407.96.00.19	19  	Other	
+m3
+4407.97.00	 	Of poplar and aspen (Populus spp.)		Free 1/		$1.27/m3
+4407.97.00.72	72  	Yellow poplar (Liriodendron tulipifera)	
+m3
+4407.97.00.79	79  	Other poplar; aspen; cottonwood	
+m3
+4407.99.02	 	Other		Free 1/		$1.27/m3
+4407.99.02.42	42  	Hickory (Carya spp.) and pecan (Carya illinoensis, Carya pecan)	
+m3
+4407.99.02.61	61  	Walnut (Juglans spp)	
+m3
+4407.99.02.63	63  	Western red alder (Alnus rubra)	
+m3
+4407.99.02.95	95  	Other nonconiferous	
+m3
+4408	 	Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm:				
+4408.10.01	 	Coniferous		Free 1/		20% 1/
+4408.10.01.25	25  	Douglas fir	
+m2
+4408.10.01.45	45  	Other	
+m2
+ 	Of tropical wood:				
+4408.31.01	00  	Dark Red Meranti, Light Red Meranti and Meranti Bakau	
+m2
+Free 1/		20%
+4408.39.02	 	Other		Free 1/		20%
+4408.39.02.10	10  	Spliced or end-jointed	
+m2
+ 	Other:				
+4408.39.02.20	20  	Acajou or Acajou d'Afrique (Khaya spp.), also known as African mahogany	
+m2
+4408.39.02.30	30  	Anigre (Aningeria spp.), also known as Aningre, Aniegre or Anegre	
+m2
+4408.39.02.40	40  	Ceiba (Ceiba spp.)	
+m2
+4408.39.02.50	50  	Obeche (Triplochiton spp.), also known as Ayous	
+m2
+4408.39.02.60	60  	Okoume (Aucoumea spp.)	
+m2
+4408.39.02.70	70  	Sapele (Sapelli), Sipo or Utile (Entandrophragma spp.)	
+m2
+4408.39.02.91	91  	Other	
+m2
+4408.90.01	 	Other		Free 1/		20% 1/
+ 	Spliced or end-jointed:				
+4408.90.01.05	05  	Ash (Fraxinus spp.)	
+m2
+4408.90.01.10	10  	Birch (Betula spp.)	
+m2
+4408.90.01.15	15  	Cherry (Prunus spp.)	
+m2
+4408.90.01.21	21  	Maple (Acer spp.)	
+m2
+ 	Oak (Quercus spp.):				
+4408.90.01.31	31  	Red	
+m2
+4408.90.01.37	37  	Other	
+m2
+4408.90.01.45	45  	Walnut (Juglans spp.)	
+m2
+4408.90.01.51	51  	Other	
+m2
+ 	Other:				
+4408.90.01.56	56  	Ash (Fraxinus spp.)	
+m2
+4408.90.01.61	61  	Birch (Betula spp.)	
+m2
+4408.90.01.66	66  	Cherry (Prunus spp.)	
+m2
+4408.90.01.71	71  	Maple (Acer spp.)	
+m2
+ 	Oak (Quercus spp.):				
+4408.90.01.76	76  	Red	
+m2
+4408.90.01.81	81  	Other	
+m2
+4408.90.01.87	87  	Walnut (Juglans spp.)	
+m2
+4408.90.01.97	97  	Other	
+m2
+4409	 	Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, molded, rounded or the like) along any of its edges, ends or faces, whether or not planed, sanded or end-jointed:				
+4409.10	 	Coniferous:				
+4409.10.05	00  	Wood continuously shaped along any of its ends, whether or not also continuously shaped along any of its edges or faces, all the foregoing whether or not planed, sanded or end-jointed	
+m3
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+ 	Other:				
+4409.10.10	 	Wood siding		Free 1/		2.2¢/m2 1/
+ 	Resawn bevel siding:				
+4409.10.10.20	20  	Western red cedar	
+m2
+m3
+4409.10.10.40	40  	Other	
+m2
+m3
+ 	Other:				
+4409.10.10.60	60  	Western red cedar	
+m2
+m3
+4409.10.10.80	80  	Other	
+m2
+m3
+4409.10.20	00  	Wood flooring	
+m2
+m3
+Free 1/		33 1/3% 1/
+ 	Wood moldings:				
+ 	Standard wood molding:				
+4409.10.40	 	Pine (Pinus spp.)		Free 1/		5% 1/
+4409.10.40.10	10  	End-jointed	
+m
+4409.10.40.90	90  	Other	
+m
+4409.10.45	00  	Other	
+m
+Free 1/		5%
+4409.10.50	00  	Other	
+m
+Free 1/		40%
+ 	Wood dowel rods:				
+4409.10.60	00  	Plain	
+m
+m3
+Free 1/		5%
+4409.10.65	00  	Sanded, grooved, or otherwise advanced in condition	
+m
+m3
+4.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4409.10.90	 	Other		Free 1/		$1.70/m3 1/
+4409.10.90.20	20  	Western red cedar	
+m2
+m3
+4409.10.90.40	40  	Other	
+m2
+m3
+ 	Nonconiferous:				
+4409.21	 	Of bamboo:				
+4409.21.05	00  	Wood continuously shaped along any of its ends, whether or not also continuously shaped along any of its edges or faces, all the foregoing whether or not planed, sanded or end-jointed	
+m3
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4409.21.90	00  	Other	
+m3
+Free 1/		$1.70/m3
+4409.22	 	Of tropical wood:				
+4409.22.05	 	Wood continuously shaped along any of its ends, whether or not also continuously shaped along any of its edges or faces, all the foregoing whether or not planed, sanded or end-jointed		3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+ 	Wood flooring (end-matched):				
+4409.22.05.15	15  	Jatoba (Hymenaea spp.), also known as Brazilian Cherry	
+m2
+m3
+4409.22.05.20	20  	Ipé (Tabebuia spp. or Handroanthus spp.), also known as Tahibo or Taheebo, LaPacho or Lapacho, Brazilian walnut, and Patagonian walnut	
+m2
+m3
+4409.22.05.35	35  	Santos mahogany (Myroxylon balsamum), also known as Cabreuva	
+m2
+m3
+4409.22.05.45	45  	Cumaru (Dipteryx spp.), also known as Brazilian teak	
+m2
+m3
+4409.22.05.60	60  	Other	
+m2
+m3
+4409.22.05.90	90  	Other	
+m2
+m3
+ 	Other:				
+4409.22.10	00  	Wood siding	
+m2
+Free 1/		4.3¢/m2 1/
+4409.22.25	00  	Wood flooring	
+m2
+m3
+Free 1/		8%
+ 	Wood moldings:				
+4409.22.40	00  	Standard wood moldings	
+m
+Free 1/		5% 1/
+4409.22.50	 	Other		Free 1/		40%
+4409.22.50.20	20  	Durian (Durio spp.)	
+m
+4409.22.50.40	40  	Jelutong (Dyera spp.)	
+m
+4409.22.50.60	60  	Obeche (Triplochiton spp.), also known as Ayous	
+m
+4409.22.50.90	90  	Other	
+m
+ 	Wood dowel rods:				
+4409.22.60	00  	Plain	
+m
+Free 1/		5%
+4409.22.65	00  	Sanded, grooved or otherwise advanced in condition	
+m
+4.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4409.22.90	 	Other		Free 1/		$1.70/m3
+4409.22.90.20	20  	Cumaru (Dipteryx spp.), also known as Brazilian teak	
+m3
+4409.22.90.30	30  	Ipé (Tabebuia spp. or Handroanthus spp.), also known as Tahibo or Taheebo, LaPacho or Lapacho, Brazilian walnut and Patagonian walnut	
+m3
+4409.22.90.45	45  	Keruing (Dipterocarpus spp.)	
+m3
+4409.22.90.60	60  	Padauk (Padouk) or Narra (Pterocarpus spp.)	
+m3
+4409.22.90.90	90  	Other	
+m3
+4409.29	 	Other:				
+4409.29.06	 	Wood continuously shaped along any of its ends, whether or not also continuously shaped along any of its edges or faces, all the foregoing whether or not planed, sanded or end-jointed		3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4409.29.06.55	55  	Wood flooring (end-matched)	
+m2
+m3
+4409.29.06.65	65  	Other	
+m2
+m3
+ 	Other:				
+4409.29.11	00  	Wood siding	
+m2
+Free 1/		4.3¢/m2
+4409.29.26	 	Wood flooring		Free 1/		8% 1/
+4409.29.26.30	30  	Maple (Acer spp.)	
+m2
+m3
+4409.29.26.50	50  	Birch (Betula spp.) and beech (Fagus spp.)	
+m2
+m3
+4409.29.26.60	60  	Other	
+m2
+m3
+ 	Wood moldings:				
+4409.29.41	00  	Standard wood moldings	
+m
+Free 1/		5%
+4409.29.51	00  	Other	
+m
+Free 1/		40%
+ 	Wood dowel rods:				
+4409.29.61	00  	Plain	
+m
+Free 1/		5% 1/
+4409.29.66	00  	Sanded, grooved or otherwise advanced in condition	
+m
+4.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4409.29.91	00  	Other	
+m3
+Free 1/		$1.70/m3 1/
+4410	 	Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances:				
+ 	Of wood:				
+4410.11.00	 	Particle board		Free 1/		40%
+4410.11.00.10	10  	Unworked or not further worked than sanded	
+m3
+kg
+4410.11.00.20	20  	Surface-covered with melamine-impregnated paper	
+m3
+kg
+4410.11.00.30	30  	Surface-covered with decorative laminates of plastic	
+m3
+kg
+4410.11.00.60	60  	Other	
+m3
+kg
+4410.12.00	 	Oriented strand board (OSB)		Free 1/		40%
+4410.12.00.10	10  	Unworked or not further worked than sanded	
+m3
+kg
+4410.12.00.20	20  	Other	
+m3
+kg
+4410.19.00	 	Other		Free 1/		40%
+4410.19.00.10	10  	Unworked or not further worked than sanded	
+m3
+kg
+4410.19.00.20	20  	Surface-covered with melamine-impregnated paper	
+m3
+kg
+4410.19.00.30	30  	Surface-covered with decorative laminates of plastic	
+m3
+kg
+4410.19.00.60	60  	Other	
+m3
+kg
+4410.90.00	00  	Other	
+m3
+kg
+Free 1/		20%
+4411	 	Fiberboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances:				
+ 	Medium density fiberboard (MDF):				
+4411.12	 	Of a thickness not exceeding 5 mm:				
+4411.12.10	00  	Not mechanically worked or surface covered	
+m3
+Free 1/		30%
+ 	Other:				
+ 	Tongued, grooved or rabbetted continuously along any of its edges and dedicated for use in the construction of walls, ceilings or other parts of buildings:				
+4411.12.20	00  	Laminated boards bonded in whole or in part, or impregnated, with synthetic resins	
+kg
+m3
+1.9¢/kg + 1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33¢/kg + 25%
+4411.12.30	00  	Other	
+m3
+Free 1/		20%
+ 	Other:				
+4411.12.60	00  	Not surface covered (except for oil treatment)	
+m3
+Free 1/		30%
+4411.12.90	 	Other		3.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4411.12.90.10	10  	Standard wood molding	
+m3
+4411.12.90.90	90  	Other	
+m3
+4411.13	 	Of a thickness exceeding 5 mm but not exceeding 9 mm:				
+4411.13.10	00  	Not mechanically worked or surface covered	
+m3
+Free 1/		30%
+ 	Other:				
+ 	Tongued, grooved or rabbetted continuously along any of its edges and dedicated for use in the construction of walls, ceilings or other parts of buildings:				
+4411.13.20	00  	Laminated boards bonded in whole or in part, or impregnated, with synthetic resins	
+kg
+m3
+1.9¢/kg + 1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33¢/kg + 25%
+4411.13.30	00  	Other	
+m3
+Free 1/		20%
+ 	Other:				
+4411.13.60	00  	Not surface covered (except for oil treatment)	
+m3
+Free 1/		30%
+4411.13.90	 	Other		3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4411.13.90.10	10  	Standard wood molding	
+m3
+4411.13.90.90	90  	Other	
+m3
+4411.14	 	Of a thickness exceeding 9 mm:				
+4411.14.10	00  	Not mechanically worked or surface covered	
+m3
+Free 1/		30% 1/
+ 	Other:				
+ 	Tongued, grooved or rabbetted continuously along any of its edges and dedicated for use in the construction of walls, ceilings or other parts of buildings:				
+4411.14.20	00  	Laminated boards bonded in whole or in part, or impregnated, with synthetic resins	
+kg
+m3
+1.9¢/kg + 1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33¢/kg + 25%
+4411.14.30	00  	Other	
+m3
+Free 1/		20%
+ 	Other:				
+4411.14.60	00  	Not surface covered (except for oil treatment)	
+m3
+Free 1/		30% 1/
+4411.14.90	 	Other		3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4411.14.90.10	10  	Standard wood molding	
+m3
+4411.14.90.90	90  	Other	
+m3
+ 	Other:				
+4411.92	 	Of a density exceeding 0.8 g/cm3 :				
+4411.92.10	00  	Not mechanically worked or surface covered	
+m3
+Free 1/		30% 1/
+ 	Other:				
+4411.92.20	00  	Not surface covered (except for oil treatment)	
+m3
+Free 1/		30%
+ 	Other:				
+4411.92.30	00  	Tileboard which has been continuously worked along any of its edges and is dedicated for use in the construction of walls, ceilings or other parts of buildings	
+m3
+Free 1/		20%
+4411.92.40	00  	Other	
+m3
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4411.93	 	Of a density exceeding 0.5 g/cm3 but not exceeding 0.8 g/cm3 :				
+4411.93.10	00  	Not mechanically worked or surface covered	
+m3
+Free 1/		30%
+ 	Other:				
+ 	Tongued, grooved or rabbetted continuously along any of its edges and dedicated for use in the construction of walls, ceilings or other parts of buildings:				
+4411.93.20	00  	Laminated boards bonded in whole or in part, or impregnated, with synthetic resins	
+kg
+m3
+1.9¢/kg + 1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33¢/kg + 25%
+4411.93.30	00  	Other	
+m3
+Free 1/		20%
+ 	Other:				
+4411.93.60	00  	Not surface covered (except for oil treatment)	
+m3
+Free 1/		30%
+4411.93.90	 	Other		3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4411.93.90.10	10  	Standard wood molding	
+m3
+4411.93.90.90	90  	Other	
+m3
+4411.94.00	 	Of a density not exceeding 0.5 g/cm3		Free 1/		20%
+ 	Of a density exceeding 0.35 g/cm3 but not exceeding 0.5 g/cm3:				
+ 	Not mechanically worked or surface covered:				
+4411.94.00.10	10  	Impregnated with bitumen	
+m3
+4411.94.00.20	20  	Other	
+m3
+ 	Other:				
+4411.94.00.30	30  	Impregnated with bitumen	
+m3
+4411.94.00.40	40  	Other	
+m3
+ 	Other:				
+ 	Not mechanically worked or surface covered:				
+4411.94.00.50	50  	Impregnated with bitumen	
+m3
+4411.94.00.60	60  	Other	
+m3
+ 	Other:				
+4411.94.00.70	70  	Impregnated with bitumen	
+m3
+4411.94.00.80	80  	Other	
+m3
+4412	 	Plywood, veneered panels and similar laminated wood:				
+4412.10	 	Of bamboo:				
+4412.10.05	00  	Plywood	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.10.90	00  	Other	
+m3
+Free 1/		40%
+ 	Other plywood consisting solely of sheets of wood (other than bamboo), each ply not exceeding 6 mm in thickness:				
+4412.31	 	With at least one outer ply of tropical wood:				
+ 	Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:				
+4412.31.06	 	With a face ply of birch (Betula spp.)		Free 1/		50%
+4412.31.06.20	20  	Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length	
+m3
+ 	Other:				
+4412.31.06.40	40  	Not surface covered	
+m3
+4412.31.06.60	60  	Other	
+m3
+4412.31.26	 	With a face ply of Spanish cedar (Cedrela spp.) or walnut (Juglans spp)		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.31.26.10	10  	With a face ply of Spanish cedar (Cedrela spp.)	
+m3
+4412.31.26.20	20  	With a face ply of walnut (Juglans spp.)	
+m3
+ 	Other:				
+ 	With at least one outer ply of the following tropical woods: Dark Red Meranti, Light Red Meranti, White Lauan, Sipo, Limba, Okoumé, Obeche, Acajou d'Afrique, Sapelli, Virola, Mahogany, Palissandre de Para, Palissandre de Rio or Palissandre de Rose:				
+4412.31.42	00  	With a face ply of mahogany (Swietenia spp. or Khaya spp.)	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.31.45	00  	Panels not exceeding 3.6 mm in thickness and exceeding 1.2 m in width and 2.2 m in length	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.31.48	 	Other		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.31.48.50	50  	Panels not exceeding 3.6 mm in thickness and not exceeding 1.2 m in width and 2.2 m in length	
+m3
+ 	Other:				
+ 	Not surface covered:				
+4412.31.48.60	60  	Dark Red Meranti, Light Red Meranti or White Lauan (Luan) (Shorea spp.)	
+m3
+4412.31.48.63	63  	Limba (Terminalia spp.), also known as Terminalia and Nargusta	
+m3
+4412.31.48.66	66  	Virola (Virola spp.)	
+m3
+4412.31.48.69	69  	Other	
+m3
+ 	Other:				
+4412.31.48.75	75  	Wood flooring	
+m3
+4412.31.48.80	80  	Other	
+m3
+4412.31.52	 	Other		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.31.52.25	25  	Wood flooring	
+m3
+ 	Other:				
+4412.31.52.35	35  	With a face ply of sen (Kalopanax spp.)	
+m3
+ 	Other:				
+4412.31.52.55	55  	Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length	
+m3
+ 	Other:				
+ 	Not surface covered:				
+4412.31.52.60	60  	Albizia (Albizia spp.), also known as Falcata, Batai and Suar wood	
+m3
+4412.31.52.62	62  	Bintangor (Calophyllum spp.)	
+m3
+4412.31.52.64	64  	Mersawa (Anisoptera spp.)	
+m3
+4412.31.52.66	66  	Parica (Schizolobium spp.), also known as Pinho Cuiabano, Firetree and Guapuruvu	
+m3
+4412.31.52.68	68  	Pencil cedar, Nyatoh (Palaquium spp.)	
+m3
+4412.31.52.70	70  	Other	
+m3
+4412.31.52.75	75  	Other	
+m3
+ 	Other:				
+4412.31.61	00  	With at least one outer ply of the following tropical woods: Dark Red Meranti, Light Red Meranti, White Lauan, Sipo, Limba, Okoumé, Obeche, Acajou d'Afrique, Sapelli, Virola, Mahogany, Palissandre de Para, Palissandre de Rio or Palissandre de Rose	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.31.92	00  	Other	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.33	 	Other, with at least one outer ply of nonconiferous wood of the species alder (Alnus spp.), ash (Fraxinus spp.), beech (Fagus spp.), birch (Betula spp.), cherry (Prunus spp.), chestnut (Castanea spp.), elm (Ulmus spp.), eucalyptus (Eucalyptus spp.), hickory (Carya spp.), horse chestnut (Aesculus spp.), lime (Tilia spp.), maple (Acer spp.), oak (Quercus spp.), plane tree (Platanus spp.), poplar and aspen (Populus spp.), robinia (Robinia spp.), tulipwood (Liriodendron spp.) or walnut (Juglans spp.):				
+ 	Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:				
+4412.33.06	 	With a face ply of birch (Betula spp.)		Free 1/		50%
+4412.33.06.20	20  	Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length	
+m3
+ 	Other:				
+4412.33.06.40	40  	Not surface covered	
+m3
+ 	Other:				
+4412.33.06.65	65  	Wood flooring	
+m3
+4412.33.06.70	70  	Other	
+m3
+4412.33.26	 	With a face ply of walnut (Juglans spp.)		5.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.33.26.25	25  	Wood flooring	
+m3
+4412.33.26.30	30  	Other	
+m3
+4412.33.32	 	Other		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.33.32.25	25  	Wood flooring	
+m3
+ 	Other:				
+4412.33.32.35	35  	With a face ply of sen (Kalopanax spp.)	
+m3
+4412.33.32.55	55  	With a face ply of mahogany (Swietenia spp. or Khaya spp.)	
+m3
+ 	Other:				
+4412.33.32.65	65  	Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length	
+m3
+ 	Other:				
+4412.33.32.75	75  	Not surface covered	
+m3
+4412.33.32.85	85  	Other	
+m3
+4412.33.57	00  	Other	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.34	 	Other, with at least one outer ply of nonconiferous wood not specified under subheading 4412.33:				
+ 	Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:				
+4412.34.26	00  	With a face ply of Spanish cedar (Cedrela spp.)	
+m3
+5.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.34.32	 	Other		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.34.32.25	25  	Wood flooring	
+m3
+ 	Other:				
+4412.34.32.35	35  	With a face ply of sen (Kalopanax spp.)	
+m3
+4412.34.32.55	55  	With a face ply of mahogany (Swietenia spp. or Khaya spp.)	
+m3
+ 	Other:				
+4412.34.32.65	65  	Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length	
+m3
+ 	Other:				
+4412.34.32.75	75  	Not surface covered	
+m3
+4412.34.32.85	85  	Other	
+m3
+4412.34.57	00  	Other	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.39	 	Other, with both outer plies of coniferous wood:				
+ 	Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:				
+4412.39.10	00  	With a face ply of Parana pine (Araucaria angustifolia)	
+m3
+Free 1/		40%
+4412.39.30	00  	With a face ply of European red pine (Pinus silvestris)	
+m3
+3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.39.40	 	Other		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	With at least one outer ply of Douglas fir (Pseudotsuga menziesii):				
+4412.39.40.11	11  	Rough, or touch sanded for sizing purposes, but not further processed	
+m3
+4412.39.40.12	12  	Fully sanded on at least one face, but not further processed	
+m3
+4412.39.40.19	19  	Other	
+m3
+ 	With at least one outer ply of long leaf pine (Pinus palustris), short leaf pine (Pinus echinata), southern yellow pine (loblolly pine)(Pinus taeda), slash pine (Pinus elliotti), pitch pine (Pinus rigida) or Virginia pine (Pinus virginiana):				
+4412.39.40.31	31  	Rough, or touch sanded for sizing purposes, but not further processed	
+m3
+4412.39.40.32	32  	Fully sanded on at least one face, but not further processed	
+m3
+4412.39.40.39	39  	Other	
+m3
+ 	With at least one outer ply of Agathis spp.:				
+4412.39.40.51	51  	Rough, or touch sanded for sizing purposes, but not further processed	
+m3
+4412.39.40.52	52  	Fully sanded on at least one face, but not further processed	
+m3
+4412.39.40.59	59  	Other	
+m3
+ 	Other:				
+4412.39.40.61	61  	Rough, or touch sanded for sizing purposes, but not further processed	
+m3
+4412.39.40.62	62  	Fully sanded on at least one face, but not further processed	
+m3
+4412.39.40.69	69  	Other	
+m3
+4412.39.50	 	Other		5.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.39.50.10	10  	With at least one outer ply of Douglas fir (Pseudotsuga menziesii)	
+m3
+4412.39.50.30	30  	With at least one outer ply of long leaf pine (Pinus palustris), short leaf pine (Pinus echinata), southern yellow pine (loblolly pine) (Pinus taeda), slash pine (Pinus elliotti), pitch pine (Pinus rigida) or Virginia pine (Pinus virginiana)	
+m3
+4412.39.50.50	50  	Other	
+m3
+ 	Laminated veneered lumber (LVL):				
+4412.41.00	00  	With at least one outer ply of tropical wood	
+m3
+Free 1/		40%
+4412.42.00	00  	Other, with at least one outer ply of nonconiferous wood	
+m3
+Free 1/		40%
+4412.49.00	00  	Other, with both outer plies of coniferous wood	
+m3
+Free 1/		40%
+ 	Blockboard, laminboard and battenboard:				
+4412.51	 	With at least one outer ply of tropical wood:				
+ 	Plywood:				
+ 	Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:				
+4412.51.10	 	With a face ply of birch (Betula spp.)		Free 1/		50%
+4412.51.10.30	30  	Not surface covered	
+m3
+4412.51.10.50	50  	Other	
+m3
+4412.51.31	 	Other		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.51.31.05	05  	Wood flooring	
+m2
+m3
+ 	Other:				
+4412.51.31.11	11  	With a face ply of Spanish cedar (Cedrela spp.)	
+m2
+m3
+4412.51.31.21	21  	With a face ply of walnut (Juglans spp.)	
+m2
+m3
+4412.51.31.41	41  	With a face ply of mahogany (Swietenia spp. or Khaya spp.)	
+m2
+m3
+ 	Other:				
+4412.51.31.61	61  	Not surface covered	
+m2
+m3
+4412.51.31.75	75  	Other	
+m2
+m3
+4412.51.41	00  	Other	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.51.51	00  	Other	
+m3
+Free 1/		40%
+4412.52	 	Other, with at least one outer ply of nonconiferous wood:				
+ 	Plywood:				
+ 	Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:				
+4412.52.10	 	With a face ply of birch (Betula spp.)		Free 1/		50%
+4412.52.10.30	30  	Not surface covered	
+m3
+4412.52.10.50	50  	Other	
+m3
+4412.52.31	 	Other		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.52.31.05	05  	Wood flooring	
+m2
+m3
+ 	Other:				
+4412.52.31.21	21  	With a face ply of walnut (Juglans spp.)	
+m2
+m3
+ 	Other:				
+4412.52.31.61	61  	Not surface covered	
+m2
+m3
+4412.52.31.75	75  	Other	
+m2
+m3
+4412.52.41	00  	Other	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.52.51	00  	Other	
+m3
+Free 1/		40%
+4412.59	 	Other, with both outer plies of coniferous wood:				
+ 	Plywood:				
+ 	Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:				
+4412.59.60	00  	With a face ply of Parana pine (Araucaria angustifolia)	
+m3
+Free 1/		40%
+4412.59.70	00  	With a face ply of European red pine (Pinus silvestris)	
+m3
+3.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.59.80	00  	Other	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.59.90	00  	Other	
+m3
+5.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.59.95	00  	Other	
+m3
+Free 1/		40%
+ 	Other:				
+4412.91	 	With at least one outer ply of tropical wood:				
+4412.91.06	00  	Containing at least one layer of particle board	
+m3
+Free 1/		40%
+ 	Other:				
+ 	Plywood:				
+ 	Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:				
+4412.91.10	 	With a face ply of birch (Betula spp.)		Free 1/		50%
+4412.91.10.20	20  	Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length	
+m3
+ 	Other:				
+4412.91.10.30	30  	Not surface covered	
+m3
+4412.91.10.40	40  	Other	
+m3
+4412.91.31	 	Other		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.91.31.10	10  	With a face ply of Spanish cedar (Cedrela spp.)	
+m3
+4412.91.31.20	20  	With a face ply of walnut (Juglans spp.)	
+m3
+4412.91.31.30	30  	With a face ply of sen (Kalopanax spp.)	
+m3
+4412.91.31.40	40  	With a face ply of mahogany (Swietenia spp. or Khaya spp.)	
+m3
+ 	Other:				
+4412.91.31.50	50  	Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width, and 2.2 m in length	
+m3
+4412.91.31.60	60  	Other, not surface covered	
+m3
+4412.91.31.70	70  	Other	
+m3
+4412.91.41	00  	Other	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.91.51	 	Other		Free 1/		40%
+4412.91.51.05	05  	Wood flooring	
+m3
+4412.91.51.15	15  	Other	
+m3
+4412.92	 	Other, with at least one outer ply of nonconiferous wood:				
+4412.92.07	00  	Containing at least one layer of particle board	
+m3
+Free 1/		40%
+ 	Other:				
+ 	Plywood:				
+ 	Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:				
+4412.92.11	 	With a face ply of birch (Betula spp.)		Free 1/		50%
+4412.92.11.20	20  	Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length	
+m3
+ 	Other:				
+4412.92.11.30	30  	Not surface covered	
+m3
+4412.92.11.40	40  	Other	
+m3
+4412.92.31	 	Other		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.92.31.20	20  	With a face ply of walnut (Juglans spp.)	
+m3
+ 	Other:				
+4412.92.31.50	50  	Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width, and 2.2 m in length	
+m3
+4412.92.31.60	60  	Other, not surface covered	
+m3
+4412.92.31.70	70  	Other	
+m3
+4412.92.42	00  	Other	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.92.52	 	Other		Free 1/		40%
+4412.92.52.05	05  	Wood flooring	
+m3
+4412.92.52.15	15  	Other	
+m3
+4412.99	 	Other, with both outer plies of coniferous wood:				
+4412.99.58	00  	Containing at least one layer of particle board	
+m3
+Free 1/		40%
+ 	Other:				
+ 	Plywood:				
+ 	Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:				
+4412.99.61	00  	With a face ply of Parana pine (Araucaria angustifolia)	
+m3
+Free 1/		40%
+4412.99.71	00  	With a face ply of European red pine (Pinus silvestris)	
+m3
+3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.99.81	00  	Other	
+m3
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.99.91	00  	Other	
+m3
+5.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4412.99.97	00  	Other	
+m3
+Free 1/		40%
+4413.00.00	00  	Densified wood, in blocks, plates, strips or profile shapes	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+4414	 	Wooden frames for paintings, photographs, mirrors or similar objects:				
+4414.10.00	00  	Of tropical wood	
+No.
+3.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4414.90.00	00  	Other	
+No.
+3.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4415	 	Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums, of wood; pallets, box-pallets and other load boards, of wood; pallet collars of wood:				
+4415.10	 	Cases, boxes, crates, drums and similar packings; cable-drums:				
+4415.10.30	00  	Packing boxes and cases with solid sides, lids and bottoms	
+No.
+Free 1/		15%
+4415.10.60	00  	Containers designed for use in the harvesting of fruits and vegetables	
+No.
+Free 1/		Free
+4415.10.90	00  	Other	
+No.
+10.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4415.20	 	Pallets, box-pallets and other load boards; pallet collars:				
+4415.20.40	00  	Containers designed for use in the harvesting of fruits and vegetables	
+No.
+Free 1/		Free
+4415.20.80	00  	Other	
+No.
+10.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4416.00	 	Casks, barrels, vats, tubs and other coopers' products and parts thereof, of wood, including staves:				
+4416.00.30	 	Casks, barrels and hogsheads		Free 1/		15%
+4416.00.30.10	10  	New	
+No.
+ 	Used:				
+4416.00.30.20	20  	Assembled (set up)	
+No.
+4416.00.30.30	30  	Unassembled (knocked down)	
+No.
+4416.00.60	 	Staves and hoops; tight barrelheads of softwood		Free 1/		Free
+ 	New:				
+4416.00.60.10	10  	Staves	
+No.
+4416.00.60.20	20  	Hoops	
+No.
+4416.00.60.30	30  	Tight barrelheads	
+No.
+ 	Used:				
+4416.00.60.40	40  	Staves	
+No.
+4416.00.60.50	50  	Other	
+No.
+4416.00.90	 	Other		3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4416.00.90.20	20  	New	
+kg
+4416.00.90.40	40  	Used	
+kg
+4417.00	 	Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood:				
+4417.00.20	00  	Broom and mop handles, 1.9 cm or more in diameter and 97 cm or more in length	
+No.
+Free 1/		33 1/3%
+4417.00.40	00  	Paint brush and paint roller handles	
+kg
+Free 1/		33 1/3%
+4417.00.60	00  	Brush backs	
+No.
+Free 1/		33 1/3%
+4417.00.80	 	Other		5.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4417.00.80.10	10  	Tool handles	
+kg
+4417.00.80.90	90  	Other	
+kg
+4418	 	Builders' joinery and carpentry of wood, including cellular wood panels and assembled flooring panels; shingles and shakes:				
+ 	Windows, French-windows and their frames:				
+4418.11.00	00  	Of tropical wood	
+No.
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4418.19.00	00  	Other	
+No.
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+ 	Doors and their frames and thresholds:				
+4418.21	 	Of tropical wood:				
+4418.21.40	00  	French doors	
+No.
+4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4418.21.80	 	Other		4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4418.21.80.30	30  	Flush doors	
+No.
+4418.21.80.60	60  	Other	
+No.
+4418.29	 	Other:				
+4418.29.40	00  	French doors	
+No.
+4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4418.29.80	 	Other		4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4418.29.80.30	30  	Flush doors	
+No.
+4418.29.80.60	60  	Other	
+No.
+4418.30.01	00  	Posts and beams other than products of subheadings 4418.81 to 4418.89	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4418.40.00	00  	Formwork (shuttering) for concrete constructional work	
+kg
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4418.50.00	 	Shingles and shakes		Free 1/		Free
+ 	Shingles:				
+4418.50.00.10	10  	Of western red cedar	
+square
+kg
+4418.50.00.30	30  	Other	
+square
+kg
+4418.50.00.50	50  	Other	
+square
+kg
+ 	Assembled flooring panels:				
+4418.73	 	Of bamboo or with at least the top layer (wear layer) of bamboo:				
+ 	For mosaic floors:				
+4418.73.10	00  	Solid	
+m2
+Free 1/		33 1/3%
+ 	Other:				
+4418.73.20	00  	Having a face ply more than 6 mm in thickness	
+m2
+Free 1/		33 1/3%
+4418.73.30	00  	Other	
+m2
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other, multilayer:				
+4418.73.40	00  	Having a face ply more than 6 mm in thickness	
+m2
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+ 	Other:				
+4418.73.60	00  	Of unidirectional bamboo	
+m2
+Free 1/		40%
+4418.73.70	00  	Other	
+m2
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4418.73.90	00  	Other	
+m2
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4418.74	 	Other, for mosaic floors:				
+4418.74.10	00  	Solid	
+m2
+Free 1/		33 1/3% 1/
+ 	Other:				
+4418.74.20	00  	Having a face ply more than 6 mm in thickness	
+m2
+Free 1/		33 1/3%
+4418.74.90	00  	Other	
+m2
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4418.75	 	Other, multilayer:				
+4418.75.40	00  	Having a face ply more than 6 mm in thickness	
+m2
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4418.75.70	00  	Other	
+m2
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4418.79.01	00  	Other	
+m2
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+ 	Engineered structural timber products:				
+4418.81.00	00  	Glue-laminated timber (glulam)	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4418.82.00	00  	Cross-laminated timber (CLT or X-lam)	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4418.83.00	00  	I-beams	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4418.89.00	00  	Other	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+ 	Other:				
+4418.91	 	Of bamboo:				
+4418.91.10	00  	Drilled or notched lumber studs	
+m3
+Free 1/		$1.70/m3
+4418.91.91	 	Other		3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4418.91.91.05	05  	Wood flooring	
+m2
+m3
+ 	Other:				
+4418.91.91.10	10  	Arches, laminated	
+kg
+4418.91.91.20	20  	Roof trusses	
+kg
+4418.91.91.40	40  	Other fabricated structural wood members	
+kg
+4418.91.91.50	50  	Prefabricated partitions and panels for buildings	
+kg
+4418.91.91.95	95  	Other	
+kg
+4418.92.00	00  	Cellular wood panels	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4418.99	 	Other:				
+4418.99.10	00  	Drilled or notched lumber studs	
+m3
+Free 1/		$1.70/m3
+4418.99.91	 	Other		3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4418.99.91.05	05  	Wood flooring	
+m2
+m3
+ 	Other:				
+4418.99.91.10	10  	Arches, laminated	
+kg
+4418.99.91.20	20  	Roof trusses	
+kg
+4418.99.91.40	40  	Other fabricated structural wood members	
+kg
+4418.99.91.50	50  	Prefabricated partitions and panels for buildings	
+kg
+4418.99.91.95	95  	Other	
+kg
+4419	 	Tableware and kitchenware, of wood:				
+ 	Of bamboo:				
+4419.11.00	00  	Bread boards, chopping boards and similar boards	
+No.
+3.2%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4419.12.00	00  	Chopsticks	
+kg
+3.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4419.19	 	Other:				
+4419.19.10	00  	Forks and spoons	
+kg
+5.3%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4419.19.90	00  	Other	
+kg
+3.2%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4419.20	 	Of tropical wood:				
+4419.20.10	00  	Forks and spoons	
+kg
+5.3%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4419.20.90	00  	Other	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4419.90	 	Other:				
+4419.90.11	00  	Forks and spoons	
+kg
+5.3%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4419.90.91	00  	Other	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4420	 	Wood marquetry and inlaid wood; caskets and cases for jewelry or cutlery and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling within chapter 94:				
+ 	Statuettes and other ornaments:				
+4420.11.00	00  	Of tropical wood	
+No.
+3.2%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4420.19.00	00  	Other	
+No.
+3.2%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4420.90	 	Other:				
+ 	Jewelry boxes, silverware chests, cigar and cigarette boxes, microscope cases, tool or utensil cases and similar boxes, cases and chests, all the foregoing of wood:				
+4420.90.20	00  	Cigar and cigarette boxes	
+No.
+Free 1/		60%
+ 	Other:				
+4420.90.45	00  	Not lined with textile fabrics	
+No.
+4.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4420.90.65	00  	Lined with textile fabrics	
+kg
+No.
+Free 1/		11¢/kg + 20% 1/
+4420.90.80	00  	Other	
+No.
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4421	 	Other articles of wood:				
+4421.10.00	00  	Clothes hangers	
+hundreds
+3.2%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4421.20	 	Coffins:				
+4421.20.10	00  	Of bamboo	
+No.
+3.3% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4421.20.20	00  	Other	
+No.
+3.3% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+ 	Other:				
+4421.91	 	Of bamboo:				
+ 	Wood dowel pins:				
+4421.91.10	00  	Plain	
+m
+Free 1/		5%
+4421.91.20	00  	Sanded, grooved or otherwise advanced in condition	
+m
+4.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+ 	Wood blinds, shutters, screens and shades, all the foregoing with or without their hardware:				
+4421.91.30	00  	Consisting of wooden frames in the center of which are fixed louver boards or slats, with or without their hardware	
+No.
+10.7%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4421.91.40	00  	Other	
+No.
+5.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Toothpicks, skewers, candy sticks, ice cream sticks, tongue depressors, drink mixers and similar small wares:				
+4421.91.50	00  	Toothpicks	
+kg
+Free		25%
+4421.91.60	00  	Other	
+kg
+5.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4421.91.70	 	Pickets, palings, posts and rails, the foregoing which are sawn; assembled fence sections		Free 1/		Free
+4421.91.70.20	20  	Assembled fence sections	
+No.
+4421.91.70.40	40  	Other	
+No.
+ 	Clothespins:				
+4421.91.80	 	Spring-type		6.5¢/gross	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20¢/gross
+4421.91.80.24	24  	Valued not over 80¢/gross	
+gross
+4421.91.80.27	27  	Valued over 80¢ but not over $1.35/gross	
+gross
+4421.91.80.30	30  	Valued over $1.35 but not over $1.70/gross	
+gross
+4421.91.80.33	33  	Valued over $1.70/gross	
+gross
+4421.91.85	00  	Other	
+gross
+4.8%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+4421.91.88	00  	Canoe paddles	
+No.
+Free		35%
+ 	Other:				
+4421.91.93	00  	Theatrical, ballet, and operatic scenery and properties, including sets	
+kg
+Free 1/		33 1/3%
+4421.91.94	00  	Edge-glued lumber	
+m3
+Free 1/		10% 1/
+4421.91.98	 	Other		3.3% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4421.91.98.20	20  	Pencil slats	
+gross
+4421.91.98.70	70  	Gates for confining children or pets	
+No.
+4421.91.98.80	80  	Other	
+kg
+4421.99	 	Other:				
+ 	Wood dowel pins:				
+ 	Plain:				
+4421.99.10	00  	Coniferous	
+m
+Free 1/		5% 1/
+4421.99.15	00  	Other	
+m
+Free 1/		5%
+4421.99.20	00  	Sanded, grooved or otherwise advanced in condition	
+m
+4.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+ 	Wood blinds, shutters, screens and shades, all the foregoing with or without their hardware:				
+4421.99.30	00  	Consisting of wooden frames in the center of which are fixed louver boards or slats, with or without their hardware	
+No.
+10.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+4421.99.40	00  	Other	
+No.
+5.1%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Toothpicks, skewers, candy sticks, ice cream sticks, tongue depressors, drink mixers and similar small wares:				
+4421.99.50	00  	Toothpicks	
+kg
+Free		25%
+4421.99.60	00  	Other	
+kg
+5.1%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4421.99.70	 	Pickets, palings, posts and rails, the foregoing which are sawn; assembled fence sections		Free 1/		Free 1/
+4421.99.70.20	20  	Assembled fence sections	
+No.
+4421.99.70.40	40  	Other	
+No.
+ 	Clothespins:				
+4421.99.80	 	Spring-type		6.5¢/gross	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20¢/gross
+4421.99.80.24	24  	Valued not over 80¢/gross	
+gross
+4421.99.80.27	27  	Valued over 80¢ but not over $1.35/gross	
+gross
+4421.99.80.30	30  	Valued over $1.35 but not over $1.70/gross	
+gross
+4421.99.80.33	33  	Valued over $1.70/gross	
+gross
+4421.99.85	00  	Other	
+gross
+4.8%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+4421.99.88	00  	Canoe paddles	
+No.
+Free 1/		35%
+ 	Other:				
+4421.99.93	00  	Theatrical, ballet, and operatic scenery and properties, including sets	
+kg
+Free 1/		33 1/3% 1/
+4421.99.94	00  	Edge-glued lumber	
+m3
+Free 1/		10% 1/
+4421.99.98	 	Other		3.3% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3% 1/
+4421.99.98.20	20  	Pencil slats	
+gross
+4421.99.98.70	70  	Gates for confining children or pets	
+No.
+4421.99.98.80	80  	Other	
+kg

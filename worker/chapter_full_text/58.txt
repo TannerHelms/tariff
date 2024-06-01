@@ -1,0 +1,393 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+5801	 	Woven pile fabrics and chenille fabrics, other than fabrics of heading 5802 or 5806:				
+5801.10.00	00  	Of wool or fine animal hair (414)	
+m²
+kg
+Free 1/		61.5%
+ 	Of cotton:				
+5801.21.00	00  	Uncut weft pile fabrics (224)	
+m²
+kg
+20.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5801.22	 	Cut corduroy:				
+5801.22.10	00  	Greater than 7.5 wales per cm (224)	
+m²
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5801.22.90	00  	Other (224)	
+m²
+kg
+20.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5801.23.00	00  	Other weft pile fabrics (224)	
+m²
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	44%
+5801.26.00	 	Chenille fabrics		Free 1/		50%
+5801.26.00.10	10  	With chenille yarns on one side only (224)	
+m²
+kg
+5801.26.00.20	20  	Other (224)	
+m²
+kg
+5801.27	 	Warp pile fabrics:				
+5801.27.10	00  	Epinglé (uncut) (224)	
+m²
+kg
+10.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	70%
+5801.27.50	 	Cut (224)		18.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	70%
+5801.27.50.10	10  	Over 271 grams per square meter (224)	
+m²
+kg
+5801.27.50.20	20  	Other (224)	
+m²
+kg
+ 	Of man-made fibers:				
+5801.31.00	00  	Uncut weft pile fabrics (224)	
+m²
+kg
+17.2%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+5801.32.00	00  	Cut corduroy (224)	
+m²
+kg
+14%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+5801.33.00	00  	Other weft pile fabrics (224)	
+m²
+kg
+9.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+5801.36.00	 	Chenille fabrics		9.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+5801.36.00.10	10  	With chenille yarns on one side only (224)	
+m²
+kg
+5801.36.00.20	20  	Other (224)	
+m²
+kg
+5801.37	 	Warp pile fabrics:				
+5801.37.10	00  	Epinglé (uncut) (224)	
+m²
+kg
+14% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+5801.37.50	 	Cut		17.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+5801.37.50.10	10  	Over 271 grams per square meter (224)	
+m²
+kg
+5801.37.50.20	20  	Other (224)	
+m²
+kg
+5801.90	 	Of other textile materials:				
+5801.90.10	00  	Of vegetable fibers, except cotton (810)	
+m²
+kg
+3.7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5801.90.20	 	Other		2.7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	70%
+5801.90.20.10	10  	Containing 85 percent or more by weight of silk or silk waste	
+m²
+kg
+5801.90.20.90	90  	Other (810)	
+m²
+kg
+5802	 	Terry toweling and similar woven terry fabrics, other than narrow fabrics of heading 5806; tufted textile fabrics, other than products of heading 5703:				
+5802.10	 	Terry toweling and similar woven terry fabrics, of cotton:				
+5802.10.10	00  	Unbleached (224)	
+m²
+kg
+9.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5802.10.90	00  	Other (224)	
+m²
+kg
+9.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5802.20.00	 	Terry toweling and similar woven terry fabrics, of other textile materials		14% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+5802.20.00.10	10  	Containing 85 percent or more by weight of silk or silk waste	
+m²
+kg
+5802.20.00.20	20  	Of man-made fibers (224)	
+m²
+kg
+5802.20.00.90	90  	Other (810)	
+m²
+kg
+5802.30.00	 	Tufted textile fabrics		6.2% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+5802.30.00.10	10  	Containing 85 percent or more by weight of silk or silk waste	
+m²
+kg
+5802.30.00.20	20  	Of wool or fine animal hair (414)	
+m²
+kg
+5802.30.00.30	30  	Of cotton; of man-made fibers (224)	
+m²
+kg
+5802.30.00.90	90  	Other (810)	
+m²
+kg
+5803.00	 	Gauze, other than narrow fabrics of heading 5806:				
+5803.00.10	00  	Of cotton (220)	
+m²
+kg
+Free 1/		41.75%
+ 	Of other textile materials:				
+ 	Of wool or fine animal hair:				
+5803.00.20	00  	Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m² (414)	
+m²
+kg
+7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.5%
+5803.00.30	00  	Other (414)	
+m²
+kg
+16.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.5%
+5803.00.40	00  	Of vegetable fibers, except cotton (810)	
+m²
+kg
+Free 1/		35%
+5803.00.50	00  	Of man-made fibers (220)	
+m²
+kg
+Free 1/		81%
+5803.00.90	 	Other		Free 1/		60%
+5803.00.90.10	10  	Containing 85 percent or more by weight of silk or silk waste	
+m²
+kg
+5803.00.90.90	90  	Other (810)	
+m²
+kg
+5804	 	Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; lace in the piece, in strips or in motifs, other than fabrics of headings 6002 to 6006:				
+5804.10	 	Tulles and other net fabrics:				
+5804.10.10	00  	Of cotton or man-made fibers (229)	
+kg
+6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5804.10.90	 	Other		Free 1/		90%
+5804.10.90.10	10  	Containing 85 percent or more by weight of silk or silk waste	
+kg
+5804.10.90.90	90  	Other (899)	
+kg
+ 	Mechanically made lace:				
+5804.21.00	00  	Of man-made fibers (229)	
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5804.29	 	Of other textile materials:				
+5804.29.10	00  	Of cotton (229)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5804.29.90	 	Other		5% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5804.29.90.10	10  	Containing 85 percent or more by weight of silk or silk waste	
+kg
+5804.29.90.90	90  	Other (899)	
+kg
+5804.30.00	 	Hand-made lace		13.2% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5804.30.00.10	10  	Containing 85 percent or more by weight of silk or silk waste	
+kg
+5804.30.00.20	20  	Of cotton; of man-made fibers (229)	
+kg
+5804.30.00.90	90  	Other (899)	
+kg
+5805.00	 	Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up:				
+5805.00.10	00  	Hand-woven tapestries fit only for use as wall hangings and valued over $215 per square meter	
+m²
+kg
+Free 1/		Free
+ 	Other:				
+ 	Of wool or fine animal hair:				
+5805.00.20	00  	Certified hand-loomed and folklore products	
+m²
+kg
+Free 1/		64.5%
+5805.00.25	00  	Other (414)	
+m²
+kg
+Free 1/		64.5%
+5805.00.30	00  	Of cotton (369)	
+m²
+kg
+Free 1/		40%
+5805.00.40	 	Other		Free 1/		74%
+5805.00.40.10	10  	Of man-made fibers (666)	
+m²
+kg
+5805.00.40.90	90  	Other	
+m²
+kg
+5806	 	Narrow woven fabrics, other than goods of heading 5807; narrow fabrics consisting of warp without weft assembled by means of an adhesive (bolducs):				
+5806.10	 	Woven pile fabrics (including terry toweling and similar terry fabrics) and chenille fabrics:				
+5806.10.10	00  	Of cotton (229)	
+kg
+7.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	62.5%
+ 	Of man-made fibers:				
+5806.10.24	00  	Fastener fabric tapes (229)	
+kg
+7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.5%
+5806.10.28	00  	Other (229)	
+kg
+8.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.5%
+5806.10.30	 	Other		3.8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	59%
+5806.10.30.10	10  	Containing 85 percent or more by weight of silk or silk waste	
+kg
+5806.10.30.20	20  	Of wool or fine animal hair (414)	
+kg
+5806.10.30.90	90  	Other (899)	
+kg
+5806.20.00	 	Other woven fabrics, containing by weight 5 percent or more of elastomeric yarn or rubber thread		7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+5806.20.00.10	10  	Containing elastomeric yarn (229)	
+kg
+5806.20.00.90	90  	Other (229)	
+kg
+ 	Other woven fabrics:				
+5806.31.00	00  	Of cotton (229)	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+5806.32	 	Of man-made fibers:				
+5806.32.10	 	Ribbons		6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	76.5%
+5806.32.10.10	10  	Suitable for the manufacture of typewriter or similar ribbons of heading 9612 (621)	
+kg
+ 	Other:				
+ 	Of a width not exceeding 12 cm:				
+ 	Of polyester:				
+ 	With woven selvedge:				
+5806.32.10.20	20  	Containing wire in selvedge (229)	
+kg
+5806.32.10.30	30  	Other (229)	
+kg
+5806.32.10.40	40  	Other (229)	
+kg
+ 	Of nylon:				
+ 	With woven selvedge:				
+5806.32.10.50	50  	Containing wire in selvedge (229)	
+kg
+5806.32.10.60	60  	Other (229)	
+kg
+5806.32.10.70	70  	Other (229)	
+kg
+5806.32.10.80	80  	Other (229)	
+kg
+5806.32.10.95	95  	Other (229)	
+kg
+5806.32.20	00  	Other (229)	
+kg
+6.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84%
+5806.39	 	Of other textile materials:				
+5806.39.10	00  	Of wool or fine animal hair (414)	
+kg
+6.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	59%
+5806.39.20	00  	Of vegetable fibers, except cotton (899)	
+kg
+4.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+5806.39.30	 	Other		Free 1/		65%
+5806.39.30.10	10  	Containing 85 percent or more by weight of silk or silk waste	
+kg
+ 	Other:				
+5806.39.30.20	20  	Of metalized yarn (229)	
+kg
+5806.39.30.80	80  	Other (899)	
+kg
+5806.40.00	00  	Fabrics consisting of warp without weft assembled by means of an adhesive (bolducs)	
+kg
+8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	83.5%
+5807	 	Labels, badges and similar articles of textile materials, in the piece, in strips or cut to shape or size, not embroidered:				
+5807.10	 	Woven:				
+ 	Labels:				
+5807.10.05	 	Of cotton or man-made fibers		7.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	71.5%
+5807.10.05.10	10  	Of cotton (369)	
+kg
+5807.10.05.20	20  	Other (669)	
+kg
+5807.10.15	00  	Other	
+kg
+4.5% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	71.5%
+5807.10.20	 	Other		3.3% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5807.10.20.10	10  	Of cotton	
+kg
+5807.10.20.20	20  	Of man-made fibers	
+kg
+5807.10.20.90	90  	Other	
+kg
+5807.90	 	Other:				
+ 	Labels:				
+5807.90.05	 	Of cotton or man-made fibers		7.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	71.5%
+5807.90.05.10	10  	Of cotton (369)	
+kg
+5807.90.05.20	20  	Other (669)	
+kg
+5807.90.15	00  	Other	
+kg
+4.5% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	71.5%
+5807.90.20	 	Other		3.3% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5807.90.20.10	10  	Of cotton	
+kg
+5807.90.20.20	20  	Of man-made fibers	
+kg
+5807.90.20.90	90  	Other	
+kg
+5808	 	Braids in the piece; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted; tassels, pompons and similar articles:				
+5808.10	 	Braids in the piece:				
+ 	Suitable for making or ornamenting headwear:				
+5808.10.10	00  	Of abaca or ramie (899)	
+kg
+Free 1/		25%
+5808.10.40	00  	Of cotton or man-made fibers (229)	
+kg
+3.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5808.10.50	00  	Of other textile materials	
+kg
+Free 1/		90%
+ 	Other:				
+5808.10.70	00  	Of cotton or man-made fibers (229)	
+kg
+7.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5808.10.90	00  	Other	
+kg
+4.2% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5808.90.00	 	Other		3.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5808.90.00.10	10  	Of cotton; of man-made fibers (229)	
+kg
+5808.90.00.90	90  	Other	
+kg
+5809.00.00	00  	Woven fabrics of metal thread and woven fabrics of metalized yarn of heading 5605, of a kind used in apparel, as furnishing fabrics or for similar purposes, not elsewhere specified or included (229)	
+m²
+kg
+14.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5810	 	Embroidery in the piece, in strips or in motifs:				
+5810.10.00	00  	Embroidery without visible ground (229)	
+kg
+14.1% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Other embroidery:				
+5810.91.00	 	Of cotton		See additional U.S. note 1 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	See additional U.S. note 1
+5810.91.00.10	10  	Weighing over 200 g/m²	
+kg
+5810.91.00.20	20  	Other	
+kg
+5810.92	 	Of man-made fibers:				
+5810.92.10	00  	Badges, emblems and motifs	
+kg
+See additional U.S. note 2 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	See additional U.S. note 2
+5810.92.90	 	Other		See additional U.S. note 3 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	See additional U.S. note 3
+5810.92.90.30	30  	Labels (669)	
+kg
+ 	Other:				
+5810.92.90.50	50  	On a ground fabric weighing less than 100 g/m² and of a width of more than 225 cm	
+kg
+5810.92.90.80	80  	Other 1/	
+kg
+5810.99	 	Of other textile materials:				
+5810.99.10	00  	Of wool or fine animal hair (414)	
+kg
+See additional U.S. note 4 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	See additional U.S. note 4
+5810.99.90	00  	Other	
+kg
+See additional U.S. note 5 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	See additional U.S. note 5
+5811.00	 	Quilted textile products in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise, other than embroidery of heading 5810:				
+5811.00.10	00  	Of wool or fine animal hair (414)	
+m²
+kg
+13.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	57%
+5811.00.20	00  	Of cotton (229)	
+m²
+kg
+6.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5811.00.30	00  	Of man-made fibers (229)	
+m²
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	83.5%
+5811.00.40	00  	Of other textile materials	
+m²
+kg
+Free 1/		40%

@@ -1,0 +1,1124 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+6401	 	Waterproof footwear with outer soles and uppers of rubber or plastics, the uppers of which are neither fixed to the sole nor assembled by stitching, riveting, nailing, screwing, plugging or similar processes:				
+6401.10.00	00  	Footwear incorporating a protective metal toe-cap	
+prs.
+37.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	75%
+ 	Other footwear:				
+6401.92	 	Covering the ankle but not covering the knee:				
+6401.92.30	00  	Ski-boots and snowboard boots	
+prs.
+Free 1/		35%
+ 	Other:				
+6401.92.60	00  	Having soles and uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is poly(vinyl chloride), whether or not supported or lined with poly(vinyl chloride) but not otherwise supported or lined	
+prs.
+4.6%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	25%
+6401.92.90	 	Other		37.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	75%
+6401.92.90.30	30  	Work footwear	
+prs.
+6401.92.90.60	60  	Other	
+prs.
+6401.99	 	Other:				
+6401.99.10	00  	Covering the knee	
+prs.
+37.5%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	75%
+ 	Other:				
+ 	Designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather:				
+6401.99.30	00  	Designed for use without closures	
+prs.
+25% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	50%
+6401.99.60	00  	Other	
+prs.
+37.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	75%
+ 	Other:				
+6401.99.80	00  	Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics (except footwear having foxing or a foxing-like band applied or molded at the sole and overlapping the upper)	
+prs.
+Free 1/		35%
+6401.99.90	00  	Other	
+prs.
+37.5%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+6402	 	Other footwear with outer soles and uppers of rubber or plastics:				
+ 	Sports footwear:				
+6402.12.00	00  	Ski-boots, cross-country ski footwear and snowboard boots	
+prs.
+Free 1/		35%
+6402.19	 	Other:				
+ 	Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics (except footwear having foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather):				
+6402.19.05	 	Golf shoes		6%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.19.05.30	30  	For men	
+prs.
+6402.19.05.60	60  	For women	
+prs.
+6402.19.05.90	90  	Other	
+prs.
+6402.19.15	 	Other		5.1% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.19.15.20	20  	For men	
+prs.
+6402.19.15.41	41  	For women	
+prs.
+6402.19.15.61	61  	Other	
+prs.
+ 	Other:				
+6402.19.30	 	Valued not over $3/pair		Free		84%
+6402.19.30.31	31  	For men	
+prs.
+6402.19.30.61	61  	Other	
+prs.
+6402.19.50	 	Valued over $3 but not over $6.50/pair		76¢/pr. + 32% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 66%
+6402.19.50.31	31  	For men	
+prs.
+6402.19.50.61	61  	Other	
+prs.
+6402.19.70	 	Valued over $6.50 but not over $12/pair		76¢/pr. + 17% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 35%
+6402.19.70.31	31  	For men	
+prs.
+6402.19.70.61	61  	Other	
+prs.
+6402.19.90	 	Valued over $12/pair		9% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.19.90.31	31  	For men	
+prs.
+6402.19.90.61	61  	Other	
+prs.
+6402.20.00	00  	Footwear with upper straps or thongs assembled to the sole by means of plugs (zoris)	
+prs.
+Free		35%
+ 	Other footwear:				
+6402.91	 	Covering the ankle:				
+ 	Incorporating a protective metal toe-cap:				
+6402.91.05	00  	Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics (except footwear having foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather)	
+prs.
+6%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+ 	Other:				
+6402.91.10	00  	Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather	
+prs.
+37.5%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+ 	Other:				
+6402.91.16	00  	Valued not over $3/pair	
+prs.
+24%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	84%
+6402.91.20	00  	Valued over $3 but not over $6.50/pair	
+prs.
+90¢/pr. + 37.5%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 66%
+6402.91.26	00  	Valued over $6.50 but not over $12/pair	
+prs.
+90¢/pr. + 20% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 35%
+6402.91.30	00  	Valued over $12/pair	
+prs.
+20%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+ 	Other:				
+6402.91.40	 	Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics except (1) footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and (2) except footwear (other than footwear having uppers which from a point 3 cm above the top of the outer sole are entirely of non- molded construction formed by sewing the parts together and having exposed on the outer surface a substantial portion of functional stitching) designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather		6%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+ 	For men:				
+6402.91.40.05	05  	Work footwear	
+prs.
+6402.91.40.10	10  	Other	
+prs.
+ 	For women:				
+6402.91.40.40	40  	Work footwear	
+prs.
+6402.91.40.50	50  	Other	
+prs.
+6402.91.40.63	63  	For infants, as described in statistical note 2 to this chapter	
+prs.
+6402.91.40.67	67  	Other	
+prs.
+6402.91.42	 	Protective active footwear (except footwear with waterproof molded bottoms, including bottoms comprising an outer sole and all or part of the upper and except footwear with insulation that provides protection against cold weather) whose height from the bottom of the outer sole to the top of the upper does not exceed 15.34 cm		20%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.91.42.30	30  	For men	
+prs.
+6402.91.42.60	60  	For women	
+prs.
+6402.91.42.90	90  	Other	
+prs.
+ 	Other:				
+6402.91.50	 	Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather		37.5%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+ 	For men:				
+6402.91.50.10	10  	Work footwear	
+prs.
+6402.91.50.20	20  	Other	
+prs.
+ 	For women:				
+6402.91.50.45	45  	Work footwear	
+prs.
+6402.91.50.50	50  	Other	
+prs.
+6402.91.50.90	90  	Other	
+prs.
+ 	Other:				
+6402.91.60	 	Valued not over $3/pair		48% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	84%
+6402.91.60.30	30  	For men	
+prs.
+6402.91.60.60	60  	For women	
+prs.
+6402.91.60.90	90  	Other	
+prs.
+6402.91.70	 	Valued over $3 but not over $6.50/pair		90¢/pr. + 37.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 66%
+6402.91.70.30	30  	For men	
+prs.
+6402.91.70.60	60  	For women	
+prs.
+6402.91.70.90	90  	Other	
+prs.
+6402.91.80	 	Valued over $6.50 but not over $12/pair		90¢/pr. + 20% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 35%
+6402.91.80.05	05  	Tennis shoes, basketball shoes, gym shoes, training shoes and the like	
+prs.
+ 	Other:				
+ 	For men:				
+6402.91.80.10	10  	Work footwear	
+prs.
+6402.91.80.21	21  	Other	
+prs.
+ 	For women:				
+6402.91.80.45	45  	Work footwear	
+prs.
+6402.91.80.51	51  	Other	
+prs.
+6402.91.80.91	91  	Other	
+prs.
+6402.91.90	 	Valued over $12/pair		20% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.91.90.05	05  	Tennis shoes, basketball shoes, gym shoes, training shoes and the like	
+prs.
+ 	Other:				
+ 	For men:				
+6402.91.90.10	10  	Work footwear	
+prs.
+6402.91.90.35	35  	Other	
+prs.
+ 	For women:				
+6402.91.90.45	45  	Work footwear	
+prs.
+6402.91.90.65	65  	Other	
+prs.
+6402.91.90.95	95  	Other	
+prs.
+6402.99	 	Other:				
+ 	Incorporating a protective metal toe-cap:				
+6402.99.04	00  	Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics (except footwear having foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather)	
+prs.
+6%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+ 	Other:				
+6402.99.08	00  	Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather	
+prs.
+37.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+ 	Other:				
+6402.99.12	00  	Valued not over $3/pair	
+prs.
+24%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	84%
+6402.99.16	00  	Valued over $3 but not over $6.50/pair	
+prs.
+90¢/pr. + 37.5%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 66%
+6402.99.19	00  	Valued over $6.50 but not over $12/pair	
+prs.
+90¢/pr. + 20%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 35%
+6402.99.21	00  	Valued over $12/pair	
+prs.
+20% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+ 	Other:				
+ 	Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics (except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather):				
+6402.99.23	 	Made on a base or platform of wood		8% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	33 1/3%
+6402.99.23.30	30  	For men	
+prs.
+6402.99.23.60	60  	For women	
+prs.
+6402.99.23.90	90  	Other	
+prs.
+6402.99.25	 	Made on a base or platform of cork		12.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.99.25.30	30  	For men	
+prs.
+6402.99.25.60	60  	For women	
+prs.
+6402.99.25.90	90  	Other	
+prs.
+ 	Other:				
+6402.99.27	 	Sandals and similar footwear of plastics, produced in one piece by molding		3% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.99.27.30	30  	For men	
+prs.
+6402.99.27.60	60  	For women	
+prs.
+6402.99.27.90	90  	Other	
+prs.
+6402.99.31	 	Other		6%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.99.31.10	10  	House slippers	
+prs.
+6402.99.31.15	15  	Tennis shoes, basketball shoes, gym shoes, training shoes and the like	
+prs.
+ 	Other:				
+ 	For men:				
+6402.99.31.35	35  	Work footwear	
+prs.
+6402.99.31.45	45  	Other	
+prs.
+ 	For women:				
+6402.99.31.55	55  	Work footwear	
+prs.
+6402.99.31.65	65  	Other	
+prs.
+6402.99.31.73	73  	For infants, as described in statistical note 2 to this chapter	
+prs.
+6402.99.31.77	77  	Other	
+prs.
+ 	Other:				
+6402.99.32	 	Protective active footwear		20% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.99.32.30	30  	For men	
+prs.
+6402.99.32.60	60  	For women	
+prs.
+6402.99.32.90	90  	Other	
+prs.
+6402.99.33	 	Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather		37.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+ 	For men:				
+6402.99.33.10	10  	Work footwear	
+prs.
+6402.99.33.20	20  	Other	
+prs.
+ 	For women:				
+6402.99.33.45	45  	Work footwear	
+prs.
+6402.99.33.50	50  	Other	
+prs.
+6402.99.33.90	90  	Other	
+prs.
+ 	Footwear with open toes or open heels; footwear of the slip-on type, that is held to the foot without the use of laces or buckles or other fasteners, the foregoing except footwear of subheading 6402.99.33 and except footwear having a foxing or a foxing-like band wholly or almost wholly of rubber or plastics applied or molded at the sole and overlapping the upper:				
+6402.99.41	00  	Having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter	
+prs.
+12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.99.49	 	Other		37.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, P, PA, PE, OM, R, S, SG)	66%
+6402.99.49.20	20  	House slippers	
+prs.
+ 	Other:				
+6402.99.49.40	40  	For men	
+prs.
+6402.99.49.60	60  	For women	
+prs.
+6402.99.49.80	80  	Other	
+prs.
+ 	Other:				
+ 	Valued not over $3/pair:				
+6402.99.61	00  	Having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter	
+prs.
+12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.99.69	 	Other		48%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	84%
+6402.99.69.15	15  	House slippers	
+prs.
+ 	Other:				
+6402.99.69.30	30  	For men	
+prs.
+6402.99.69.60	60  	For women	
+prs.
+6402.99.69.90	90  	Other	
+prs.
+ 	Valued over $3 but not over $6.50/pair:				
+6402.99.71	00  	Having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter	
+prs.
+12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.99.79	 	Other		90¢/pr. + 37.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 66%
+6402.99.79.15	15  	House slippers	
+prs.
+ 	Other:				
+6402.99.79.30	30  	For men	
+prs.
+6402.99.79.60	60  	For women	
+prs.
+6402.99.79.90	90  	Other	
+prs.
+6402.99.80	 	Valued over $6.50 but not over $12/pair		90¢/pr. + 20% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 35%
+6402.99.80.05	05  	Tennis shoes, basketball shoes, gym shoes, training shoes and the like	
+prs.
+ 	Other:				
+6402.99.80.31	31  	For men	
+prs.
+6402.99.80.61	61  	For women	
+prs.
+6402.99.80.91	91  	Other	
+prs.
+6402.99.90	 	Valued over $12/pair		20% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6402.99.90.05	05  	Tennis shoes, basketball shoes, gym shoes, training shoes and the like	
+prs.
+ 	Other:				
+6402.99.90.35	35  	For men	
+prs.
+6402.99.90.65	65  	For women	
+prs.
+6402.99.90.95	95  	Other	
+prs.
+6403	 	Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather:				
+ 	Sports footwear:				
+6403.12	 	Ski-boots, cross-country ski footwear and snowboard boots:				
+6403.12.30	00  	Welt footwear	
+prs.
+Free 1/		20%
+6403.12.60	00  	Other	
+prs.
+Free 1/		20%
+6403.19	 	Other:				
+ 	For men, youths and boys:				
+ 	Welt footwear:				
+6403.19.10	00  	Golf shoes	
+prs.
+5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+6403.19.20	00  	Other	
+prs.
+Free 1/		20%
+ 	Other:				
+6403.19.30	 	Golf shoes		8.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+6403.19.30.30	30  	With pigskin uppers	
+prs.
+6403.19.30.90	90  	Other	
+prs.
+6403.19.40	 	Other		4.3% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+6403.19.40.30	30  	With pigskin uppers	
+prs.
+6403.19.40.90	90  	Other	
+prs.
+ 	For other persons:				
+6403.19.50	 	Golf shoes		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+ 	For women:				
+6403.19.50.31	31  	With pigskin uppers	
+prs.
+6403.19.50.61	61  	Other	
+prs.
+6403.19.50.91	91  	Other	
+prs.
+6403.19.70	 	Other		Free 1/		20% 1/
+ 	For women:				
+6403.19.70.31	31  	With pigskin uppers	
+prs.
+6403.19.70.61	61  	Other	
+prs.
+6403.19.70.91	91  	Other	
+prs.
+6403.20.00	00  	Footwear with outer soles of leather, and uppers which consist of leather straps across the instep and around the big toe	
+prs.
+Free 1/		20%
+6403.40	 	Other footwear, incorporating a protective metal toe-cap:				
+6403.40.30	 	Welt footwear		5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+6403.40.30.30	30  	With pigskin uppers	
+prs.
+6403.40.30.90	90  	Other	
+prs.
+6403.40.60	00  	Other	
+prs.
+8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+ 	Other footwear with outer soles of leather:				
+6403.51	 	Covering the ankle:				
+6403.51.11	00  	Footwear made on a base or platform of wood, not having an inner sole or a protective metal toe-cap	
+prs.
+Free 1/		33 1/3%
+ 	Other:				
+6403.51.30	 	Welt footwear		5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+ 	For men:				
+6403.51.30.15	15  	With pigskin uppers	
+prs.
+6403.51.30.30	30  	Other	
+prs.
+6403.51.30.60	60  	For women	
+prs.
+6403.51.30.71	71  	Other	
+prs.
+ 	Other:				
+6403.51.60	 	For men, youths and boys		8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+ 	For men:				
+6403.51.60.15	15  	With pigskin uppers	
+prs.
+6403.51.60.30	30  	Other	
+prs.
+6403.51.60.60	60  	Other	
+prs.
+6403.51.90	 	For other persons		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+ 	For women:				
+6403.51.90.15	15  	With pigskin uppers	
+prs.
+6403.51.90.30	30  	Other	
+prs.
+6403.51.90.41	41  	Other	
+prs.
+6403.59	 	Other:				
+6403.59.10	00  	Footwear made on a base or platform of wood, not having an inner sole or a protective metal toe-cap	
+prs.
+Free 1/		33 1/3%
+ 	Other:				
+6403.59.15	 	Turn or turned footwear		2.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	10%
+6403.59.15.20	20  	For men	
+prs.
+6403.59.15.45	45  	For women	
+prs.
+6403.59.15.61	61  	Other	
+prs.
+6403.59.30	 	Welt footwear		5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+ 	For men:				
+6403.59.30.20	20  	With pigskin uppers	
+prs.
+6403.59.30.40	40  	Other	
+prs.
+6403.59.30.60	60  	For women	
+prs.
+6403.59.30.81	81  	Other	
+prs.
+ 	Other:				
+6403.59.60	 	For men, youths and boys		8.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+ 	For men:				
+6403.59.60.40	40  	With pigskin uppers	
+prs.
+6403.59.60.60	60  	Other	
+prs.
+6403.59.60.80	80  	Other	
+prs.
+6403.59.90	 	For other persons		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20% 1/
+ 	For women:				
+6403.59.90.30	30  	With pigskin uppers	
+prs.
+6403.59.90.45	45  	Other	
+prs.
+6403.59.90.61	61  	Other	
+prs.
+ 	Other footwear:				
+6403.91	 	Covering the ankle:				
+6403.91.11	00  	Footwear made on a base or platform of wood, not having an inner sole or a protective metal toe-cap	
+prs.
+Free 1/		33 1/3%
+ 	Other:				
+6403.91.30	 	Welt footwear		5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+ 	Work footwear:				
+6403.91.30.10	10  	For men	
+prs.
+6403.91.30.25	25  	Other	
+prs.
+ 	Other:				
+ 	For men:				
+6403.91.30.35	35  	With pigskin uppers	
+prs.
+6403.91.30.40	40  	Other	
+prs.
+6403.91.30.80	80  	For women	
+prs.
+6403.91.30.91	91  	Other	
+prs.
+ 	Other:				
+6403.91.60	 	For men, youths and boys		8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20% 1/
+6403.91.60.10	10  	Work footwear	
+prs.
+ 	Other:				
+ 	Tennis shoes, basketball shoes, gym shoes, training shoes and the like, for men:				
+6403.91.60.30	30  	With pigskin uppers	
+prs.
+6403.91.60.40	40  	Other	
+prs.
+ 	Other tennis shoes, basketball shoes, gym shoes, training shoes and the like:				
+6403.91.60.50	50  	With pigskin uppers	
+prs.
+6403.91.60.60	60  	Other	
+prs.
+ 	Other:				
+ 	For men:				
+6403.91.60.65	65  	With pigskin uppers	
+prs.
+6403.91.60.75	75  	Other	
+prs.
+6403.91.60.90	90  	Other	
+prs.
+6403.91.90	 	For other persons		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20% 1/
+6403.91.90.15	15  	Work footwear	
+prs.
+ 	Other:				
+ 	For women:				
+6403.91.90.25	25  	With pigskin uppers	
+prs.
+6403.91.90.45	45  	Other	
+prs.
+6403.91.90.51	51  	Other	
+prs.
+6403.99	 	Other:				
+6403.99.10	00  	Footwear made on a base or platform of wood, not having an inner sole or a protective metal toe-cap	
+prs.
+Free 1/		33 1/3%
+ 	Other:				
+6403.99.20	 	Footwear made on a base or platform of wood		8% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	33 1/3%
+6403.99.20.30	30  	For men	
+prs.
+6403.99.20.60	60  	For women	
+prs.
+6403.99.20.90	90  	Other	
+prs.
+ 	Other:				
+6403.99.40	 	Welt footwear		5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+ 	Work footwear:				
+6403.99.40.10	10  	For men	
+prs.
+6403.99.40.20	20  	Other	
+prs.
+ 	Other:				
+ 	For men:				
+6403.99.40.35	35  	With pigskin uppers	
+prs.
+6403.99.40.55	55  	Other	
+prs.
+6403.99.40.80	80  	For women	
+prs.
+6403.99.40.91	91  	Other	
+prs.
+ 	Other:				
+6403.99.60	 	For men, youths and boys		8.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+6403.99.60.15	15  	House slippers	
+prs.
+6403.99.60.25	25  	Work footwear	
+prs.
+ 	Other:				
+ 	Tennis shoes, basketball shoes, gym shoes, training shoes and the like, for men:				
+6403.99.60.30	30  	With pigskin uppers	
+prs.
+6403.99.60.40	40  	Other	
+prs.
+ 	Other tennis shoes, basketball shoes, gym shoes, training shoes and the like:				
+6403.99.60.50	50  	With pigskin uppers	
+prs.
+6403.99.60.60	60  	Other	
+prs.
+ 	Other:				
+ 	For men:				
+6403.99.60.65	65  	With pigskin uppers	
+prs.
+6403.99.60.75	75  	Other	
+prs.
+6403.99.60.90	90  	Other	
+prs.
+ 	For other persons:				
+6403.99.75	 	Valued not over $2.50/pair		7% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+6403.99.75.15	15  	House slippers	
+prs.
+ 	Other:				
+ 	For women:				
+6403.99.75.30	30  	With pigskin uppers	
+prs.
+6403.99.75.60	60  	Other	
+prs.
+6403.99.75.90	90  	Other	
+prs.
+6403.99.90	 	Valued over $2.50/pair		10% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20% 1/
+6403.99.90.05	05  	House slippers	
+prs.
+6403.99.90.15	15  	Work footwear	
+prs.
+ 	Other:				
+ 	Tennis shoes, basketball shoes, and the like, for women:				
+6403.99.90.21	21  	With pigskin uppers	
+prs.
+6403.99.90.31	31  	Other	
+prs.
+6403.99.90.41	41  	Other tennis shoes, basketball shoes, and the like	
+prs.
+ 	Other:				
+ 	For women:				
+6403.99.90.55	55  	With pigskin uppers	
+prs.
+6403.99.90.65	65  	Other	
+prs.
+6403.99.90.71	71  	Other	
+prs.
+6404	 	Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials:				
+ 	Footwear with outer soles of rubber or plastics:				
+6404.11	 	Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like:				
+6404.11.20	 	Having uppers of which over 50 percent of the external surface area (including any leather accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is leather		10.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.11.20.30	30  	For men	
+prs.
+6404.11.20.60	60  	For women	
+prs.
+6404.11.20.71	71  	Other	
+prs.
+ 	Other:				
+ 	Valued not over $3/pair:				
+ 	Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:				
+6404.11.41	 	With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		7.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.11.41.30	30  	For men	
+prs.
+6404.11.41.60	60  	For women	
+prs.
+6404.11.41.90	90  	Other	
+prs.
+6404.11.49	00  	Other	
+prs.
+37.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+ 	Other:				
+6404.11.51	 	With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		7.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.11.51.30	30  	For men	
+prs.
+6404.11.51.60	60  	For women	
+prs.
+6404.11.51.90	90  	Other	
+prs.
+6404.11.59	00  	Other	
+prs.
+48%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	84%
+ 	Valued over $3 but not over $6.50/pair:				
+ 	Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:				
+6404.11.61	 	With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		7.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.11.61.30	30  	For men	
+prs.
+6404.11.61.60	60  	For women	
+prs.
+6404.11.61.90	90  	Other	
+prs.
+6404.11.69	 	Other		37.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+6404.11.69.30	30  	For men	
+prs.
+6404.11.69.60	60  	For women	
+prs.
+6404.11.69.90	90  	Other	
+prs.
+ 	Other:				
+6404.11.71	 	With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		7.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.11.71.30	30  	For men	
+prs.
+6404.11.71.60	60  	For women	
+prs.
+6404.11.71.90	90  	Other	
+prs.
+6404.11.75	 	With uppers of textile materials other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.11.75.30	30  	For men	
+prs.
+6404.11.75.60	60  	For women	
+prs.
+6404.11.75.90	90  	Other	
+prs.
+6404.11.79	 	Other		90¢/pr. + 37.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 66%
+6404.11.79.30	30  	For men	
+prs.
+6404.11.79.60	60  	For women	
+prs.
+6404.11.79.90	90  	Other	
+prs.
+ 	Valued over $6.50 but not over $12/pair:				
+6404.11.81	 	With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		7.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.11.81.30	30  	For men	
+prs.
+6404.11.81.60	60  	For women	
+prs.
+6404.11.81.90	90  	Other	
+prs.
+6404.11.85	 	With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.11.85.30	30  	For men	
+prs.
+6404.11.85.60	60  	For women	
+prs.
+6404.11.85.90	90  	Other	
+prs.
+6404.11.89	 	Other		90¢/pr. + 20% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 35%
+6404.11.89.30	30  	For men	
+prs.
+6404.11.89.60	60  	For women	
+prs.
+6404.11.89.90	90  	Other	
+prs.
+6404.11.90	 	Valued over $12/pair		20% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+ 	For men:				
+6404.11.90.10	10  	Ski boots, cross country ski footwear and snowboard boots	
+prs.
+6404.11.90.20	20  	Other	
+prs.
+ 	For women:				
+6404.11.90.40	40  	Ski boots, cross country ski footwear and snowboard boots	
+prs.
+6404.11.90.50	50  	Other	
+prs.
+ 	Other:				
+6404.11.90.70	70  	Ski boots, cross country ski footwear and snowboard boots	
+prs.
+6404.11.90.80	80  	Other	
+prs.
+6404.19	 	Other:				
+6404.19.15	 	Footwear having uppers of which over 50 percent of the external surface area (including any leather accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is leather		10.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.15.20	20  	For men	
+prs.
+6404.19.15.60	60  	For women	
+prs.
+6404.19.15.81	81  	Other	
+prs.
+6404.19.20	 	Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather		37.5%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+6404.19.20.30	30  	For men	
+prs.
+6404.19.20.60	60  	For women	
+prs.
+6404.19.20.90	90  	Other	
+prs.
+ 	Footwear with open toes or open heels; footwear of the slip-on type, that is held to the foot without the use of laces or buckles or other fasteners, the foregoing except footwear of subheading 6404.19.20 and except footwear having a foxing or foxing-like band wholly or almost wholly of rubber or plastics applied or molded at the sole and overlapping the upper:				
+ 	Less than 10 percent by weight of rubber or plastics:				
+6404.19.25	 	With uppers of vegetable fibers		7.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+ 	House slippers:				
+6404.19.25.15	15  	Covering the ankle	
+prs.
+6404.19.25.20	20  	Other	
+prs.
+ 	Other:				
+6404.19.25.30	30  	For men	
+prs.
+6404.19.25.60	60  	For women	
+prs.
+6404.19.25.90	90  	Other	
+prs.
+6404.19.30	 	Other		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+ 	House slippers:				
+6404.19.30.15	15  	Covering the ankle	
+prs.
+6404.19.30.20	20  	Other	
+prs.
+ 	Other:				
+6404.19.30.40	40  	For men	
+prs.
+6404.19.30.60	60  	For women	
+prs.
+6404.19.30.80	80  	Other	
+prs.
+ 	Other:				
+6404.19.36	 	With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		7.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.36.30	30  	For men	
+prs.
+6404.19.36.60	60  	For women	
+prs.
+6404.19.36.90	90  	Other	
+prs.
+6404.19.37	 	With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.37.15	15  	House slippers	
+prs.
+ 	Other:				
+6404.19.37.30	30  	For men	
+prs.
+6404.19.37.60	60  	For women	
+prs.
+6404.19.37.90	90  	Other	
+prs.
+6404.19.39	 	Other		37.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+6404.19.39.15	15  	House slippers	
+prs.
+ 	Other:				
+6404.19.39.40	40  	For men	
+prs.
+6404.19.39.60	60  	For women	
+prs.
+6404.19.39.80	80  	Other	
+prs.
+ 	Other:				
+ 	Valued not over $3/pair:				
+ 	Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:				
+6404.19.42	 	With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S.note 5 to this chapter		7.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.42.30	30  	For men	
+prs.
+6404.19.42.60	60  	For women	
+prs.
+6404.19.42.90	90  	Other	
+prs.
+6404.19.47	 	With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.47.15	15  	House slippers	
+prs.
+ 	Other:				
+6404.19.47.30	30  	For men	
+prs.
+6404.19.47.60	60  	For women	
+prs.
+6404.19.47.90	90  	Other	
+prs.
+6404.19.49	 	Other		37.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+6404.19.49.30	30  	For men	
+prs.
+6404.19.49.60	60  	For women	
+prs.
+6404.19.49.90	90  	Other	
+prs.
+ 	Other:				
+6404.19.52	 	With uppers of vegetable fibers and having outer soles with textile textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		7.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.52.30	30  	For men	
+prs.
+6404.19.52.60	60  	For women	
+prs.
+6404.19.52.90	90  	Other	
+prs.
+6404.19.57	 	With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.57.15	15  	House slippers	
+prs.
+ 	Other:				
+6404.19.57.30	30  	For men	
+prs.
+6404.19.57.60	60  	For women	
+prs.
+6404.19.57.90	90  	Other	
+prs.
+6404.19.59	 	Other		48%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	84%
+6404.19.59.15	15  	House slippers	
+prs.
+ 	Other:				
+6404.19.59.30	30  	For men	
+prs.
+6404.19.59.60	60  	For women	
+prs.
+6404.19.59.90	90  	Other	
+prs.
+ 	Valued over $3 but not over $6.50/pair:				
+ 	Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:				
+6404.19.61	 	With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.61.15	15  	House slippers	
+prs.
+ 	Other:				
+6404.19.61.30	30  	For men	
+prs.
+6404.19.61.60	60  	For women	
+prs.
+6404.19.61.90	90  	Other	
+prs.
+6404.19.69	 	Other		37.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+6404.19.69.30	30  	For men	
+prs.
+6404.19.69.60	60  	For women	
+prs.
+6404.19.69.90	90  	Other	
+prs.
+ 	Other:				
+6404.19.72	 	With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		7.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.72.30	30  	For men	
+prs.
+6404.19.72.60	60  	For women	
+prs.
+6404.19.72.90	90  	Other	
+prs.
+6404.19.77	 	With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.77.15	15  	House slippers	
+prs.
+ 	Other:				
+6404.19.77.30	30  	For men	
+prs.
+6404.19.77.60	60  	For women	
+prs.
+6404.19.77.90	90  	Other	
+prs.
+6404.19.79	 	Other		90¢/pr. + 37.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 66%
+6404.19.79.15	15  	House slippers	
+prs.
+ 	Other:				
+6404.19.79.30	30  	For men	
+prs.
+6404.19.79.60	60  	For women	
+prs.
+6404.19.79.90	90  	Other	
+prs.
+ 	Valued over $6.50 but not over $12/pair:				
+6404.19.82	 	Wither uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		7.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.82.30	30  	For men	
+prs.
+6404.19.82.60	60  	For women	
+prs.
+6404.19.82.90	90  	Other	
+prs.
+6404.19.87	 	With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.87.15	15  	House slippers	
+prs.
+ 	Other:				
+6404.19.87.30	30  	For men	
+prs.
+6404.19.87.60	60  	For women	
+prs.
+6404.19.87.90	90  	Other	
+prs.
+6404.19.89	 	Other		90¢/pr. + 20% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.58/pr. + 35%
+6404.19.89.30	30  	For men	
+prs.
+6404.19.89.60	60  	For women	
+prs.
+6404.19.89.90	90  	Other	
+prs.
+6404.19.90	 	Valued over $12/pair		9% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.19.90.30	30  	For men	
+prs.
+6404.19.90.60	60  	For women	
+prs.
+6404.19.90.90	90  	Other	
+prs.
+6404.20	 	Footwear with outer soles of leather or composition leather:				
+ 	Not over 50 percent by weight of rubber or plastics and not over 50 percent by weight of textile materials and rubber or plastics with at least 10 percent by weight being rubber or plastics:				
+6404.20.20	 	Valued not over $2.50/pair		15% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.20.20.30	30  	For men	
+prs.
+6404.20.20.60	60  	For women	
+prs.
+6404.20.20.90	90  	Other	
+prs.
+6404.20.40	 	Valued over $2.50/pair		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6404.20.40.30	30  	For men	
+prs.
+6404.20.40.60	60  	For women	
+prs.
+6404.20.40.90	90  	Other	
+prs.
+6404.20.60	 	Other		37.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+6404.20.60.40	40  	For men	
+prs.
+6404.20.60.60	60  	For women	
+prs.
+6404.20.60.80	80  	Other	
+prs.
+6405	 	Other footwear:				
+6405.10.00	 	With uppers of leather or composition leather		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20% 1/
+6405.10.00.30	30  	For men	
+prs.
+6405.10.00.60	60  	For women	
+prs.
+6405.10.00.90	90  	Other	
+prs.
+6405.20	 	With uppers of textile materials:				
+6405.20.30	 	With uppers of vegetable fibers		7.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6405.20.30.30	30  	For men	
+prs.
+6405.20.30.60	60  	For women	
+prs.
+6405.20.30.70	70  	For infants, as described in statistical note 2 to this chapter	
+prs.
+6405.20.30.80	80  	Other	
+prs.
+6405.20.60	 	With soles and uppers of wool felt		2.5% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+6405.20.60.30	30  	For men (459)	
+prs.
+kg
+6405.20.60.60	60  	For women (459)	
+prs.
+kg
+6405.20.60.90	90  	Other (459)	
+prs.
+kg
+6405.20.90	 	Other		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6405.20.90.15	15  	House slippers	
+prs.
+ 	Other:				
+6405.20.90.30	30  	For men	
+prs.
+6405.20.90.60	60  	For women	
+prs.
+6405.20.90.70	70  	For infants, as described in statistical note 2 to this chapter	
+prs.
+6405.20.90.80	80  	Other	
+prs.
+6405.90	 	Other:				
+6405.90.20	00  	Disposable footwear, designed for one-time use	
+prs.
+3.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+6405.90.90	 	Other		12.5%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6405.90.90.30	30  	For infants, as described in statistical note 2 to this chapter	
+prs.
+6405.90.90.60	60  	Other	
+prs.
+6406	 	Parts of footwear (including uppers whether or not attached to soles other than outer soles); removable insoles, heel cushions and similar articles; gaiters, leggings and similar articles, and parts thereof:				
+6406.10	 	Uppers and parts thereof, other than stiffeners:				
+ 	Formed uppers:				
+ 	Of leather or composition leather:				
+6406.10.05	00  	For men, youths and boys	
+prs.
+8.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+6406.10.10	00  	For other persons	
+prs.
+10%	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+ 	Of textile materials:				
+6406.10.20	 	Of which over 50 percent of the external surface area (including any leather accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is leather		10.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+6406.10.20.31	31  	For men	
+prs.
+6406.10.20.61	61  	Other	
+prs.
+ 	Other:				
+6406.10.25	00  	Valued not over $3/pair	
+prs.
+33.6% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84%
+6406.10.30	00  	Valued over $3 but not over $6.50/pair	
+prs.
+63¢/pr. + 26.2% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.58/pr. + 66%
+6406.10.35	00  	Valued over $6.50 but not over $12/pair	
+prs.
+62¢/pr. + 13.7% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.58/pr. + 35%
+6406.10.40	00  	Valued over $12/pair	
+prs.
+7.5% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+6406.10.45	00  	Of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics and not suitable to be finished into footwear (1) having foxing or a foxing-like band applied or molded at the sole and overlapping the upper, or (2) designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather	
+prs.
+6% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	35%
+6406.10.50	00  	Other	
+prs.
+26.2% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	66%
+ 	Other:				
+6406.10.60	00  	Of rubber or plastics	
+prs.
+Free 1/		80%
+6406.10.65	00  	Of leather	
+prs.
+Free 1/		15%
+6406.10.70	00  	Of textile materials of which over 50 percent of the external surface area (including any leather accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is leather	
+prs.
+Free 1/		35%
+ 	Other:				
+ 	Of cotton:				
+6406.10.72	00  	Uppers of which less than 50 percent of the external surface area (including any leather, rubber or plastics accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is textile materials	
+prs.
+11.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	62.9%
+6406.10.77	00  	Other (369)	
+prs.
+kg
+11.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	62.9%
+ 	Other:				
+6406.10.85	00  	Uppers of which less than 50 percent of the external surface area (including any leather, rubber or plastics accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is textile materials	
+prs.
+4.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	78.5%
+6406.10.90	 	Other		4.5% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	78.5%
+ 	Of textile materials other than cotton:				
+6406.10.90.20	20  	Of wool or fine animal hair (469)	
+prs.
+kg
+6406.10.90.40	40  	Of man-made fibers (669)	
+prs.
+kg
+6406.10.90.60	60  	Other (899)	
+prs.
+kg
+6406.10.90.90	90  	Other	
+prs.
+kg
+6406.20.00	00  	Outer soles and heels, of rubber or plastics	
+prs.
+kg
+2.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+6406.90	 	Other:				
+6406.90.10	00  	Of wood	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+ 	Of other materials:				
+6406.90.15	 	Of textile materials		14.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+ 	Of man-made fibers:				
+ 	Leg-warmers:				
+6406.90.15.05	05  	Containing 23 percent or more by weight of wool or fine animal hair (459)	
+doz.
+kg
+6406.90.15.10	10  	Other (659)	
+doz.
+kg
+6406.90.15.40	40  	Other (659)	
+doz.
+kg
+ 	Other:				
+ 	Leg-warmers:				
+6406.90.15.50	50  	Of cotton (359)	
+doz.
+kg
+6406.90.15.60	60  	Of wool or fine animal hair (459)	
+doz.
+kg
+6406.90.15.70	70  	Other (859)	
+doz.
+kg
+6406.90.15.80	80  	Other	
+doz.
+kg
+6406.90.30	 	Of rubber or plastics		5.3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+6406.90.30.30	30  	Bottoms	
+doz.
+kg
+6406.90.30.60	60  	Other	
+doz.
+kg
+6406.90.60	00  	Of leather	
+kg
+Free 1/		15% 1/
+6406.90.90	00  	Other	
+kg
+Free 1/		45%

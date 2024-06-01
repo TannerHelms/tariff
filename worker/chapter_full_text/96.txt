@@ -1,0 +1,539 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+9601	 	Worked ivory, bone, tortoise-shell, horn, antlers, coral, mother-of-pearl and other animal carving material, and articles of these materials (including articles obtained by molding):				
+9601.10.00	00  	Worked ivory and articles of ivory	
+No.
+kg
+Free 1/		35%
+9601.90	 	Other:				
+9601.90.20	00  	Worked shell and articles thereof	
+No.
+kg
+Free 1/		35%
+9601.90.40	00  	Coral, cut but not set, and cameos, suitable for use in jewelry	
+kg
+2.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+9601.90.60	00  	Of bone, horn, hoof, whalebone, quill or any combination thereof	
+No.
+kg
+Free 1/		25%
+9601.90.80	00  	Other	
+No.
+kg
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9602.00	 	Worked vegetable or mineral carving material and articles of these materials; molded or carved articles of wax, of stearin, of natural gums or natural resins, of modeling pastes, and other molded or carved articles, not elsewhere specified or included; worked, unhardened gelatin (except gelatin of heading 3503) and articles of unhardened gelatin:				
+9602.00.10	 	Worked unhardened gelatin and articles thereof		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+9602.00.10.40	40  	Unfilled gelatin capsules	
+thousands
+9602.00.10.80	80  	Other	
+No.
+9602.00.40	00  	Molded or carved articles of wax	
+No.
+1.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9602.00.50	 	Other		2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9602.00.50.10	10  	Unfilled vegetable capsules	
+thousands
+9602.00.50.80	80  	Other	
+No.
+9603	 	Brooms, brushes (including brushes constituting parts of machines, appliances or vehicles), hand-operated mechanical floor sweepers, not motorized, mops and feather dusters; prepared knots and tufts for broom or brush making; paint pads and rollers; squeegees (other than roller squeegees):				
+9603.10	 	Brooms and brushes, consisting of twigs or other vegetable materials bound together, with or without handles:				
+ 	Whiskbrooms, wholly or in part of broom corn:				
+ 	Valued not over 96¢ each:				
+9603.10.05	00  	In any calendar year prior to the entry, or withdrawal from warehouse for comsumption, of 61,655 dozen whiskbrooms classifiable under subheadings 9603.10.05 to 9603.10.35, inclusive	
+No.
+8%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9603.10.15	00  	Other	
+No.
+5¢ each 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12¢ each
+9603.10.35	00  	Valued over 96¢ each	
+No.
+14% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	32%
+ 	Other brooms, wholly or in part of broom corn:				
+ 	Valued not over 96¢ each:				
+9603.10.40	00  	In any calendar year prior to the entry, or withdrawal from warehouse for consumption, of 121,478 dozen brooms classifiable under subheadings 9603.10.40 to 9603.10.60, inclusive	
+No.
+8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9603.10.50	00  	Other	
+No.
+32¢ each 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	32¢ each
+9603.10.60	00  	Valued over 96¢ each	
+No.
+32% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	32%
+9603.10.90	00  	Other	
+No.
+10% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Toothbrushes, shaving brushes, hair brushes, nail brushes, eyelash brushes and other toilet brushes for use on the person, including such brushes constituting parts of appliances:				
+9603.21.00	00  	Toothbrushes, including dental-plate brushes	
+No.
+Free 1/		2¢ each + 50%
+9603.29	 	Other:				
+9603.29.40	 	Valued not over 40¢ each		0.2¢ each + 7%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1¢ each + 50%
+9603.29.40.10	10  	Hairbrushes	
+No.
+9603.29.40.90	90  	Other	
+No.
+9603.29.80	 	Valued over 40¢ each		0.3¢ each + 3.6%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1¢ each + 50%
+9603.29.80.10	10  	Hairbrushes	
+No.
+9603.29.80.90	90  	Other	
+No.
+9603.30	 	Artists' brushes, writing brushes and similar brushes for the application of cosmetics:				
+9603.30.20	00  	Valued not over 5¢ each	
+No.
+2.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9603.30.40	00  	Valued over 5¢ but not over 10¢ each	
+No.
+Free 1/		40%
+9603.30.60	00  	Valued over 10¢ each	
+No.
+Free		40%
+9603.40	 	Paint, distemper, varnish or similar brushes (other than brushes of subheading 9603.30); paint pads and rollers:				
+9603.40.20	00  	Paint rollers	
+No.
+7.5%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+9603.40.40	 	Other		4%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+9603.40.40.20	20  	Paint pads	
+No.
+9603.40.40.40	40  	Natural bristle brushes	
+No.
+9603.40.40.60	60  	Other	
+No.
+9603.50.00	00  	Other brushes constituting parts of machines, appliances or vehicles	
+No.
+Free 1/		35%
+9603.90	 	Other:				
+9603.90.40	00  	Feather dusters	
+No.
+Free 1/		45%
+9603.90.80	 	Other		2.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+9603.90.80.10	10  	Whiskbrooms	
+No.
+9603.90.80.20	20  	Upright brooms	
+No.
+9603.90.80.30	30  	Push brooms, 41 cm or less in width	
+No.
+9603.90.80.40	40  	Other brooms	
+No.
+9603.90.80.50	50  	Other	
+No.
+9604.00.00	00  	Hand sieves and hand riddles	
+No.
+4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9605.00.00	00  	Travel sets for personal toilet, sewing or shoe or clothes cleaning (other than manicure and pedicure sets of heading 8214)	
+No.
+8.1%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9606	 	Buttons, press-fasteners, snap-fasteners and press-studs, button molds and other parts of these articles; button blanks:				
+9606.10	 	Press-fasteners, snap-fasteners and press-studs and parts thereof:				
+9606.10.40	00  	Valued not over 20¢ per dozen pieces or parts	
+gross
+3.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+9606.10.80	00  	Valued over 20¢ per dozen pieces or parts	
+gross
+2.7% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+ 	Buttons:				
+9606.21	 	Of plastics, not covered with textile material:				
+9606.21.20	00  	Of casein	
+gross
+Free 1/		45%
+9606.21.40	00  	Of acrylic resin, of polyester resin or of both such resins	
+gross
+gr.lines
+0.3¢/line/ gross + 4.6% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.5¢/line/ gross + 25%
+9606.21.60	00  	Other	
+gross
+4.7% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9606.22.00	00  	Of base metal, not covered with textile material	
+gross
+Free 1/		45%
+9606.29	 	Other:				
+9606.29.20	00  	Of acrylic resin, of polyester resin or of both such resins, covered with textile material	
+gross
+gr.lines
+0.3¢/line/ gross + 4.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.5¢/line/ gross + 25%
+ 	Other:				
+9606.29.40	00  	Of pearl or shell	
+gross
+gr.lines
+0.18¢/line/ gross + 2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.75¢/line/ gross + 25%
+9606.29.60	00  	Other	
+gross
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9606.30	 	Button molds and other parts of buttons; button blanks:				
+9606.30.40	00  	Button blanks of casein	
+gross
+Free 1/		45%
+9606.30.80	00  	Other	
+gross
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9607	 	Slide fasteners and parts thereof:				
+ 	Slide fasteners:				
+9607.11.00	00  	Fitted with chain scoops of base metal	
+No.
+10% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	66%
+9607.19.00	 	Other		13% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	66%
+9607.19.00.20	20  	Fitted with chain scoops of plastic	
+No.
+9607.19.00.40	40  	Fitted with continuous plastic filament	
+No.
+9607.19.00.60	60  	Other	
+No.
+9607.20.00	 	Parts		11.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	66%
+9607.20.00.40	40  	Sliders, with or without pulls	
+thousands
+9607.20.00.80	80  	Other	
+No.
+9608	 	Ball point pens; felt tipped and other porous-tipped pens and markers; fountain pens, stylograph pens and other pens; duplicating styli; propelling or sliding pencils (for example, mechanical pencils); pen-holders, pencil-holders and similar holders; parts (including caps and clips) of the foregoing articles, other than those of heading 9609:				
+9608.10.00	00  	Ball point pens	
+No.
+0.8¢ each + 5.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6¢ each + 40%
+9608.20.00	00  	Felt tipped and other porous-tipped pens and markers	
+gross
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	40%
+9608.30.00	 	Fountain pens, stylograph pens and other pens		0.4¢ each + 2.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6¢ each + 40%
+9608.30.00.31	31  	India ink drawing pens	
+No.
+9608.30.00.39	39  	Other	
+No.
+9608.40	 	Propelling or sliding pencils (for example, mechanical pencils):				
+9608.40.40	00  	With a mechanical action for extending, or for extending and retracting, the lead	
+gross
+6.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.3% (JP)	41.5%
+9608.40.80	00  	Other	
+gross
+Free 1/		45%
+9608.50.00	00  	Sets of articles from two or more of the subheadings 9608.10, 9608.20, 9608.30 or 9608.40	
+No.
+The rate applicable to each article in the absence of this subheading 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable, to each article in the absence of this subheading
+9608.60.00	00  	Refills for ball point pens, comprising the ball point and ink reservoir	
+No.
+0.4¢ each + 2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6¢ each + 40%
+ 	Other:				
+9608.91.00	00  	Pen nibs and nib points	
+gross
+Free 1/		20¢/gross
+9608.99	 	Other:				
+9608.99.20	00  	Refill cartridges	
+No.
+0.4¢ each + 2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6¢ each + 40%
+9608.99.30	00  	Balls for ball point pens	
+thousands
+20¢/thousand + 3.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$2.50/thou- sand + 40%
+ 	Other:				
+9608.99.40	00  	Parts of articles provided for in subheadings 9608.10 and 9608.30 (other than balls for ball point pens)	
+No.
+Free 1/		6¢ each + 40%
+9608.99.60	00  	Other	
+No.
+Free 1/		45%
+9609	 	Pencils (other than those pencils of heading 9608), crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors' chalks:				
+9609.10.00	00  	Pencils and crayons, with leads encased in a sheath	
+gross
+14¢/gross + 4.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50¢/gross + 30%
+9609.20	 	Pencil leads, black or colored:				
+9609.20.20	00  	Not over 1.5 mm in maximum cross-sectional dimension	
+gross
+Free 1/		20¢/gross
+9609.20.40	00  	Over 1.5 mm in maximum cross-sectional dimension	
+gross
+Free 1/		6¢/gross
+9609.90	 	Other:				
+9609.90.40	00  	Tailors' chalks	
+kg
+Free 1/		25%
+9609.90.80	00  	Other	
+gross
+Free 1/		50¢/gross + 30%
+9610.00.00	00  	Slates and boards, with writing or drawing surfaces, whether or not framed	
+No.
+3.5%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+9611.00.00	00  	Date, sealing or numbering stamps and the like, (including devices for printing or embossing labels), designed for operating in the hand; hand-operated composing sticks and hand printing sets incorporating such composing sticks	
+No.
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+9612	 	Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; ink pads, whether or not inked, with or without boxes:				
+9612.10	 	Ribbons:				
+9612.10.10	 	Measuring less than 30 mm in width, permanently put up in plastic or metal cartridges (whether or not containing spools) of a kind used in typewriters, automatic data processing or other machines		Free 1/		78.5%
+9612.10.10.10	10  	Woven, of man-made fibers	
+doz.
+kg
+9612.10.10.20	20  	Other	
+doz.
+kg
+9612.10.90	 	Other		7.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.95% (JP)	78.5%
+9612.10.90.10	10  	Woven, of man-made fibers (621)	
+doz.
+kg
+ 	Other:				
+9612.10.90.30	30  	Thermal transfer printing ribbons of coated polyethylene terephthalate film	
+doz.
+kg
+9612.10.90.90	90  	Other	
+doz.
+kg
+9612.20.00	00  	Ink pads	
+No.
+3.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9613	 	Cigarette lighters and other lighters, whether or not mechanical or electrical, and parts thereof other than flints and wicks:				
+9613.10.00	00  	Pocket lighters, gas fueled, non-refillable	
+No.
+4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+9613.20.00	00  	Pocket lighters, gas fueled, refillable	
+No.
+9%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+9613.80	 	Other lighters:				
+9613.80.10	 	Table lighters		4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+9613.80.10.40	40  	Butane	
+No.
+9613.80.10.80	80  	Other	
+No.
+ 	Other:				
+9613.80.20	 	Electrical		3.9% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9613.80.20.10	10  	Multipurpose lighters, including those used to light charcoal and gas grills and fireplaces	
+No.
+9613.80.20.90	90  	Other	
+No.
+ 	Other:				
+9613.80.40	00  	Of precious metal (except silver), of precious or semiprecious stones or of such metal and such stones	
+No.
+3.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Other:				
+9613.80.60	00  	Valued not over $5 per dozen pieces	
+doz.
+8%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+9613.80.80	00  	Valued over $5 per dozen pieces	
+doz.
+9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+9613.90	 	Parts:				
+9613.90.40	00  	Electrical	
+No.
+3.9% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9613.90.80	00  	Other	
+No.
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+9614.00	 	Smoking pipes (including pipe bowls) and cigar or cigarette holders, and parts thereof:				
+ 	Pipes and pipe bowls:				
+ 	Of wood or root:				
+9614.00.21	00  	Roughly shaped blocks of wood or root, for the manufacture of pipes	
+gross
+Free 1/		10%
+9614.00.25	00  	Other	
+No.
+0.4¢ each + 3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5¢ each + 60%
+9614.00.26	00  	Pipes and bowls wholly of clay and pipes with bowls wholly of clay	
+No.
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9614.00.28	 	Other		0.3¢ each + 3.2%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5¢ each + 60%
+9614.00.28.10	10  	Of glass	
+No.
+9614.00.28.30	30  	Of plastics	
+No.
+9614.00.28.90	90  	Other	
+No.
+ 	Other:				
+9614.00.94	00  	Of metal	
+No.
+7.2%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+9614.00.98	 	Other		0.5¢ each + 3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5¢ each + 60%
+9614.00.98.10	10  	Of glass	
+No.
+9614.00.98.90	90  	Other	
+No.
+9615	 	Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading 8516, and parts thereof:				
+ 	Combs, hair-slides and the like:				
+9615.11	 	Of hard rubber or plastics:				
+ 	Combs:				
+9615.11.10	00  	Valued not over $4.50 per gross	
+gross
+14.4¢/gross + 2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.44/gross + 25%
+ 	Valued over $4.50 per gross:				
+9615.11.20	00  	Of hard rubber	
+gross
+5.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	36%
+9615.11.30	00  	Other	
+gross
+28.8¢/gross + 4.6%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$2.88/gross + 35%
+ 	Other:				
+9615.11.40	00  	Not set with imitation pearls or imitation gemstones	
+No.
+5.3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+9615.11.50	00  	Other	
+No.
+Free		110%
+9615.19	 	Other:				
+ 	Combs:				
+9615.19.20	00  	Valued not over $4.50 per gross	
+gross
+9.7¢/gross + 1.3%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.44/gross + 25%
+9615.19.40	00  	Valued over $4.50 per gross	
+gross
+28.8¢/gross + 4.6%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$2.88/gross + 35%
+9615.19.60	00  	Other	
+No.
+11%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+9615.90	 	Other:				
+9615.90.20	00  	Nonthermic, nonornamental devices for curling the hair	
+No.
+8.1%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9615.90.30	00  	Hair pins	
+kg
+5.1%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+9615.90.40	00  	Of rubber or plastics, not set with imitation pearls or imitation gemstones	
+No.
+5.3%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+9615.90.60	00  	Other	
+No.
+11%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+9616	 	Scent sprayers and similar toilet sprayers, and mounts and heads therefor; powder puffs and pads for the application of cosmetics or toilet preparations:				
+9616.10.00	00  	Scent sprayers and similar toilet sprayers, and mounts and heads therefor	
+No.
+Free 1/		40%
+9616.20.00	00  	Powder puffs and pads for the application of cosmetics or toilet preparations	
+kg
+4.3%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	78.5%
+9617.00	 	Vacuum flasks and other vacuum vessels, complete; parts thereof other than glass inners:				
+ 	Vessels:				
+9617.00.10	00  	Having a capacity not exceeding 1 liter	
+No.
+7.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55.5%
+9617.00.30	00  	Having a capacity exceeding 1 liter but not exceeding 2 liters	
+No.
+6.9%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	52%
+9617.00.40	00  	Having a capacity exceeding 2 liters	
+No.
+6.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51%
+9617.00.60	00  	Parts	
+No.
+7.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+9618.00.00	00  	Tailors' dummies and other mannequins; automatons and other animated displays used for shopwindow dressing	
+No.
+4.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	56%
+9619.00	 	Sanitary pads (towels) and tampons, diapers (napkins), diaper liners and similar articles, of any material:				
+9619.00.05	00  	Of plastics	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+9619.00.11	00  	Of paper pulp	
+kg
+Free 1/		30%
+9619.00.15	 	Of paper, cellulose wadding or webs of cellulose fibers		Free 1/		35%
+9619.00.15.10	10  	Sanitary napkins and tampons	
+kg
+9619.00.15.30	30  	Diapers and diaper liners	
+kg
+9619.00.15.60	60  	Other	
+kg
+ 	Of textile wadding:				
+9619.00.21	00  	Of cotton (369)	
+kg
+3.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9619.00.25	00  	Other (669)	
+kg
+6.3% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+ 	Diapers of other textile materials:				
+ 	Of cotton:				
+9619.00.31	00  	Of knitted or crocheted textile fabric (239)	
+doz.
+kg
+8.1%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+9619.00.33	00  	Other (239)	
+doz.
+kg
+9.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+9619.00.41	00  	Of synthetic fibers (239)	
+doz.
+kg
+16%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+9619.00.43	00  	Of artificial fibers (239)	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Of other textile fibers:				
+9619.00.46	00  	Of knitted or crocheted textile fabric (839)	
+doz.
+kg
+5.6%	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+9619.00.48	00  	Other (839)	
+doz.
+kg
+2.8% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other, of textile materials:				
+ 	Knitted or crocheted:				
+9619.00.61	00  	Of cotton	
+doz.
+kg
+10.8%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+9619.00.64	00  	Of man-made fibers	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+9619.00.68	00  	Other	
+doz.
+kg
+5.6%	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Other:				
+9619.00.71	00  	Of cotton	
+doz.
+kg
+8.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+9619.00.74	00  	Of man-made fibers	
+doz.
+kg
+16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	76%
+ 	Other:				
+9619.00.78	00  	Menʼs or boysʼ	
+doz.
+kg
+2.8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9619.00.79	00  	Womenʼs or girlsʼ	
+doz.
+kg
+7.3%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9619.00.90	00  	Other	
+No.
+kg
+7% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9620.00	 	Monopods, bipods, tripods and similar articles:				
+9620.00.10	00  	Accessories suitable for use solely or principally with the apparatus of heading 8519 or 8521	
+No.
+2% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9620.00.15	00  	Accessories for the articles of heading 9005	
+No.
+The rate applicable to the article of which it is an accessory 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to the article of which it is an accessory
+9620.00.20	00  	Accessories for photographic (other than cinematographic) cameras of heading 9006	
+No.
+5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9620.00.25	00  	Accessories for cinematographic cameras of heading 9007	
+No.
+3.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9620.00.30	 	Accessories for the instruments and appliances, including rangefinders, of heading 9015		The rate applicable to the article of which it is an accessory 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to the article of which it is an accessory
+9620.00.30.10	10  	Of rangefinders	
+No.
+9620.00.30.20	20  	Of theodolites and tachymeters	
+No.
+9620.00.30.30	30  	Of levels	
+No.
+9620.00.30.40	40  	Of photogrammetrical surveying instruments and apparatus	
+No.
+9620.00.30.50	50  	Of seismographs	
+No.
+9620.00.30.60	60  	Of other geophysical instruments and apparatus	
+No.
+9620.00.30.90	90  	Other	
+No.
+ 	Other:				
+9620.00.50	00  	Of plastics	
+No.
+5.3% 1/	Free (A*, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+9620.00.55	00  	Of wood	
+No.
+3.3% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+9620.00.60	00  	Of graphite or other carbon	
+No.
+Free 1/		45%
+9620.00.65	00  	Of iron or steel	
+No.
+2.9% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9620.00.70	00  	Of aluminum	
+No.
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%

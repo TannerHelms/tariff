@@ -1,0 +1,112 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+7501	 	Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy:				
+7501.10.00	00  	Nickel mattes	
+kg
+Ni kg
+Free 1/		Free
+7501.20.00	00  	Nickel oxide sinters and other intermediate products of nickel metallurgy 1/	
+kg
+Ni kg
+Free 1/		Free
+7502	 	Unwrought nickel:				
+7502.10.00	00  	Nickel, not alloyed	
+kg
+Free 1/		6.6¢/kg 1/
+7502.20.00	00  	Nickel alloys	
+kg
+Free 1/		6.6¢/kg 1/
+7503.00.00	00  	Nickel waste and scrap	
+kg
+Free 1/		6.6¢/kg
+7504.00.00	 	Nickel powders and flakes		Free 1/		6.6¢/kg 1/
+7504.00.00.10	10  	Powders	
+kg
+7504.00.00.50	50  	Flakes	
+kg
+7505	 	Nickel bars, rods, profiles and wire:				
+ 	Bars, rods and profiles:				
+7505.11	 	Of nickel, not alloyed:				
+ 	Bars and rods:				
+7505.11.10	00  	Cold-formed	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7505.11.30	00  	Not cold-formed	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7505.11.50	00  	Profiles	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7505.12	 	Of nickel alloys:				
+ 	Bars and rods:				
+7505.12.10	00  	Cold-formed	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7505.12.30	00  	Not cold-formed	
+kg
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7505.12.50	00  	Profiles	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Wire:				
+7505.21	 	Of nickel, not alloyed:				
+7505.21.10	00  	Cold-formed	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7505.21.50	00  	Not cold-formed	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7505.22	 	Of nickel alloys:				
+7505.22.10	00  	Cold-formed	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7505.22.50	00  	Not cold-formed	
+kg
+2.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7506	 	Nickel plates, sheets, strip and foil:				
+7506.10	 	Of nickel, not alloyed:				
+7506.10.05	00  	Not exceeding 0.15 mm in thickness	
+kg
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+7506.10.10	00  	Cold-formed	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7506.10.30	00  	Not cold-formed	
+kg
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7506.20	 	Of nickel alloys:				
+7506.20.05	00  	Not exceeding 0.15 mm in thickness	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+7506.20.10	00  	Cold-formed	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7506.20.30	00  	Not cold-formed	
+kg
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+7507	 	Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves):				
+ 	Tubes and pipes:				
+7507.11.00	00  	Of nickel, not alloyed	
+kg
+2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7507.12.00	00  	Of nickel alloys	
+kg
+2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7507.20.00	00  	Tube or pipe fittings	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7508	 	Other articles of nickel:				
+7508.10.00	00  	Cloth, grill and netting, of nickel wire	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7508.90	 	Other:				
+7508.90.10	00  	Stranded wire	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7508.90.50	00  	Other	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%

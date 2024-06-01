@@ -1,0 +1,118 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+0501.00.00	00  	Human hair, unworked, whether or not washed or scoured; waste of human hair	
+kg
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0502	 	Pigs', hogs' or boars' bristles and hair; badger hair and other brushmaking hair; waste of such bristles or hair:				
+0502.10.00	00  	Pigs', hogs' or boars' bristles and hair and waste thereof	
+kg
+0.8¢/kg	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0502.90.00	00  	Other	
+kg
+Free 1/		Free
+0504.00.00	 	Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked		Free 1/		Free
+ 	Prepared for use as sausage casings:				
+0504.00.00.20	20  	Hog	
+kg
+0504.00.00.40	40  	Other	
+kg
+0504.00.00.60	60  	Other	
+kg
+0505	 	Skins and other parts of birds, with their feathers or down,
+feathers and parts of feathers (whether or not with trimmed
+edges) and down, not further worked than cleaned,
+disinfected or treated for preservation; powder and waste
+of feathers or parts of feathers:				
+0505.10.00	 	Feathers of a kind used for stuffing; down		Free 1/		20%
+ 	Meeting with ASTM D4522, Section 2.2 IDFB Testing Regulations, Part 2, Sections 2.2, 2.3, Part 7 and Part 11-B:				
+0505.10.00.50	50  	Feathers 1/	
+kg
+0505.10.00.55	55  	Down 1/	
+kg
+ 	Other:				
+0505.10.00.60	60  	Feathers	
+kg
+0505.10.00.65	65  	Down	
+kg
+0505.90	 	Other:				
+0505.90.20	 	Feather meal and waste		2.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0505.90.20.20	20  	Feather meal	
+kg
+0505.90.20.40	40  	Other	
+kg
+0505.90.60	00  	Other	
+kg
+Free 1/		20%
+0506	 	Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinized; powder and waste of these products:				
+0506.10.00	00  	Ossein and bones treated with acid	
+kg
+Free 1/		Free
+0506.90.00	 	Other		Free 1/		Free
+0506.90.00.20	20  	Bones, crude, steamed or ground	
+kg
+0506.90.00.40	40  	Other	
+kg
+0507	 	Ivory, tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products:				
+0507.10.00	00  	Ivory; ivory powder and waste	
+kg
+Free 1/		Free
+0507.90.00	 	Other		Free 1/		Free
+0507.90.00.10	10  	Velvet antler	
+kg
+0507.90.00.90	90  	Other	
+kg
+0508.00.00	00  	Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttlebone, unworked or simply prepared but not cut to shape, powder and waste thereof	
+kg
+Free 1/		Free
+0510.00	 	Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved:				
+0510.00.20	00  	Ambergris, castoreum, civet and musk	
+kg
+5.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0510.00.40	 	Other		Free 1/		Free
+0510.00.40.10	10  	Pancreas glands	
+kg
+0510.00.40.20	20  	Bile and other animal secretions	
+kg
+0510.00.40.40	40  	Cantharides; glands (other than pancreas), organs and other animal products used in the preparation of pharmaceutical products	
+kg
+0511	 	Animal products not elsewhere specified or included; dead animals of chapter 1 or 3, unfit for human consumption:				
+0511.10.00	 	Bovine semen		Free 1/		10%
+0511.10.00.10	10  	Dairy	
+doses
+0511.10.00.90	90  	Other	
+doses
+ 	Other:				
+0511.91.00	 	Products of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 3		Free 1/		Free
+0511.91.00.10	10  	Fertilized fish eggs	
+kg
+0511.91.00.90	90  	Other	
+kg
+0511.99	 	Other:				
+0511.99.20	00  	Parings and similar waste of raw hides or skins; glue stock not elsewhere specified or included	
+kg
+Free 1/		Free
+0511.99.30	 	Products chiefly used as food for animals or as ingredients in such food		Free 1/		10%
+0511.99.30.30	30  	Antarctic krill ( Euphausia superba)	
+kg
+0511.99.30.60	60  	Other	
+kg
+0511.99.33	00  	Horsehair and horsehair waste, whether or not put up as a layer with or without supporting material	
+kg
+Free 1/		Free
+0511.99.36	00  	Natural sponges of animal origin	
+kg
+3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+0511.99.40	 	Other		1.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+ 	Cattle embryos:				
+0511.99.40.24	24  	Dairy cattle	
+No.
+0511.99.40.28	28  	Other cattle	
+No.
+0511.99.40.30	30  	Dried blood	
+kg
+0511.99.40.40	40  	Other animal semen	
+doses
+0511.99.40.70	70  	Other	
+kg

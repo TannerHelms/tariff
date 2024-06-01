@@ -1,0 +1,381 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+7601	 	Unwrought aluminum:				
+7601.10	 	Aluminum, not alloyed:				
+7601.10.30	00  	Of uniform cross section throughout its length, the least cross-sectional dimension of which is not greater than 9.5 mm, in coils	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18.5% 1/
+7601.10.60	 	Other		Free 1/		11% 1/
+7601.10.60.30	30  	Of greater than 99.8 percent aluminum	
+kg
+7601.10.60.90	90  	Other	
+kg
+7601.20	 	Aluminum alloys:				
+7601.20.30	00  	Of uniform cross section throughout its length, the least cross-sectional dimension of which is not greater than 9.5 mm, in coils	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18.5% 1/
+ 	Other:				
+7601.20.60	00  	Containing 25 percent or more by weight of silicon	
+kg
+2.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+7601.20.90	 	Other		Free 1/		10.5% 1/
+7601.20.90.30	30  	Aluminum vanadium master alloy	
+kg
+ 	Other:				
+7601.20.90.45	45  	Of uniform circular cross section throughout its length, the foregoing comprised of billets, not in coils	
+kg
+7601.20.90.60	60  	Other, containing 0.03 percent or more by weight of lead (secondary aluminum)	
+kg
+ 	Other:				
+7601.20.90.75	75  	Remelt scrap ingot	
+kg
+7601.20.90.80	80  	Sheet ingot (slab) of a kind described instatistical note 3 to this chapter	
+kg
+7601.20.90.85	85  	Foundry ingot of a kind described in statistical note 4 to this chapter	
+kg
+7601.20.90.95	95  	Other	
+kg
+7602.00.00	 	Aluminum waste and scrap		Free 1/		Free
+7602.00.00.35	35  	Recyclable beverage containers	
+kg
+7602.00.00.95	95  	Recyclable aluminum from industrial processes, including turnings, borings, shavings, filings, clippings and chips	
+kg
+7602.00.00.97	97  	Other recyclable aluminum	
+kg
+7602.00.00.98	98  	Other	
+kg
+7603	 	Aluminum powders and flakes:				
+7603.10.00	00  	Powders of non-lamellar structure	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7603.20.00	00  	Powders of lamellar structure; flakes	
+kg
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11%
+7604	 	Aluminum bars, rods and profiles:				
+7604.10	 	Of aluminum, not alloyed:				
+7604.10.10	00  	Profiles	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Bars and rods:				
+7604.10.30	00  	Having a round cross section	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11% 1/
+7604.10.50	00  	Other	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.5% 1/
+ 	Of aluminum alloys:				
+7604.21.00	 	Hollow profiles		1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.5% 1/
+7604.21.00.10	10  	Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter	
+kg
+7604.21.00.90	90  	Other	
+kg
+7604.29	 	Other:				
+7604.29.10	 	Other profiles		5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7604.29.10.10	10  	Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter	
+kg
+7604.29.10.90	90  	Other	
+kg
+ 	Bars and rods:				
+7604.29.30	 	Having a round cross section		2.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11% 1/
+7604.29.30.30	30  	High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter	
+kg
+7604.29.30.60	60  	Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter	
+kg
+7604.29.30.90	90  	Other	
+kg
+7604.29.50	 	Other		3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.5% 1/
+7604.29.50.20	20  	High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter	
+kg
+7604.29.50.50	50  	Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter	
+kg
+7604.29.50.90	90  	Other	
+kg
+7605	 	Aluminum wire:				
+ 	Of aluminum, not alloyed:				
+7605.11.00	00  	Of which the maximum cross-sectional dimension exceeds 7 mm	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11% 1/
+7605.19.00	00  	Other	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Of aluminum alloys:				
+7605.21.00	00  	Of which the maximum cross-sectional dimension exceeds 7 mm	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11% 1/
+7605.29.00	00  	Other	
+kg
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+7606	 	Aluminum plates, sheets and strip, of a thickness exceeding 0.2 mm:				
+ 	Rectangular (including square):				
+7606.11	 	Of aluminum, not alloyed:				
+7606.11.30	 	Not clad		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.5% 1/
+7606.11.30.30	30  	With a thickness of more than 6.3 mm	
+kg
+7606.11.30.60	60  	With a thickness of 6.3 mm or less	
+kg
+7606.11.60	00  	Clad	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9.5% 1/
+7606.12	 	Of aluminum alloys:				
+7606.12.30	 	Not clad		3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.5% 1/
+ 	With a thickness of more than 6.3 mm:				
+7606.12.30.15	15  	High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter	
+kg
+7606.12.30.25	25  	Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter	
+kg
+7606.12.30.35	35  	Other	
+kg
+ 	With a thickness of 6.3 mm or less:				
+ 	Aluminum can stock:				
+7606.12.30.45	45  	Body stock	
+kg
+7606.12.30.55	55  	Lid stock	
+kg
+ 	Other:				
+7606.12.30.91	91  	Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter	
+kg
+7606.12.30.96	96  	Other	
+kg
+7606.12.60	00  	Clad	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+ 	Other:				
+7606.91	 	Of aluminum, not alloyed:				
+7606.91.30	 	Not clad		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.5% 1/
+7606.91.30.55	55  	With a thickness of more than 6.3 mm	
+kg
+7606.91.30.95	95  	With a thickness of 6.3 mm or less	
+kg
+7606.91.60	 	Clad		2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9.5% 1/
+7606.91.60.55	55  	With a thickness of more than 6.3 mm	
+kg
+7606.91.60.95	95  	With a thickness of 6.3 mm or less	
+kg
+7606.92	 	Of aluminum alloys:				
+7606.92.30	 	Not clad		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.5% 1/
+7606.92.30.25	25  	With a thickness of more than 6.3 mm	
+kg
+7606.92.30.35	35  	With a thickness of 6.3 mm or less	
+kg
+7606.92.60	 	Clad		6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+7606.92.60.55	55  	With a thickness of more than 6.3 mm	
+kg
+7606.92.60.95	95  	With a thickness of 6.3 mm or less	
+kg
+7607	 	Aluminum foil (whether or not printed, or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.2 mm:				
+ 	Not backed:				
+7607.11	 	Rolled but not further worked:				
+ 	Of a thickness not exceeding 0.15 mm:				
+7607.11.30	00  	Of a thickness not exceeding 0.01 mm	
+kg
+5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+7607.11.60	 	Of a thickness exceeding 0.01 mm		5.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+7607.11.60.10	10  	Boxed aluminum foil weighing not more than 11.3 kg	
+kg
+m2
+7607.11.60.90	90  	Other	
+kg
+m2
+7607.11.90	 	Other		3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.5% 1/
+ 	Aluminum can stock:				
+7607.11.90.30	30  	Body stock	
+kg
+7607.11.90.60	60  	Lid stock	
+kg
+7607.11.90.90	90  	Other	
+kg
+7607.19	 	Other:				
+7607.19.10	00  	Etched capacitor foil	
+kg
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+7607.19.30	00  	Cut to shape, of a thickness not exceeding 0.15 mm	
+kg
+5.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7607.19.60	00  	Other	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.5% 1/
+7607.20	 	Backed:				
+7607.20.10	00  	Covered or decorated with a character, design, fancy effect or pattern	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22.5% 1/
+7607.20.50	00  	Other	
+kg
+Free 1/		23% 1/
+7608	 	Aluminum tubes and pipes:				
+7608.10.00	 	Of aluminum, not alloyed		5.7% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7608.10.00.30	30  	Seamless	
+kg
+7608.10.00.90	90  	Other	
+kg
+7608.20.00	 	Of aluminum alloys		5.7% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7608.20.00.30	30  	Seamless	
+kg
+7608.20.00.90	90  	Other	
+kg
+7609.00.00	00  	Aluminum tube or pipe fittings (for example, couplings, elbows, sleeves)	
+kg
+5.7% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7610	 	Aluminum structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridge-sections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminum plates, rods, profiles, tubes and the like, prepared for use in structures:				
+7610.10.00	 	Doors, windows and their frames and thresholds for doors		5.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7610.10.00.10	10  	Windows and their frames	
+kg
+7610.10.00.20	20  	Thresholds for doors	
+kg
+7610.10.00.30	30  	Other	
+kg
+7610.90.00	 	Other		5.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7610.90.00.20	20  	Sheet-metal roofing, siding, flooring, and roof guttering and drainage equipment	
+kg
+7610.90.00.40	40  	Architectural and ornamental work	
+kg
+ 	Other:				
+7610.90.00.60	60  	Mobile homes	
+kg
+7610.90.00.80	80  	Other	
+kg
+7611.00.00	 	Aluminum reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 liters, whether or not lined or heat insulated, but not fitted with mechanical or thermal equipment		2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7611.00.00.30	30  	Tanks	
+No.
+7611.00.00.90	90  	Other	
+No.
+7612	 	Aluminum casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 liters, whether or not lined or heat insulated, but not fitted with mechanical or thermal equipment:				
+7612.10.00	00  	Collapsible tubular containers	
+No.
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7612.90	 	Other:				
+7612.90.10	 	Of a capacity not exceeding 20 liters		5.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7612.90.10.30	30  	Cans of a capacity not exceeding 355 ml	
+No.
+7612.90.10.60	60  	Cans of a capacity exceeding 355 ml but less than 3.8 liters	
+No.
+7612.90.10.90	90  	Other	
+No.
+7612.90.50	00  	Other	
+No.
+Free 1/		25% 1/
+7613.00.00	00  	Aluminum containers for compressed or liquefied gas	
+No.
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+7614	 	Stranded wire, cables, plaited bands and the like, including slings and similar articles, of aluminum, not electrically insulated:				
+7614.10	 	With steel core:				
+7614.10.10	00  	Not fitted with fittings and not made up into articles	
+kg
+4.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7614.10.50	00  	Fitted with fittings or made up into articles	
+kg
+4.9% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7614.90	 	Other:				
+ 	Not fitted with fittings and not made up into articles:				
+7614.90.20	 	Electrical conductors		4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7614.90.20.30	30  	With a cross-sectional area less than 240 mm²	
+kg
+7614.90.20.60	60  	With a cross-sectional area greater than or equal to 240 mm²	
+kg
+7614.90.40	00  	Other	
+kg
+4.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7614.90.50	00  	Fitted with fittings or made up into articles	
+kg
+5.7% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7615	 	Table, kitchen or other household articles and parts thereof, of aluminum; pot scourers and scouring or polishing pads, gloves and the like, of aluminum; sanitary ware and parts thereof, of aluminum:				
+7615.10	 	Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like:				
+7615.10.11	00  	Pot scourers and scouring or polishing pads, gloves and the like	
+kg
+3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+ 	Other:				
+ 	Cooking and kitchen ware:				
+ 	Enameled or glazed or containing nonstick interior finishes:				
+7615.10.20	 	Cast		3.1%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+7615.10.20.15	15  	Bakeware (cookware not suitable for stove top use)	
+No.
+kg
+7615.10.20.25	25  	Other	
+No.
+kg
+7615.10.30	 	Other		3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+7615.10.30.15	15  	Bakeware (cookware not suitable for stove top use)	
+No.
+kg
+7615.10.30.25	25  	Other	
+No.
+kg
+ 	Not enameled or glazed and not containing nonstick interior finishes:				
+7615.10.50	 	Cast		3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+7615.10.50.20	20  	Bakeware (cookware not suitable for stove top use)	
+No.
+kg
+7615.10.50.40	40  	Other	
+No.
+kg
+7615.10.71	 	Other		3.1%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+7615.10.71.25	25  	Containers suitable for food preparation, baking, reheating or storage, 0.04 mm or more but not over 0.22 mm in thickness	
+No.
+kg
+ 	Other cookware:				
+7615.10.71.30	30  	Bakeware (cookware not suitable for stove top use)	
+No.
+kg
+7615.10.71.55	55  	Other	
+No.
+kg
+7615.10.71.80	80  	Other	
+No.
+kg
+7615.10.91	00  	Other	
+kg
+3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+7615.20.00	00  	Sanitary ware and parts thereof	
+kg
+3.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+7616	 	Other articles of aluminum:				
+7616.10	 	Nails, tacks, staples (other than those of heading 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers and similar articles:				
+7616.10.10	00  	Nails, tacks and staples	
+kg
+5.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7616.10.30	00  	Rivets	
+kg
+4.7% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7616.10.50	00  	Cotters and cotter pins	
+kg
+5.7% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+7616.10.70	 	Having shanks, threads or holes over 6 mm in diameter		5.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 2.75% (JP)	45%
+7616.10.70.30	30  	Threaded fasteners	
+kg
+7616.10.70.90	90  	Other	
+kg
+7616.10.90	 	Other		6% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7616.10.90.30	30  	Threaded fasteners	
+kg
+7616.10.90.90	90  	Other	
+kg
+ 	Other:				
+7616.91.00	00  	Cloth, grill, netting and fencing, of aluminum wire	
+kg
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7616.99	 	Other:				
+7616.99.10	00  	Luggage frames	
+kg
+Free 1/		45%
+7616.99.51	 	Other		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7616.99.51.20	20  	Laminated goods consisting of 2 or more flat-rolled sheets of aluminum held together with an adhesive or having a core of non-metallic material	
+kg
+7616.99.51.30	30  	Ladders	
+No.
+7616.99.51.40	40  	Venetian blinds and parts thereof	
+No.
+7616.99.51.50	50  	Hangers and supports for pipes and tubes	
+kg
+ 	Other:				
+7616.99.51.60	60  	Castings	
+kg
+7616.99.51.70	70  	Forgings	
+kg
+ 	Other:				
+7616.99.51.75	75  	Articles of wire	
+kg
+7616.99.51.90	90  	Other 1/	
+kg

@@ -1,0 +1,318 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+6801.00.00	00  	Setts, curbstones and flagstones, of natural stone (except slate)	
+t
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6802	 	Worked monumental or building stone (except slate) and articles thereof, other than goods of heading 6801; mosaic cubes and the like, of natural stone (including slate), whether or not on a backing; artificially colored granules, chippings and powder, of natural stone (including slate):				
+6802.10.00	00  	Tiles, cubes and similar articles, whether or not rectangular (including square), the largest face of which is capable of being enclosed in a square the side of which is less than 7 cm; artificially colored granules, chippings and powder	
+kg
+4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other monumental or building stone and articles thereof, simply cut or sawn, with a flat or even surface:				
+6802.21	 	Marble, travertine and alabaster:				
+6802.21.10	00  	Travertine	
+t
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+6802.21.50	00  	Other	
+t
+1.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13% 1/
+6802.23.00	00  	Granite	
+t
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6802.29	 	Other stone:				
+6802.29.10	00  	Calcareous stone, other than marble, travertine or alabaster	
+t
+4.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+6802.29.90	00  	Other	
+t
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other:				
+6802.91	 	Marble, travertine and alabaster:				
+ 	Marble:				
+6802.91.05	00  	Slabs	
+t
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15% 1/
+6802.91.15	00  	Other	
+t
+4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Travertine:				
+6802.91.20	00  	Articles of subheading 6802.21.10 that have been dressed or polished, but not further worked	
+t
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+6802.91.25	00  	Other	
+t
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+6802.91.30	00  	Alabaster	
+t
+4.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+6802.92.00	00  	Other calcareous stone	
+t
+4.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+6802.93.00	 	Granite		3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6802.93.00.10	10  	Articles for monumental or building purposes of subheading 6802.23.00, not cut to size, with only one face surface-worked more than simply cut or sawn	
+t
+ 	Articles for monumental or building purposes of subheading 6802.23.00, cut to size, with one or more faces or edges surface-worked more than simply cut or sawn:				
+6802.93.00.20	20  	With a maximum thickness of 1.5 cm	
+t
+6802.93.00.25	25  	With a maximum thickness greater than 1.5 cm but not greater than 7.5 cm	
+t
+ 	With a maximum thickness greater than 7.5 cm:				
+6802.93.00.35	35  	Monuments, bases and markers	
+t
+6802.93.00.60	60  	Other	
+t
+6802.93.00.90	90  	Other	
+t
+6802.99.00	 	Other stone		6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+6802.99.00.30	30  	Monuments, bases and markers	
+t
+ 	Other:				
+ 	Quartzite:				
+6802.99.00.50	50  	Slabs	
+t
+6802.99.00.70	70  	Other	
+t
+6802.99.00.90	90  	Other 1/	
+t
+6803.00	 	Worked slate and articles of slate or of agglomerated slate:				
+6803.00.10	00  	Roofing slate	
+m2
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+6803.00.50	00  	Other	
+t
+Free 1/		25% 1/
+6804	 	Millstones, grindstones, grinding wheels and the like, without frameworks, for grinding, sharpening, polishing, trueing or cutting, hand sharpening or polishing stones, and parts thereof, of natural stone, of agglomerated natural or artificial abrasives, or of ceramics, with or without parts of other materials:				
+6804.10.00	00  	Millstones and grindstones for milling, grinding or pulping	
+No.
+Free 1/		Free 1/
+ 	Other millstones, grindstones, grinding wheels and the like:				
+6804.21.00	 	Of agglomerated synthetic or natural diamond		Free 1/		30% 1/
+6804.21.00.10	10  	Segments for circular sawblades, consisting of diamond agglomerated with metal	
+No.
+6804.21.00.20	20  	Articles consisting of a continuous rim segment of diamond agglomerated with metal, attached to circular plates of steel (whether or not attached to non-steel plates)	
+No.
+6804.21.00.30	30  	Articles consisting of multiple segments of diamond agglomerated with metal, attached to circular plates of steel, without cutting parts (whether or not attached to non-steel plates)	
+No.
+6804.21.00.90	90  	Other	
+No.
+6804.22	 	Of other agglomerated abrasives or of ceramics:				
+6804.22.10	00  	Bonded with synthetic resins	
+kg
+5¢/kg + 2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg + 40%
+ 	Other:				
+6804.22.40	00  	Abrasive wheels	
+No.
+Free 1/		20%
+6804.22.60	00  	Other	
+kg
+Free 1/		30% 1/
+6804.23.00	00  	Of natural stone	
+No.
+Free 1/		Free 1/
+6804.30.00	00  	Hand sharpening or polishing stones	
+No.
+Free 1/		Free 1/
+6805	 	Natural or artificial abrasive powder or grain, on a base of textile material, of paper, of paperboard or of other materials, whether or not cut to shape or sewn or otherwise made up:				
+6805.10.00	00  	On a base of woven textile fabric only	
+kg
+Free 1/		20%
+6805.20.00	00  	On a base of paper or paperboard only	
+kg
+Free 1/		20%
+6805.30	 	On a base of other materials:				
+6805.30.10	00  	Articles wholly or partly coated with abrasives, in the form of sheets, strips, disks, belts, sleeves or similar forms	
+kg
+Free 1/		20% 1/
+6805.30.50	00  	Other	
+kg
+Free 1/		20% 1/
+6806	 	Slag wool, rock wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials; mixtures and articles of heat-insulating, sound-insulating or sound-absorbing mineral materials, other than those of heading 6811 or 6812, or of chapter 69:				
+6806.10.00	 	Slag wool, rock wool and similar mineral wools (including intermixtures thereof), in bulk, sheets or rolls		3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+6806.10.00.10	10  	Accoustical pads and boards	
+m2
+ 	Other:				
+6806.10.00.20	20  	Batts, not exceeding 61 cm in width	
+m2
+6806.10.00.40	40  	Batts, exceeding 61 cm in width	
+m2
+6806.10.00.60	60  	Pipe coverings	
+m2
+6806.10.00.90	90  	Other	
+m2
+6806.20.00	00  	Exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials (including intermixtures thereof)	
+kg
+Free 1/		30% 1/
+6806.90.00	 	Other		Free 1/		30%
+6806.90.00.10	10  	Accoustical pads and boards	
+m2
+ 	Other:				
+6806.90.00.20	20  	Of molded calcium silicate	
+m2
+6806.90.00.90	90  	Other	
+kg
+6807	 	Articles of asphalt or of similar material (for example, petroleum bitumen or coal tar pitch):				
+6807.10.00	00  	In rolls	
+kg
+Free 1/		30% 1/
+6807.90.00	 	Other		2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+6807.90.00.10	10  	Articles of a kind used for roofing or siding	
+kg
+6807.90.00.50	50  	Other	
+kg
+6808.00.00	00  	Panels, boards, tiles, blocks and similar articles of vegetable fiber, of straw or of shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders	
+m2
+kg
+Free 1/		20%
+6809	 	Articles of plaster or of compositions based on plaster:				
+ 	Boards, sheets, panels, tiles and similar articles, not ornamented:				
+6809.11.00	 	Faced or reinforced with paper or paperboard only		Free 1/		30%
+6809.11.00.10	10  	Of gypsum plaster	
+kg
+m2
+6809.11.00.80	80  	Other	
+kg
+m2
+6809.19.00	00  	Other	
+m2
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+6809.90.00	00  	Other articles	
+kg
+Free 1/		60%
+6810	 	Articles of cement, of concrete or of artificial stone, whether or not reinforced:				
+ 	Tiles, flagstones, bricks and similar articles:				
+6810.11.00	 	Building blocks and bricks		3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+6810.11.00.10	10  	Containing by weight more than 70 percent magnesia, expressed as MgO, with carbon content ranging from trace amounts to less than 30 percent, and chemically bonded by resin or pitch	
+m2
+6810.11.00.70	70  	Other	
+t
+6810.19	 	Other:				
+ 	Floor and wall tiles:				
+6810.19.12	00  	Of stone agglomerated with binders other than cement	
+m2
+4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+6810.19.14	00  	Other	
+m2
+9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6810.19.50	00  	Other	
+t
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other articles:				
+6810.91.00	00  	Prefabricated structural components for building or civil engineering	
+t
+Free 1/		30%
+6810.99.00	 	Other		Free 1/		30% 1/
+ 	Agglomerated quartz slabs of the type used for countertops:				
+6810.99.00.20	20  	In slabs of rectangular shape, with a length of 3 m or more and a width of 1.25 m or more	
+m2
+6810.99.00.40	40  	Other	
+m2
+6810.99.00.80	80  	Other	
+No.
+6811	 	Articles of asbestos-cement, of cellulose fiber-cement or the like:				
+6811.40.00	00  	Containing asbestos	
+kg
+Free 1/		2.2¢/kg
+ 	Not containing asbestos:				
+6811.81.00	00  	Corrugated sheets	
+kg
+Free 1/		2.2¢/kg
+6811.82.00	00  	Other sheets, panels, tiles and similar articles	
+kg
+Free 1/		2.2¢/kg 1/
+6811.89	 	Other articles:				
+6811.89.10	00  	Tubes, pipes and tube or pipe fittings	
+kg
+Free 1/		1.7¢/kg
+6811.89.90	00  	Other articles	
+kg
+Free 1/		2.2¢/kg
+6812	 	Fabricated asbestos fibers; mixtures with a basis of asbestos or with a basis of asbestos and magnesium carbonate; articles of such mixtures or of asbestos (for example, thread, woven fabric, clothing, headgear, footwear, gaskets), whether or not reinforced, other than goods of heading 6811 or 6813:				
+6812.80	 	Of crocidolite:				
+6812.80.10	00  	Footwear	
+kg
+8.3% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+6812.80.90	00  	Other	
+kg
+Free 1/		35%
+ 	Other:				
+ 	Clothing, clothing accessories, footwear and headgear:				
+6812.91.10	00  	Footwear	
+kg
+8.3% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+6812.91.90	00  	Other	
+kg
+Free 1/		35%
+6812.99	 	Other:				
+ 	Other:				
+6812.99.10	00  	Paper, millboard and felt	
+m2
+Free 1/		25%
+6812.99.20	00  	Compressed asbestos fiber jointing, in sheets or rolls	
+m2
+Free 1/		25%
+6812.99.90	00  	Other	
+m2
+Free 1/		25%
+6813	 	Friction material and articles thereof (for example, sheets, rolls, strips, segments, discs, washers, pads), not mounted, for brakes, for clutches or the like, with a basis of asbestos, of other mineral substances or of cellulose, whether or not combined with textile or other materials:				
+6813.20.00	 	Containing asbestos		Free 1/		25%
+ 	Brake linings and pads:				
+6813.20.00.10	10  	Articles for use in civil aircraft	
+No.
+6813.20.00.15	15  	Other	
+No.
+ 	Other:				
+6813.20.00.20	20  	Articles for use in civil aircraft:	
+No.
+6813.20.00.25	25  	Other	
+No.
+ 	Not containing asbestos:				
+6813.81.00	 	Brake linings and pads		Free 1/		25%
+6813.81.00.10	10  	Articles for use in civil aircraft, with a basis of mineral substances	
+No.
+6813.81.00.50	50  	Other	
+No.
+6813.89.00	 	Other		Free 1/		25%
+6813.89.00.10	10  	Articles for use in civil aircraft, with a basis of mineral substances	
+No.
+6813.89.00.50	50  	Other	
+No.
+6814	 	Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials:				
+6814.10.00	00  	Plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support	
+kg
+2.7% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+6814.90.00	00  	Other	
+kg
+2.6% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6815	 	Articles of stone or of other mineral substances (including carbon fibers, articles of carbon fibers and articles of peat), not elsewhere specified or included:				
+ 	Carbon fibers; articles of carbon fibers for non-electrical uses; other articles of graphite or other carbon for non-electrical uses:				
+6815.11.00	00  	Carbon fibers	
+kg
+Free 1/		45%
+6815.12.00	00  	Fabrics of carbon fibers	
+kg
+Free 1/		45%
+6815.13.00	00  	Other articles of carbon fibers	
+kg
+Free 1/		45%
+6815.19.00	00  	Other	
+kg
+Free 1/		45%
+6815.20.00	00  	Articles of peat	
+kg
+Free 1/		20%
+ 	Other articles:				
+6815.91.00	 	Containing magnesite, magnesia in the form of periclase, dolomite including in the form of dolime, or chromite		Free 1/		30%
+6815.91.00.11	11  	Containing by weight more than 70 percent magnesia, expressed as MgO, with carbon content ranging from trace amounts to less than 30 percent, and chemically bonded by resin or pitch	
+kg
+6815.91.00.71	71  	Other	
+kg
+6815.99	 	Other:				
+6815.99.20	00  	Talc, steatite and soapstone, cut or sawed, or in blanks, crayons, cubes, disks or other forms	
+kg
+Free 1/		2.2¢/kg
+6815.99.41	 	Other		Free 1/		30% 1/
+6815.99.41.10	10  	Containing by weight more than 70 percent magnesia, expressed as MgO, with carbon content ranging from trace amounts to less than 30 percent, and chemically bonded by resin or pitch	
+kg
+6815.99.41.70	70  	Other	
+kg

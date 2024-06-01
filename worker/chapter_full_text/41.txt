@@ -1,0 +1,608 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+4101	 	Raw hides and skins of bovine (including buffalo) or equine animals (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split:				
+4101.20	 	Whole hides and skins, unsplit, of a weight per skin not exceeding 8 kg when simply dried, 10 kg when dry-salted, or 16 kg when fresh, wet-salted or otherwise preserved:				
+4101.20.10	 	Not pretanned		Free 1/		10%
+4101.20.10.10	10  	Of bovine animals	
+pcs
+kg
+4101.20.10.20	20  	Of equine animals	
+pcs
+kg
+ 	Other:				
+ 	Of bovine animals (including buffalo):				
+ 	Of a unit surface area not exceeding 28 square feet (2.6 m2):				
+4101.20.20	00  	Upper and lining	
+pcs
+Free 1/		15%
+4101.20.30	00  	Other	
+pcs
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+ 	Other:				
+4101.20.35	00  	Of buffalo	
+pcs
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4101.20.40	00  	Vegetable pretanned	
+pcs
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4101.20.50	00  	Other	
+pcs
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4101.20.70	00  	Other	
+pcs
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4101.50	 	Whole hides and skins, of a weight exceeding 16 kg:				
+4101.50.10	 	Not pretanned		Free 1/		10%
+ 	Of bovine animals:				
+4101.50.10.10	10  	Cattle	
+pcs
+kg
+4101.50.10.20	20  	Other	
+pcs
+kg
+4101.50.10.91	91  	Of equine animals	
+pcs
+kg
+ 	Other:				
+ 	Of bovine animals (including buffalo):				
+ 	Of a unit surface area not exceeding 28 square feet (2.6 m2):				
+4101.50.20	00  	Upper and lining	
+pcs
+Free 1/		15%
+4101.50.30	00  	Other	
+pcs
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+ 	Other:				
+4101.50.35	00  	Of buffalo	
+pcs
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4101.50.40	00  	Vegetable pretanned	
+pcs
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4101.50.50	00  	Other	
+pcs
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4101.50.70	00  	Other	
+pcs
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4101.90	 	Other, including butts, bends and bellies:				
+4101.90.10	 	Not pretanned		Free 1/		10%
+ 	Of bovine animals:				
+ 	Fresh or wet-salted:				
+4101.90.10.10	10  	Butts and bends	
+pcs
+kg
+4101.90.10.20	20  	Other	
+pcs
+kg
+4101.90.10.30	30  	Other	
+pcs
+kg
+4101.90.10.40	40  	Of equine animals	
+pcs
+kg
+ 	Other:				
+ 	Of bovine animals (including buffalo):				
+4101.90.35	00  	Of buffalo	
+pcs
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4101.90.40	00  	Vegetable pretanned	
+pcs
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4101.90.50	00  	Other	
+pcs
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4101.90.70	00  	Other	
+pcs
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4102	 	Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment- dressed or further prepared), whether or not with wool on or split, other than those excluded by note 1(c) to this chapter:				
+4102.10	 	With wool on:				
+4102.10.10	00  	Not pretanned	
+pcs
+kg
+Free 1/		Free
+ 	Other:				
+4102.10.20	00  	Vegetable pretanned	
+pcs
+kg
+Free 1/		10%
+4102.10.30	00  	Other	
+pcs
+kg
+2%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Without wool on:				
+4102.21.00	 	Pickled		Free 1/		Free
+4102.21.00.65	65  	Not split	
+pcs
+kg
+4102.21.00.95	95  	Other	
+pcs
+kg
+4102.29	 	Other:				
+4102.29.10	 	Not pretanned		Free 1/		Free
+4102.29.10.10	10  	Hair sheep and cabretta skins	
+pcs
+kg
+4102.29.10.90	90  	Other	
+pcs
+kg
+ 	Other:				
+4102.29.20	00  	Vegetable pretanned	
+pcs
+kg
+Free 1/		10%
+4102.29.30	00  	Other	
+pcs
+kg
+2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4103	 	Other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split, other than those excluded by note 1(b) or 1(c) to this chapter:				
+4103.20	 	Of reptiles:				
+4103.20.10	00  	Not pretanned	
+pcs
+kg
+Free 1/		Free
+ 	Other:				
+4103.20.20	00  	Vegetable pretanned	
+pcs
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4103.20.30	00  	Other	
+pcs
+Free 1/		25%
+4103.30	 	Of swine:				
+4103.30.10	00  	Not pretanned	
+pcs
+kg
+Free 1/		Free
+4103.30.20	00  	Other	
+pcs
+4.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4103.90	 	Other:				
+4103.90.11	 	Not pretanned		Free 1/		Free
+4103.90.11.30	30  	Deer	
+pcs
+kg
+4103.90.11.40	40  	Of goats or kids	
+pcs
+kg
+4103.90.11.90	90  	Other	
+kg
+ 	Other:				
+ 	Of goats or kids:				
+4103.90.12	00  	Vegetable pretanned	
+pcs
+kg
+Free 1/		10%
+4103.90.13	00  	Other	
+pcs
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4103.90.20	00  	Other	
+kg
+3.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4104	 	Tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared:				
+ 	In the wet state (including wet-blue):				
+4104.11	 	Full grains, unsplit; grain splits:				
+ 	Whole bovine leather, of a unit surface area not exceeding 28 square feet (2.6 m2):				
+4104.11.10	 	Upper leather; lining leather		Free 1/		15%
+4104.11.10.20	20  	Upper leather	
+m2
+4104.11.10.40	40  	Lining leather	
+m2
+4104.11.20	00  	Other	
+m2
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+ 	Other:				
+4104.11.30	 	Buffalo		2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4104.11.30.10	10  	Upper leather	
+m2
+4104.11.30.60	60  	Other	
+m2
+ 	Other:				
+4104.11.40	 	Upper leather; sole leather		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4104.11.40.10	10  	Upper leather	
+m2
+4104.11.40.60	60  	Other	
+m2
+4104.11.50	 	Other		3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Wet blues:				
+4104.11.50.30	30  	Not split	
+pcs
+kg
+ 	Split:				
+4104.11.50.40	40  	Grains	
+pcs
+4104.11.50.70	70  	Other	
+kg
+4104.11.50.80	80  	Other	
+kg
+4104.19	 	Other:				
+ 	Whole bovine leather, of a unit surface area not exceeding 28 square feet (2.6 m2):				
+4104.19.10	 	Upper leather; lining leather		Free 1/		15%
+4104.19.10.20	20  	Upper leather	
+m2
+4104.19.10.40	40  	Lining leather	
+m2
+4104.19.20	00  	Other	
+m2
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+ 	Other:				
+4104.19.30	00  	Buffalo	
+m2
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4104.19.40	 	Upper leather; sole leather		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4104.19.40.10	10  	Upper leather	
+m2
+4104.19.40.60	60  	Other	
+m2
+4104.19.50	 	Other		3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Wet blues:				
+4104.19.50.30	30  	Not split	
+pcs
+kg
+ 	Split:				
+4104.19.50.40	40  	Grains	
+pcs
+4104.19.50.70	70  	Other	
+kg
+4104.19.50.80	80  	Other	
+kg
+ 	In the dry state (crust):				
+4104.41	 	Full grains, unsplit; grain splits:				
+ 	Whole bovine leather, of a unit surface area not exceeding 28 square feet (2.6 m2):				
+4104.41.10	 	Upper leather; lining leather		Free 1/		15%
+4104.41.10.20	20  	Upper leather	
+m2
+4104.41.10.40	40  	Lining leather	
+m2
+4104.41.20	00  	Other	
+m2
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+ 	Other:				
+4104.41.30	 	Buffalo		2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4104.41.30.10	10  	Upper leather	
+m2
+4104.41.30.60	60  	Other	
+m2
+ 	Other:				
+4104.41.40	 	Upper leather; sole leather		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4104.41.40.10	10  	Upper leather	
+m2
+4104.41.40.60	60  	Other	
+m2
+4104.41.50	00  	Other	
+m2
+3.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4104.49	 	Other:				
+ 	Whole bovine leather, of a unit surface area not exceeding 28 square feet (2.6 m2):				
+4104.49.10	 	Upper leather; lining leather		Free 1/		15%
+4104.49.10.20	20  	Upper leather	
+m2
+4104.49.10.40	40  	Lining leather	
+m2
+4104.49.20	00  	Other	
+m2
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+ 	Other:				
+4104.49.30	 	Buffalo		2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4104.49.30.10	10  	Upper leather	
+m2
+4104.49.30.60	60  	Other	
+m2
+ 	Other:				
+4104.49.40	 	Upper leather; sole leather		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4104.49.40.10	10  	Upper leather	
+m2
+4104.49.40.60	60  	Other	
+m2
+4104.49.50	00  	Other	
+m2
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4105	 	Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared:				
+4105.10	 	In the wet state (including wet-blue):				
+4105.10.10	00  	Wet blues	
+m2
+2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4105.10.90	00  	Other	
+m2
+2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4105.30.00	00  	In the dry state (crust)	
+m2
+2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4106	 	Tanned or crust skins of other animals, without wool or hair on, whether or not split, but not further prepared:				
+ 	Of goats or kids:				
+4106.21	 	In the wet state (including wet-blue):				
+4106.21.10	00  	Wet blues	
+m2
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4106.21.90	00  	Other	
+m2
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4106.22.00	00  	In the dry state (crust)	
+m2
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Of swine:				
+4106.31	 	In the wet state (including wet-blue):				
+4106.31.10	00  	Wet blues	
+m2
+4.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4106.31.90	00  	Other	
+m2
+4.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4106.32.00	00  	In the dry state (crust)	
+m2
+4.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4106.40.00	00  	Of reptiles	
+m2
+Free 1/		25%
+ 	Other:				
+4106.91.00	00  	In the wet state (including wet-blue)	
+m2
+3.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4106.92.00	00  	In the dry state (crust)	
+m2
+3.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107	 	Leather further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, whether or not split, other than leather of heading 4114:				
+ 	Whole hides and skins:				
+4107.11	 	Full grains, unsplit:				
+ 	Of bovines, and of a unit surface area not exceeding 28 square feet (2.6 m2):				
+4107.11.10	 	Upper leather; lining leather		Free 1/		15%
+4107.11.10.20	20  	Upper leather	
+m2
+4107.11.10.40	40  	Lining leather	
+m2
+ 	Other:				
+4107.11.20	00  	Not fancy	
+m2
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+4107.11.30	00  	Fancy	
+m2
+3.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other:				
+4107.11.40	00  	Buffalo	
+m2
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4107.11.50	00  	Upholstery leather	
+m2
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+4107.11.60	 	Upper leather; sole leather		3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.11.60.10	10  	Upper leather	
+m2
+4107.11.60.60	60  	Sole leather	
+m2
+ 	Other:				
+4107.11.70	 	Not fancy		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.11.70.30	30  	Belting	
+m2
+4107.11.70.40	40  	Glove and garment	
+m2
+4107.11.70.50	50  	Bag, case, strap and collar	
+m2
+4107.11.70.90	90  	Other	
+m2
+4107.11.80	00  	Fancy	
+m2
+2.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4107.12	 	Grain splits:				
+ 	Of bovines, and of a unit surface area not exceeding 28 square feet (2.6 m2):				
+4107.12.10	 	Upper leather; lining leather		Free 1/		15%
+4107.12.10.20	20  	Upper leather	
+m2
+4107.12.10.40	40  	Lining leather	
+m2
+ 	Other:				
+4107.12.20	00  	Not fancy	
+m2
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+4107.12.30	00  	Fancy	
+m2
+3.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other:				
+4107.12.40	00  	Buffalo	
+m2
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4107.12.50	00  	Upholstery leather	
+m2
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+4107.12.60	 	Upper leather; sole leather		3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.12.60.10	10  	Upper leather	
+m2
+4107.12.60.60	60  	Sole leather	
+m2
+ 	Other:				
+4107.12.70	 	Not fancy		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.12.70.30	30  	Belting	
+m2
+4107.12.70.40	40  	Glove and garment	
+m2
+4107.12.70.50	50  	Bag, case, strap and collar	
+m2
+4107.12.70.90	90  	Other	
+m2
+4107.12.80	00  	Fancy	
+m2
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4107.19	 	Other:				
+ 	Of bovines, and of a unit surface area not exceeding 28 square feet (2.6 m2):				
+4107.19.10	 	Upper leather; lining leather		Free 1/		15%
+4107.19.10.20	20  	Upper leather	
+m2
+4107.19.10.40	40  	Lining leather	
+m2
+ 	Other:				
+4107.19.20	00  	Not fancy	
+m2
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+4107.19.30	00  	Fancy	
+m2
+3.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other:				
+4107.19.40	00  	Buffalo	
+m2
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4107.19.50	00  	Upholstery leather	
+m2
+2.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+4107.19.60	 	Upper leather; sole leather		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.19.60.10	10  	Upper leather	
+m2
+4107.19.60.50	50  	Sole leather	
+m2
+kg
+ 	Other:				
+4107.19.70	 	Not fancy		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.19.70.30	30  	Belting	
+m2
+4107.19.70.40	40  	Glove and garment	
+m2
+4107.19.70.50	50  	Bag, case, strap and collar	
+m2
+4107.19.70.90	90  	Other	
+m2
+4107.19.80	00  	Fancy	
+m2
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other, including sides:				
+4107.91	 	Full grains, unsplit:				
+4107.91.40	00  	Buffalo	
+m2
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4107.91.50	00  	Upholstery leather	
+m2
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+4107.91.60	 	Upper leather; sole leather		3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.91.60.10	10  	Upper leather	
+m2
+4107.91.60.50	50  	Sole leather	
+m2
+ 	Other:				
+4107.91.70	 	Not fancy		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.91.70.30	30  	Belting	
+m2
+4107.91.70.40	40  	Glove and garment	
+m2
+4107.91.70.50	50  	Bag, case, strap and collar	
+m2
+4107.91.70.90	90  	Other	
+m2
+4107.91.80	00  	Fancy	
+m2
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4107.92	 	Grain splits:				
+4107.92.40	00  	Buffalo	
+m2
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4107.92.50	00  	Upholstery leather	
+m2
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+4107.92.60	 	Upper leather; sole leather		3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.92.60.10	10  	Upper leather	
+m2
+4107.92.60.50	50  	Sole leather	
+m2
+ 	Other:				
+4107.92.70	 	Not fancy		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.92.70.30	30  	Belting	
+m2
+4107.92.70.40	40  	Glove and garment	
+m2
+4107.92.70.50	50  	Bag, case, strap and collar	
+m2
+4107.92.70.90	90  	Other	
+m2
+4107.92.80	00  	Fancy	
+m2
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4107.99	 	Other:				
+4107.99.40	00  	Buffalo	
+m2
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4107.99.50	00  	Upholstery leather	
+m2
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+4107.99.60	 	Upper leather; sole leather		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.99.60.10	10  	Upper leather	
+m2
+4107.99.60.50	50  	Sole leather	
+m2
+ 	Other:				
+4107.99.70	 	Not fancy		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4107.99.70.30	30  	Belting	
+m2
+4107.99.70.40	40  	Glove and garment	
+m2
+4107.99.70.50	50  	Bag, case, strap and collar	
+m2
+4107.99.70.90	90  	Other	
+m2
+4107.99.80	00  	Fancy	
+m2
+2.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4112.00	 	Leather further prepared after tanning or crusting, including parchment-dressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 4114:				
+4112.00.30	 	Not fancy		2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4112.00.30.30	30  	Garment	
+m2
+4112.00.30.60	60  	Other	
+m2
+4112.00.60	00  	Fancy	
+m2
+2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4113	 	Leather further prepared after tanning or crusting, including parchment-dressed leather, of other animals, without wool or hair on, whether or not split, other than leather of heading 4114:				
+4113.10	 	Of goats or kids:				
+4113.10.30	00  	Not fancy	
+m2
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4113.10.60	00  	Fancy	
+m2
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4113.20.00	00  	Of swine	
+m2
+4.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4113.30	 	Of reptiles:				
+4113.30.30	00  	Not fancy	
+m2
+Free 1/		25%
+4113.30.60	00  	Fancy	
+m2
+Free 1/		30%
+4113.90	 	Other:				
+4113.90.30	00  	Not fancy	
+m2
+3.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4113.90.60	00  	Fancy	
+m2
+1.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4114	 	Chamois (including combination chamois) leather; patent leather and patent laminated leather; metallized leather:				
+4114.10.00	00  	Chamois (including combination chamois) leather	
+m2
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4114.20	 	Patent leather and patent laminated leather; metallized leather:				
+4114.20.30	00  	Patent leather	
+m2
+2.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+ 	Patent laminated leather; metallized leather:				
+4114.20.40	00  	Calf and kip	
+m2
+3.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4114.20.70	00  	Other	
+m2
+1.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4115	 	Composition leather with a basis of leather or leather fiber, in slabs, sheets or strip, whether or not in rolls; parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour:				
+4115.10.00	00  	Composition leather with a basis of leather or leather fiber, in slabs, sheets or strip, whether or not in rolls	
+kg
+Free 1/		10%
+4115.20.00	00  	Parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour	
+kg
+Free 1/		10%

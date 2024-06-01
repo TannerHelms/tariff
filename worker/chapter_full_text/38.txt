@@ -1,0 +1,694 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+3801	 	Artificial graphite; colloidal or semi-colloidal graphite; preparations based on graphite or other carbon in the form of pastes, blocks, plates or other semimanufactures:				
+3801.10	 	Artificial graphite:				
+3801.10.10	00  	Plates, rods, powder and other forms, wholly or partly manufactured, for manufacturing into brushes for electric generators, motors or other machines or appliances	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+3801.10.50	00  	Other 1/	
+kg
+Free 1/		10%
+3801.20.00	00  	Colloidal or semi-colloidal graphite	
+kg
+Free 1/		10% 1/
+3801.30.00	00  	Carbonaceous pastes for electrodes and similar pastes for furnace linings	
+kg
+4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3801.90.00	00  	Other 1/	
+kg
+4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+3802	 	Activated carbon; activated natural mineral products; animal black, including spent animal black:				
+3802.10.00	 	Activated carbon		4.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+3802.10.00.10	10  	Derived from coal	
+kg
+3802.10.00.20	20  	Derived from coconut	
+kg
+3802.10.00.50	50  	Other	
+kg
+3802.90	 	Other:				
+3802.90.10	00  	Bone black	
+kg
+5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+3802.90.20	00  	Activated clays and activated earths	
+kg
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.6¢/kg +30%
+3802.90.50	00  	Other	
+kg
+4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+3803.00.00	00  	Tall oil, whether or not refined	
+kg
+Free 1/		20%
+3804.00	 	Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulfonates, but excluding tall oil of heading 3803:				
+3804.00.10	00  	Lignin sulfonic acid and its salts	
+kg
+Free 1/		20%
+3804.00.50	00  	Other	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3805	 	Gum, wood or sulfate turpentine and other terpenic oils produced by the distillation or other treatment of coniferous woods; crude dipentene; sulfite turpentine and other crude para-cymene; pine oil containing alpha-terpineol as the main constituent:				
+3805.10.00	00  	Gum, wood or sulfate turpentine oils	
+liters
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5%
+3805.90	 	Other:				
+3805.90.10	00  	Pine oil	
+kg
+Free 1/		25%
+3805.90.50	00  	Other	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3806	 	Rosin and resin acids, and derivatives thereof; rosin spirit and rosin oils; run gums:				
+3806.10.00	 	Rosin and resin acids		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5%
+3806.10.00.10	10  	Gum rosin	
+kg
+3806.10.00.50	50  	Other	
+kg
+3806.20.00	00  	Salts of rosin, of resin acids or of derivatives of rosin or resin acids, other than salts of rosin adducts	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3806.30.00	00  	Ester gums	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 57%
+3806.90.00	00  	Other	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 57%
+3807.00.00	00  	Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers' pitch and similar preparations based on rosin, resin acids or on vegetable pitch	
+kg
+0.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.2%
+3808	 	Insecticides, rodenticides, fungicides, herbicides, antisprouting products and plant-growth regulators, disinfectants and similar products, put up in forms or packings for retail sale or as preparations or articles (for example, sulfur-treated bands, wicks and candles, and flypapers):				
+ 	Good specified in subheading note 1 to this chapter:				
+3808.52.00	00  	DDT (ISO) (clofenatone (INN)), in packings of a net weight content not exceeding 300 g	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 31%
+3808.59	 	Other:				
+3808.59.10	00  	Containing any aromatic or modified aromatic pesticide	
+kg
+6.5%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 31%
+ 	Other:				
+3808.59.40	00  	Disinfectants	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.59.50	00  	Other	
+kg
+5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Good specified in subheading note 2 to this chapter:				
+3808.61	 	In packings of a net weight content not exceeding 300 g:				
+3808.61.10	00  	Containing any aromatic or modified aromatic pesticide	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 31%
+3808.61.50	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.62	 	In packings of a net weight content exceeding 300 g but not exceeding 7.5 kg:				
+3808.62.10	00  	Containing any aromatic or modified aromatic pesticide	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 31%
+3808.62.50	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.69	 	Other:				
+3808.69.10	00  	Containing any aromatic or modified aromatic pesticide	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 31%
+3808.69.50	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+3808.91	 	Insecticides:				
+3808.91.10	00  	Fly ribbons (ribbon fly catchers)	
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+ 	Containing any aromatic or modified aromatic insecticide:				
+3808.91.15	00  	Mixtures of N-[[(4-chlorophenyl)amino]- carbonyl]-2,6-difluorobenzamide and inert substances	
+kg
+Free 1/		15.4¢/kg + 31%
+3808.91.25	01  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 31%
+3808.91.30	00  	Containing an inorganic substance	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.91.50	01  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.92	 	Fungicides:				
+ 	Containing any aromatic or modified aromatic fungicide:				
+3808.92.05	00  	Mixtures of dinocap and application adjuvants	
+kg
+Free 1/		15.4¢/kg + 31%
+3808.92.15	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 31%
+ 	Other:				
+ 	Containing any fungicide which is a thioamide, thiocarbamate, dithiocarbamate, thiuram or isothiocyanate:				
+3808.92.24	00  	Maneb; Zineb; Mancozeb; and Metiram	
+kg
+Free 1/		25%
+3808.92.28	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+3808.92.30	00  	Containing an inorganic substance	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.92.50	 	Other		5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.92.50.40	40  	Formulated fungicides containing any 3-iodoprop-2-yn-1-yl butylcarbamate(IPBC)	
+kg
+3808.92.50.80	80  	Other	
+kg
+3808.93	 	Herbicides, anti-sprouting products and plant-growth regulators:				
+ 	Containing any aromatic or modified aromatic herbicide, anti-sprouting agent or plant-growth regulator:				
+3808.93.05	00  	Mixtures of 2,6-dichlorobenzonitrile and inerts; Mixtures of 3,5-dichloro-N-(1,1-dimethyl-2- propynyl) benzamide (Pronamide) and application adjuvants; Mixtures of 2-[(1-ethoxyimino)butyl]-5-[2- ethylthiopropyl]-3-hydroxy-2-cyclohexen-1- one (Sethoxydim) and application adjuvants; Mixtures of ethyl 2-[4-[(6-chloro-2- benzoxazolyl)oxy]phenoxy]propanoate (Fenoxaprop-ethyl) and isooctyl 2,4-dichlorophenoxyacetate; Mixtures of isooctyl 2-methyl-4-chlorophen- oxyacetate and application adjuvants	
+kg
+Free 1/		15.4¢/kg + 31%
+3808.93.15	00  	Other 1/	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 31%
+ 	Other:				
+3808.93.20	00  	Containing an inorganic substance	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.93.50	 	Other		5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.93.50.10	10  	Mixtures of 2-amino-4-[hydroxy(methyl)phosphonoyl] butanoic acid (glufosinate) or its salts or esters and application adjuvants	
+kg
+3808.93.50.20	20  	Mixtures of N-(phosphonomethyl) glycine (glyphosate) or its salts or esters and application adjuvants	
+kg
+3808.93.50.40	40  	Other	
+kg
+3808.94	 	Disinfectants:				
+3808.94.10	00  	Containing any aromatic or modified aromatic disinfectant 1/	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 31%
+3808.94.50	 	Other		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.94.50.10	10  	Wipes, other than paper wipes or nonwoven wipes, impregnated with alcohol or other disinfectants 1/	
+kg
+3808.94.50.50	50  	Hydrogen peroxide put up in disinfectant preparations for sanitizing or disinfecting surfaces.	
+kg
+3808.94.50.80	80  	Alcohol-based hand sanitizer containing 60 percent or more by weight of ethanol, of a kind described in statistical note 1 to this chapter	
+kg
+3808.94.50.95	95  	Other	
+kg
+3808.99	 	Other:				
+ 	Containing any aromatic or modified aromatic pesticide:				
+3808.99.04	00  	Mixtures of 1,1-bis(4-chlorophenyl)-2,2,2- trichloroethanol (Dicofol) and application adjuvants	
+kg
+Free 1/		15.4¢/kg + 31%
+3808.99.08	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 31%
+ 	Other:				
+3808.99.30	00  	Formulated biocides based on 2-methyl-4-isothiazolin-3-one, or 2-n-octyl-4-isothiazolin-3-one, or 4,5-dichloro-2-n-octyl-4-isothiazolin-3-one, or mixtures of 5-chloro-2-methyl-4- isothiazolin-3-one and 2-methyl-4- isothiazolin-3-one; and Metaldehyde	
+kg
+Free 1/		25%
+ 	Other:				
+3808.99.70	00  	Containing an inorganic substance	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3808.99.95	01  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3809	 	Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations (for example, dressings and mordants), of a kind used in the textile, paper, leather or like industries, not elsewhere specified or included:				
+3809.10.00	00  	With a basis of amylaceous substances	
+kg
+2.2¢/kg + 3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg + 25%
+ 	Other:				
+3809.91.00	00  	Of a kind used in the textile or like industries	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3% (JP)	25%
+3809.92	 	Of a kind used in the paper or like industries:				
+3809.92.10	00  	Containing 5 percent or more by weight of one or more aromatic or modified aromatic substances	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+3809.92.50	00  	Other	
+kg
+6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3809.93	 	Of a kind used in the leather or like industries:				
+3809.93.10	00  	Containing 5 percent or more by weight of one or more aromatic or modified aromatic substances	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+3809.93.50	00  	Other	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3810	 	Pickling preparations for metal surfaces; fluxes and other auxiliary preparations for soldering, brazing or welding; soldering, brazing or welding powders and pastes consisting of metal and other materials; preparations of a kind used as cores or coatings for welding electrodes or rods:				
+3810.10.00	00  	Pickling preparations for metal surfaces; soldering, brazing or welding powders and pastes consisting of metal and other materials	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3810.90	 	Other:				
+3810.90.10	00  	Containing 5 percent or more by weight of one or more aromatic or modified aromatic substances	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3810.90.20	00  	Consisting wholly of inorganic substances	
+kg
+Free 1/		25%
+3810.90.50	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3811	 	Antiknock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils (including gasoline) or for other liquids used for the same purposes as mineral oils:				
+ 	Antiknock preparations:				
+3811.11	 	Based on lead compounds:				
+3811.11.10	00  	Based on tetraethyl lead or on a mixture of tetraethyl lead and tetramethyl lead	
+kg
+Free 1/		30%
+3811.11.50	00  	Other	
+kg
+Free 1/		25%
+3811.19.00	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+ 	Additives for lubricating oils:				
+3811.21.00	00  	Containing petroleum oils or oils obtained from bituminous minerals	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+3811.29.00	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3811.90.00	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3812	 	Prepared rubber accelerators; compound plasticizers for rubber or plastics, not elsewhere specified or included; antioxidizing preparations and other compound stabilizers for rubber or plastics:				
+3812.10	 	Prepared rubber accelerators:				
+3812.10.10	00  	Containing any aromatic or modified aromatic rubber accelerator	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3812.10.50	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3812.20	 	Compound plasticizers for rubber or plastics:				
+3812.20.10	00  	Containing any aromatic or modified aromatic plasticizer	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 57%
+3812.20.50	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Anti-oxidizing preparations and other compound stabilizers for rubber or plastics:				
+3812.31.00	00  	Mixtures of oligomers of 2,2,4-trimethyl-1,2-dihydroquinoline (TMQ)	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3812.39	 	Other:				
+ 	Containing any aromatic or modified aromatic antioxidant or other stabilizer:				
+3812.39.20	00  	Mixtures of N,N'-diaryl-p-phenylenediamines	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3812.39.30	00  	Master batches of poly[nitrilomethanetetraaryl- nitrilo[2,4,6- tris(1-methylethyl)-1,3- phenylene]]-2,6-bis(1-methylethyl)phenyl]-ω- [[[[2,6-bis(1-methylethyl)phenyl]amino]- methylene]amino]carbodiimide or 2,4-diisocyanate-1,3,5-tris(1-methylethyl)- benzene homopolymer with polyethylene, polyethylene terephthalate, or thermoplastic polyurethanes;Master batches of 3-(2H-benzotriazol-2-yl)-5- (tert-butyl)-4-hydroxybenzenepropanoic acid, C7-C9 branched or linear alkyl esters; andMaster batches of α-[3-[3-(2H-benzotriazol-2- yl)-5-(1,1-dimethylethyl)-4-hydroxyphenyl]-1- oxopropyl-ω-[3-[3-(2H-benzotriazol-2-yl)-5- (1,1-dimethylethyl)-4-hydroxyphenyl]-1-oxo- propyl] poly(oxyethylene)	
+kg
+Free 1/		3.7¢/kg + 60%
+3812.39.60	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+ 	Other:				
+3812.39.70	00  	Bis(1,2,2,6,6-pentamethyl-4-piperidinyl) sebacate	
+kg
+Free 1/		25%
+3812.39.90	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3813.00	 	Preparations and charges for fire extinguishers; charged fire-extinguishing grenades:				
+3813.00.10	00  	Consisting wholly of inorganic substances	
+kg
+Free 1/		25%
+3813.00.50	00  	Other	
+kg
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+3814.00	 	Organic composite solvents and thinners, not elsewhere specified or included; prepared paint or varnish removers:				
+3814.00.10	00  	Containing 5 percent or more but not more than 25 percent by weight of one or more aromatic or modified aromatic substances	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3814.00.20	00  	Containing more than 25 percent by weight of one or more aromatic or modified aromatic substances	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 43.5%
+3814.00.50	 	Other		6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3814.00.50.10	10  	Containing methyl chloroform (1,1,1-trichloro- ethane) or carbon tetrachloride	
+kg
+3814.00.50.90	90  	Other	
+kg
+3815	 	Reaction initiators, reaction accelerators and catalytic preparations, not elsewhere specified or included:				
+ 	Supported catalysts:				
+3815.11.00	00  	With nickel or nickel compounds as the active substance 1/	
+kg
+Free 1/		25%
+3815.12.00	00  	With precious metal or precious metal compounds as the active substance	
+kg
+Free 1/		25%
+3815.19.00	00  	Other 1/	
+kg
+Free 1/		25% 1/
+3815.90	 	Other:				
+ 	Consisting wholly of inorganic substances:				
+3815.90.10	00  	Of bismuth, of tungsten or of vanadium	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3815.90.20	00  	Of mercury or of molybdenum	
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18%
+3815.90.30	00  	Other	
+kg
+Free 1/		25%
+3815.90.50	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3816	 	Refractory cements, mortars, concretes and similar compositions, including dolomite ramming mix, other than products of heading 3801:				
+3816.00.10	00  	Dolomite ramming mix	
+t
+Free 1/		30%
+3816.00.20	 	Other		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3816.00.20.10	10  	Clay	
+kg
+3816.00.20.50	50  	Other	
+kg
+3817	 	Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of heading 2707 or 2902:				
+ 	Mixed alkylbenzenes:				
+3817.00.10	00  	Mixed linear alkylbenzenes	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 55%
+3817.00.15	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 55%
+3817.00.20	00  	Mixed alkylnaphthalenes	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3818.00.00	 	Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics		Free 1/		25% 1/
+3818.00.00.10	10  	Gallium arsenide wafers, doped	
+kg
+3818.00.00.90	90  	Other	
+kg
+3819.00.00	 	Hydraulic brake fluids and other prepared liquids for hydraulic transmission, not containing or containing less than 70 percent by weight of petroleum oils or oils obtained from bituminous minerals		6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3819.00.00.10	10  	Hydraulic brake fluids	
+kg
+3819.00.00.90	90  	Other	
+kg
+3820.00.00	00  	Antifreezing preparations and prepared deicing fluids	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	63%
+3821.00.00	 	Prepared culture media for development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells		5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3821.00.00.10	10  	Viral transport media	
+kg
+3821.00.00.90	90  	Other	
+kg
+3822	 	Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits, other than those of heading 3006; certified reference materials:				
+ 	Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits:				
+3822.11.00	00  	For malaria	
+kg
+Free		Free
+3822.12.00	00  	For Zika and other diseases transmitted by mosquitoes of the genus Aedes	
+kg
+Free		Free
+3822.13.00	00  	For blood-grouping	
+kg
+Free		Free
+3822.19.00	 	Other		Free		25%
+ 	Containing antigens or antisera:				
+3822.19.00.10	10  	Containing methyl chloroform (1,1,1-trichloroethane) or carbon tetrachloride	
+kg
+3822.19.00.30	30  	Other	
+kg
+ 	Other:				
+3822.19.00.40	40  	Containing methyl chloroform (1,1,1-trichloroethane) or carbon tetrachloride	
+kg
+3822.19.00.80	80  	Other	
+kg
+3822.90.00	00  	Certified reference materials	
+kg
+Free		25%
+3823	 	Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols:				
+ 	Industrial monocarboxylic fatty acids; acid oils from refining:				
+3823.11.00	00  	Stearic acid	
+kg
+2.1¢/kg + 3.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg + 25%
+3823.12.00	00  	Oleic acid	
+kg
+2.1¢/kg + 3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg + 20%
+3823.13.00	 	Tall oil fatty acids		3.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+3823.13.00.20	20  	Containing less than two percent rosin	
+kg
+3823.13.00.40	40  	Other	
+kg
+3823.19	 	Other:				
+3823.19.20	00  	Derived from coconut, palm-kernel or palm oil	
+kg
+2.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+3823.19.40	00  	Other	
+kg
+3.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+3823.70	 	Industrial fatty alcohols:				
+ 	Derived from fatty substances of animal or vegetable origin:				
+3823.70.20	00  	Oleyl	
+kg
+5.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	39.5%
+3823.70.40	00  	Other	
+kg
+2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3823.70.60	00  	Other	
+kg
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3824	 	Prepared binders for foundry molds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included:				
+3824.10.00	00  	Prepared binders for foundry molds or cores	
+kg
+6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3824.30.00	00  	Nonagglomerated metal carbides mixed together or with metallic binders	
+kg
+3.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3824.40	 	Prepared additives for cements, mortars or concretes:				
+3824.40.10	00  	Containing 5 percent or more by weight of one or more aromatic or modified aromatic substances	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3824.40.20	00  	Consisting wholly of inorganic substances	
+kg
+Free 1/		25%
+3824.40.50	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3824.50.00	 	Nonrefractory mortars and concretes		Free 1/		20%
+3824.50.00.10	10  	Wet	
+t
+3824.50.00.50	50  	Other	
+t
+3824.60.00	00  	Sorbitol other than that of subheading 2905.44	
+kg
+4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Goods specified in subheading note 3 to this chapter:				
+3824.81.00	00  	Containing oxirane (ethylene oxide)	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3824.82	 	Containing polychlorinated biphenyls (PCBs), polychlorinated terphenyls ({PCTs) or polybrominated biphenyls (PBBs):				
+3824.82.10	00  	Chlorinated but not otherwise halogenated	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	114.5%
+3824.82.90	00  	Other	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3824.83.00	00  	Containing tris(2,3-dibromopropyl) phospate	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3824.84.00	00  	Containing aldrin (ISO), camphechlor (ISO) (toxaphene), chlordane (ISO), chlordecone (ISO), DDT (ISO) (clofenatone (INN)), 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane), dieldrin (ISO INN), endosulfan (ISO), endrin (ISO), heptachlor (ISO) or mirex (ISO)	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	114.5%
+3824.85.00	00  	Containing 1,2,3,4,5,6-hexachlorocyclohexane (HCH (ISO)), including lindane (ISO,INN)	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	114.5%
+3824.86.00	00  	Containing pentachlorobenzene (ISO) or hexachlorobenzene (ISO)	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3824.87.00	00  	Containing perfluorooctane sulfonic acid, its salts, perfluorooctane sulfonamides, or perfluorooctane sulfonyl fluoride	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3824.88.00	00  	Containing tetra-, penta-, hexa-, hepta-, or octabromodiphenyl ethers	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3824.89.00	00  	Containing short-chain chlorinated paraffins	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+3824.91.00	00  	Mixtures and preparations consisting mainly of (5-ethyl-2-methyl-2-oxido3,2-dioxaphosphinan-5-yl)methyl methylphosphonate and bis(5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl methylphosphonate	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3824.92.00	00  	Polyglycol esters of methylphosphonic acid.	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, JP, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3824.99	 	Other:				
+ 	Cultured crystals (other than optical elements of chapter 90), weighing not less than 2.5 g each:				
+3824.99.11	00  	In the form of ingots	
+kg
+Free 1/		25% 1/
+3824.99.19	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Other:				
+ 	Mixtures containing 5 percent or more by weight of one or more aromatic or modified aromatic substances:				
+3824.99.21	00  	Consisting wholly of substances found naturally in coal tar, whether obtained from coal tar or other source	
+kg
+Free 1/		Free
+3824.99.25	00  	Aqueous mixtures of triphenyl sulfonium chloride, diphenyl (4-phenylthio)phenyl sulfonium chloride and (thiodi-4,1- phenylene)bis(diphenyl sulfonium) dichloride	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+3824.99.26	00  	Benzene, 2,4-diisocyanate-1,3,5-tris(1- methylethyl) homopolymer; 5-Fluoro-2-methyl-1-[[4-(methylsulfinyl)- phenyl]methylene]-1H-indene;Mixtures of dimethyl phthalate, t-butanol, hydrogen peroxide, and sodium salicylate; andMixtures containing derivatives of N-[4-(2- hydroxy-3-phenoxypropoxy)phenyl]- acetamide	
+kg
+Free 1/		3.7¢/kg + 60%
+3824.99.29	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+ 	Mixtures of two or more inorganic compounds:				
+3824.99.31	00  	Of bismuth	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3824.99.32	00  	Of hydrosulfite compounds, of sulfoxylate compounds, or of both	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3824.99.33	00  	Of mercury	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	26.3%
+3824.99.34	00  	Of molybdenum	
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18%
+3824.99.35	00  	Of tungsten	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+3824.99.36	00  	Of vanadium	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3824.99.39	00  	Other	
+kg
+Free 1/		25%
+3824.99.41	 	Fatty substances of animal or vegetable origin and mixtures thereof		4.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	16.5¢/kg + 30%
+3824.99.41.40	40  	Mixtures of fatty acid esters	
+kg
+3824.99.41.90	90  	Other	
+kg
+ 	Other:				
+3824.99.49	00  	Mixtures that are in whole or in part of hydrocarbons derived in whole or in part from petroleum, shale oil or natural gas	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Mixtures of halogenated hydrocarbons:				
+3824.99.50	00  	Chlorinated but not otherwise halogenated	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	114.5%
+3824.99.55	00  	Other	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+3824.99.70	00  	Mixtures of dibromo neopentyl glycol; Polydibromophenylene oxide; Tetrabromobisphenol-A-carbonate oligomers; and Electroplating chemical and electroless plating solutions and other materials for printed circuit boards, plastics and metal finishings	
+kg
+Free 1/		25%
+3824.99.75	 	Naphthenic acids, their water-insoluble salts and their esters		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3824.99.75.10	10  	Naphthenic acids	
+kg
+3824.99.75.50	50  	Other	
+kg
+3824.99.93	 	Other		5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, JP, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Mixtures of acyclic, monohydric, unsubstituted alcohols:				
+3824.99.93.10	10  	Containing C11 or lower alcohols only	
+kg
+3824.99.93.20	20  	Containing C12 or higher alcohols only	
+kg
+3824.99.93.30	30  	Other	
+kg
+3824.99.93.61	61  	Mixtures consisting mainly of chemicals containing a phosphorus atom to which is bonded one methyl, ethyl, n-propyl or isopropyl group, but no other carbon atoms	
+kg
+3824.99.93.86	86  	Mixtures of a kind containing magnesium used as a desulfurization reagent	
+kg
+3824.99.93.97	97  	Other 1/	
+kg
+3825	 	Residual products of the chemical or allied industries, not elsewhere specified or included; municipal waste; sewage sludge; other wastes specified in note 6 to this chapter:				
+3825.10.01	00  	Municipal waste	
+kg
+Free 1/		Free
+3825.20.00	00  	Sewage sludge	
+kg
+Free 1/		Free
+3825.30.00	00  	Clinical waste	
+kg
+Free 1/		Free
+ 	Waste organic solvents:				
+3825.41.00	00  	Halogenated	
+kg
+Free 1/		Free
+3825.49.00	00  	Other	
+kg
+Free 1/		Free
+3825.50.00	00  	Wastes of metal-pickling liquors, hydraulic fluids, brake fluids and anti-freeze fluids	
+kg
+Free 1/		Free
+ 	Other wastes from the chemical or allied industries:				
+3825.61.00	00  	Mainly containing organic constituents	
+kg
+Free 1/		Free
+3825.69.00	00  	Other	
+kg
+Free 1/		Free
+3825.90.01	00  	Other	
+kg
+Free 1/		Free
+3826.00	 	Biodiesel and mixtures thereof, not containing or containing less than 70 percent by weight of petroleum oils or oils obtained from bituminous materials:				
+3826.00.10	00  	Biodiesel not containing petroleum oils or oils obtained from bituminous materials (B100)	
+kg
+4.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	16.5¢/kg + 30%
+3826.00.30	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827	 	Mixtures containing halogenated derivatives of methane, ethane or propane, not elsewhere specified or included:				
+ 	Containing chlorofluorocarbons (CFCs), whether or not containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs); containing hydrobromofluorocarbons (HBFCs); containing carbon tetrachloride; containing 1,1,1-trichloroethane (methyl chloroform):				
+3827.11.00	00  	Containing chlorofluorocarbons (CFCs), whether or not containing hydrochlorofluorocarbons (HCFCs), perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs)	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.12.00	00  	Containing hydrobromofluorocarbons (HBFCs)	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.13.00	00  	Containing carbon tetrachloride	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	114.5%
+3827.14.00	00  	Containing 1,1,1-trichloroethane (methyl chloroform)	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	114.5%
+3827.20.00	00  	Containing bromochlorodifluoromethane (Halon-1211), bromotrifluoromethane (Halon-1301) or dibromotetrafluoroethanes (Halon-2402)	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Containing hydrochlorofluorocarbons (HCFCs), whether or not containing perfluorocarbons (PFCs) or hydrofluorocarbons (HFCs), but not containing chlorofluorocarbons (CFCs):				
+3827.31.00	00  	Containing substances of subheadings 2903.41 to 2903.48	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.32.00	00  	Other, containing substances of subheadings 2903.71 to 2903.75	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.39.00	00  	Other	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.40.00	00  	Containing methyl bromide (bromomethane) or bromochloromethane	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Containing trifluoromethane (HFC-23) or perfluorocarbons (PFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs):				
+3827.51.00	00  	Containing trifluoromethane (HFC-23)	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.59.00	00  	Other	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Containing other hydrofluorocarbons (HFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs):				
+3827.61.00	00  	Containing 15 percent or more by mass of 1,1,1-trifluoroethane (HFC-143a)	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.62.00	00  	Other, not included in the subheading above, containing 55 percent or more by mass of pentafluoroethane (HFC- 125) but not containing unsaturated fluorinated derivatives of acyclic hydrocarbons (HFOs) 1/	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.63.00	00  	Other, not included in the subheadings above, containing 40 percent or more by mass of pentafluoroethane (HFC-125)	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.64.00	00  	Other, not included in the subheadings above, containing 30 percent or more by mass of 1,1,1,2-tetrafluoroethane (HFC-134a) but not containing unsaturated fluorinated derivatives of acyclic hydrocarbons (HFOs)	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.65.00	00  	Other, not included in the subheadings above, containing 20 percent or more by mass of difluoromethane (HFC-32) and 20 percent or more by mass of pentafluoroethane (HFC-125)	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.68.00	00  	Other, not included in the subheadings above, containing substances of subheadings 2903.41 to 2903.48	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.69.00	00  	Other	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3827.90	 	Other:				
+3827.90.10	00  	Chlorinated but not otherwise halogenated	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	114.5%
+3827.90.90	00  	Other	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 

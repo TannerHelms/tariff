@@ -1,0 +1,334 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+6001	 	Pile fabrics, including "long pile" fabrics and terry fabrics, knitted or crocheted:				
+6001.10	 	"Long pile" fabrics:				
+6001.10.20	00  	Of man-made fibers (224) 1/	
+m2
+kg
+17.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+6001.10.60	00  	Other (224)	
+m2
+kg
+9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Looped pile fabrics:				
+6001.21.00	00  	Of cotton (224)	
+m2
+kg
+9.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+6001.22.00	00  	Of man-made fibers (224)	
+m2
+kg
+17.2%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+6001.29.00	00  	Of other textile materials (414)	
+kg
+7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+ 	Other:				
+6001.91.00	 	Of cotton		18.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	70%
+6001.91.00.10	10  	Over 271 grams per square meter (224)	
+m2
+kg
+6001.91.00.20	20  	Other (224)	
+m2
+kg
+6001.92.00	 	Of man-made fibers		17.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	79.5%
+ 	Over 271 grams per square meter:				
+6001.92.00.10	10  	Velour (224)	
+m2
+kg
+6001.92.00.20	20  	Other (224)	
+m2
+kg
+ 	Other:				
+6001.92.00.30	30  	Velour (224)	
+m2
+kg
+6001.92.00.40	40  	Other (224)	
+m2
+kg
+6001.99	 	Of other textile materials:				
+6001.99.10	00  	Containing 85 percent or more by weight of silk or silk waste	
+m2
+kg
+4% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+6001.99.90	00  	Other (414)	
+m2
+kg
+7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+6002	 	Knitted or crocheted fabrics of a width not exceeding 30 cm, containing by weight 5 percent or more of elastomeric yarn or rubber thread, other than those of heading 6001:				
+6002.40	 	Containing by weight 5 percent or more of elastomeric yarn but not containing rubber thread:				
+6002.40.40	00  	Of cotton (222)	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+6002.40.80	 	Other		8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6002.40.80.20	20  	Open-work fabrics, warp knit (222)	
+kg
+6002.40.80.80	80  	Other (222)	
+kg
+6002.90	 	Other:				
+6002.90.40	00  	Of cotton (222)	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+6002.90.80	 	Other		8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6002.90.80.20	20  	Open-work fabrics, warp knit (222)	
+kg
+6002.90.80.80	80  	Other (222)	
+kg
+6003	 	Knitted or crocheted fabrics of a width not exceeding 30 cm, other than those of heading 6001 or 6002:				
+6003.10	 	Of wool or fine animal hair:				
+6003.10.10	00  	Open-work fabrics, warp knit (229)	
+kg
+14.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6003.10.90	00  	Other (899)	
+kg
+6.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	59%
+6003.20	 	Of cotton:				
+6003.20.10	00  	Open-work fabrics, warp knit (229)	
+kg
+14.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6003.20.30	00  	Other (222)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+6003.30	 	Of synthetic fibers:				
+6003.30.10	00  	Open-work fabrics, warp knit (229)	
+kg
+14.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6003.30.60	00  	Other (222)	
+kg
+7.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6003.40	 	Of artificial fibers:				
+6003.40.10	00  	Open-work fabrics, warp knit (229)	
+kg
+14.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6003.40.60	00  	Other (222) 1/	
+kg
+7.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6003.90	 	Other:				
+6003.90.10	00  	Open-work fabrics, warp knit (229)	
+kg
+14.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6003.90.90	00  	Other (899)	
+kg
+6.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	59%
+6004	 	Knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 5 percent or more of elastomeric yarn or rubber thread, other than those of heading 6001:				
+6004.10.00	 	Containing by weight 5 percent or more of elastomeric yarn but not containing rubber thread		12.3% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+ 	Warp knit:				
+6004.10.00.10	10  	Open-work figured fabrics (222)	
+kg
+6004.10.00.25	25  	Other (222)	
+kg
+6004.10.00.85	85  	Other (222)	
+kg
+6004.90	 	Other:				
+6004.90.20	 	Containing elastomeric yarn and rubber thread		12.3% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+ 	Warp knit:				
+6004.90.20.10	10  	Open-work figured fabrics (222)	
+kg
+6004.90.20.25	25  	Other (222)	
+kg
+6004.90.20.85	85  	Other (222)	
+kg
+6004.90.90	00  	Other (222)	
+kg
+7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6005	 	Warp knit fabrics (including those made on galloon knitting machines), other than those of headings 6001 to 6004:				
+ 	Of cotton:				
+6005.21.00	00  	Unbleached or bleached (222)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6005.22.00	00  	Dyed (222)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6005.23.00	00  	Of yarns of different colors (222)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6005.24.00	00  	Printed (222)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Of synthetic fibers:				
+6005.35.00	00  	Fabrics specified in subheading note 1 to this chapter	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6005.36.00	 	Other, unbleached or bleached		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6005.36.00.10	10  	Open-work fabrics (229)	
+kg
+ 	Other:				
+6005.36.00.20	20  	Stitch-bonded goods (223)	
+kg
+6005.36.00.80	80  	Other (222)	
+kg
+6005.37.00	 	Other, dyed		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6005.37.00.10	10  	Open-work fabrics (229)	
+kg
+ 	Other:				
+6005.37.00.20	20  	Stitch-bonded goods (223)	
+kg
+6005.37.00.80	80  	Other (222)	
+kg
+6005.38.00	 	Other, of yarns of different colors		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6005.38.00.10	10  	Open-work fabrics (229)	
+kg
+ 	Other:				
+6005.38.00.20	20  	Stitch-bonded goods (223)	
+kg
+6005.38.00.80	80  	Other (222)	
+kg
+6005.39.00	 	Other, printed		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6005.39.00.10	10  	Open-work fabrics (229)	
+kg
+ 	Other:				
+6005.39.00.20	20  	Stitch-bonded goods (223)	
+kg
+6005.39.00.80	80  	Other (222)	
+kg
+ 	Of artificial fibers:				
+6005.41.00	 	Unbleached or bleached		10%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6005.41.00.10	10  	Open-work fabrics (229)	
+kg
+ 	Other:				
+6005.41.00.20	20  	Stitch-bonded goods (223)	
+kg
+6005.41.00.80	80  	Other (222)	
+kg
+6005.42.00	 	Dyed		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6005.42.00.10	10  	Open-work fabrics (229)	
+kg
+ 	Other:				
+6005.42.00.20	20  	Stitch-bonded goods (223)	
+kg
+6005.42.00.80	80  	Other (222)	
+kg
+6005.43.00	 	Of yarns of different colors		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6005.43.00.10	10  	Open-work fabrics (229)	
+kg
+ 	Other:				
+6005.43.00.20	20  	Stitch-bonded goods (223)	
+kg
+6005.43.00.80	80  	Other (222)	
+kg
+6005.44.00	 	Printed		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6005.44.00.10	10  	Open-work fabrics (229)	
+kg
+ 	Other:				
+6005.44.00.20	20  	Stitch-bonded goods (223)	
+kg
+6005.44.00.80	80  	Other (222)	
+kg
+6005.90	 	Other:				
+6005.90.10	00  	Of wool or fine animal hair (414)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65.5%
+6005.90.90	00  	Other (899)	
+kg
+10% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6006	 	Other knitted or crocheted fabrics:				
+6006.10.00	00  	Of wool or fine animal hair (414)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65.5%
+ 	Of cotton:				
+6006.21	 	Unbleached or bleached:				
+6006.21.10	00  	Circular knit, wholly of cotton yarns exceeding 100 metric number per single yarn (222)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6006.21.90	 	Other		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6006.21.90.20	20  	Of single knit construction (222)	
+kg
+6006.21.90.80	80  	Other (222)	
+kg
+6006.22	 	Dyed:				
+6006.22.10	00  	Circular knit, wholly of cotton yarns exceeding 100 metric number per single yarn (222)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6006.22.90	 	Other		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6006.22.90.20	20  	Of single knit construction (222)	
+kg
+6006.22.90.80	80  	Other (222)	
+kg
+6006.23	 	Of yarns of different colors:				
+6006.23.10	00  	Circular knit, wholly of cotton yarns exceeding 100 metric number per single yarn (222)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6006.23.90	 	Other		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6006.23.90.20	20  	Of single knit construction (222)	
+kg
+6006.23.90.80	80  	Other (222)	
+kg
+6006.24	 	Printed:				
+6006.24.10	00  	Circular knit, wholly of cotton yarns exceeding 100 metric number per single yarn (222)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6006.24.90	 	Other		10%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6006.24.90.20	20  	Of single knit construction (222)	
+kg
+6006.24.90.80	80  	Other (222)	
+kg
+ 	Of synthetic fibers:				
+6006.31.00	 	Unbleached or bleached		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+ 	Of double knit or interlock construction:				
+6006.31.00.20	20  	Of nylon (222)	
+kg
+6006.31.00.40	40  	Of polyester (222)	
+kg
+6006.31.00.60	60  	Other (222)	
+kg
+6006.31.00.80	80  	Other (222)	
+kg
+6006.32.00	 	Dyed		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+ 	Of double knit or interlock construction:				
+6006.32.00.20	20  	Of nylon (222)	
+kg
+6006.32.00.40	40  	Of polyester (222)	
+kg
+6006.32.00.60	60  	Other (222)	
+kg
+6006.32.00.80	80  	Other (222)	
+kg
+6006.33.00	 	Of yarns of different colors		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+ 	Of double knit or interlock construction:				
+6006.33.00.20	20  	Of nylon (222)	
+kg
+6006.33.00.40	40  	Of polyester (222)	
+kg
+6006.33.00.60	60  	Other (222)	
+kg
+6006.33.00.80	80  	Other (222)	
+kg
+6006.34.00	 	Printed		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+ 	Of double knit or interlock construction:				
+6006.34.00.20	20  	Of nylon (222)	
+kg
+6006.34.00.40	40  	Of polyester (222)	
+kg
+6006.34.00.60	60  	Other (222)	
+kg
+6006.34.00.80	80  	Other (222)	
+kg
+ 	Of artificial fibers:				
+6006.41.00	 	Unbleached or bleached		10%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6006.41.00.25	25  	Of double knit or interlock construction (222)	
+kg
+6006.41.00.85	85  	Other (222)	
+kg
+6006.42.00	 	Dyed		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6006.42.00.25	25  	Of double knit or interlock construction (222)	
+kg
+6006.42.00.85	85  	Other (222)	
+kg
+6006.43.00	 	Of yarns of different colors		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6006.43.00.25	25  	Of double knit or interlock construction (222)	
+kg
+6006.43.00.85	85  	Other (222)	
+kg
+6006.44.00	 	Printed		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	113.5%
+6006.44.00.25	25  	Of double knit or interlock construction (222)	
+kg
+6006.44.00.85	85  	Other (222)	
+kg
+6006.90	 	Other:				
+6006.90.10	00  	Containing 85 percent or more by weight of silk or silk waste	
+kg
+7% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6006.90.90	00  	Other (899)	
+kg
+Free 1/		45%

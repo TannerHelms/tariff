@@ -1,0 +1,457 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+7401.00.00	00  	Copper mattes; cement copper (precipitated copper)	
+kg
+Free		6%
+7402.00.00	00  	Unrefined copper; copper anodes for electrolytic refining	
+kg
+Cu kg
+Free 1/		6%
+7403	 	Refined copper and copper alloys, unwrought (other than master alloys of heading 7405):				
+ 	Refined copper:				
+7403.11.00	00  	Cathodes and sections of cathodes	
+kg
+1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6% 1/
+7403.12.00	00  	Wire bars	
+kg
+1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6%
+7403.13.00	00  	Billets	
+kg
+1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6%
+7403.19.00	00  	Other	
+kg
+1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6%
+ 	Copper alloys:				
+7403.21.00	00  	Copper-zinc base alloys (brass)	
+kg
+1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6%
+7403.22.00	00  	Copper-tin base alloys (bronze)	
+kg
+1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6%
+7403.29.01	 	Other copper alloys		1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6%
+7403.29.01.10	10  	Copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)	
+kg
+7403.29.01.80	80  	Other	
+kg
+7404.00	 	Copper waste and scrap:				
+7404.00.30	 	Spent anodes; waste and scrap with a copper content of less than 94 percent by weight		Free 1/		6%
+7404.00.30.20	20  	Of refined copper	
+kg
+ 	Of copper alloys:				
+ 	Of copper-zinc base alloys (brass):				
+7404.00.30.45	45  	Containing more than 0.3 percent of lead	
+kg
+7404.00.30.55	55  	Other	
+kg
+7404.00.30.65	65  	Of copper-tin base alloys (bronze)	
+kg
+7404.00.30.90	90  	Other	
+kg
+7404.00.60	 	Other		Free 1/		6%
+7404.00.60.20	20  	Of refined copper	
+kg
+ 	Of copper alloys:				
+ 	Of copper-zinc base alloys (brass):				
+7404.00.60.45	45  	Containing more than 0.3 percent of lead	
+kg
+7404.00.60.55	55  	Other	
+kg
+7404.00.60.65	65  	Of copper-tin base alloys (bronze)	
+kg
+7404.00.60.90	90  	Other	
+kg
+7405.00	 	Master alloys of copper:				
+7405.00.10	00  	Containing by weight 5 percent or more but not more than 15 percent of phosphorus	
+kg
+Free 1/		12%
+7405.00.60	 	Other		Free 1/		28%
+7405.00.60.30	30  	Beryllium copper master alloy	
+kg
+7405.00.60.50	50  	Other	
+kg
+7406	 	Copper powders and flakes:				
+7406.10.00	00  	Powders of non-lamellar structure	
+kg
+Free 1/		49%
+7406.20.00	00  	Powders of lamellar structure; flakes	
+kg
+Free 1/		12%
+7407	 	Copper bars, rods and profiles:				
+7407.10	 	Of refined copper:				
+ 	Profiles:				
+7407.10.15	00  	Hollow profiles	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48%
+7407.10.30	00  	Other	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48%
+7407.10.50	 	Bars and rods		1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7%
+7407.10.50.10	10  	Having a rectangular cross section	
+kg
+7407.10.50.50	50  	Other	
+kg
+ 	Of copper alloys:				
+7407.21	 	Of copper-zinc base alloys (brass):				
+ 	Profiles:				
+7407.21.15	00  	Hollow profiles	
+kg
+2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17%
+7407.21.30	00  	Other	
+kg
+2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17%
+ 	Bars and rods:				
+7407.21.50	00  	Low fuming brazing rods	
+kg
+2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9%
+ 	Other:				
+7407.21.70	00  	Having a rectangular cross section	
+kg
+1.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9%
+7407.21.90	00  	Other	
+kg
+2.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9%
+7407.29	 	Other:				
+ 	Profiles:				
+7407.29.16	 	Hollow		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48%
+7407.29.16.10	10  	Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)	
+kg
+7407.29.16.80	80  	Other	
+kg
+ 	Other:				
+7407.29.34	00  	Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48%
+7407.29.38	00  	Other	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48%
+7407.29.40	00  	Bars and rods of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48%
+7407.29.50	00  	Other bars and rods	
+kg
+1.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9%
+7408	 	Copper wire:				
+ 	Of refined copper:				
+7408.11	 	Of which the maximum cross-sectional dimension exceeds 6 mm:				
+7408.11.30	00  	With a maximum cross-sectional dimension over 9.5 mm	
+kg
+1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7%
+7408.11.60	00  	With a maximum cross-sectional dimension over 6 mm but not over 9.5 mm	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	28% 1/
+7408.19.00	 	Other		3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	28% 1/
+7408.19.00.30	30  	With a maximum cross-sectional dimension of 3 mm or less	
+kg
+7408.19.00.60	60  	Other	
+kg
+ 	Of copper alloys:				
+7408.21.00	00  	Of copper-zinc base alloys (brass)	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	28%
+7408.22	 	Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver):				
+7408.22.10	00  	Coated or plated with metal	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	28%
+7408.22.50	00  	Not coated or plated with metal	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	28%
+7408.29	 	Other:				
+7408.29.10	00  	Coated or plated with metal	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	28%
+7408.29.50	00  	Not coated or plated with metal	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	28%
+7409	 	Copper plates, sheets and strip, of a thickness exceeding 0.15 mm:				
+ 	Of refined copper:				
+7409.11	 	In coils:				
+7409.11.10	00  	Of a thickness of 5 mm or more	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	38%
+7409.11.50	 	Of a thickness of less than 5 mm		1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.5%
+7409.11.50.10	10  	Of a width of 500 mm or more	
+kg
+7409.11.50.50	50  	Of a width of less than 500 mm	
+kg
+7409.19	 	Other:				
+7409.19.10	00  	Of a thickness of 5 mm or more	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48%
+ 	Of a thickness of less than 5 mm:				
+7409.19.50	00  	Of a width of 500 mm or more	
+kg
+1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.5%
+7409.19.90	00  	Of a width of less than 500 mm	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48%
+ 	Of copper-zinc base alloys (brass):				
+7409.21.00	 	In coils		1.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9% 1/
+7409.21.00.10	10  	Of a thickness of 5 mm or more	
+kg
+ 	Of a thickness of less than 5 mm:				
+7409.21.00.50	50  	Of a width of 500 mm or more	
+kg
+ 	Of a width of less than 500 mm:				
+7409.21.00.75	75  	Of a thickness less than 1.6 mm	
+kg
+7409.21.00.90	90  	Other	
+kg
+7409.29.00	 	Other		1.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9%
+7409.29.00.10	10  	Of a thickness of 5 mm or more	
+kg
+ 	Of a thickness of less than 5 mm:				
+7409.29.00.50	50  	Of a width of 500 mm or more	
+kg
+ 	Of a width of less than 500 mm:				
+7409.29.00.75	75  	Of a thickness less than 1.6 mm	
+kg
+7409.29.00.90	90  	Other	
+kg
+ 	Of copper-tin base alloys (bronze):				
+7409.31	 	In coils:				
+7409.31.10	00  	Of a thickness of 5 mm or more	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49%
+ 	Of a thickness of less than 5 mm:				
+7409.31.50	00  	Of a width of 500 mm or more	
+kg
+1.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9%
+7409.31.90	00  	Of a width of less than 500 mm	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49%
+7409.39	 	Other:				
+7409.39.10	 	Of a thickness of 5 mm or more		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49%
+7409.39.10.30	30  	Of phosphor bronze	
+kg
+Cu kg
+7409.39.10.60	60  	Other	
+kg
+Cu kg
+ 	Of a thickness of less than 5 mm:				
+7409.39.50	00  	Of a width of 500 mm or more	
+kg
+1.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9%
+7409.39.90	 	Of a width of less than 500 mm		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49%
+7409.39.90.30	30  	Of phosphor bronze	
+kg
+Cu kg
+7409.39.90.60	60  	Other	
+kg
+Cu kg
+7409.40.00	00  	Of copper-nickel base alloys (cupro-nickel) or copper- nickel-zinc base alloys (nickel silver)	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48%
+7409.90	 	Of other copper alloys:				
+7409.90.10	 	Of a thickness of 5 mm or more		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49%
+7409.90.10.30	30  	Of beryllium copper	
+kg
+Cu kg
+7409.90.10.60	60  	Other	
+kg
+Cu kg
+ 	Of a thickness of less than 5 mm:				
+7409.90.50	 	Of a width of 500 mm or more		1.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9%
+7409.90.50.30	30  	Of beryllium copper	
+kg
+Cu kg
+7409.90.50.60	60  	Other	
+kg
+Cu kg
+7409.90.90	 	Of a width of less than 500 mm		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49%
+7409.90.90.30	30  	Of beryllium copper	
+kg
+Cu kg
+7409.90.90.60	60  	Other	
+kg
+Cu kg
+7410	 	Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.15 mm:				
+ 	Not backed:				
+7410.11.00	00  	Of refined copper	
+kg
+1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	6.5%
+7410.12.00	 	Of copper alloys		1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	6.5%
+7410.12.00.30	30  	Of copper-zinc base alloys (brass)	
+kg
+7410.12.00.60	60  	Other	
+kg
+ 	Backed:				
+7410.21	 	Of refined copper:				
+7410.21.30	 	Copper clad laminates		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Having a base wholly of plastics impregnated glass:				
+7410.21.30.20	20  	Having copper on one side only	
+m2
+kg
+7410.21.30.40	40  	Having copper on both sides	
+m2
+kg
+7410.21.30.60	60  	Other	
+m2
+kg
+7410.21.60	00  	Other	
+kg
+1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	6%
+7410.22.00	00  	Of copper alloys	
+kg
+1.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	6% 1/
+7411	 	Copper tubes and pipes:				
+7411.10	 	Of refined copper:				
+7411.10.10	 	Seamless		1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13%
+7411.10.10.30	30  	Having an outside diameter of 6 mm or more but not exceeding 16 mm, in coils on spools	
+kg
+7411.10.10.90	90  	Other	
+kg
+7411.10.50	00  	Other	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	47%
+ 	Of copper alloys:				
+7411.21	 	Of copper-zinc base alloys (brass):				
+7411.21.10	00  	Seamless	
+kg
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+7411.21.50	00  	Other	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49%
+7411.22.00	00  	Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel-silver)	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	47%
+7411.29	 	Other:				
+7411.29.10	00  	Seamless	
+kg
+1.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+7411.29.50	00  	Other	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49%
+7412	 	Copper tube or pipe fittings (for example couplings, elbows, sleeves):				
+7412.10.00	00  	Of refined copper	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	46%
+7412.20.00	 	Of copper alloys		3% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49%
+7412.20.00.15	15  	For brake hoses for vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, or 8705	
+kg
+ 	Other:				
+ 	Of copper-zinc base alloys (brass):				
+ 	Threaded:				
+7412.20.00.25	25  	Nipples	
+kg
+7412.20.00.35	35  	Other	
+kg
+7412.20.00.45	45  	Other	
+kg
+ 	Other:				
+ 	Threaded:				
+7412.20.00.65	65  	Nipples	
+kg
+7412.20.00.85	85  	Other	
+kg
+7412.20.00.90	90  	Other	
+kg
+7413.00	 	Stranded wire, cables, plaited bands and the like, including slings and similar articles, of copper, not electrically insulated:				
+ 	Not fitted with fittings and not made up into articles:				
+7413.00.10	00  	Stranded wire	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7413.00.50	00  	Other	
+kg
+2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+7413.00.90	00  	Fitted with fittings or made up into articles	
+kg
+3% 1/	Free (A*, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7415	 	Nails, tacks, drawing pins, staples (other than those of heading 8305) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of copper:				
+7415.10.00	00  	Nails and tacks, drawing pins, staples and similar articles	
+kg
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other articles, not threaded:				
+7415.21.00	00  	Washers (including spring washers)	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7415.29.00	00  	Other	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other threaded articles:				
+7415.33	 	Screws, bolts and nuts:				
+7415.33.05	00  	Screws for wood	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7415.33.10	00  	Muntz or yellow metal bolts	
+kg
+1.4% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7%
+7415.33.80	 	Other screws and bolts; nuts		3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7415.33.80.10	10  	Having shanks, threads or holes 6 mm or more in diameter	
+kg
+7415.33.80.50	50  	Having shanks, threads or holes less than 6 mm in diameter	
+kg
+7415.39.00	00  	Other	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7418	 	Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary ware and parts thereof, of copper:				
+7418.10.00	 	Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like		3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Pot scourers and scouring or polishing pads, gloves and the like:				
+7418.10.00.02	02  	Of copper-zinc base alloys (brass)	
+kg
+7418.10.00.04	04  	Other	
+kg
+ 	Other:				
+7418.10.00.19	19  	Coated or plated with precious metals	
+kg
+ 	Other:				
+ 	Of copper-zinc base alloys (brass):				
+7418.10.00.21	21  	Cooking or heating apparatus of a kind used for domestic purposes, non- electric and parts thereof	
+kg
+7418.10.00.23	23  	Cooking and kitchen ware	
+kg
+7418.10.00.25	25  	Other	
+kg
+ 	Other:				
+7418.10.00.51	51  	Cooking or heating apparatus of a kind used for domestic purposes, non- electric and parts thereof	
+kg
+7418.10.00.53	53  	Cooking and kitchen ware	
+No.
+kg
+7418.10.00.55	55  	Other	
+kg
+7418.20	 	Sanitary ware and parts thereof:				
+7418.20.10	00  	Of copper-zinc base alloys (brass)	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+7418.20.50	00  	Other	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+7419	 	Other articles of copper:				
+7419.20.00	 	Cast, molded, stamped or forged, but not further worked		Free 1/		46%
+7419.20.00.10	10  	Brass plumbing goods, not elsewhere specified or included	
+kg
+7419.20.00.50	50  	Other	
+kg
+7419.80	 	Other:				
+ 	Cloth (including endless bands), grill and netting, of copper wire; expanded metal of copper:				
+ 	Cloth:				
+7419.80.03	00  	Fourdrinier wires, seamed or not seamed, suitable for use in papermaking machines, with 94 or more wires to the lineal centimeter	
+m2
+kg
+Free 1/		75%
+7419.80.06	 	Other		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43%
+7419.80.06.60	60  	Fourdrinier wires, seamed or not seamed, suitable for use in papermaking machines, with fewer than 94 or more wires to the lineal centimeter	
+m2
+kg
+7419.80.06.80	80  	Other	
+m2
+kg
+7419.80.09	00  	Other	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43%
+7419.80.15	00  	Containers of a kind normally carried on the person, in the pocket or in the handbag	
+doz.
+3% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+7419.80.16	00  	Copper springs	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+7419.80.17	00  	Chain and parts thereof	
+kg
+3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+7419.80.30	00  	Coated or plated with precious metal	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7419.80.50	 	Other		Free 1/

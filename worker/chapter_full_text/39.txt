@@ -1,0 +1,1040 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+ 	I. PRIMARY FORMS				
+3901	 	Polymers of ethylene, in primary forms:				
+3901.10	 	Polyethylene having a specific gravity of less than 0.94:				
+3901.10.10	00  	Having a relative viscosity of 1.44 or more	
+kg
+6.5% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43%
+3901.10.50	 	Other		6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43%
+3901.10.50.10	10  	Linear low density polyethylene	
+kg
+3901.10.50.20	20  	Low density polyethylene, except linear low density polyethylene	
+kg
+3901.10.50.30	30  	Medium density polyethylene	
+kg
+3901.20	 	Polyethylene having a specific gravity of 0.94 or more:				
+3901.20.10	00  	Having a relative viscosity of 1.44 or more	
+kg
+6.5% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43%
+3901.20.50	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43%
+3901.30	 	Ethylene-vinyl acetate copolymers:				
+3901.30.20	00  	Vinyl acetate-vinyl chloride-ethylene terpolymers, containing by weight less than 50 percent derivatives of vinyl acetate, except those polymerized from aromatic or modified aromatic monomers	
+kg
+Free 1/		43.5%
+3901.30.60	00  	Other	
+kg
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43.5%
+3901.40.00	00  	Ethylene-alpha-olefin copolymers, having a specific gravity of less than 0.94	
+kg
+6.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43%
+3901.90	 	Other:				
+3901.90.10	00  	Elastomeric	
+kg
+Free 1/		20%
+ 	Other:				
+3901.90.55	01  	Ethylene copolymers	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43%
+3901.90.90	00  	Other	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg +33.5%
+3902	 	Polymers of propylene or of other olefins, in primary forms:				
+3902.10.00	00  	Polypropylene	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33.5% 1/
+3902.20	 	Polyisobutylene:				
+3902.20.10	00  	Elastomeric	
+kg
+Free 1/		20% 1/
+3902.20.50	00  	Other	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5%
+3902.30.00	00  	Propylene copolymers	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5%
+3902.90.00	 	Other		6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5%
+3902.90.00.10	10  	Polybutylene	
+kg
+3902.90.00.50	50  	Other	
+kg
+3903	 	Polymers of styrene, in primary forms:				
+ 	Polystyrene:				
+3903.11.00	00  	Expandable	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 46%
+3903.19.00	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 46%
+3903.20.00	00  	Styrene-acrylonitrile (SAN) copolymers	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45.5%
+3903.30.00	00  	Acrylonitrile-butadiene-styrene (ABS) copolymers	
+kg
+6.5% 1/	Free (A, AU, BH, CL, D, E, IL, J, JO, KR, MA, OM, P, PE, S, SG)	15.4¢/kg + 47%
+3903.90	 	Other:				
+3903.90.10	00  	Methyl methacrylate-butadiene-styrene (MBS) copolymers	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 67.5%
+3903.90.50	00  	Other	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 46%
+3904	 	Polymers of vinyl chloride or of other halogenated olefins, in primary forms:				
+3904.10.00	00  	Poly(vinyl chloride), not mixed with any other substances	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43.5%
+ 	Other poly(vinyl chloride):				
+3904.21.00	00  	Nonplasticized	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43.5%
+3904.22.00	00  	Plasticized	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43.5%
+3904.30	 	Vinyl chloride-vinyl acetate copolymers:				
+3904.30.20	00  	Vinyl acetate-vinyl chloride-ethylene terpolymers, containing by weight less than 50 percent derivatives of vinyl acetate, except those polymerized from aromatic or modified aromatic monomers	
+kg
+Free 1/		43.5%
+3904.30.60	00  	Other	
+kg
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43.5%
+3904.40.00	00  	Other vinyl chloride copolymers	
+kg
+5.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	43.5%
+3904.50.00	00  	Vinylidene chloride polymers	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5%
+ 	Fluoropolymers:				
+3904.61.00	 	Polytetrafluoroethylene (PTFE)		5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	34.1% 1/
+3904.61.00.10	10  	Granular, whether or not filled or compounded (see statistical note 1 to this chapter)	
+kg
+3904.61.00.90	90  	Other	
+kg
+3904.69	 	Other:				
+3904.69.10	00  	Elastomeric	
+kg
+Free 1/		20% 1/
+3904.69.50	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5% 1/
+3904.90	 	Other:				
+3904.90.10	00  	Elastomeric	
+kg
+Free 1/		20%
+3904.90.50	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5%
+3905	 	Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms:				
+ 	Poly(vinyl acetate):				
+3905.12.00	00  	In aqueous dispersion	
+kg
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	37.5%
+3905.19.00	00  	Other	
+kg
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	37.5%
+ 	Vinyl acetate copolymers:				
+3905.21.00	00  	In aqueous dispersion	
+kg
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	37.5%
+3905.29.00	00  	Other	
+kg
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	37.5%
+3905.30.00	00  	Poly(vinyl alcohol), whether or not containing unhydrolyzed acetate groups	
+kg
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	37.5%
+ 	Other:				
+3905.91	 	Copolymers:				
+3905.91.10	00  	Containing by weight 50 percent or more of derivatives of vinyl acetate	
+kg
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	37.5%
+3905.91.50	00  	Other	
+kg
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	43.5%
+3905.99	 	Other:				
+3905.99.30	00  	Polyvinyl carbazole (including adjuvants)	
+kg
+Free 1/		43.5%
+3905.99.80	00  	Other	
+kg
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	43.5%
+3906	 	Acrylic polymers in primary forms:				
+3906.10.00	00  	Poly(methyl methacrylate)	
+kg
+6.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	37%
+3906.90	 	Other:				
+3906.90.10	00  	Elastomeric	
+kg
+Free 1/		20%
+ 	Other:				
+3906.90.20	00  	Plastics	
+kg
+6.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	37%
+3906.90.50	00  	Other 1/	
+kg
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3907	 	Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms:				
+3907.10.00	00  	Polyacetals	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5%
+ 	Other polyethers:				
+3907.21.00	00  	Bis(polyoxyethylene) methylphosphonate	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5% 1/
+3907.29.00	00  	Other	
+kg
+6.5% 1/	Free(A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5% 1/
+3907.30.00	00  	Epoxide resins	
+kg
+6.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 47%
+3907.40.00	00  	Polycarbonates	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45%
+3907.50.00	00  	Alkyd resins	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45%
+ 	Poly(ethylene terephthalate):				
+3907.61.00	 	Having a viscosity number of 78 ml/g or higher		6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45%
+3907.61.00.10	10  	Having a viscosity number of 78 ml/g or more but not more than 88 ml/g	
+kg
+3907.61.00.50	50  	Other	
+kg
+3907.69.00	 	Other		6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45%
+3907.69.00.10	10  	Having a viscosity number of 70 ml/g or more but less than 78 ml/g	
+kg
+3907.69.00.50	50  	Other	
+kg
+3907.70.00	00  	Poly(lactic acid)	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45%
+ 	Other polyesters:				
+3907.91	 	Unsaturated:				
+ 	Allyl resins:				
+3907.91.20	00  	Allyl resins, uncompounded	
+kg
+Free 1/		15.4¢/kg + 45%
+3907.91.40	00  	Other	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45%
+3907.91.50	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45%
+3907.99	 	Other:				
+3907.99.20	00  	Thermoplastic liquid crystal aromatic polyester copolymers	
+kg
+Free 1/		15.4¢/kg + 45%
+3907.99.50	 	Other		6.5% 1/	Free (A*, AU, BH, CL, CO, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45%
+3907.99.50.10	10  	Polybutylene terephthalate	
+kg
+3907.99.50.50	50  	Other	
+kg
+3908	 	Polyamides in primary forms:				
+3908.10.00	00  	Polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12	
+kg
+6.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 51.5%
+3908.90	 	Other:				
+3908.90.20	00  	Bis(4-amino-3-methylcyclohexyl)methane- isophthalic acid-laurolactam copolymer	
+kg
+Free 1/		2.2¢/kg + 33.5%
+3908.90.70	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5%
+3909	 	Amino-resins, phenolic resins and polyurethanes, in primary forms:				
+3909.10.00	00  	Urea resins; thiourea resins	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	41.5%
+3909.20.00	00  	Melamine resins	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	41.5%
+ 	Other amino-resins:				
+3909.31.00	00  	Poly(methylene phenyl isocyanate) (crude MDI, polymeric MDI)	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	41.5%
+3909.39.00	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	41.5%
+3909.40.00	00  	Phenolic resins	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 48%
+3909.50	 	Polyurethanes:				
+3909.50.10	00  	Elastomeric	
+kg
+Free 1/		20%
+3909.50.20	00  	Cements	
+kg
+2.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+3909.50.50	00  	Other	
+kg
+6.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 51.5%
+3910.00.00	00  	Silicones in primary forms	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3911	 	Petroleum resins, coumarone-indene resins, polyterpenes, polysulfides, polysulfones and other products specified in note 3 to this chapter, not elsewhere specified or included, in primary forms:				
+3911.10.00	00  	Petroleum resins, coumarone, indene or coumarone-indene resins; polyterpenes	
+kg
+6.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 49%
+3911.20.00	00  	Poly(1,3-phenylene methylphosphonate)	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5%
+3911.90	 	Other:				
+3911.90.10	00  	Elastomeric	
+kg
+Free 1/		20%
+ 	Other:				
+ 	Containing monomer units which are aromatic or modified aromatic, or which are obtained, derived or manufactured in whole or in part therefrom:				
+ 	Thermoplastic:				
+3911.90.15	00  	Poly(nitrilomethanetetraarylnitrilo- [2,4,6-tris-(1-methyethyl)-1,3- phenylene]]-2,6-bis(1-methylethyl)- phenyl]-ω-[[[2,6-bis(1-methylethyl)- phenyl]amino]methylene]amino carbodiimide or 2,4-diisocyanate-1,3,5-tris(1-methyl- ethyl) homopolymer with polyethylene	
+kg
+Free 1/		15.4¢/kg + 49%
+3911.90.25	00  	Other	
+kg
+6.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 49%
+ 	Thermosetting:				
+3911.90.35	00  	1,1'-Bis(methylenedi-4,1-phenylene)- 1H-pyrrole-2,5-dione, copolymer with 4,4'-methylenebis(benzeneamine); and Hydrocarbon novolac cyanate ester	
+kg
+Free 1/		15.4¢/kg + 45%
+3911.90.45	00  	Other	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45%
+ 	Other:				
+3911.90.70	00  	Chlorinated synthetic rubber	
+kg
+Free 1/		2.2¢/kg + 33.5%
+3911.90.91	 	Other		6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5%
+3911.90.91.10	10  	Thermoplastic	
+kg
+3911.90.91.50	50  	Thermosetting	
+kg
+3912	 	Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms:				
+ 	Cellulose acetates:				
+3912.11.00	00  	Nonplasticized	
+kg
+5.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	73.5%
+3912.12.00	00  	Plasticized	
+kg
+5.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	73.5%
+3912.20.00	00  	Cellulose nitrates (including collodions)	
+kg
+5.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	34.5%
+ 	Cellulose ethers:				
+3912.31.00	 	Carboxymethylcellulose and its salts		6.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	66%
+3912.31.00.10	10  	Containing not less than 90 percent by weight of carboxymethylcellulose	
+kg
+3912.31.00.90	90  	Other	
+kg
+3912.39.00	00  	Other	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	33.5%
+3912.90.00	 	Other		5.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	34.5%
+3912.90.00.10	10  	α-Cellulose in granular, microcrystalline or powdered forms	
+kg
+3912.90.00.90	90  	Other	
+kg
+3913	 	Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural rubber), not elsewhere specified or included, in primary forms:				
+3913.10.00	00  	Alginic acid, its salts and esters 1/	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3913.90	 	Other:				
+3913.90.10	00  	Chemical derivatives of natural rubber	
+kg
+Free 1/		20%
+3913.90.20	 	Polysaccharides and their derivatives		5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	50%
+3913.90.20.15	15  	Xanthan gum	
+kg
+3913.90.20.90	90  	Other	
+kg
+3913.90.50	00  	Other	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg + 33.5%
+3914.00	 	Ion-exchangers based on polymers of headings 3901 to 3913, in primary forms:				
+3914.00.20	00  	Cross-linked polyvinylbenzyltrimethylammonium chloride (Cholestyramine resin USP)	
+kg
+Free 1/		35%
+3914.00.60	00  	Other	
+kg
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	II. WASTE, PARINGS AND SCRAP; SEMIMANUFACTURES; ARTICLES:				
+3915	 	Waste, parings and scrap, of plastics:				
+3915.10.00	00  	Of polymers of ethylene	
+kg
+Free 1/		10%
+3915.20.00	00  	Of polymers of styrene	
+kg
+Free 1/		10%
+3915.30.00	00  	Of polymers of vinyl chloride	
+kg
+Free 1/		10%
+3915.90.00	 	Of other plastics		Free 1/		10%
+3915.90.00.10	10  	Of polyethylene terephthalate (PET) plastics	
+kg
+3915.90.00.90	90  	Other	
+kg
+3916	 	Monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked, of plastics:				
+3916.10.00	00  	Of polymers of ethylene	
+kg
+5.8% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3916.20.00	 	Of polymers of vinyl chloride		5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3916.20.00.10	10  	Siding for house or building exterior	
+kg
+3916.20.00.20	20  	Window, door, decking or railing profiles	
+m
+kg
+3916.20.00.91	91  	Other	
+kg
+3916.90	 	Of other plastics:				
+3916.90.10	00  	Of acrylic polymers	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40.6%
+ 	Other:				
+3916.90.20	00  	Racket strings	
+m
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other:				
+3916.90.30	00  	Monofilament	
+m
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+3916.90.50	00  	Other	
+kg
+5.8% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3917	 	Tubes, pipes and hoses and fittings therefor (for example, joints, elbows, flanges), of plastics:				
+3917.10	 	Artificial guts (sausage casings) of hardened protein or of cellulosic plastics materials:				
+3917.10.10	00  	Of cellulosic plastics materials	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Other:				
+3917.10.60	00  	Of collagen	
+kg
+Free 1/		40%
+3917.10.90	00  	Other	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Tubes, pipes and hoses, rigid:				
+3917.21.00	00  	Of polymers of ethylene	
+kg
+3.1% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3917.22.00	00  	Of polymers of propylene	
+kg
+3.1% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3917.23.00	00  	Of polymers of vinyl chloride	
+kg
+3.1% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3917.29.00	 	Of other plastics		3.1% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3917.29.00.50	50  	Less than 200 mm in length	
+thousands
+kg
+3917.29.00.90	90  	Other 1/	
+kg
+ 	Other tubes, pipes and hoses:				
+3917.31.00	00  	Flexible tubes, pipes and hoses, having a minimum burst pressure of 27.6 MPa	
+kg
+3.1% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3917.32.00	 	Other, not reinforced or otherwise combined with other materials, without fittings		3.1% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3917.32.00.10	10  	Of polyvinyl chloride	
+kg
+3917.32.00.20	20  	Of polyethylene	
+kg
+3917.32.00.50	50  	Other	
+kg
+3917.33.00	00  	Other, not reinforced or otherwise combined with other materials, with fittings 1/	
+kg
+3.1% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3917.39.00	 	Other		3.1% 1/	Free (A*, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3917.39.00.10	10  	Reinforced with metal	
+kg
+ 	Other:				
+3917.39.00.20	20  	Of polyvinyl chloride	
+kg
+3917.39.00.50	50  	Other	
+kg
+3917.40.00	 	Fittings		5.3% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3917.40.00.10	10  	For brake hoses for the vehicles of subheadings 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, 8705 or 8711	
+kg
+ 	Plumbing fittings, not pressure rated (Drain/Waste/Vent (DWV)):				
+3917.40.00.20	20  	Of polyvinyl chloride	
+kg
+3917.40.00.30	30  	Of acrylonitrile-butadiene-styrene	
+kg
+3917.40.00.50	50  	Other	
+kg
+ 	Other plumbing fittings:				
+3917.40.00.60	60  	Of polyvinyl chloride	
+kg
+3917.40.00.80	80  	Other	
+kg
+3917.40.00.95	95  	Other	
+kg
+3918	 	Floor coverings of plastics, whether or not self-adhesive, in rolls or in the form of tiles; wall or ceiling coverings of plastics, as defined in note 9 to this chapter:				
+3918.10	 	Of polymers of vinyl chloride:				
+ 	Floor coverings:				
+3918.10.10	 	Vinyl tile		5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3918.10.10.20	20  	Vinyl tile consisting of a rigid solid polymer core	
+m2
+3918.10.10.30	30  	Vinyl tile consisting of a rigid expanded polymer core of a kind described in statistical note 2 to this chapter	
+m2
+3918.10.10.40	40  	Other	
+m2
+3918.10.20	00  	Other	
+m2
+5.3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Wall or ceiling coverings:				
+ 	With a backing of textile fibers:				
+ 	With a backing of man-made fibers:				
+3918.10.31	 	Over 70 percent by weight of plastics		4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3918.10.31.10	10  	Woven	
+m2
+3918.10.31.50	50  	Other	
+m2
+3918.10.32	 	Other		6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84.5%
+3918.10.32.10	10  	Woven	
+m2
+3918.10.32.50	50  	Other	
+m2
+3918.10.40	 	Other		5.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3918.10.40.10	10  	Woven	
+m2
+3918.10.40.50	50  	Other	
+m2
+3918.10.50	00  	Other	
+m2
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3918.90	 	Of other plastics:				
+3918.90.10	00  	Floor coverings	
+m2
+5.3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Wall or ceiling coverings:				
+ 	With a backing of textile fibers:				
+3918.90.20	00  	With a backing of man-made fibers	
+m2
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84.5%
+3918.90.30	00  	Other	
+m2
+5.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3918.90.50	00  	Other	
+m2
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3919	 	Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls:				
+3919.10	 	In rolls of a width not exceeding 20 cm:				
+3919.10.10	 	Having a light-reflecting surface produced in whole or in part by glass grains (ballotini)		6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+3919.10.10.10	10  	Pavement marking tape	
+m2
+kg
+3919.10.10.50	50  	Other	
+kg
+3919.10.20	 	Other		5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3919.10.20.10	10  	Filament reinforced tape	
+m2
+kg
+3919.10.20.20	20  	Electrical tape 1/	
+m2
+kg
+ 	Other:				
+ 	Transparent tape, not exceeding 55 m in length:				
+3919.10.20.30	30  	Not exceeding 5 cm in width 1/	
+m2
+kg
+3919.10.20.40	40  	Other	
+m2
+kg
+3919.10.20.55	55  	Other 1/	
+m2
+kg
+3919.90	 	Other:				
+3919.90.10	00  	Having a light-reflecting surface produced in whole or in part by glass grains (ballotini)	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+3919.90.50	 	Other		5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3919.90.50.10	10  	Reflectorized sheeting	
+m2
+kg
+3919.90.50.20	20  	Filament reinforced tape	
+m2
+kg
+3919.90.50.30	30  	Electrical tape	
+m2
+kg
+3919.90.50.40	40  	Transparent tape 1/	
+m2
+kg
+3919.90.50.60	60  	Other 1/	
+m2
+kg
+3920	 	Other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly combined with other materials:				
+3920.10.00	00  	Of polymers of ethylene 1/	
+kg
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3920.20.00	 	Of polymers of propylene		4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3920.20.00.15	15  	Strip put up in packaging for use as decorative or gift-wrapping ribbon	
+kg
+3920.20.00.20	20  	Gift wrap	
+kg
+3920.20.00.55	55  	Other	
+kg
+3920.30.00	00  	Of polymers of styrene	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Of polymers of vinyl chloride:				
+3920.43	 	Containing by weight not less than 6 percent of plasticizers:				
+3920.43.10	00  	Made in imitation of patent leather	
+m2
+kg
+3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3920.43.50	00  	Other 1/	
+kg
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3920.49.00	00  	Other	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Of acrylic polymers:				
+3920.51	 	Of poly(methyl methacrylate):				
+3920.51.10	00  	Flexible	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3920.51.50	 	Other		6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.2%
+3920.51.50.50	50  	Sheets, not flexible, containing flame retardant	
+kg
+3920.51.50.90	90  	Other	
+kg
+3920.59	 	Other:				
+3920.59.10	00  	Flexible	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+3920.59.40	00  	Transparent sheeting containing 30 percent or more by weight of lead	
+kg
+Free 1/		51.7%
+3920.59.80	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.7%
+ 	Of polycarbonates, alkyd resins, polyallyl esters or other polyesters:				
+3920.61.00	00  	Of polycarbonates	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3920.62.00	 	Of poly(ethylene terephthalate)		4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Metallized PET film:				
+3920.62.00.20	20  	Gift wrap	
+kg
+3920.62.00.50	50  	Other	
+kg
+3920.62.00.90	90  	Other 1/	
+kg
+3920.63	 	Of unsaturated polyesters:				
+3920.63.10	00  	Flexible	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3920.63.20	00  	Other	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3920.69.00	00  	Of other polyesters	
+kg
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Of cellulose or its chemical derivatives:				
+3920.71.00	00  	Of regenerated cellulose	
+kg
+6.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+3920.73.00	00  	Of cellulose acetate	
+kg
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30.5%
+3920.79	 	Of other cellulose derivatives:				
+3920.79.05	00  	Of vulcanized fiber	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other:				
+3920.79.10	00  	Film, strip and sheets, not over 0.076 mm in thickness	
+kg
+6.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+3920.79.50	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	28.5%
+ 	Of other plastics:				
+3920.91.00	00  	Of poly(vinyl butyral)	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3920.92.00	00  	Of polyamides	
+kg
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3920.93.00	00  	Of amino-resins	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3920.94.00	00  	Of phenolic resins	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3920.99	 	Of other plastics:				
+ 	Film, strip and sheets, all the foregoing which are flexible:				
+3920.99.10	00  	Over 0.152 mm in thickness, and not in rolls	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3920.99.20	00  	Other	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3920.99.50	00  	Other	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3921	 	Other plates, sheets, film, foil and strip, of plastics:				
+ 	Cellular:				
+3921.11.00	00  	Of polymers of styrene	
+kg
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3921.12	 	Of polymers of vinyl chloride:				
+ 	Combined with textile materials:				
+ 	Products with textile components in which man-made fibers predominate by weight over any other single textile fiber:				
+3921.12.11	00  	Over 70 percent by weight of plastics 1/	
+m2
+kg
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3921.12.15	00  	Other (229)	
+m2
+kg
+6.5% 1/	Free (AU, B, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84.5%
+3921.12.19	 	Other		5.3% 1/	Free (A*, AU, B, BH, CL, D, E, IL, J, JO, KR, MA, OM, P, PE, S, SG)	40%
+3921.12.19.10	10  	Products with textile components in which vegetable fibers predominate by weight over any other single textile fiber	
+m2
+kg
+3921.12.19.50	50  	Other	
+m2
+kg
+3921.12.50	00  	Other	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+3921.13	 	Of polyurethanes:				
+ 	Combined with textile materials:				
+ 	Products with textile components in which man-made fibers predominate by weight over any other single textile fiber:				
+3921.13.11	00  	Over 70 percent by weight of plastics	
+m2
+kg
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3921.13.15	00  	Other (229)	
+m2
+kg
+6.5% 1/	Free (AU, B, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84.5%
+3921.13.19	 	Other		5.3% 1/	Free (A+, AU, B, BH, CL, CO, D, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3921.13.19.10	10  	Products with textile components in which vegetable fibers predominate by weight over any other single textile fiber	
+m2
+kg
+3921.13.19.50	50  	Other	
+m2
+kg
+3921.13.50	00  	Other	
+kg
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3921.14.00	00  	Of regenerated cellulose	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+3921.19.00	00  	Of other plastics 1/	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+3921.90	 	Other:				
+ 	Combined with textile materials and weighing not more than 1.492 kg/m2:				
+ 	Products with textile components in which man-made fibers predominate by weight over any other single textile fiber:				
+3921.90.11	00  	Over 70 percent by weight of plastics	
+m2
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3921.90.15	00  	Other (229) 1/	
+m2
+kg
+6.5% 1/	Free (AU, B, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84.5%
+3921.90.19	 	Other		5.3% 1/	Free (A+, AU, B, BH, CL, CO, D, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3921.90.19.10	10  	Products with textile components in which vegetable fibers predominate by weight over any other single textile fiber	
+m2
+kg
+3921.90.19.50	50  	Other	
+m2
+kg
+ 	Combined with textile materials and weighing more than 1.492 kg/m2:				
+3921.90.21	00  	Products with textile components in which cotton predominates by weight over any other single textile fiber	
+m2
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3921.90.25	 	Products with textile components in which man-made fibers predominate by weight over any other single textile fiber		6.5% 1/	Free (AU, BH, CL, E*, IL, J*, JO, KR, MA, OM, P, PE, S, SG)	83.5%
+3921.90.25.10	10  	Over 70 percent by weight of plastics	
+m2
+kg
+3921.90.25.50	50  	Other (229)	
+m2
+kg
+3921.90.29	00  	Other	
+kg
+4.4% 1/	Free (A+, AU, BH, CL, CO, D, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+3921.90.40	 	Flexible		4.2% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3921.90.40.10	10  	Reinforced with paper	
+kg
+3921.90.40.90	90  	Other	
+kg
+3921.90.50	 	Other		4.8% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	42.5%
+3921.90.50.10	10  	High pressure paper reinforced decorative laminates	
+m2
+kg
+3921.90.50.50	50  	Other	
+m2
+kg
+3922	 	Baths, shower baths, sinks, washbasins, bidets, lavatory pans, seats and covers, flushing cisterns and similar sanitary ware, of plastics:				
+3922.10.00	00  	Baths, shower baths, sinks and washbasins	
+No. and kg
+6.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	56%
+3922.20.00	00  	Lavatory seats and covers	
+No.
+6.3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	56%
+3922.90.00	00  	Other	
+No. and kg
+6.3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	56%
+3923	 	Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics:				
+3923.10	 	Boxes, cases, crates and similar articles:				
+3923.10.20	00  	Specially shaped or fitted for the conveyance or packing of semiconductor wafers, masks or reticles of subheadings 3923.10 or 8486.90	
+kg
+Free 1/		80%
+3923.10.90	00  	Other 1/	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Sacks and bags (including cones):				
+3923.21.00	 	Of polymers of ethylene		3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Reclosable, with integral extruded closure:				
+3923.21.00.11	11  	With no single side exceeding 75 mm in length	
+thousands
+3923.21.00.20	20  	Other, with sliders that open or close the seal	
+thousands
+3923.21.00.30	30  	Other 1/	
+thousands
+ 	Other:				
+3923.21.00.80	80  	With no single side exceeding 75 mm in length	
+thousands
+3923.21.00.85	85  	Polyethylene retail carrier bags (PRCBs) with handles (including drawstrings), with no length or width shorter than 6 inches (152.4 mm) or longer than 40 inches (1,016 mm)	
+thousands
+3923.21.00.95	95  	Other 1/	
+thousands
+3923.29.00	00  	Of other plastics	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3923.30.00	 	Carboys, bottles, flasks and similar articles		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3923.30.00.10	10  	Of a capacity not exceeding 50 ml	
+thousands
+3923.30.00.90	90  	Other	
+kg
+3923.40.00	 	Spools, cops, bobbins and similar supports		5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3923.40.00.10	10  	Photographic film reels and reel cans	
+kg
+3923.40.00.50	50  	Other	
+kg
+3923.50.00	00  	Stoppers, lids, caps and other closures 1/	
+No. and kg
+5.3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3923.90.00	 	Other		3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Buckets and pails, with or without lids or other closures, having a capacity of:				
+3923.90.00.12	12  	Less than 11.36 liters (3 gallons)	
+No.
+3923.90.00.14	14  	11.36 liters (3 gallons) or more, but not more than 22.71 liters (6 gallons)	
+No.
+3923.90.00.16	16  	22.71 liters (6 gallons) or more	
+No.
+3923.90.00.80	80  	Other	
+No. and kg
+3924	 	Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics:				
+3924.10	 	Tableware and kitchenware:				
+3924.10.10	00  	Salt, pepper, mustard and ketchup dispensers and similar dispensers	
+No. and kg
+3.4%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3924.10.20	00  	Plates, cups, saucers, soup bowls, cereal bowls, sugar bowls, creamers, gravy boats, serving dishes and platters	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84.5%
+3924.10.30	00  	Trays	
+No.
+5.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3924.10.40	00  	Other	
+No. and kg
+3.4%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3924.90	 	Other:				
+3924.90.05	00  	Nursing nipples and finger cots	
+gross
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3924.90.10	 	Curtains and drapes, including panels and valances; napkins, table covers, mats, scarves, runners, doilies, centerpieces, antimacassars and furniture slipcovers; and like furnishings		3.3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3924.90.10.10	10  	Curtains and drapes	
+kg
+3924.90.10.50	50  	Other	
+No. and kg
+3924.90.20	00  	Picture frames	
+No. and kg
+3.4%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3924.90.56	 	Other		3.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3924.90.56.10	10  	Gates for confining children or pets	
+No.
+3924.90.56.50	50  	Other 1/	
+No. and kg
+3925	 	Builders' ware of plastics, not elsewhere specified or included:				
+3925.10.00	00  	Reservoirs, tanks, vats and similar containers, of a capacity exceeding 300 liters	
+No. and kg
+6.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	56%
+3925.20.00	 	Doors, windows and their frames and thresholds for doors		5.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3925.20.00.10	10  	Doors and door frames	
+No.
+kg
+3925.20.00.20	20  	Windows and window frames	
+No.
+kg
+3925.20.00.91	91  	Other	
+No. and kg
+3925.30	 	Shutters, blinds (including venetian blinds) and similar articles and parts thereof:				
+3925.30.10	00  	Blinds (including venetian blinds)	
+No.
+3.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3925.30.50	00  	Other	
+No. and kg
+5.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3925.90.00	00  	Other	
+No. and kg
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3926	 	Other articles of plastics and articles of other materials of headings 3901 to 3914:				
+3926.10.00	00  	Office or school supplies	
+kg
+5.3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3926.20	 	Articles of apparel and clothing accessories (including gloves, mittens and mitts):				
+ 	Gloves, mittens and mitts:				
+3926.20.10	 	Seamless		Free		25%
+3926.20.10.10	10  	Surgical and medical	
+doz. prs.
+ 	Other:				
+3926.20.10.20	20  	Disposable	
+doz. prs.
+3926.20.10.50	50  	Other	
+doz. prs.
+ 	Other:				
+ 	Specially designed for use in sports:				
+3926.20.20	00  	Baseball and softball gloves and mitts	
+No.
+Free 1/		30%
+3926.20.30	00  	Other	
+No.
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3926.20.40	 	Other		6.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3926.20.40.10	10  	Disposable	
+doz. prs.
+3926.20.40.50	50  	Other	
+doz. prs.
+ 	Other:				
+3926.20.60	00  	Plastic rainwear, including jackets, coats, ponchos, parkas and slickers, featuring an outer shell of polyvinyl chloride plastic with or without attached hoods, valued not over $10 per unit	
+doz.
+Free 1/		25%
+3926.20.90	 	Other		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3926.20.90.10	10  	Aprons	
+doz.
+3926.20.90.50	50  	Other 1/	
+doz.
+3926.30	 	Fittings for furniture, coachwork or the like:				
+3926.30.10	00  	Handles and knobs	
+kg
+6.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.25% (JP)	57.5%
+3926.30.50	00  	Other	
+kg
+5.3% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 2.65% (JP)	80%
+3926.40.00	 	Statuettes and other ornamental articles		5.3%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3926.40.00.10	10  	Bows and similar products for decorative purposes including gift-packaging and the like	
+No.
+3926.40.00.90	90  	Other	
+No.
+3926.90	 	Other:				
+3926.90.10	00  	Buckets and pails	
+No.
+3.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3926.90.16	00  	Pacifiers	
+gross
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3926.90.21	00  	Ice bags; douche bags, enema bags, hot water bottles, and fittings therefor; invalid and similar nursing cushions; dress shields; pessaries; prophylactics; bulbs for syringes; syringes (other than hypodermic syringes) and fittings therefor, not in part of glass or metal	
+No.
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3926.90.25	00  	Handles and knobs, not elsewhere specified or included, of plastics	
+kg
+6.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	57.5%
+3926.90.30	00  	Parts for yachts or pleasure boats of heading 8903; parts of canoes, racing shells, pneumatic craft and pleasure boats which are not of a type designed to be principally used with motors or sails	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+ 	Beads, bugles and spangles, not strung (except temporarily) and not set; articles thereof, not elsewhere specified or included:				
+3926.90.33	00  	Handbags	
+No.
+6.5%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+3926.90.35	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+3926.90.40	00  	Imitation gemstones	
+kg
+2.8%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20% 1/
+3926.90.45	 	Gaskets, washers and other seals		3.5% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3926.90.45.10	10  	O-Rings	
+No.
+3926.90.45.90	90  	Other	
+No.
+3926.90.48	00  	Photo albums	
+No.
+3.4%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3926.90.50	00  	Frames or mounts for photographic slides	
+kg
+3.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Belting and belts, for machinery:				
+ 	Containing textile fibers:				
+3926.90.55	00  	V-belts	
+kg
+5.1% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other:				
+3926.90.56	00  	With textile components in which vegetable fibers predominate by weight over any other textile fiber	
+kg
+5.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3926.90.57	00  	With textile components in which man-made fibers predominate by weight over any other textile fiber	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+3926.90.59	00  	Other	
+kg
+2.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3926.90.60	 	Other		4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3926.90.60.10	10  	Synchronous belts	
+No.
+3926.90.60.90	90  	Other	
+kg
+ 	Clothespins:				
+3926.90.65	 	Spring type		4.2%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.4%
+3926.90.65.10	10  	Valued not over 80 cents per gross	
+gross
+3926.90.65.20	20  	Valued over 80 cents but not over $1.35 per gross	
+gross
+3926.90.65.30	30  	Valued over $1.35 but not over $1.70 per gross	
+gross
+3926.90.65.50	50  	Valued over $1.70 per gross	
+gross
+3926.90.70	00  	Other	
+gross
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3926.90.75	00  	Pneumatic mattresses and other inflatable articles, not elsewhere specified or included	
+No.
+4.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3926.90.77	00  	Waterbed mattresses and liners, and parts of the foregoing	
+No.
+2.4%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3926.90.83	00  	Empty cartridges and cassettes for typewriter and machine ribbons	
+No.
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3926.90.85	00  	Fasteners, in clips suitable for use in a mechanical attaching device	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+3926.90.87	00  	Flexible plastic document binders with tabs, rolled or flat	
+No.
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3926.90.94	00  	Cards, not punched, suitable for use as, or in making, jacquard cards; Jacquard cards and jacquard heads for power-driven weaving machines, and parts thereof; and Transparent sheeting of plastics containing 30 percent or more by weight of lead	
+No.
+Free 1/		80%
+3926.90.96	00  	Casing for bicycle derailleur cables; and casing for cable or inner wire for caliper and cantilever brakes, whether or not cut to length	
+kg
+Free 1/		25% 1/
+3926.90.99	 	Other		5.3% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+3926.90.99.05	05  	Elastic bands made wholly of plastics	
+kg
+3926.90.99.10	10  	Laboratory ware 1/	
+No.
+3926.90.99.25	25  	Reflective triangular warning signs for road use	
+No.
+3926.90.99.30	30  	Ladders	
+No.
+3926.90.99.40	40  	Covers, rings and frames for manholes; catch basins; drainage gates and frames thereof; cleanout covers and frames thereof; valve, service and meter boxes	
+No.
+3926.90.99.50	50  	Face masks and shields, medical positioning or transport pads, medical waste containers or disinfectant wipes dispensers 1/	
+No. and kg
+3926.90.99.85	85  	Other 1/	
+No. and kg

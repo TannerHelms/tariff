@@ -1,0 +1,1186 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+8701	 	Tractors (other than tractors of heading 8709):				
+8701.10.01	00  	Single axle tractors	
+No.
+Free 1/		Free 1/
+ 	Road tractors for semi-trailers:				
+8701.21.00	 	With only compression-ignition internal combustion piston engine (diesel or semi-diesel)		4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	New:				
+8701.21.00.15	15  	G.V.W. not exceeding 36,287 kg	
+No.
+8701.21.00.45	45  	G.V.W. exceeding 36,287 kg	
+No.
+8701.21.00.80	80  	Used	
+No.
+8701.22.00	 	With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion		4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	New:				
+8701.22.00.15	15  	G.V.W. not exceeding 36,287 kg	
+No.
+8701.22.00.45	45  	G.V.W. exceeding 36,287 kg	
+No.
+8701.22.00.80	80  	Used	
+No.
+8701.23.00	 	With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion		4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	New:				
+8701.23.00.15	15  	G.V.W. not exceeding 36,287 kg	
+No.
+8701.23.00.45	45  	G.V.W. exceeding 36,287 kg	
+No.
+8701.23.00.80	80  	Used	
+No.
+8701.24.00	 	With only electric motor for propulsion		4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	New:				
+8701.24.00.15	15  	G.V.W. not exceeding 36,287 kg	
+No.
+8701.24.00.45	45  	G.V.W. exceeding 36,287 kg	
+No.
+8701.24.00.80	80  	Used	
+No.
+8701.29.00	 	Other		4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	New:				
+8701.29.00.15	15  	G.V.W. not exceeding 36,287 kg	
+No.
+8701.29.00.45	45  	G.V.W. exceeding 36,287 kg	
+No.
+8701.29.00.80	80  	Used	
+No.
+8701.30	 	Track-laying tractors:				
+8701.30.10	 	Suitable for agricultural use		Free 1/		Free
+ 	New:				
+8701.30.10.15	15  	With a net engine power of less than 93.3 kW	
+No.
+8701.30.10.30	30  	With a net engine power of 93.3 kW or more but less than 119.4 kW	
+No.
+8701.30.10.45	45  	With a net engine power of 119.4 kW or more but less than 194 kW	
+No.
+8701.30.10.60	60  	With a net engine power of 194 kW or more but less than 257.4 kW	
+No.
+8701.30.10.75	75  	With a net engine power of 257.4 kW or more	
+No.
+8701.30.10.90	90  	Used	
+No.
+8701.30.50	 	Other		Free 1/		27.5%
+ 	New:				
+8701.30.50.15	15  	With a net engine power of less than 93.3 kW	
+No.
+8701.30.50.30	30  	With a net engine power of 93.3 kW or more but less than 119.4 kW	
+No.
+8701.30.50.45	45  	With a net engine power of 119.4 kW or more but less than 194 kW	
+No.
+8701.30.50.60	60  	With a net engine power of 194 kW or more but less than 257.4 kW	
+No.
+8701.30.50.75	75  	With a net engine power of 257.4 kW or more	
+No.
+8701.30.50.90	90  	Used	
+No.
+ 	Other, of an engine power:				
+8701.91	 	Not exceeding 18 kW:				
+8701.91.10	00  	For agricultural use	
+No.
+Free 1/		Free
+8701.91.50	00  	Other	
+No.
+Free 1/		27.5%
+8701.92	 	Exceeding 18 kW but not exceeding 37 kW:				
+8701.92.10	00  	Suitable for agricultural use	
+No.
+Free 1/		Free
+8701.92.50	00  	Other	
+No.
+Free 1/		27.5%
+8701.93	 	Exceeding 37 kW but not exceeding 75 kW:				
+8701.93.10	00  	Suitable for agricultural use	
+No.
+Free 1/		Free
+8701.93.50	00  	Other	
+No.
+Free 1/		27.5%
+8701.94	 	Exceeding 75 kW but not exceeding 130 kW:				
+8701.94.10	00  	Suitable for agricultural use	
+No.
+Free 1/		Free
+8701.94.50	00  	Other	
+No.
+Free 1/		27.5% 1/
+8701.95	 	Exceeding 130 kW:				
+8701.95.10	00  	Suitable for agricultural use	
+No.
+Free 1/		Free 1/
+8701.95.50	00  	Other	
+No.
+Free 1/		27.5%
+8702	 	Motor vehicles for the transport of ten or more persons, including the driver:				
+8702.10	 	With only compression-ignition internal combustion piston engine (diesel or semi-diesel):				
+8702.10.31	00  	Designed for the transport of 16 or more persons, including the driver	
+No.
+2% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8702.10.61	00  	Other	
+No.
+2% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8702.20	 	With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion:				
+8702.20.31	00  	Designed for the transport of 16 or more persons, including the driver	
+No.
+2% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8702.20.61	00  	Other	
+No.
+2% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8702.30	 	With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion:				
+8702.30.31	00  	Designed for the transport of 16 or more persons, including the driver	
+No.
+2% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8702.30.61	00  	Other	
+No.
+2% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8702.40	 	With only electric motor for propulsion:				
+8702.40.31	00  	Designed for the transport of 16 or more persons, including the driver	
+No.
+2% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8702.40.61	00  	Other	
+No.
+2% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8702.90	 	Other:				
+8702.90.31	00  	Designed for the transport of 16 or more persons, including the driver	
+No.
+2% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8702.90.61	00  	Other	
+No.
+2% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8703	 	Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 8702), including station wagons and racing cars:				
+8703.10	 	Vehicles specially designed for traveling on snow; golf carts and similar vehicles:				
+8703.10.10	00  	Vehicles specially designed for traveling on snow	
+No.
+2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8703.10.50	 	Other		2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+8703.10.50.30	30  	Golf carts	
+No.
+8703.10.50.60	60  	Other	
+No.
+ 	Other vehicles, with only spark-ignition internal combustion piston engines:				
+8703.21.01	 	Of a cylinder capacity not exceeding 1,000 cc		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+ 	Three or four wheel off-road vehicles with straddle seat and handlebar control:				
+8703.21.01.10	10  	With label indicating that vehicle is for operation only by persons at least 16 years of age	
+No.
+8703.21.01.30	30  	Other	
+No.
+8703.21.01.50	50  	Other	
+No.
+8703.22.01	 	Of a cylinder capacity exceeding 1,000 cc but not exceeding 1,500 cc		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8703.22.01.10	10  	New	
+No.
+8703.22.01.90	90  	Used	
+No.
+8703.23.01	 	Of a cylinder capacity exceeding 1,500 cc but not exceeding 3,000 cc		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+8703.23.01.10	10  	Motor homes	
+No.
+ 	Other:				
+ 	New:				
+ 	Having engines with not more than 4 cylinders:				
+ 	Station wagons and passenger vans:				
+8703.23.01.20	20  	Station wagons under 160 cm in height	
+No.
+8703.23.01.30	30  	Other	
+No.
+8703.23.01.40	40  	Other	
+No.
+8703.23.01.60	60  	Having engines with more than 4 cylinders but not more than 6 cylinders	
+No.
+8703.23.01.70	70  	Having engines with more than 6 cylinders	
+No.
+8703.23.01.90	90  	Used	
+No.
+8703.24.01	 	Of a cylinder capacity exceeding 3,000 cc		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+8703.24.01.10	10  	Ambulances, hearses and prison vans	
+No.
+8703.24.01.30	30  	Motor homes	
+No.
+ 	Other:				
+ 	New:				
+8703.24.01.40	40  	Having engines with not more than 4 cylinders	
+No.
+8703.24.01.50	50  	Having engines with more than 4 cylinders but not more than 6 cylinders	
+No.
+8703.24.01.60	60  	Having engines with more than 6 cylinders	
+No.
+8703.24.01.90	90  	Used	
+No.
+ 	Other vehicles, with only compression-ignition internal combustion piston engine (diesel or semi-diesel):				
+8703.31.01	00  	Of a cylinder capacity not exceeding 1,500 cc	
+No.
+2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8703.32.01	 	Of a cylinder capacity exceeding 1,500 cc but not exceeding 2,500 cc		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8703.32.01.10	10  	New	
+No.
+8703.32.01.50	50  	Used	
+No.
+8703.33.01	 	Of a cylinder capacity exceeding 2,500 cc		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8703.33.01.10	10  	Ambulances, hearses, and prison vans	
+No.
+8703.33.01.30	30  	Motor homes	
+No.
+ 	Other:				
+8703.33.01.45	45  	New	
+No.
+8703.33.01.85	85  	Used	
+No.
+8703.40.00	 	Other vehicles, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion, other than those capable of being charged by plugging to external source of electric power		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8703.40.00.05	05  	Of a cylinder capacity not exceeding 1,000 cc	
+No.
+8703.40.00.10	10  	Of a cylinder capacity exceeding 1,000 cc but not exceeding 1.500 cc	
+No.
+ 	Of a cylinder capacity exceeding 1,500 cc but not exceeding 3,000 cc:				
+8703.40.00.15	15  	Motor homes	
+No.
+ 	Other:				
+ 	New:				
+8703.40.00.20	20  	Having engines with not more than 4 cylinders	
+No.
+8703.40.00.30	30  	Having engines with more than 4 cylinders but not more than 6 cylinders	
+No.
+8703.40.00.40	40  	Having engines with more than 6 cylinders	
+No.
+8703.40.00.45	45  	Used	
+No.
+ 	Of a cylinder capacity exceeding 3,000 cc:				
+8703.40.00.50	50  	Ambulances, hearses and prison vans	
+No.
+8703.40.00.55	55  	Motor homes	
+No.
+ 	Other:				
+ 	New:				
+8703.40.00.60	60  	Having engines with not more than 4 cylinders	
+No.
+8703.40.00.70	70  	Having engines with more than 4 cylinders but not more than 6 cylinders	
+No.
+8703.40.00.80	80  	Having engines with more than 6 cylinders	
+No.
+8703.40.00.90	90  	Used	
+No.
+8703.50.00	 	Other vehicles, with both compression-ignition internal combustion piston engine and electric motor as motors for propulsion, other than those capable of being charged by plugging to external source of electric power		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8703.50.00.10	10  	Of a cylinder capacity not exceeding 1,500 cc	
+No.
+ 	Of a cylinder capacity exceeding 1,500 cc but not exceeding 2,500 cc				
+8703.50.00.30	30  	New	
+No.
+8703.50.00.50	50  	Used	
+No.
+ 	Of a cylinder capacity exceeding 2,500 cc:				
+8703.50.00.60	60  	Ambulances, hearses and prison vans	
+No.
+8703.50.00.65	65  	Motor homes	
+No.
+ 	Other:				
+8703.50.00.70	70  	New	
+No.
+8703.50.00.90	90  	Used	
+No.
+8703.60.00	 	Other vehicles, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8703.60.00.05	05  	Of a cylinder capacity not exceeding 1,000 cc	
+No.
+8703.60.00.10	10  	Of a cylinder capacity exceeding 1,000 cc but not exceeding 1,500 cc	
+No.
+ 	Of a cylinder capacity exceeding 1,500 cc but not exceeding 3,000 cc:				
+8703.60.00.15	15  	Motor homes	
+No.
+ 	Other:				
+ 	New:				
+8703.60.00.20	20  	Having engines with not more than 4 cylinders	
+No.
+8703.60.00.30	30  	Having engines with more than 4 cylinders but not more than 6 cylinders	
+No.
+8703.60.00.40	40  	Having engines with more than 6 cylinders	
+No.
+8703.60.00.45	45  	Used	
+No.
+ 	Of a cylinder capacity exceeding 3,000 cc:				
+8703.60.00.50	50  	Ambulances, hearses and prison vans	
+No.
+8703.60.00.55	55  	Motor homes	
+No.
+ 	Other:				
+ 	New:				
+8703.60.00.60	60  	Having engines with not more than 4 cylinders	
+No.
+8703.60.00.70	70  	Having engines with more than 4 cylinders but not more than 6 cylinders	
+No.
+8703.60.00.80	80  	Having engines with more than 6 cylinders	
+No.
+8703.60.00.90	90  	Used	
+No.
+8703.70.00	 	Other vehicles, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power:		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8703.70.00.10	10  	Of a cylinder capacity not exceeding 1,500 cc	
+No.
+ 	Of a cylinder capacity exceeding 1,500 cc but not exceeding 2,500 cc:				
+8703.70.00.30	30  	New	
+No.
+8703.70.00.50	50  	Used	
+No.
+ 	Of a cylinder capacity exceeding 2,500 cc				
+8703.70.00.60	60  	Ambulances, hearses and prison vans	
+No.
+8703.70.00.65	65  	Motor homes	
+No.
+ 	Other:				
+8703.70.00.70	70  	New	
+No.
+8703.70.00.90	90  	Used	
+No.
+8703.80.00	 	Other vehicles, with only electric motors for propulsion		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+ 	With an EPA-rated range not exceeding 250 miles:				
+8703.80.00.20	20  	New	
+No.
+8703.80.00.45	45  	Used	
+No.
+ 	With an EPA-rated range exceeding 250 miles:				
+8703.80.00.60	60  	New	
+No.
+8703.80.00.80	80  	Used	
+No.
+8703.90.01	00  	Other	
+No.
+2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8704	 	Motor vehicles for the transport of goods:				
+8704.10	 	Dumpers designed for off-highway use:				
+8704.10.10	00  	Cab chassis	
+No.
+Free 1/		25%
+8704.10.50	 	Other		Free 1/		25%
+ 	Rear dump:				
+8704.10.50.20	20  	With a capacity of 40.8 metric tons or less	
+No.
+8704.10.50.30	30  	With a capacity exceeding 40.8 metric tons but not exceeding 63.5 metric tons	
+No.
+8704.10.50.40	40  	With a capacity exceeding 63.5 metric tons but not exceeding 90.7 metric tons	
+No.
+8704.10.50.50	50  	With a capacity exceeding 90.7 metric tons	
+No.
+8704.10.50.60	60  	Other	
+No.
+ 	Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel):				
+8704.21.01	00  	G.V.W. not exceeding 5 metric tons	
+No.
+25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25%
+8704.22	 	G.V.W. exceeding 5 metric tons but not exceeding 20 metric tons:				
+8704.22.11	 	Cab chassis		4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8704.22.11.20	20  	G.V.W. exceeding 5 metric tons but not exceeding 9 metric tons	
+No.
+8704.22.11.40	40  	G.V.W. exceeding 9 metric tons but not exceeding 12 metric tons	
+No.
+8704.22.11.60	60  	G.V.W. exceeding 12 metric tons but not exceeding 15 metric tons	
+No.
+8704.22.11.80	80  	G.V.W. exceeding 15 metric tons but not exceeding 20 metric tons	
+No.
+8704.22.51	 	Other		25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25%
+8704.22.51.20	20  	G.V.W. exceeding 5 metric tons but not exceeding 9 metric tons	
+No.
+8704.22.51.40	40  	G.V.W. exceeding 9 metric tons but not exceeding 12 metric tons	
+No.
+8704.22.51.60	60  	G.V.W. exceeding 12 metric tons but not exceeding 15 metric tons	
+No.
+8704.22.51.80	80  	G.V.W. exceeding 15 metric tons but not exceeding 20 metric tons	
+No.
+8704.23.01	00  	G.V.W. exceeding 20 metric tons	
+No.
+25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25%
+ 	Other, with only spark-ignition internal combustion piston engine:				
+8704.31.01	 	G.V.W. not exceeding 5 metric tons		25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25% 1/
+8704.31.01.20	20  	G.V.W. not exceeding 2.5 metric tons	
+No.
+8704.31.01.40	40  	G.V.W. exceeding 2.5 metric tons but not exceeding 5 metric tons	
+No.
+8704.32.01	 	G.V.W. exceeding 5 metric tons		25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25%
+8704.32.01.10	10  	G.V.W. exceeding 5 metric tons but not exceeding 9 metric tons	
+No.
+8704.32.01.20	20  	G.V.W. exceeding 9 metric tons but not exceeding 12 metric tons	
+No.
+8704.32.01.30	30  	G.V.W. exceeding 12 metric tons but not exceeding 15 metric tons	
+No.
+8704.32.01.40	40  	G.V.W. exceeding 15 metric tons but not exceeding 20 metric tons	
+No.
+8704.32.01.50	50  	G.V.W. exceeding 20 metric tons	
+No.
+ 	Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion:				
+8704.41.00	00  	G.V.W. not exceeding 5 metric tons	
+No.
+25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25%
+8704.42.00	 	G.V.W. exceeding 5 metric tons but not exceeding 20 metric tons		25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25%
+8704.42.00.20	20  	G.V.W. exceeding 5 metric tons but not exceeding 9 metric tons	
+No.
+8704.42.00.40	40  	G.V.W. exceeding 9 metric tons but not exceeding 12 metric tons	
+No.
+8704.42.00.60	60  	G.V.W. exceeding 12 metric tons but not exceeding 15 metric tons	
+No.
+8704.42.00.80	80  	G.V.W. exceeding 15 metric tons but not exceeding 20 metric tons	
+No.
+8704.43.00	00  	G.V.W. exceeding 20 metric tons	
+No.
+25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25%
+ 	Other, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion:				
+8704.51.00	 	G.V.W. not exceeding 5 metric tons		25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25% 1/
+8704.51.00.20	20  	G.V.W. not exceeding 2.5 metric tons	
+No.
+8704.51.00.40	40  	G.V.W. exceeding 2.5 metric tons but not exceeding 5 metric tons	
+No.
+8704.52.00	 	G.V.W. exceeding 5 metric tons		25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25%
+8704.52.00.10	10  	G.V.W. exceeding 5 metric tons but not exceeding 9 metric tons	
+No.
+8704.52.00.20	20  	G.V.W. exceeding 9 metric tons but not exceeding 12 metric tons	
+No.
+8704.52.00.30	30  	G.V.W. exceeding 12 metric tons but not exceeding 15 metric tons	
+No.
+8704.52.00.40	40  	G.V.W. exceeding 15 metric tons but not exceeding 20 metric tons	
+No.
+8704.52.00.50	50  	G.V.W. exceeding 20 metric tons	
+No.
+8704.60.00	00  	Other, with only electric motor for propulsion	
+No.
+25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25%
+8704.90.01	00  	Other	
+No.
+25% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG)25% (KR)	25%
+8705	 	Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, wreckers, mobile cranes, fire fighting vehicles, concrete mixers, road sweepers, spraying vehicles, mobile workshops, mobile radiological units):				
+8705.10.00	 	Mobile cranes		Free 1/		25%
+8705.10.00.10	10  	Cable operated	
+No.
+8705.10.00.50	50  	Other	
+No.
+8705.20.00	00  	Mobile drilling derricks	
+No.
+Free 1/		25%
+8705.30.00	00  	Fire fighting vehicles	
+No.
+Free 1/		25%
+8705.40.00	00  	Concrete mixers	
+No.
+Free 1/		25%
+8705.90.00	 	Other		Free 1/		25%
+8705.90.00.10	10  	Mobile radiological units	
+No.
+8705.90.00.20	20  	Mobile medical clinics	
+No.
+8705.90.00.80	80  	Other	
+No.
+8706.00	 	Chassis fitted with engines, for the motor vehicles of headings 8701 to 8705:				
+ 	For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or heading 8702 or 8704:				
+8706.00.03	00  	For vehicles of subheading 8704.21 or 8704.31	
+No.
+4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8706.00.05	 	Other		4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8706.00.05.20	20  	For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29	
+No.
+8706.00.05.40	40  	For vehicles of heading 8702	
+No.
+8706.00.05.75	75  	For vehicles of heading 8704	
+No.
+8706.00.15	 	For vehicles of heading 8703		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+8706.00.15.20	20  	For passenger automobiles	
+No.
+8706.00.15.40	40  	For other vehicles of heading 8703	
+No.
+8706.00.25	00  	For vehicles of heading 8705	
+No.
+1.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+ 	For other vehicles:				
+8706.00.30	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8706.00.50	00  	Other	
+No.
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	27.5%
+8707	 	Bodies (including cabs), for the motor vehicles of headings 8701 to 8705:				
+8707.10.00	 	For vehicles of heading 8703		2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+8707.10.00.20	20  	For passenger automobiles	
+No.
+8707.10.00.40	40  	For other vehicles	
+No.
+8707.90	 	Other:				
+8707.90.10	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8707.90.50	 	Other		4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8707.90.50.20	20  	For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29	
+No.
+8707.90.50.40	40  	For vehicles of heading 8702	
+No.
+8707.90.50.60	60  	For vehicles of heading 8704	
+No.
+8707.90.50.80	80  	For vehicles of heading 8705	
+No.
+8707.90.50.90	90  	For other vehicles	
+No.
+8708	 	Parts and accessories of the motor vehicles of headings 8701 to 8705:				
+8708.10	 	Bumpers and parts thereof:				
+8708.10.30	 	Bumpers		2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Stampings:				
+8708.10.30.20	20  	Of steel	
+No.
+8708.10.30.30	30  	Of aluminum	
+No.
+8708.10.30.40	40  	Other	
+No.
+8708.10.30.50	50  	Other	
+No.
+8708.10.60	 	Parts of bumpers		2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.10.60.10	10  	Stampings	
+No.
+8708.10.60.50	50  	Other	
+No.
+ 	Other parts and accessories of bodies (including cabs):				
+8708.21.00	00  	Safety seat belts	
+kg
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.22.00	00  	Front windscreens (windshields), rear windows and other windows specified in subheading note 1 to this chapter	
+No.
+m2
+2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.29	 	Other:				
+8708.29.15	00  	Door assemblies	
+No.
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Body stampings:				
+8708.29.21	 	For tractors suitable for agricultural use		Free 1/		Free
+8708.29.21.20	20  	Of steel	
+No.
+8708.29.21.30	30  	Of aluminum	
+No.
+8708.29.21.40	40  	Other	
+No.
+8708.29.25	00  	Other	
+No.
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.29.51	 	Other		2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.29.51.10	10  	Stampings	
+No.
+8708.29.51.25	25  	Truck caps	
+No.
+8708.29.51.60	60  	Other 1/	
+No.
+8708.30	 	Brakes and servo-brakes; parts thereof:				
+8708.30.10	 	For tractors suitable for agricultural use		Free 1/		Free
+8708.30.10.10	10  	Mounted brake linings	
+No.
+8708.30.10.90	90  	Other	
+No.
+8708.30.50	 	For other vehicles		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.30.50.20	20  	Brake drums	
+No.
+8708.30.50.30	30  	Brake rotors (discs)	
+No.
+8708.30.50.40	40  	Mounted brake linings	
+No.
+8708.30.50.90	90  	Other 1/	
+No.
+8708.40	 	Gear boxes and parts thereof:				
+ 	Gear boxes:				
+8708.40.11	 	For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or heading 8702, 8703 or 8704		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.40.11.10	10  	For vehicles of heading 8703	
+No.
+8708.40.11.50	50  	Other	
+No.
+8708.40.30	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free 1/
+8708.40.50	00  	For other vehicles	
+No.
+2.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Parts:				
+8708.40.60	00  	Of tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8708.40.65	00  	Of other tractors (except road tractors)	
+No.
+Free 1/		27.5% 1/
+ 	Other:				
+8708.40.70	00  	Of cast iron	
+kg
+Free 1/		Free 1/
+8708.40.75	 	Other		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.40.75.70	70  	Steel forgings 1/	
+kg
+8708.40.75.80	80  	Other	
+No.
+8708.50	 	Drive-axles with differential, whether or not provided with other transmission components, and non-driving axles; parts thereof:				
+ 	Drive-axles with differential, whether or not provided with other transmission components, and non-driving axles:				
+ 	For tractors (except road tractors):				
+8708.50.11	 	For tractors suitable for agricultural use		Free 1/		Free
+8708.50.11.10	10  	Drive axles with differential, whether or not provided with other transmission components	
+No.
+kg
+8708.50.11.50	50  	Non-driving axles	
+No.
+8708.50.31	 	For other tractors		Free 1/		27.5%
+8708.50.31.10	10  	Drive axles with differential, whether or not provided with other transmission components	
+No.
+kg
+8708.50.31.50	50  	Non-driving axles	
+No.
+8708.50.51	 	For vehicles of heading 8703		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.50.51.10	10  	Drive axles with differential, whether or not provided with other transmission components	
+No.
+kg
+8708.50.51.50	50  	Non-driving axles	
+No.
+ 	For other vehicles:				
+8708.50.61	00  	Drive axles with differential, whether or not provided with other transmission components	
+No.
+kg
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.50.65	00  	Non-driving axles	
+No.
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Parts:				
+ 	For tractors (except road tractors):				
+8708.50.70	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8708.50.75	00  	For other tractors	
+No.
+Free 1/		27.5%
+ 	For vehicles of heading 8703:				
+8708.50.79	00  	Parts of non-driving axles	
+No.
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+8708.50.81	00  	Of cast iron	
+kg
+Free 1/		Free
+ 	Other:				
+8708.50.85	00  	Half-shafts 1/	
+No.
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.50.89	00  	Other	
+No.
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	For other vehicles:				
+8708.50.91	 	Parts of non-driving axles		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.50.91.10	10  	Spindles	
+No.
+kg
+8708.50.91.50	50  	Other	
+No.
+ 	Other:				
+8708.50.93	00  	Of cast iron	
+kg
+Free 1/		Free
+ 	Other:				
+8708.50.95	00  	Half-shafts	
+No.
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.50.99	00  	Other	
+No.
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.70	 	Road wheels and parts and accessories thereof:				
+ 	For tractors (except road tractors):				
+ 	For tractors suitable for agricultural use:				
+8708.70.05	00  	Road wheels	
+No.
+Free 1/		Free
+8708.70.15	00  	Parts and accessories	
+No.
+Free 1/		Free
+ 	For other tractors:				
+8708.70.25	00  	Road wheels	
+No.
+Free 1/		27.5%
+8708.70.35	00  	Parts and accessories	
+No.
+Free 1/		27.5%
+ 	For other vehicles:				
+8708.70.45	 	Road wheels		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.70.45.30	30  	For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or heading 8702, 8704 or 8705	
+No.
+ 	Other:				
+ 	Of aluminum:				
+8708.70.45.46	46  	Wheels having a diameter of at least 57 cm but not more than 63 cm	
+No.
+8708.70.45.48	48  	Other	
+No.
+8708.70.45.60	60  	Other	
+No.
+8708.70.60	 	Parts and accessories		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.70.60.30	30  	Wheel rims for vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or heading 8702, 8703, 8704, or 8705	
+No.
+8708.70.60.45	45  	Wheel covers and hubcaps for vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or heading 8702, 8703, 8704 or 8705	
+No.
+8708.70.60.60	60  	Other	
+No.
+8708.80	 	Suspension systems and parts thereof (including shock absorbers):				
+ 	Suspension systems (including shock absorbers):				
+ 	For tractors suitable for agricultural use:				
+8708.80.03	00  	McPherson struts	
+No.
+Free 1/		Free
+8708.80.05	00  	Other	
+No.
+Free 1/		Free
+ 	For other vehicles:				
+8708.80.13	00  	McPherson struts	
+No.
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.80.16	00  	Other	
+No.
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Parts:				
+8708.80.51	00  	Of tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8708.80.55	00  	Of other tractors (except road tractors)	
+No.
+Free 1/		27.5%
+ 	Other:				
+8708.80.60	00  	Of cast iron	
+kg
+Free 1/		Free
+8708.80.65	 	Other		2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.80.65.10	10  	Beam hanger brackets	
+No.
+8708.80.65.90	90  	Other	
+No.
+ 	Other parts and accessories:				
+8708.91	 	Radiators and parts thereof:				
+ 	Radiators:				
+8708.91.10	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8708.91.50	00  	For other vehicles	
+No.
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Parts:				
+8708.91.60	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8708.91.65	00  	For other tractors (except road tractors)	
+No.
+Free 1/		27.5%
+ 	For other vehicles:				
+8708.91.70	00  	Of cast iron	
+kg
+Free 1/		Free
+8708.91.75	 	Other		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.91.75.10	10  	Radiator cores	
+No.
+8708.91.75.50	50  	Other	
+No.
+8708.92	 	Mufflers and exhaust pipes; parts thereof:				
+ 	Mufflers and exhaust pipes:				
+8708.92.10	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free 1/
+8708.92.50	00  	For other vehicles	
+No.
+2.5% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Parts:				
+8708.92.60	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8708.92.65	00  	For other tractors (except road tractors)	
+No.
+Free 1/		27.5%
+ 	For other vehicles:				
+8708.92.70	00  	Of cast iron	
+kg
+Free 1/		Free
+8708.92.75	00  	Other	
+No.
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.93	 	Clutches and parts thereof:				
+ 	For tractors suitable for agricultural use:				
+8708.93.15	00  	Clutches	
+No.
+Free 1/		Free
+8708.93.30	00  	Other	
+No.
+Free 1/		Free
+ 	For other vehicles:				
+8708.93.60	00  	Clutches	
+No.
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.93.75	00  	Other	
+No.
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.94	 	Steering wheels, steering columns and steering boxes; parts thereof:				
+ 	Steering wheels, steering columns and steering boxes:				
+8708.94.10	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8708.94.50	00  	For other vehicles	
+No.
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Parts:				
+8708.94.60	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8708.94.65	00  	For other tractors (except road tractors)	
+No.
+Free 1/		27.5%
+ 	For other vehicles:				
+8708.94.70	00  	Of cast iron	
+kg
+Free 1/		Free
+8708.94.75	 	Other		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.94.75.10	10  	Steering shaft assemblies incorporating universal joints	
+No.
+kg
+8708.94.75.50	50  	Other	
+No.
+8708.95	 	Safety airbags with inflater system; parts thereof:				
+8708.95.05	00  	Inflaters and modules for airbags	
+No.
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+8708.95.10	00  	For tractors suitable for agricultural use	
+No.
+Free 1/		Free
+8708.95.15	00  	For other tractors (except road tractors)	
+No.
+Free 1/		27.5%
+8708.95.20	00  	For other vehicles	
+No.
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.99	 	Other:				
+ 	Parts of tractors suitable for agricultural use:				
+8708.99.03	00  	Vibration control goods containing rubber	
+No.
+Free 1/		Free
+8708.99.06	00  	Double flanged wheel hub units incorporating ball bearings	
+No.
+Free 1/		Free
+8708.99.16	00  	Other parts for power trains	
+No.
+Free 1/		Free
+8708.99.23	00  	Other	
+No.
+Free 1/		Free
+ 	Parts of other tractors (except road tractors):				
+8708.99.27	00  	Vibration control goods containing rubber	
+No.
+Free 1/		27.5%
+8708.99.31	00  	Double flanged wheel hub units incorporating ball bearings	
+No.
+Free 1/		27.5%
+8708.99.41	00  	Other parts for power trains	
+No.
+Free 1/		27.5% 1/
+8708.99.48	 	Other		Free 1/		27.5% 1/
+8708.99.48.10	10  	Tracklinks for track-laying tractors	
+No.
+kg
+8708.99.48.50	50  	Other	
+No.
+ 	Other:				
+8708.99.53	00  	Of cast-iron	
+kg
+Free 1/		Free
+ 	Other:				
+8708.99.55	00  	Vibration control goods containing rubber	
+No.
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8708.99.58	00  	Double flanged wheel hub units incorporating ball bearings	
+No.
+kg
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+8708.99.68	 	Other parts for power trains		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.99.68.05	05  	Drive shafts	
+No.
+8708.99.68.10	10  	Forged universal joints for vehicles of heading 8703	
+No.
+8708.99.68.20	20  	Forged universal joints for vehicles of heading 8704	
+No.
+8708.99.68.90	90  	Other 1/	
+No.
+8708.99.81	 	Other		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8708.99.81.05	05  	Brake hoses of plastics, with attached fittings	
+No.
+8708.99.81.15	15  	Double flanged wheel hub units not incorporating ball bearings	
+No.
+kg
+8708.99.81.30	30  	Slide-in campers	
+No.
+8708.99.81.60	60  	Cable traction devices	
+kg
+8708.99.81.80	80  	Other 1/	
+No.
+8709	 	Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles:				
+ 	Vehicles:				
+8709.11.00	 	Electrical		Free 1/		35%
+8709.11.00.30	30  	Operator riding	
+No.
+8709.11.00.60	60  	Other	
+No.
+8709.19.00	 	Other		Free 1/		35%
+8709.19.00.30	30  	Operator riding	
+No.
+8709.19.00.60	60  	Other	
+No.
+8709.90.00	 	Parts:		Free 1/		35%
+8709.90.00.10	10  	Road wheels	
+kg
+8709.90.00.20	20  	Wheel and tire assemblies	
+kg
+8709.90.00.90	90  	Other	
+kg
+8710.00.00	 	Tanks and other armored fighting vehicles, motorized, whether or not fitted with weapons, and parts of such vehicles		Free 1/		35%
+ 	Vehicles:				
+8710.00.00.30	30  	Tracked (including half-tracked)	
+No.
+8710.00.00.60	60  	Other	
+No.
+8710.00.00.90	90  	Parts	
+kg
+8711	 	Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars:				
+8711.10.00	00  	With internal combustion piston engine of a cylinder capacity not exceeding 50 cc 1/	
+No.
+Free 1/		10%
+8711.20.00	 	With internal combustion piston engine of a cylinder capacity exceeding 50 cc but not exceeding 250 cc		Free 1/		10%
+8711.20.00.30	30  	Exceeding 50 cc but not exceeding 90 cc	
+No.
+8711.20.00.60	60  	Exceeding 90 cc but not exceeding 190 cc	
+No.
+8711.20.00.90	90  	Exceeding 190 cc but not exceeding 250 cc	
+No.
+8711.30.00	 	With internal combustion piston engine of a cylinder capacity exceeding 250 cc but not exceeding 500 cc		Free 1/		10% 1/
+8711.30.00.30	30  	Exceeding 250 cc but not exceeding 290 cc	
+No.
+8711.30.00.60	60  	Exceeding 290 cc but not exceeding 490 cc	
+No.
+8711.30.00.90	90  	Exceeding 490 cc but not exceeding 500 cc	
+No.
+8711.40	 	With internal combustion piston engine of a cylinder capacity exceeding 500 cc but not exceeding 800 cc:				
+8711.40.30	00  	Exceeding 500 cc but not exceeding 700 cc	
+No.
+Free 1/		10%
+8711.40.60	 	Exceeding 700 cc but not exceeding 800 cc		2.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+8711.40.60.30	30  	Exceeding 700 cc but not exceeding 790 cc	
+No.
+8711.40.60.60	60  	Exceeding 790 cc but not exceeding 800 cc	
+No.
+8711.50.00	 	With internal combustion piston engine of a cylinder capacity exceeding 800 cc		2.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+8711.50.00.30	30  	Exceeding 800 cc but not exceeding 970 cc	
+No.
+8711.50.00.60	60  	Exceeding 970 cc	
+No.
+8711.60.00	 	With electric motor for propulsion		Free 1/		10%
+8711.60.00.50	50  	Of an output not exceeding 250 W 1/	
+No.
+8711.60.00.90	90  	Other 1/	
+No.
+8711.90.01	00  	Other	
+No.
+Free 1/		10% 1/
+8712.00	 	Bicycles and other cycles (including delivery tricycles), not motorized:				
+8712.00.15	 	Bicycles having both wheels not exceeding 63.5 cm in diameter		11% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 5.5% (JP)	30%
+8712.00.15.10	10  	Having both wheels not exceeding 50 cm in diameter 1/	
+No.
+8712.00.15.20	20  	Having both wheels exceeding 50 cm but not exceeding 55 cm in diameter 1/	
+No.
+8712.00.15.50	50  	Having both wheels exceeding 55 cm but not exceeding 63.5 cm in diameter 1/	
+No.
+ 	Bicycles having both wheels exceeding 63.5 cm in diameter:				
+8712.00.25	00  	If weighing less than 16.3 kg complete without accessories and not designed for use with tires having a cross-sectional diameter exceeding 4.13 cm 1/	
+No.
+5.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)2.75% (JP)	30%
+8712.00.35	00  	Other 1/	
+No.
+11% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 5.5% (JP)	30%
+8712.00.44	00  	Bicycles having a front wheel exceeding 55 cm but not exceeding 63.5 cm in diameter and a rear wheel exceeding 63.5 cm in diameter, weighing less than 16.3 kg complete without accessories and not designed for use with tires having a cross-sectional diameter exceeding 4.13 cm, valued $200 or more each	
+No.
+5.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)2.75% (JP)	30%
+8712.00.48	00  	Other bicycles	
+No.
+11% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 5.5% (JP)	30%
+8712.00.50	00  	Other cycles	
+No.
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+8713	 	Carriages for disabled persons, whether or not motorized or otherwise mechanically propelled:				
+8713.10.00	00  	Not mechanically propelled	
+No.
+Free		40%
+8713.90.00	 	Other		Free		10%
+8713.90.00.30	30  	Three-wheeled	
+No.
+8713.90.00.60	60  	Other	
+No.
+8714	 	Parts and accessories of vehicles of headings 8711 to 8713:				
+8714.10.00	 	Of motorcycles (including mopeds)		Free 1/		25% 1/
+8714.10.00.10	10  	Saddles and seats	
+kg
+8714.10.00.20	20  	Wheels	
+kg
+8714.10.00.50	50  	Other	
+kg
+8714.20.00	00  	Of carriages for disabled persons	
+kg
+Free		40%
+ 	Other:				
+8714.91	 	Frames and forks, and parts thereof:				
+ 	Frames:				
+8714.91.20	00  	Valued over $600 each	
+No.
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30%
+8714.91.30	00  	Other 1/	
+No.
+3.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30%
+8714.91.50	00  	Sets of steel tubing cut to exact length and each set having the number of tubes needed for the assembly (with other parts) into the frame and fork of one bicycle	
+kg
+6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)3% (JP)	30%
+8714.91.90	00  	Other	
+kg
+Free 1/		30%
+8714.92	 	Wheel rims and spokes:				
+8714.92.10	00  	Wheel rims	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+8714.92.50	00  	Spokes	
+kg
+10% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 5% (JP)	30%
+8714.93	 	Hubs, other than coaster braking hubs and hub brakes, and free-wheel sprocket-wheels:				
+ 	Hubs:				
+8714.93.05	00  	Aluminum alloy hubs with a hollow axle and lever-operated quick release mechanism	
+No.
+Free 1/		30%
+ 	Other:				
+8714.93.15	00  	Three speed	
+No.
+Free 1/		30%
+ 	Variable speed (except three speed) with internal gear changing mechanisms:				
+8714.93.24	00  	Two speed	
+No.
+Free 1/		30%
+8714.93.28	00  	Other	
+No.
+3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30%
+8714.93.35	00  	Other	
+No.
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 5% (JP)	30%
+8714.93.70	 	Free-wheel sprocket-wheels		Free 1/		30%
+8714.93.70.30	30  	Multiple free-wheel sprockets	
+No.
+8714.93.70.60	60  	Other	
+kg
+8714.94	 	Brakes, including coaster braking hubs and hub brakes, and parts thereof:				
+8714.94.30	 	Drum brakes, caliper and cantilever bicycle brakes, and coaster brakes; parts thereof (including cable or inner wire therefor, fitted with fittings)		Free 1/		30%
+8714.94.30.20	20  	Caliper and cantilever bicycle brakes	
+No.
+ 	Coaster brakes:				
+8714.94.30.40	40  	Designed for single-speed bicycles	
+No.
+ 	Other:				
+8714.94.30.50	50  	Designed for three-speed bicycles	
+No.
+8714.94.30.60	60  	Other	
+No.
+8714.94.30.80	80  	Other	
+kg
+8714.94.90	00  	Other	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 5% (JP)	30%
+8714.95.00	00  	Saddles	
+No.
+8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 4% (JP)	30%
+8714.96	 	Pedals and crank-gear, and parts thereof:				
+8714.96.10	00  	Pedals and parts thereof	
+kg
+8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 4% (JP)	30%
+8714.96.50	00  	Cotterless-type crank sets and parts thereof	
+kg
+Free 1/		30%
+8714.96.90	00  	Other crank-gear and parts thereof	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 5% (JP)	30%
+8714.99	 	Other:				
+8714.99.10	00  	Click twist grips and click stick levers	
+kg
+Free 1/		30%
+8714.99.50	00  	Derailleurs and parts thereof	
+kg
+Free 1/		30%
+8714.99.60	00  	Trigger and twist grip controls for three speed hubs, and parts thereof; bicycle handlebar stems wholly of aluminum alloy (including their hardware of any material), valued over $2.15 each; and bicycle handlebar stem rotor assemblies	
+kg
+Free 1/		30%
+8714.99.80	00  	Other	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 5% (JP)	30% 1/
+8715.00.00	 	Baby carriages (including strollers) and parts thereof		4.4%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8715.00.00.20	20  	Baby carriages (including strollers)	
+No.
+8715.00.00.40	40  	Parts	
+kg
+8716	 	Trailers and semi-trailers; other vehicles, not mechanically propelled; and parts thereof:				
+8716.10.00	 	Trailers and semi-trailers for housing or camping		Free 1/		45%
+8716.10.00.30	30  	Less than 10.6 m in length	
+No.
+8716.10.00.75	75  	10.6 m or more in length	
+No.
+8716.20.00	00  	Self-loading or self-unloading trailers and semi-trailers for agricultural purposes	
+No.
+Free 1/		45%
+ 	Other trailers and semi-trailers for the transport of goods:				
+8716.31.00	00  	Tanker trailers and tanker semi-trailers	
+No.
+Free 1/		45%
+8716.39.00	 	Other		Free 1/		45%
+8716.39.00.10	10  	Agricultural	
+No.
+8716.39.00.20	20  	For use with the vehicles of heading 8709	
+No.
+ 	Other:				
+8716.39.00.30	30  	For use with the vehicles of heading 8703	
+No.
+ 	Other:				
+8716.39.00.40	40  	Van type	
+No.
+8716.39.00.50	50  	Platform type	
+No.
+8716.39.00.90	90  	Other	
+No.
+8716.40.00	00  	Other trailers and semi-trailers 1/	
+No.
+Free 1/		45%
+8716.80	 	Other vehicles:				
+8716.80.10	00  	Farm wagons and carts	
+No.
+Free 1/		Free 1/
+8716.80.50	 	Other		3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8716.80.50.10	10  	Industrial hand trucks	
+No.
+ 	Other:				
+8716.80.50.20	20  	Portable luggage carts	
+No.
+8716.80.50.90	90  	Other	
+No.
+8716.90	 	Parts:				
+8716.90.10	 	Parts of farm wagons and carts:		Free 1/		Free
+8716.90.10.10	10  	Road wheels	
+kg
+8716.90.10.20	20  	Wheel and tire assemblies	
+kg
+8716.90.10.90	90  	Other	
+kg
+8716.90.30	00  	Castors, other than those of heading 8302 1/	
+kg
+5.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8716.90.50	 	Other		3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8716.90.50.10	10  	Axles and parts thereof	
+kg
+ 	Wheels:				
+8716.90.50.35	35  	Steel wheels measuring 30 to 42 cm in diameter, whether or not assembled	
+kg
+ 	Other:				
+ 	Wheels:				
+ 	Having a diameter of at least 57 cm but not more than 63 cm:				
+8716.90.50.46	46  	Of aluminum	
+kg
+8716.90.50.47	47  	Of steel	
+kg
+8716.90.50.48	48  	Other wheels	
+kg
+ 	Wheels with tires:				
+8716.90.50.56	56  	Wheels with tires for off-the-highway use	
+kg
+8716.90.50.59	59  	Wheels with other tires	
+kg
+8716.90.50.60	60  	Other	
+kg

@@ -1,0 +1,3139 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+6101	 	Men's or boys' overcoats, carcoats, capes, cloaks, anoraks (including ski-jackets), windbreakers and similar articles, knitted or crocheted, other than those of heading 6103:				
+6101.20.00	 	Of cotton		15.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+6101.20.00.10	10  	Men's (334)	
+doz.
+kg
+6101.20.00.20	20  	Boys' (334)	
+doz.
+kg
+6101.30	 	Of man-made fibers:				
+6101.30.10	00  	Containing 25 percent or more by weight of leather (634)	
+doz.
+kg
+5.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+6101.30.15	00  	Containing 23 percent or more by weight of wool or fine animal hair (434)	
+doz.
+kg
+38.6¢/kg + 10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg + 54.5%
+6101.30.20	 	Other		28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6101.30.20.10	10  	Men's (634)	
+doz.
+kg
+6101.30.20.20	20  	Boys' (634)	
+doz.
+kg
+6101.90	 	Of other textile materials:				
+6101.90.05	00  	Of wool or fine animal hair (434)	
+doz.
+kg
+61.7¢/kg + 16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg + 54.5%
+6101.90.10	00  	Containing 70 percent or more by weight of silk or silk waste (734)	
+doz.
+kg
+0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6101.90.90	 	Other		5.7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6101.90.90.10	10  	Subject to cotton restraints (334)	
+doz.
+kg
+6101.90.90.20	20  	Subject to wool restraints (434)	
+doz.
+kg
+6101.90.90.30	30  	Subject to man-made fiber restraints (634)	
+doz.
+kg
+6101.90.90.60	60  	Other (834)	
+doz.
+kg
+6102	 	Women's or girls' overcoats, carcoats, capes, cloaks, anoraks (including ski-jackets), windbreakers and similar articles, knitted or crocheted, other than those of heading 6104:				
+6102.10.00	00  	Of wool or fine animal hair (435)	
+doz.
+kg
+55.9¢/kg + 16.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.3¢/kg + 54.5%
+6102.20.00	 	Of cotton		15.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+6102.20.00.10	10  	Women's (335)	
+doz.
+kg
+6102.20.00.20	20  	Girls' (335)	
+doz.
+kg
+6102.30	 	Of man-made fibers:				
+6102.30.05	00  	Containing 25 percent or more by weight of leather (635)	
+doz.
+kg
+5.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+6102.30.10	00  	Containing 23 percent or more by weight of wool or fine animal hair (435)	
+doz.
+kg
+64.4¢/kg + 18.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.3¢/kg + 54.5%
+6102.30.20	 	Other		28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6102.30.20.10	10  	Women's (635)	
+doz.
+kg
+6102.30.20.20	20  	Girls' (635)	
+doz.
+kg
+6102.90	 	Of other textile materials:				
+6102.90.10	00  	Containing 70 percent or more by weight of silk or silk waste (735)	
+doz.
+kg
+0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6102.90.90	 	Other		5.7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6102.90.90.05	05  	Subject to cotton restraints (335)	
+doz.
+kg
+6102.90.90.10	10  	Subject to wool restraints (435)	
+doz.
+kg
+6102.90.90.15	15  	Subject to man-made fiber restraints (635)	
+doz.
+kg
+6102.90.90.30	30  	Other (835)	
+doz.
+kg
+6103	 	Men's or boys' suits, ensembles, suit-type jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted:				
+6103.10	 	Suits:				
+6103.10.10	00  	Of wool or fine animal hair (443)	
+No.
+kg
+38.8¢/kg + 10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg + 54.5%
+ 	Of synthetic fibers:				
+6103.10.20	00  	Containing 23 percent or more by weight of wool or fine animal hair (443)	
+No.
+kg
+60.3¢/kg + 15.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg + 54.5%
+6103.10.30	00  	Other (643)	
+No.
+kg
+28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+ 	Of other textile materials:				
+ 	Of artificial fibers:				
+6103.10.40	00  	Containing 23 percent or more by weight of wool or fine animal hair (443)	
+No.
+kg
+Free		77.2¢/kg + 54.5%
+6103.10.50	00  	Other (643)	
+No.
+kg
+Free 1/		72%
+6103.10.60	 	Of cotton		9.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6103.10.60.10	10  	Jackets imported as parts of suits (333)	
+doz.
+kg
+6103.10.60.15	15  	Trousers, breeches and shorts imported as parts of suits (347)	
+doz.
+kg
+6103.10.60.30	30  	Waistcoats imported as parts of suits (359)	
+doz.
+kg
+6103.10.70	00  	Containing 70 percent or more by weight of silk or silk waste (743)	
+No.
+kg
+0.9%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6103.10.90	 	Other		5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Subject to cotton restraints:				
+6103.10.90.10	10  	Jackets imported as parts of suits (333)	
+doz.
+kg
+6103.10.90.20	20  	Trousers, breeches, and shorts imported as parts of suits (347)	
+doz.
+kg
+6103.10.90.30	30  	Waistcoats imported as parts of suits (359)	
+doz.
+kg
+6103.10.90.40	40  	Subject to wool restraints (443)	
+No.
+kg
+6103.10.90.50	50  	Subject to man-made fiber restraints (643)	
+No.
+kg
+6103.10.90.80	80  	Other (843)	
+No.
+kg
+ 	Ensembles:				
+6103.22.00	 	Of cotton		The rate applicable to each garment in the ensemble if separately entered 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to each garment in the ensemble if separately entered
+6103.22.00.10	10  	Garments described in heading 6101 (334)	
+doz.
+kg
+6103.22.00.20	20  	Jackets and blazers described in heading 6103 (333)	
+doz.
+kg
+6103.22.00.30	30  	Trousers and breeches (347)	
+doz.
+kg
+6103.22.00.40	40  	Shorts (347)	
+doz.
+kg
+6103.22.00.50	50  	Shirts (338)	
+doz.
+kg
+6103.22.00.70	70  	Sweaters (345)	
+doz.
+kg
+6103.22.00.80	80  	Other (359)	
+doz.
+kg
+6103.23.00	 	Of synthetic fibers		The rate applicable to each garment in the ensemble if separately entered 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to each garment in the ensemble if separately entered
+ 	Containing 23 percent or more by weight of wool or fine animal hair:				
+6103.23.00.05	05  	Garments described in heading 6101 (434)	
+doz.
+kg
+6103.23.00.07	07  	Jackets and blazers described in heading 6103 (433)	
+doz.
+kg
+6103.23.00.10	10  	Trousers, breeches and shorts (447)	
+doz.
+kg
+6103.23.00.25	25  	Shirts (438)	
+doz.
+kg
+6103.23.00.30	30  	Sweaters (445)	
+doz.
+kg
+6103.23.00.35	35  	Other (459)	
+doz.
+kg
+ 	Other:				
+6103.23.00.36	36  	Garments described in heading 6101 (634)	
+doz.
+kg
+6103.23.00.37	37  	Jackets and blazers described in heading 6103 (633)	
+doz.
+kg
+6103.23.00.40	40  	Trousers and breeches (647)	
+doz.
+kg
+6103.23.00.45	45  	Shorts (647)	
+doz.
+kg
+6103.23.00.55	55  	Bib and brace overalls (659)	
+doz.
+kg
+6103.23.00.70	70  	Sweaters (645)	
+doz.
+kg
+6103.23.00.75	75  	Shirts (638)	
+doz.
+kg
+6103.23.00.80	80  	Other (659)	
+doz.
+kg
+6103.29	 	Of other textile materials:				
+6103.29.05	 	Of wool or fine animal hair		The rate applicable to each garment in the ensemble if separately entered 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to each garment in the ensemble if separately entered
+6103.29.05.10	10  	Garments described in heading 6101 (434)	
+doz.
+kg
+6103.29.05.20	20  	Jackets and blazers described in heading heading 6103 (433)	
+doz.
+kg
+6103.29.05.30	30  	Trousers, breeches and shorts (447)	
+doz.
+kg
+6103.29.05.50	50  	Shirts (438)	
+doz.
+kg
+6103.29.05.60	60  	Sweaters (445)	
+doz.
+kg
+6103.29.05.70	70  	Other (459)	
+doz.
+kg
+6103.29.10	 	Of artificial fibers		The rate applicable to each garment in the ensemble if separately entered 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to each garment in the ensemble if separately entered
+6103.29.10.10	10  	Garments described in heading 6101 (634)	
+doz.
+kg
+6103.29.10.15	15  	Jackets and blazers described in heading 6103 (633)	
+doz.
+kg
+6103.29.10.20	20  	Trousers and breeches (647)	
+doz.
+kg
+6103.29.10.30	30  	Shorts (647)	
+doz.
+kg
+6103.29.10.40	40  	Sweaters (645)	
+doz.
+kg
+6103.29.10.50	50  	Shirts (638)	
+doz.
+kg
+6103.29.10.60	60  	Other (659)	
+doz.
+kg
+6103.29.20	 	Other		The rate applicable to each garment in the ensemble if separately entered 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to each garment in the ensemble if separately entered
+ 	Garments described in heading 6101:				
+6103.29.20.28	28  	Containing 70 percent or more by weight of silk or silk waste (734)	
+doz.
+kg
+6103.29.20.30	30  	Other (834)	
+doz.
+kg
+ 	Jackets and blazers described in heading 6103:				
+6103.29.20.34	34  	Containing 70 percent or more by weight of silk or silk waste (733)	
+doz.
+kg
+6103.29.20.36	36  	Other (833)	
+doz.
+kg
+ 	Trousers, breeches and shorts:				
+6103.29.20.40	40  	Containing 70 percent or more by weight of silk or silk waste (747)	
+doz.
+kg
+ 	Other:				
+6103.29.20.44	44  	Trousers and breeches (847)	
+doz.
+kg
+6103.29.20.48	48  	Shorts (847)	
+doz.
+kg
+ 	Shirts:				
+6103.29.20.52	52  	Containing 70 percent or more by weight of silk or silk waste (738)	
+doz.
+kg
+6103.29.20.54	54  	Other (838)	
+doz.
+kg
+ 	Sweaters:				
+6103.29.20.58	58  	Subject to cotton restraints (345)	
+doz.
+kg
+6103.29.20.60	60  	Subject to wool restraints (445)	
+doz.
+kg
+6103.29.20.62	62  	Subject to man-made fiber restraints (645)	
+doz.
+kg
+ 	Other:				
+ 	Of silk:				
+6103.29.20.64	64  	Containing 70 percent or more by weight of silk or silk waste (745)	
+doz.
+kg
+ 	Other:				
+6103.29.20.66	66  	Assembled in Hong Kong from knit-to-shape component parts knitted elsewhere (846)	
+doz.
+kg
+6103.29.20.68	68  	Other (846)	
+doz.
+kg
+ 	Other:				
+6103.29.20.70	70  	Assembled in Hong Kong from knit-to-shape component parts knitted elsewhere (845)	
+doz.
+kg
+6103.29.20.74	74  	Other (845)	
+doz.
+kg
+ 	Other:				
+6103.29.20.80	80  	Containing 70 percent or more by weight of silk or silk waste (759)	
+doz.
+kg
+6103.29.20.82	82  	Other (859)	
+doz.
+kg
+ 	Suit-type jackets and blazers:				
+6103.31.00	00  	Of wool or fine animal hair (433)	
+doz.
+kg
+38.6¢/kg + 10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg + 54.5%
+6103.32.00	00  	Of cotton (333)	
+doz.
+kg
+13.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6103.33	 	Of synthetic fibers:				
+6103.33.10	00  	Containing 23 percent or more by weight of wool or fine animal hair (433)	
+doz.
+kg
+38.6¢/kg + 10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg + 54.5%
+6103.33.20	00  	Other (633)	
+doz.
+kg
+28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6103.39	 	Of other textile materials:				
+6103.39.10	00  	Of artificial fibers (633)	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6103.39.40	00  	Containing 70 percent or more by weight of silk or silk waste (733)	
+doz.
+kg
+0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6103.39.80	 	Other		5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6103.39.80.10	10  	Subject to cotton restraints (333)	
+doz.
+kg
+6103.39.80.20	20  	Subject to wool restraints (433)	
+doz.
+kg
+6103.39.80.30	30  	Subject to man-made fiber restraints (633)	
+doz.
+kg
+6103.39.80.60	60  	Other (833)	
+doz.
+kg
+ 	Trousers, bib and brace overalls, breeches and shorts:				
+6103.41	 	Of wool or fine animal hair:				
+6103.41.10	 	Trousers, breeches and shorts		61.1¢/kg + 15.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg + 54.5%
+6103.41.10.10	10  	Trousers and breeches (447)	
+doz.
+kg
+6103.41.10.20	20  	Shorts (447)	
+doz.
+kg
+6103.41.20	00  	Bib and brace overalls (459)	
+doz.
+kg
+13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6103.42	 	Of cotton:				
+6103.42.10	 	Trousers, breeches and shorts		16.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Trousers and breeches:				
+6103.42.10.20	20  	Men's (347)	
+doz.
+kg
+ 	Boys':				
+6103.42.10.35	35  	Imported as parts of play suits (237)	
+doz.
+kg
+6103.42.10.40	40  	Other (347)	
+doz.
+kg
+ 	Shorts:				
+6103.42.10.50	50  	Men's (347)	
+doz.
+kg
+ 	Boys':				
+6103.42.10.65	65  	Imported as parts of play suits (237)	
+doz.
+kg
+6103.42.10.70	70  	Other (347)	
+doz.
+kg
+6103.42.20	 	Bib and brace overalls		10.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6103.42.20.10	10  	Insulated, for cold weather protection(359)	
+doz.
+kg
+ 	Other:				
+6103.42.20.15	15  	Boys' sizes 2-7 (237)	
+doz.
+kg
+6103.42.20.25	25  	Other (359)	
+doz.
+kg
+6103.43	 	Of synthetic fibers:				
+ 	Trousers, breeches and shorts:				
+6103.43.10	 	Containing 23 percent or more by weight of wool or fine animal hair		58.5¢/kg + 15.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg + 54.5%
+6103.43.10.10	10  	Trousers and breeches (447)	
+doz.
+kg
+6103.43.10.20	20  	Shorts (447)	
+doz.
+kg
+6103.43.15	 	Other		28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+ 	Trousers and breeches:				
+6103.43.15.20	20  	Men's (647)	
+doz.
+kg
+ 	Boys':				
+6103.43.15.35	35  	Imported as parts of play suits (237)	
+doz.
+kg
+6103.43.15.40	40  	Other (647)	
+doz.
+kg
+ 	Shorts:				
+6103.43.15.50	50  	Men's (647)	
+doz.
+kg
+ 	Boys':				
+6103.43.15.65	65  	Imported as parts of play suits (237)	
+doz.
+kg
+6103.43.15.70	70  	Other (647)	
+doz.
+kg
+6103.43.20	 	Bib and brace overalls		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6103.43.20.10	10  	Containing 23 percent or more by weight of wool or fine animal hair (459)	
+doz.
+kg
+ 	Other:				
+6103.43.20.15	15  	Insulated, for cold weather protection (659)	
+doz.
+kg
+ 	Other:				
+6103.43.20.20	20  	Men's (659)	
+doz.
+kg
+6103.43.20.25	25  	Boys' (659)	
+doz.
+kg
+6103.49	 	Of other textile materials:				
+ 	Of artificial fibers:				
+6103.49.10	 	Trousers, breeches and shorts		28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6103.49.10.10	10  	Containing 23 percent or more by weight of wool or fine animal hair (447)	
+doz.
+kg
+ 	Other:				
+6103.49.10.20	20  	Trousers and breeches (647)	
+doz.
+kg
+6103.49.10.60	60  	Shorts (647)	
+doz.
+kg
+6103.49.20	00  	Bib and brace overalls (659)	
+doz.
+kg
+13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6103.49.40	 	Containing 70 percent or more by weight of silk or silk waste		0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+6103.49.40.10	10  	Trousers, breeches and shorts (747)	
+doz.
+kg
+6103.49.40.20	20  	Bib and brace overalls (759)	
+doz.
+kg
+6103.49.80	 	Other		5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Trousers, breeches and shorts:				
+6103.49.80.10	10  	Subject to cotton restraints (347)	
+doz.
+kg
+6103.49.80.12	12  	Subject to wool restraints (447)	
+doz.
+kg
+6103.49.80.14	14  	Subject to man-made fiber restraints (647)	
+doz.
+kg
+ 	Other:				
+6103.49.80.24	24  	Trousers and breeches (847)	
+doz.
+kg
+6103.49.80.26	26  	Shorts (847)	
+doz.
+kg
+ 	Bib and brace overalls:				
+6103.49.80.34	34  	Subject to cotton restraints (359)	
+doz.
+kg
+6103.49.80.36	36  	Subject to wool restraints (459)	
+doz.
+kg
+6103.49.80.38	38  	Subject to man-made fiber restraints (659)	
+doz.
+kg
+6103.49.80.60	60  	Other (859)	
+doz.
+kg
+6104	 	Women's or girls' suits, ensembles, suit-type jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted:				
+ 	Suits:				
+6104.13	 	Of synthetic fibers:				
+6104.13.10	00  	Containing 23 percent or more by weight of wool or fine animal hair (444)	
+No.
+kg
+Free 1/		54.5%
+6104.13.20	00  	Other (644)	
+No.
+kg
+14.9%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6104.19	 	Of other textile materials:				
+ 	Of artificial fibers:				
+6104.19.10	00  	Containing 23 percent or more by weight of wool or fine animal hair (444)	
+No.
+kg
+8.5%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6104.19.15	00  	Other (644)	
+No.
+kg
+Free 1/		72%
+6104.19.40	00  	Containing 70 percent or more by weight of silk or silk waste (744)	
+No.
+kg
+0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6104.19.50	00  	Of wool or fine animal hair (444)	
+No.
+kg
+13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6104.19.60	 	Of cotton		9.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6104.19.60.10	10  	Jackets imported as parts of suits (335)	
+doz.
+kg
+6104.19.60.20	20  	Skirts and divided skirts imported as parts of suits (342)	
+doz.
+kg
+6104.19.60.30	30  	Trousers, breeches and shorts imported as parts of suits (348)	
+doz.
+kg
+6104.19.60.40	40  	Waistcoats imported as parts of suits (359)	
+doz.
+kg
+6104.19.80	 	Other		5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Subject to cotton restraints:				
+6104.19.80.10	10  	Jackets imported as parts of suits (335)	
+doz.
+kg
+6104.19.80.20	20  	Skirts and divided skirts imported as parts of suits (342)	
+doz.
+kg
+6104.19.80.30	30  	Trousers, breeches and shorts imported as parts of suits (348)	
+doz.
+kg
+6104.19.80.40	40  	Waistcoats imported as parts of suits (359)	
+doz.
+kg
+6104.19.80.50	50  	Subject to wool restraints (444)	
+No.
+kg
+6104.19.80.60	60  	Subject to man-made fiber restraints (644)	
+No.
+kg
+6104.19.80.90	90  	Other (844)	
+No.
+kg
+ 	Ensembles:				
+6104.22.00	 	Of cotton		The rate applicable to each garment in the ensemble if separately entered 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to each garment in the ensemble if separately entered
+6104.22.00.10	10  	Garments described in heading 6102; jackets and blazers described in heading 6104 (335)	
+doz.
+kg
+6104.22.00.30	30  	Skirts and divided skirts (342)	
+doz.
+kg
+6104.22.00.40	40  	Trousers and breeches (348)	
+doz.
+kg
+6104.22.00.50	50  	Shorts (348)	
+doz.
+kg
+6104.22.00.60	60  	Blouses, shirts and tops (339)	
+doz.
+kg
+6104.22.00.80	80  	Sweaters (345)	
+doz.
+kg
+6104.22.00.90	90  	Other (359)	
+doz.
+kg
+6104.23.00	 	Of synthetic fibers		The rate applicable to each garment in the ensemble if separately entered 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to each garment in the ensemble if separately entered
+ 	Containing 23 percent or more by weight of wool or fine animal hair:				
+6104.23.00.10	10  	Garments described in heading 6102; jackets and blazers described in heading 6104 (435)	
+doz.
+kg
+6104.23.00.14	14  	Skirts and divided skirts (442)	
+doz.
+kg
+6104.23.00.16	16  	Trousers, breeches and shorts (448)	
+doz.
+kg
+6104.23.00.20	20  	Blouses, shirts and tops (438)	
+doz.
+kg
+6104.23.00.22	22  	Sweaters (446)	
+doz.
+kg
+6104.23.00.24	24  	Other (459)	
+doz.
+kg
+ 	Other:				
+6104.23.00.26	26  	Garments described in heading 6102; jackets and blazers described in heading 6104 (635)	
+doz.
+kg
+6104.23.00.30	30  	Skirts and divided skirts (642)	
+doz.
+kg
+6104.23.00.32	32  	Trousers and breeches (648)	
+doz.
+kg
+6104.23.00.34	34  	Shorts (648)	
+doz.
+kg
+6104.23.00.36	36  	Blouses, shirts and tops (639)	
+doz.
+kg
+6104.23.00.40	40  	Sweaters (646)	
+doz.
+kg
+6104.23.00.42	42  	Other (659)	
+doz.
+kg
+6104.29	 	Of other textile materials:				
+6104.29.05	 	Of wool or fine animal hair		The rate applicable to each garment in the ensemble if separately entered 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to each garment in the ensemble if separately entered
+6104.29.05.10	10  	Garments described in heading 6102; jackets and blazers described in heading 6104 (435)	
+doz.
+kg
+6104.29.05.30	30  	Skirts and divided skirts (442)	
+doz.
+kg
+6104.29.05.40	40  	Trousers, breeches and shorts (448)	
+doz.
+kg
+6104.29.05.60	60  	Blouses and shirts (438)	
+doz.
+kg
+6104.29.05.70	70  	Sweaters (446)	
+doz.
+kg
+6104.29.05.80	80  	Other (459)	
+doz.
+kg
+6104.29.10	 	Of artificial fibers		The rate applicable to each garment in the ensemble if entered separately 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to each garment in the ensemble if entered separately
+6104.29.10.10	10  	Garments described in heading 6102; jackets and blazers described in heading 6104 (635)	
+doz.
+kg
+6104.29.10.20	20  	Skirts and divided skirts (642)	
+doz.
+kg
+6104.29.10.30	30  	Trousers and breeches (648)	
+doz.
+kg
+6104.29.10.40	40  	Shorts (648)	
+doz.
+kg
+6104.29.10.50	50  	Blouses, shirts and tops (639)	
+doz.
+kg
+6104.29.10.60	60  	Sweaters (646)	
+doz.
+kg
+6104.29.10.70	70  	Other (659)	
+doz.
+kg
+6104.29.20	 	Other		The rate applicable to each garment in the ensemble if separately entered	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to each garment in the ensemble if separately entered
+ 	Garments described in heading 6102; jackets and blazers described in heading 6104:				
+6104.29.20.10	10  	Subject to cotton restraints (335)	
+doz.
+kg
+6104.29.20.12	12  	Subject to wool restraints (435)	
+doz.
+kg
+6104.29.20.14	14  	Subject to man-made fiber restraints (635)	
+doz.
+kg
+ 	Other:				
+ 	Of silk:				
+6104.29.20.16	16  	Containing 70 percent or more by weight of silk or silk waste (735)	
+doz.
+kg
+6104.29.20.18	18  	Other (835)	
+doz.
+kg
+6104.29.20.20	20  	Other (835)	
+doz.
+kg
+ 	Skirts and divided skirts:				
+6104.29.20.22	22  	Subject to cotton restraints (342)	
+doz.
+kg
+6104.29.20.24	24  	Subject to wool restraints (442)	
+doz.
+kg
+6104.29.20.26	26  	Subject to man-made fiber restraints (642)	
+doz.
+kg
+ 	Other:				
+ 	Of silk:				
+6104.29.20.28	28  	Containing 70 percent or more by weight of silk or silk waste (742)	
+doz.
+kg
+6104.29.20.30	30  	Other (842)	
+doz.
+kg
+6104.29.20.32	32  	Other (842)	
+doz.
+kg
+ 	Trousers, breeches and shorts:				
+6104.29.20.34	34  	Subject to cotton restraints (348)	
+doz.
+kg
+6104.29.20.36	36  	Subject to wool restraints (448)	
+doz.
+kg
+6104.29.20.38	38  	Subject to man-made fiber restraints (648)	
+doz.
+kg
+ 	Other:				
+ 	Of silk:				
+6104.29.20.40	40  	Containing 70 percent or more by weight of silk or silk waste (748)	
+doz.
+kg
+ 	Other:				
+6104.29.20.41	41  	Trousers and breeches (847)	
+doz.
+kg
+6104.29.20.43	43  	Shorts (847)	
+doz.
+kg
+ 	Other:				
+6104.29.20.45	45  	Trousers and breeches (847)	
+doz.
+kg
+6104.29.20.47	47  	Shorts (847)	
+doz.
+kg
+ 	Blouses, shirts and tops:				
+6104.29.20.49	49  	Subject to cotton restraints (339)	
+doz.
+kg
+6104.29.20.51	51  	Subject to wool restraints (438)	
+doz.
+kg
+6104.29.20.55	55  	Subject to man-made fiber restraints (639)	
+doz.
+kg
+ 	Other:				
+ 	Of silk:				
+6104.29.20.57	57  	Containing 70 percent or more by weight of silk or silk waste (739)	
+doz.
+kg
+6104.29.20.61	61  	Other (838)	
+doz.
+kg
+6104.29.20.63	63  	Other (838)	
+doz.
+kg
+ 	Sweaters:				
+6104.29.20.65	65  	Subject to cotton restraints (345)	
+doz.
+kg
+6104.29.20.67	67  	Subject to wool restraints (446)	
+doz.
+kg
+6104.29.20.69	69  	Subject to man-made fiber restraints (646)	
+doz.
+kg
+ 	Other:				
+ 	Of silk:				
+6104.29.20.71	71  	Containing 70 percent or more by weight of silk or silk waste waste (746)	
+doz.
+kg
+ 	Other:				
+6104.29.20.73	73  	Assembled in Hong Kong from knit-to-shape component parts knitted elsewhere (846)	
+doz.
+kg
+6104.29.20.75	75  	Other (846)	
+doz.
+kg
+ 	Other:				
+6104.29.20.77	77  	Assembled in Hong Kong from knit-to-shape component parts knitted elsewhere (845)	
+doz.
+kg
+6104.29.20.79	79  	Other (845)	
+doz.
+kg
+ 	Other:				
+6104.29.20.81	81  	Subject to cotton restraints (359)	
+doz.
+kg
+6104.29.20.83	83  	Subject to wool restraints (459)	
+doz.
+kg
+6104.29.20.85	85  	Subject to man-made fiber restraints (659)	
+doz.
+kg
+ 	Other:				
+ 	Of silk:				
+6104.29.20.86	86  	Containing 70 percent or more by weight of silk or silk waste (759)	
+doz.
+kg
+6104.29.20.87	87  	Other (859)	
+doz.
+kg
+6104.29.20.90	90  	Other (859)	
+doz.
+kg
+ 	Suit-type jackets and blazers:				
+6104.31.00	00  	Of wool or fine animal hair (435)	
+doz.
+kg
+54.8¢/kg + 16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.3¢/kg + 54.5%
+6104.32.00	00  	Of cotton (335)	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6104.33	 	Of synthetic fibers:				
+6104.33.10	00  	Containing 23 percent or more by weight of wool or fine animal hair (435)	
+doz.
+kg
+56.4¢/kg + 16.5%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.3¢/kg + 54.5%
+6104.33.20	00  	Other (635)	
+doz.
+kg
+28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6104.39	 	Of other textile materials:				
+6104.39.10	00  	Of artificial fibers (635)	
+doz.
+kg
+24% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6104.39.20	 	Other		Free 1/		35%
+6104.39.20.10	10  	Subject to cotton restraints (335)	
+doz.
+kg
+6104.39.20.20	20  	Subject to wool restraints (435)	
+doz.
+kg
+6104.39.20.30	30  	Subject to man-made fiber restraints (635)	
+doz.
+kg
+ 	Other:				
+ 	Of silk				
+6104.39.20.40	40  	Containing 70 percent or more by weight of silk or silk waste (735)	
+doz.
+kg
+6104.39.20.50	50  	Other (835)	
+doz.
+kg
+6104.39.20.90	90  	Other (835)	
+doz.
+kg
+ 	Dresses:				
+6104.41.00	 	Of wool or fine animal hair		13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6104.41.00.10	10  	Women's (436)	
+doz.
+kg
+6104.41.00.20	20  	Girls' (436)	
+doz.
+kg
+6104.42.00	 	Of cotton		11.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6104.42.00.10	10  	Women's (336)	
+doz.
+kg
+6104.42.00.20	20  	Girls' (336)	
+doz.
+kg
+6104.43	 	Of synthetic fibers:				
+6104.43.10	 	Containing 23 percent or more by weight of wool or fine animal hair		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6104.43.10.10	10  	Women's (436)	
+doz.
+kg
+6104.43.10.20	20  	Girls' (436)	
+doz.
+kg
+6104.43.20	 	Other		16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6104.43.20.10	10  	Women's (636)	
+doz.
+kg
+6104.43.20.20	20  	Girls' (636)	
+doz.
+kg
+6104.44	 	Of artificial fibers:				
+6104.44.10	00  	Containing 23 percent or more by weight of wool or fine animal hair (436)	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6104.44.20	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6104.44.20.10	10  	Women's (636)	
+doz.
+kg
+6104.44.20.20	20  	Girls' (636)	
+doz.
+kg
+6104.49	 	Of other textile materials:				
+6104.49.10	00  	Containing 70 percent or more by weight of silk or silk waste (736)	
+doz.
+kg
+0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6104.49.90	 	Other		5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6104.49.90.10	10  	Subject to cotton restraints (336)	
+doz.
+kg
+6104.49.90.20	20  	Subject to wool restraints (436)	
+doz.
+kg
+6104.49.90.30	30  	Subject to man-made fiber restraints (636)	
+doz.
+kg
+6104.49.90.60	60  	Other (836)	
+doz.
+kg
+ 	Skirts and divided skirts:				
+6104.51.00	00  	Of wool or fine animal hair (442)	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6104.52.00	 	Of cotton		8.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6104.52.00.10	10  	Women's (342)	
+doz.
+kg
+6104.52.00.20	20  	Girls' (342)	
+doz.
+kg
+6104.53	 	Of synthetic fibers:				
+6104.53.10	00  	Containing 23 percent or more by weight of wool or fine animal hair (442)	
+doz.
+kg
+14.9%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6104.53.20	 	Other		16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6104.53.20.10	10  	Women's (642)	
+doz.
+kg
+6104.53.20.20	20  	Girls' (642)	
+doz.
+kg
+6104.59	 	Of other textile materials:				
+6104.59.10	 	Of artificial fibers		8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6104.59.10.05	05  	Containing 23 percent or more by weight of wool or fine animal hair (442)	
+doz.
+kg
+ 	Other:				
+6104.59.10.30	30  	Women's (642)	
+doz.
+kg
+6104.59.10.60	60  	Girls' (642)	
+doz.
+kg
+6104.59.40	00  	Containing 70 percent or more by weight of silk or silk waste (742)	
+doz.
+kg
+0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6104.59.80	 	Other		5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6104.59.80.10	10  	Subject to cotton restraints (342)	
+doz.
+kg
+6104.59.80.20	20  	Subject to wool restraints (442)	
+doz.
+kg
+6104.59.80.30	30  	Subject to man-made fiber restraints (642)	
+doz.
+kg
+6104.59.80.90	90  	Other (842)	
+doz.
+kg
+ 	Trousers, bib and brace overalls, breeches and shorts:				
+6104.61.00	 	Of wool or fine animal hair		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6104.61.00.10	10  	Trousers and breeches (448)	
+doz.
+kg
+6104.61.00.20	20  	Shorts (448)	
+doz.
+kg
+6104.61.00.30	30  	Bib and brace overalls (459)	
+doz.
+kg
+6104.62	 	Of cotton:				
+6104.62.10	 	Bib and brace overalls		10.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6104.62.10.10	10  	Insulated, for cold weather protection (359)	
+doz.
+kg
+ 	Other:				
+6104.62.10.20	20  	Women's (359)	
+doz.
+kg
+6104.62.10.30	30  	Girls' (237)	
+doz.
+kg
+6104.62.20	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Trousers and breeches:				
+ 	Women's:				
+6104.62.20.06	06  	Containing 5 percent or more by weight of elastomeric yarn or rubber thread (348)	
+doz.
+kg
+6104.62.20.11	11  	Other (348)	
+doz.
+kg
+ 	Girls':				
+ 	Imported as parts of playsuits:				
+6104.62.20.16	16  	Containing 5 percent or more by weight of elastomeric yarn or rubber thread (237)	
+doz.
+kg
+6104.62.20.21	21  	Other (237)	
+doz.
+kg
+ 	Other:				
+6104.62.20.26	26  	Containing 5 percent or more by weight of elastomeric yarn or rubber thread (348)	
+doz.
+kg
+6104.62.20.28	28  	Other (348)	
+doz.
+kg
+ 	Shorts:				
+6104.62.20.30	30  	Women's (348)	
+doz.
+kg
+ 	Girls':				
+6104.62.20.50	50  	Imported as parts of playsuits (237)	
+doz.
+kg
+6104.62.20.60	60  	Other (348)	
+doz.
+kg
+6104.63	 	Of synthetic fibers:				
+6104.63.10	 	Bib and brace overalls		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6104.63.10.10	10  	Insulated, for cold weather protection (659)	
+doz.
+kg
+ 	Other:				
+6104.63.10.20	20  	Women's (659)	
+doz.
+kg
+6104.63.10.30	30  	Girls' (659)	
+doz.
+kg
+ 	Other:				
+6104.63.15	 	Containing 23 percent or more by weight of wool or fine animal hair		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6104.63.15.10	10  	Trousers and breeches (448)	
+doz.
+kg
+6104.63.15.20	20  	Shorts (448)	
+doz.
+kg
+6104.63.20	 	Other		28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+ 	Trousers and breeches:				
+ 	Women's:				
+6104.63.20.06	06  	Containing 5 percent or more by weight of elastomeric yarn or rubber thread (648)	
+doz.
+kg
+6104.63.20.11	11  	Other (648)	
+doz.
+kg
+ 	Girls':				
+ 	Imported as parts of playsuits:				
+6104.63.20.16	16  	Containing 5 percent or more by weight of elastomeric yarn or rubber thread (237)	
+doz.
+kg
+6104.63.20.21	21  	Other (237)	
+doz.
+kg
+ 	Other:				
+6104.63.20.26	26  	Containing 5 percent or more by weight of elastomeric yarn or rubber thread (648)	
+doz.
+kg
+6104.63.20.28	28  	Other (648)	
+doz.
+kg
+ 	Shorts:				
+6104.63.20.30	30  	Women's (648)	
+doz.
+kg
+ 	Girls':				
+6104.63.20.50	50  	Imported as parts of play suits (237)	
+doz.
+kg
+6104.63.20.60	60  	Other (648)	
+doz.
+kg
+6104.69	 	Of other textile materials:				
+ 	Of artificial fibers:				
+6104.69.10	00  	Bib and brace overalls (659)	
+doz.
+kg
+13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6104.69.20	 	Trousers, breeches and shorts		28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6104.69.20.05	05  	Containing 23 percent or more by by weight of wool or fine animal hair (448)	
+doz.
+kg
+ 	Other:				
+6104.69.20.30	30  	Trousers and breeches (648)	
+doz.
+kg
+6104.69.20.60	60  	Shorts (648)	
+doz.
+kg
+6104.69.40	 	Containing 70 percent or more by weight of silk or silk waste		0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6104.69.40.10	10  	Bib and brace overalls (759)	
+doz.
+kg
+6104.69.40.20	20  	Trousers, breeches and shorts (748)	
+doz.
+kg
+6104.69.80	 	Other		5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Bib and brace overalls:				
+6104.69.80.10	10  	Subject to cotton restraints (359)	
+doz.
+kg
+6104.69.80.12	12  	Subject to wool restraints (459)	
+doz.
+kg
+6104.69.80.14	14  	Subject to man-made fiber restraints (659)	
+doz.
+kg
+6104.69.80.20	20  	Other (859)	
+doz.
+kg
+ 	Trousers, breeches and shorts:				
+6104.69.80.22	22  	Subject to cotton restraints (348)	
+doz.
+kg
+6104.69.80.24	24  	Subject to wool restraints (448)	
+doz.
+kg
+6104.69.80.26	26  	Subject to man-made fiber restraints (648)	
+doz.
+kg
+ 	Other:				
+6104.69.80.38	38  	Trousers and breeches (847)	
+doz.
+kg
+6104.69.80.40	40  	Shorts (847)	
+doz.
+kg
+6105	 	Men's or boys' shirts, knitted or crocheted:				
+6105.10.00	 	Of cotton		19.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6105.10.00.10	10  	Men's (338)	
+doz.
+kg
+ 	Boys':				
+6105.10.00.20	20  	Imported as parts of playsuits (237)	
+doz.
+kg
+6105.10.00.30	30  	Other (338)	
+doz.
+kg
+6105.20	 	Of man-made fibers:				
+6105.20.10	00  	Containing 23 percent or more by weight of wool or fine animal hair (438)	
+doz.
+kg
+13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6105.20.20	 	Other		32% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6105.20.20.10	10  	Men's (638)	
+doz.
+kg
+ 	Boys':				
+6105.20.20.20	20  	Imported as parts of playsuits (237)	
+doz.
+kg
+6105.20.20.30	30  	Other (638)	
+doz.
+kg
+6105.90	 	Of other textile materials:				
+6105.90.10	00  	Of wool or fine animal hair (438)	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6105.90.40	00  	Containing 70 percent or more by weight of silk or silk waste (738)	
+doz.
+kg
+0.9%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6105.90.80	 	Other		5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6105.90.80.10	10  	Subject to cotton restraints (338)	
+doz.
+kg
+6105.90.80.20	20  	Subject to wool restraints (438)	
+doz.
+kg
+6105.90.80.30	30  	Subject to man-made fiber restraints (638)	
+doz.
+kg
+6105.90.80.60	60  	Other (838)	
+doz.
+kg
+6106	 	Women's or girls' blouses and shirts, knitted or crocheted:				
+6106.10.00	 	Of cotton		19.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6106.10.00.10	10  	Women's (339)	
+doz.
+kg
+ 	Girls':				
+6106.10.00.20	20  	Imported as parts of playsuits (237)	
+doz.
+kg
+6106.10.00.30	30  	Other (339)	
+doz.
+kg
+6106.20	 	Of man-made fibers:				
+6106.20.10	 	Containing 23 percent or more by weight of wool or fine animal hair		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6106.20.10.10	10  	Women's (438)	
+doz.
+kg
+6106.20.10.20	20  	Girls' (438)	
+doz.
+kg
+6106.20.20	 	Other		32% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6106.20.20.10	10  	Women's (639)	
+doz.
+kg
+ 	Girls':				
+6106.20.20.20	20  	Imported as parts of playsuits (237)	
+doz.
+kg
+6106.20.20.30	30  	Other (639)	
+doz.
+kg
+6106.90	 	Of other textile materials:				
+6106.90.10	 	Of wool or fine animal hair		13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6106.90.10.10	10  	Women's (438)	
+doz.
+kg
+6106.90.10.20	20  	Girls' (438)	
+doz.
+kg
+ 	Of silk or silk waste:				
+6106.90.15	00  	Containing 70 percent or more by weight of silk or silk waste (739)	
+doz.
+kg
+0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6106.90.25	 	Other		5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6106.90.25.10	10  	Subject to cotton restraints (339)	
+doz.
+kg
+6106.90.25.20	20  	Subject to wool restraints (438)	
+doz.
+kg
+6106.90.25.30	30  	Subject to man-made fiber restraints (639)	
+doz.
+kg
+6106.90.25.50	50  	Other (838)	
+doz.
+kg
+6106.90.30	 	Other		4.7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6106.90.30.10	10  	Subject to cotton restraints (339)	
+doz.
+kg
+6106.90.30.20	20  	Subject to wool restraints (438)	
+doz.
+kg
+6106.90.30.30	30  	Subject to man-made fiber restraints (639)	
+doz.
+kg
+6106.90.30.40	40  	Other (838)	
+doz.
+kg
+6107	 	Men's or boys' underpants, briefs, nightshirts, pajamas, bathrobes, dressing gowns and similar articles, knitted or crocheted:				
+ 	Underpants and briefs:				
+6107.11.00	 	Of cotton		7.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6107.11.00.10	10  	Men's (352)	
+doz.
+kg
+6107.11.00.20	20  	Boys' (352)	
+doz.
+kg
+6107.12.00	 	Of man-made fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6107.12.00.10	10  	Men's (652)	
+doz.
+kg
+6107.12.00.20	20  	Boys' (652)	
+doz.
+kg
+6107.19	 	Of other textile materials:				
+6107.19.10	00  	Containing 70 percent or more by weight of silk or silk waste (752)	
+doz.
+kg
+0.9%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55.5%
+6107.19.90	00  	Other (852)	
+doz.
+kg
+5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55.5%
+ 	Nightshirts and pajamas:				
+6107.21.00	 	Of cotton		8.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6107.21.00.10	10  	Men's (351)	
+doz.
+kg
+6107.21.00.20	20  	Boys' (351)	
+doz.
+kg
+6107.22.00	 	Of man-made fibers		16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6107.22.00.10	10  	Men's (651)	
+doz.
+kg
+ 	Boys':				
+6107.22.00.15	15  	Blanket sleepers (651)	
+doz.
+kg
+6107.22.00.25	25  	Other (651)	
+doz.
+kg
+6107.29	 	Of other textile materials:				
+6107.29.20	00  	Of wool or fine animal hair (459)	
+doz.
+kg
+8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6107.29.50	00  	Containing 70 percent or more by weight of silk or silk waste (751)	
+doz.
+kg
+0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6107.29.90	00  	Other (851)	
+doz.
+kg
+5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Other:				
+6107.91.00	 	Of cotton		8.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6107.91.00.30	30  	Sleepwear (351)	
+doz.
+kg
+ 	Other:				
+6107.91.00.40	40  	Men's (350)	
+doz.
+kg
+6107.91.00.90	90  	Boys' (350)	
+doz.
+kg
+6107.99	 	Of other textile materials:				
+6107.99.10	 	Of man-made fibers		14.9%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6107.99.10.30	30  	Sleepwear (651)	
+doz.
+kg
+ 	Other:				
+6107.99.10.40	40  	Men's (650)	
+doz.
+kg
+6107.99.10.90	90  	Boys' (650)	
+doz.
+kg
+6107.99.20	00  	Of wool or fine animal hair (459)	
+doz.
+kg
+13.6%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6107.99.50	 	Containing 70 percent or more by weight of silk or silk waste		0.8% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6107.99.50.13	13  	Sleepwear (751)	
+doz.
+kg
+6107.99.50.15	15  	Other (750)	
+doz.
+kg
+6107.99.90	00  	Other (850)	
+doz.
+kg
+4.8%	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6108	 	Women's or girls' slips, petticoats, briefs, panties, night dresses, pajamas, negligees, bathrobes, dressing gowns and similar articles, knitted or crocheted:				
+ 	Slips and petticoats:				
+6108.11.00	 	Of man-made fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6108.11.00.10	10  	Women's (652)	
+doz.
+kg
+6108.11.00.20	20  	Girls' (652)	
+doz.
+kg
+ 	Of other textile materials:				
+6108.19.10	00  	Containing 70 percent or more by weight of silk or silk waste (752)	
+doz.
+kg
+1.1%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6108.19.90	 	Other		6.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6108.19.90.10	10  	Of cotton (352)	
+doz.
+kg
+6108.19.90.30	30  	Other (852)	
+doz.
+kg
+ 	Briefs and panties:				
+6108.21.00	 	Of cotton		7.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6108.21.00.10	10  	Women's (352)	
+doz.
+kg
+6108.21.00.20	20  	Girls' (352)	
+doz.
+kg
+6108.22	 	Of man-made fibers:				
+6108.22.10	00  	Disposable briefs and panties designed for one-time use	
+doz.
+kg
+8.3% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6108.22.90	 	Other		15.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6108.22.90.20	20  	Women's (652)	
+doz.
+kg
+6108.22.90.30	30  	Girls' (652)	
+doz.
+kg
+6108.29	 	Of other textile materials:				
+6108.29.10	00  	Containing 70 percent or more by weight of silk or silk waste (752)	
+doz.
+kg
+2.1%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6108.29.90	00  	Other (852)	
+doz.
+kg
+13.3% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Nightdresses and pajamas:				
+6108.31.00	 	Of cotton		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6108.31.00.10	10  	Women's (351)	
+doz.
+kg
+6108.31.00.20	20  	Girls' (351)	
+doz.
+kg
+6108.32.00	 	Of man-made fibers		16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6108.32.00.10	10  	Women's (651)	
+doz.
+kg
+ 	Girls':				
+6108.32.00.15	15  	Blanket sleepers (651)	
+doz.
+kg
+6108.32.00.25	25  	Other (651)	
+doz.
+kg
+6108.39	 	Of other textile materials:				
+6108.39.10	00  	Of wool or fine animal hair (459)	
+doz.
+kg
+8.5%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6108.39.40	00  	Containing 70 percent or more by weight of silk or silk waste (751)	
+doz.
+kg
+0.6%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6108.39.80	00  	Other (851)	
+doz.
+kg
+3.8%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Other:				
+6108.91.00	 	Of cotton		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Underwear:				
+6108.91.00.05	05  	Underpants (352)	
+doz.
+kg
+ 	Other:				
+6108.91.00.15	15  	Women's (352)	
+doz.
+kg
+6108.91.00.25	25  	Girls' (352)	
+doz.
+kg
+ 	Other:				
+6108.91.00.30	30  	Women's (350) 1/	
+doz.
+kg
+6108.91.00.40	40  	Girls' (350)	
+doz.
+kg
+6108.92.00	 	Of man-made fibers		16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+ 	Underwear:				
+6108.92.00.05	05  	Underpants (652)	
+doz.
+kg
+ 	Other:				
+6108.92.00.15	15  	Women's (652)	
+doz.
+kg
+6108.92.00.25	25  	Girls' (652)	
+doz.
+kg
+ 	Other:				
+6108.92.00.30	30  	Women's (650)	
+doz.
+kg
+6108.92.00.40	40  	Girls' (650)	
+doz.
+kg
+6108.99	 	Of other textile materials:				
+6108.99.20	00  	Of wool or fine animal hair (459)	
+doz.
+kg
+8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+6108.99.50	 	Containing 70 percent or more by weight of silk or silk waste		0.6%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6108.99.50.13	13  	Underwear (752)	
+doz.
+kg
+6108.99.50.15	15  	Other (750)	
+doz.
+kg
+6108.99.90	00  	Other (850)	
+doz.
+kg
+3.8% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6109	 	T-shirts, singlets, tank tops and similar garments, knitted or crocheted:				
+6109.10.00	 	Of cotton		16.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Men's or boys':				
+6109.10.00.04	04  	T-shirts, all white, short hemmed sleeves, hemmed bottom, crew or round neckline, or V-neck with a mitered seam at the center of the V, without pockets, trim or embroidery (352)	
+doz.
+kg
+6109.10.00.07	07  	Singlets, all white, without pockets, trim or embroidery (352)	
+doz.
+kg
+6109.10.00.11	11  	Thermal undershirts (352)	
+doz.
+kg
+ 	Other T-shirts:				
+6109.10.00.12	12  	Men's (338)	
+doz.
+kg
+6109.10.00.14	14  	Boys' (338)	
+doz.
+kg
+ 	Tank tops and other singlets:				
+6109.10.00.18	18  	Men's (338)	
+doz.
+kg
+6109.10.00.23	23  	Boys' (338)	
+doz.
+kg
+6109.10.00.27	27  	Other (338)	
+doz.
+kg
+ 	Women's or girls':				
+6109.10.00.37	37  	Underwear (352)	
+doz.
+kg
+ 	Other:				
+ 	T-shirts:				
+6109.10.00.40	40  	Women's (339)	
+doz.
+kg
+6109.10.00.45	45  	Girls' (339)	
+doz.
+kg
+ 	Tank tops:				
+6109.10.00.60	60  	Women's (339)	
+doz.
+kg
+6109.10.00.65	65  	Girls' (339)	
+doz.
+kg
+6109.10.00.70	70  	Other (339)	
+doz.
+kg
+6109.90	 	Of other textile materials:				
+6109.90.10	 	Of man-made fibers		32% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Men's or boys':				
+ 	T-shirts:				
+6109.90.10.07	07  	Men's (638)	
+doz.
+kg
+6109.90.10.09	09  	Boys' (638)	
+doz.
+kg
+ 	Tank tops and singlets:				
+6109.90.10.13	13  	Men's (638)	
+doz.
+kg
+6109.90.10.25	25  	Boys' (638)	
+doz.
+kg
+6109.90.10.47	47  	Thermal undershirts (652)	
+doz.
+kg
+6109.90.10.49	49  	Other (638)	
+doz.
+kg
+ 	Women's or girls':				
+ 	T-shirts:				
+6109.90.10.50	50  	Women's (639)	
+doz.
+kg
+6109.90.10.60	60  	Girls' (639)	
+doz.
+kg
+ 	Tank tops and singlets:				
+6109.90.10.65	65  	Women's (639)	
+doz.
+kg
+6109.90.10.70	70  	Girls' (639)	
+doz.
+kg
+6109.90.10.75	75  	Thermal undershirts (652)	
+doz.
+kg
+6109.90.10.90	90  	Other (639)	
+doz.
+kg
+6109.90.15	 	Of wool, with long sleeves		5.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55.5%
+ 	Men's or boys':				
+6109.90.15.10	10  	Underwear (459)	
+doz.
+kg
+6109.90.15.20	20  	Other (438)	
+doz.
+kg
+ 	Women's or girls':				
+6109.90.15.30	30  	Underwear (459)	
+doz.
+kg
+6109.90.15.40	40  	Other (438)	
+doz.
+kg
+6109.90.40	 	Containing 70 percent or more by weight of silk or silk waste		2.6%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6109.90.40.10	10  	Men's or boys' (738)	
+doz.
+kg
+6109.90.40.20	20  	Women's or girls' (739)	
+doz.
+kg
+6109.90.80	 	Other		16% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6109.90.80.10	10  	Men's or boys' (838)	
+doz.
+kg
+ 	Women's or girls':				
+6109.90.80.20	20  	Of wool (438)	
+doz.
+kg
+6109.90.80.30	30  	Other (838)	
+doz.
+kg
+6110	 	Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles, knitted or crocheted:				
+ 	Of wool or fine animal hair:				
+6110.11.00	 	Of wool		16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+ 	Sweaters:				
+6110.11.00.15	15  	Men's (445)	
+doz.
+kg
+6110.11.00.25	25  	Boys' (445)	
+doz.
+kg
+6110.11.00.30	30  	Women's (446)	
+doz.
+kg
+6110.11.00.40	40  	Girls' (446)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+6110.11.00.50	50  	Men's or boys' (459)	
+doz.
+kg
+6110.11.00.60	60  	Women's or girls' (459)	
+doz.
+kg
+ 	Other:				
+6110.11.00.70	70  	Men's or boys' (438)	
+doz.
+kg
+6110.11.00.80	80  	Women's or girls' (438)	
+doz.
+kg
+6110.12	 	Of Kashmir (cashmere) goats:				
+6110.12.10	 	Wholly of cashmere		4%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	52%
+ 	Sweaters:				
+6110.12.10.10	10  	Men's or boys' (445)	
+doz.
+kg
+6110.12.10.20	20  	Women's or girls' (446)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+6110.12.10.30	30  	Men's or boys' (445)	
+doz.
+kg
+6110.12.10.40	40  	Women's or girls' (446)	
+doz.
+kg
+ 	Other:				
+6110.12.10.50	50  	Men's or boys' (445)	
+doz.
+kg
+6110.12.10.60	60  	Women's or girls' (446)	
+doz.
+kg
+6110.12.20	 	Other		16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+ 	Sweaters:				
+6110.12.20.10	10  	Men's (445)	
+doz.
+kg
+6110.12.20.20	20  	Boys' (445)	
+doz.
+kg
+6110.12.20.30	30  	Women's (446)	
+doz.
+kg
+6110.12.20.40	40  	Girls' (446)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+6110.12.20.50	50  	Men's or boys' (459)	
+doz.
+kg
+6110.12.20.60	60  	Women's or girls' (459)	
+doz.
+kg
+ 	Other:				
+6110.12.20.70	70  	Men's or boys' (438)	
+doz.
+kg
+6110.12.20.80	80  	Women's or girls' (438)	
+doz.
+kg
+6110.19.00	 	Other		16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+ 	Sweaters:				
+6110.19.00.15	15  	Men's (445)	
+doz.
+kg
+6110.19.00.25	25  	Boys' (445)	
+doz.
+kg
+6110.19.00.30	30  	Women's (446)	
+doz.
+kg
+6110.19.00.40	40  	Girls' (446)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+6110.19.00.50	50  	Men's or boys' (459)	
+doz.
+kg
+6110.19.00.60	60  	Women's or girls' (459)	
+doz.
+kg
+ 	Other:				
+6110.19.00.70	70  	Men's or boys' (438)	
+doz.
+kg
+6110.19.00.80	80  	Women's or girls' (438)	
+doz.
+kg
+6110.20	 	Of cotton:				
+6110.20.10	 	Containing 36 percent or more by weight of flax fibers		5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Sweaters:				
+6110.20.10.10	10  	Men's or boys' (345)	
+doz.
+kg
+6110.20.10.20	20  	Women's or girls' (345)	
+doz.
+kg
+ 	Vests other than sweater vests:				
+6110.20.10.22	22  	Men's or boys' (359)	
+doz.
+kg
+6110.20.10.24	24  	Women's or girls' (359)	
+doz.
+kg
+ 	Other:				
+ 	Men's or boys'				
+6110.20.10.26	26  	Knit to shape articles described in statistical note 6 to this chapter (338)	
+doz.
+kg
+6110.20.10.29	29  	Other (338)	
+doz.
+kg
+ 	Women's or girls':				
+6110.20.10.31	31  	Knit to shape articles described in statistical note 6 to this chapter (339)	
+doz.
+kg
+6110.20.10.33	33  	Other (339)	
+doz.
+kg
+6110.20.20	 	Other		16.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+6110.20.20.05	05  	Boys' or girls' garments imported as parts of playsuits (237)	
+doz.
+kg
+ 	Other:				
+ 	Sweaters:				
+6110.20.20.10	10  	Men's (345)	
+doz.
+kg
+6110.20.20.15	15  	Boys' (345)	
+doz.
+kg
+6110.20.20.20	20  	Women's (345)	
+doz.
+kg
+6110.20.20.25	25  	Girls' (345)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+6110.20.20.30	30  	Men's or boys' (359)	
+doz.
+kg
+6110.20.20.35	35  	Women's or girls' (359)	
+doz.
+kg
+ 	Sweatshirts:				
+6110.20.20.41	41  	Men's (338)	
+doz.
+kg
+6110.20.20.44	44  	Boys' (338)	
+doz.
+kg
+6110.20.20.46	46  	Women's (339)	
+doz.
+kg
+6110.20.20.49	49  	Girls' (339)	
+doz.
+kg
+ 	Other:				
+ 	Men's or boys':				
+6110.20.20.67	67  	Knit to shape articles described in statistical note 6 to this chapter (338)	
+doz.
+kg
+6110.20.20.69	69  	Other (338)	
+doz.
+kg
+ 	Women's or girls':				
+6110.20.20.77	77  	Knit to shape articles described in statistical note 6 to this chapter (339)	
+doz.
+kg
+6110.20.20.79	79  	Other (339)	
+doz.
+kg
+6110.30	 	Of man-made fibers:				
+6110.30.10	 	Containing 25 percent or more by weight of leather		6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Sweaters:				
+6110.30.10.10	10  	Men's or boys' (645)	
+doz.
+kg
+6110.30.10.20	20  	Women's or girls' (646)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+6110.30.10.30	30  	Men's or boys' (659)	
+doz.
+kg
+6110.30.10.40	40  	Women's or girls' (659)	
+doz.
+kg
+ 	Other:				
+6110.30.10.50	50  	Men's or boys' (638)	
+doz.
+kg
+6110.30.10.60	60  	Women's or girls' (639)	
+doz.
+kg
+ 	Other:				
+6110.30.15	 	Containing 23 percent or more by weight of wool or fine animal hair		17%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.5%
+ 	Sweaters:				
+6110.30.15.10	10  	Men's or boys' (445)	
+doz.
+kg
+6110.30.15.20	20  	Women's or girls' (446)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+6110.30.15.30	30  	Men's or boys' (459)	
+doz.
+kg
+6110.30.15.40	40  	Women's or girls' (459)	
+doz.
+kg
+ 	Other:				
+6110.30.15.50	50  	Men's or boys' (438)	
+doz.
+kg
+6110.30.15.60	60  	Women's or girls' (438)	
+doz.
+kg
+ 	Other:				
+6110.30.20	 	Containing 30 percent or more by weight of silk or silk waste		6.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Sweaters:				
+6110.30.20.10	10  	Men's or boys' (645)	
+doz.
+kg
+6110.30.20.20	20  	Women's or girls' (646)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+6110.30.20.30	30  	Men's or boys' (659)	
+doz.
+kg
+6110.30.20.40	40  	Women's or girls' (659)	
+doz.
+kg
+ 	Other:				
+ 	Men's or boys':				
+6110.30.20.51	51  	Knit to shape articles described in statistical note 6 to this chapter (638)	
+doz.
+kg
+6110.30.20.53	53  	Other (638)	
+doz.
+kg
+ 	Women's or girls':				
+6110.30.20.61	61  	Knit to shape articles described in statistical note 6 to this chapter (639)	
+doz.
+kg
+6110.30.20.63	63  	Other (639)	
+doz.
+kg
+6110.30.30	 	Other		32% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6110.30.30.05	05  	Boys' and girls' garments imported as parts of playsuits (237)	
+doz.
+kg
+ 	Other:				
+ 	Sweaters:				
+6110.30.30.10	10  	Men's (645)	
+doz.
+kg
+6110.30.30.15	15  	Boys' (645)	
+doz.
+kg
+6110.30.30.20	20  	Women's (646)	
+doz.
+kg
+6110.30.30.25	25  	Girls' (646)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+6110.30.30.30	30  	Men's or boys' (659)	
+doz.
+kg
+6110.30.30.35	35  	Women's or girls' (659)	
+doz.
+kg
+ 	Sweatshirts:				
+6110.30.30.41	41  	Men's (638)	
+doz.
+kg
+6110.30.30.44	44  	Boys' (638)	
+doz.
+kg
+6110.30.30.45	45  	Women's or girls' (639)	
+doz.
+kg
+ 	Other:				
+ 	Men's or boys':				
+6110.30.30.51	51  	Knit to shape articles described in statistical note 6 to this chapter (638)	
+doz.
+kg
+6110.30.30.53	53  	Other (638)	
+doz.
+kg
+ 	Women's or girls':				
+6110.30.30.57	57  	Knit to shape articles described in statistical note 6 to this chapter (639)	
+doz.
+kg
+6110.30.30.59	59  	Other (639)	
+doz.
+kg
+6110.90	 	Of other textile materials:				
+6110.90.10	 	Containing 70 percent or more by weight of silk or silk waste		0.9%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Sweaters:				
+6110.90.10.10	10  	Men's or boys' (745)	
+doz.
+kg
+6110.90.10.20	20  	Women's or girls' (746)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+6110.90.10.30	30  	Men's or boys' (759)	
+doz.
+kg
+6110.90.10.40	40  	Women's or girls' (759)	
+doz.
+kg
+ 	Other:				
+6110.90.10.50	50  	Men's or boys' (738)	
+doz.
+kg
+6110.90.10.60	60  	Women's or girls' (739)	
+doz.
+kg
+6110.90.90	 	Other		6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Sweaters for men or boys:				
+6110.90.90.10	10  	Subject to cotton restraints (345)	
+doz.
+kg
+6110.90.90.12	12  	Subject to wool restraints (445)	
+doz.
+kg
+6110.90.90.14	14  	Subject to man-made fiber restraints (645)	
+doz.
+kg
+ 	Other:				
+6110.90.90.15	15  	Of silk (846)	
+doz.
+kg
+6110.90.90.23	23  	Other (845)	
+doz.
+kg
+ 	Sweaters for women or girls:				
+6110.90.90.26	26  	Subject to cotton restraints (345)	
+doz.
+kg
+6110.90.90.28	28  	Subject to wool restraints (446)	
+doz.
+kg
+6110.90.90.30	30  	Subject to man-made fiber restraints (646)	
+doz.
+kg
+ 	Other:				
+6110.90.90.34	34  	Of silk (846)	
+doz.
+kg
+6110.90.90.41	41  	Other (845)	
+doz.
+kg
+ 	Vests, other than sweater vests:				
+ 	Subject to cotton restraints:				
+6110.90.90.44	44  	Men's or boys' (359)	
+doz.
+kg
+6110.90.90.46	46  	Women's or girls' (359)	
+doz.
+kg
+ 	Subject to wool restraints:				
+6110.90.90.48	48  	Men's or boys' (459)	
+doz.
+kg
+6110.90.90.50	50  	Women's or girls' (459)	
+doz.
+kg
+ 	Subject to man-made fiber restraints:				
+6110.90.90.52	52  	Men's or boys' (659)	
+doz.
+kg
+6110.90.90.54	54  	Women's or girls' (659)	
+doz.
+kg
+ 	Other:				
+6110.90.90.64	64  	Men's or boys' (859)	
+doz.
+kg
+6110.90.90.66	66  	Women's or girls' (859)	
+doz.
+kg
+ 	Other:				
+ 	Subject to cotton restraints:				
+ 	Men's or boys':				
+6110.90.90.67	67  	Knit to shape articles described in statistical note 6 to this chapter (338)	
+doz.
+kg
+6110.90.90.69	69  	Other (338)	
+doz.
+kg
+ 	Women's or girls':				
+6110.90.90.71	71  	Knit to shape articles described in statistical note 6 to this chapter (339)	
+doz.
+kg
+6110.90.90.73	73  	Other (339)	
+doz.
+kg
+ 	Subject to wool restraints:				
+6110.90.90.75	75  	Men's or boys' (438)	
+doz.
+kg
+6110.90.90.77	77  	Women's or girls' (438)	
+doz.
+kg
+ 	Subject to man-made fiber restraints:				
+ 	Men's or boys':				
+6110.90.90.79	79  	Knit to shape articles described in statistical note 6 to this chapter (638)	
+doz.
+kg
+6110.90.90.80	80  	Other (638)	
+doz.
+kg
+ 	Women's or girls':				
+6110.90.90.81	81  	Knit to shape articles described in statistical note 6 to this chapter (639)	
+doz.
+kg
+6110.90.90.82	82  	Other (639)	
+doz.
+kg
+ 	Other:				
+6110.90.90.88	88  	Men's or boys' (838)	
+doz.
+kg
+6110.90.90.90	90  	Women's or girls' (838)	
+doz.
+kg
+6111	 	Babies' garments and clothing accessories, knitted or crocheted:				
+6111.20	 	Of cotton:				
+6111.20.10	00  	Blouses and shirts, except those imported as parts of sets (239)	
+doz.
+kg
+19.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.20.20	00  	T-shirts, singlets and similar garments, except those imported as parts of sets (239)	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.20.30	00  	Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles, except those imported as parts of sets (239)	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.20.40	00  	Dresses (239)	
+doz.
+kg
+11.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+6111.20.50	00  	Trousers, breeches and shorts, except those imported as parts of sets (239)	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.20.60	 	Other		8.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.20.60.10	10  	Sunsuits, washsuits and similar apparel (239)	
+doz.
+kg
+6111.20.60.20	20  	Sets (239)	
+doz.
+kg
+ 	Other:				
+6111.20.60.30	30  	Imported as parts of sets (239)	
+doz.
+kg
+6111.20.60.50	50  	Babiesʼ socks and booties (239)	
+doz. prs.
+kg
+6111.20.60.70	70  	Other (239) 1/	
+doz.
+kg
+6111.30	 	Of synthetic fibers:				
+6111.30.10	00  	Trousers, breeches and shorts, except those imported as parts of sets (239)	
+doz.
+kg
+28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.30.20	00  	Blouses and shirts, except those imported as parts of sets (239)	
+doz.
+kg
+32% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.30.30	00  	T-shirts, singlets and similar garments, except those imported as parts of sets (239)	
+doz.
+kg
+32% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.30.40	00  	Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles, except those imported as parts of sets (239)	
+doz.
+kg
+30% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.30.50	 	Other		16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.30.50.10	10  	Sunsuits, washsuits and similar apparel (239)	
+doz.
+kg
+6111.30.50.15	15  	Blanket sleepers (239) 1/	
+doz.
+kg
+6111.30.50.20	20  	Sets (239)	
+doz.
+kg
+ 	Other:				
+6111.30.50.30	30  	Imported as parts of sets (239)	
+doz.
+kg
+6111.30.50.50	50  	Babiesʼ socks and booties (239)	
+doz. prs.
+kg
+6111.30.50.70	70  	Other (239)	
+doz.
+kg
+6111.90	 	Of other textile materials:				
+6111.90.05	 	Of wool or fine animal hair		13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	78.5%
+6111.90.05.10	10  	Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles (439)	
+doz.
+kg
+6111.90.05.30	30  	Other (439)	
+doz.
+kg
+ 	Of artificial fibers:				
+6111.90.10	00  	Trousers, breeches and shorts, except those imported as parts of sets (239)	
+doz.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.90.20	00  	Blouses and shirts, except those imported as parts of sets (239)	
+doz.
+kg
+17.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.90.30	00  	T-shirts, singlets and similar garments, except those imported as parts of sets (239)	
+doz.
+kg
+Free		90%
+6111.90.40	00  	Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar except those imported as parts of sets (239)	
+doz.
+kg
+26% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.90.50	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6111.90.50.10	10  	Sunsuits, playsuits and washsuits (239)	
+doz.
+kg
+6111.90.50.20	20  	Sets (239)	
+doz.
+kg
+ 	Other:				
+6111.90.50.30	30  	Imported as parts of sets (239)	
+doz.
+kg
+6111.90.50.50	50  	Babiesʼ socks and booties (239)	
+doz. prs.
+kg
+6111.90.50.70	70  	Other (239)	
+doz.
+kg
+6111.90.70	00  	Containing 70 percent or more by weight of silk or silk waste	
+doz.
+kg
+0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6111.90.90	00  	Other (839)	
+doz.
+kg
+5.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6112	 	Track suits, ski-suits and swimwear, knitted or crocheted:				
+ 	Track suits:				
+6112.11.00	 	Of cotton		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Garments described in heading 6101 or 6102:				
+6112.11.00.10	10  	Men's or boys' (334)	
+doz.
+kg
+6112.11.00.20	20  	Women's or girls (335)	
+doz.
+kg
+ 	Shirts:				
+6112.11.00.30	30  	Men's or boys' (338)	
+doz.
+kg
+6112.11.00.40	40  	Women's or girls' (339)	
+doz.
+kg
+ 	Trousers:				
+6112.11.00.50	50  	Men's or boys' (347)	
+doz.
+kg
+6112.11.00.60	60  	Women's or girls' (348)	
+doz.
+kg
+6112.12.00	 	Of synthetic fibers		28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+ 	Garments described in heading 6101 or 6102:				
+6112.12.00.10	10  	Men's or boys' (634)	
+doz.
+kg
+6112.12.00.20	20  	Women's or girls' (635)	
+doz.
+kg
+ 	Shirts:				
+6112.12.00.30	30  	Men's or boys' (638)	
+doz.
+kg
+6112.12.00.40	40  	Women's or girls' (639)	
+doz.
+kg
+ 	Trousers:				
+6112.12.00.50	50  	Men's or boys' (647)	
+doz.
+kg
+6112.12.00.60	60  	Women's or girls' (648)	
+doz.
+kg
+6112.19	 	Of other textile materials:				
+6112.19.10	 	Of artificial fibers		28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+ 	Garments described in heading 6101 or 6102:				
+6112.19.10.10	10  	Men's or boys' (634)	
+doz.
+kg
+6112.19.10.20	20  	Women's or girls' (635)	
+doz.
+kg
+ 	Shirts:				
+6112.19.10.30	30  	Men's or boys' (638)	
+doz.
+kg
+6112.19.10.40	40  	Women's or girls' (639)	
+doz.
+kg
+ 	Trousers:				
+6112.19.10.50	50  	Men's or boys' (647)	
+doz.
+kg
+6112.19.10.60	60  	Women's or girls' (648)	
+doz.
+kg
+6112.19.40	 	Containing 70 percent or more by weight of silk or silk waste		3.5% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Garments described in heading 6101 or 6102:				
+6112.19.40.10	10  	Men's or boys' (734)	
+doz.
+kg
+6112.19.40.20	20  	Women's or girls' (735)	
+doz.
+kg
+ 	Shirts:				
+6112.19.40.30	30  	Men's or boys' (738)	
+doz.
+kg
+6112.19.40.40	40  	Women's or girls' (739)	
+doz.
+kg
+ 	Trousers:				
+6112.19.40.50	50  	Men's or boys' (747)	
+doz.
+kg
+6112.19.40.60	60  	Women's or girls' (748)	
+doz.
+kg
+6112.19.80	 	Other		21.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Garments described in heading 6101 or 6102:				
+6112.19.80.10	10  	Men's or boys' (834)	
+doz.
+kg
+6112.19.80.20	20  	Women's or girls' (835)	
+doz.
+kg
+ 	Shirts:				
+6112.19.80.30	30  	Men's or boys' (838)	
+doz.
+kg
+6112.19.80.40	40  	Women's or girls' (838)	
+doz.
+kg
+ 	Trousers:				
+6112.19.80.50	50  	Men's or boys' (847)	
+doz.
+kg
+6112.19.80.60	60  	Women's or girls' (847)	
+doz.
+kg
+6112.20	 	Ski-suits:				
+6112.20.10	 	Of man-made fibers		28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+ 	Anoraks (including ski-jackets), windbreakers, and similar articles:				
+6112.20.10.10	10  	Men's or boys' (634)	
+doz.
+kg
+6112.20.10.20	20  	Women's or girls' (635)	
+doz.
+kg
+ 	Padded sleeveless jackets:				
+ 	With attachments for sleeves:				
+6112.20.10.30	30  	Men's or boys' (634)	
+doz.
+kg
+6112.20.10.40	40  	Women's or girls' (635)	
+doz.
+kg
+6112.20.10.50	50  	Other (659)	
+doz.
+kg
+ 	Trousers and breeches:				
+6112.20.10.60	60  	Men's or boys' (647)	
+doz.
+kg
+6112.20.10.70	70  	Women's or girls' (648)	
+doz.
+kg
+ 	Other:				
+6112.20.10.80	80  	Men's or boys' (659)	
+doz.
+kg
+6112.20.10.90	90  	Women's or girls' (659)	
+doz.
+kg
+6112.20.20	 	Other		8.3% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6112.20.20.10	10  	Of cotton (359)	
+doz.
+kg
+6112.20.20.20	20  	Of wool or fine animal hair (459)	
+doz.
+kg
+6112.20.20.30	30  	Other (859)	
+doz.
+kg
+ 	Men's or boys' swimwear:				
+6112.31.00	 	Of synthetic fibers		25.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6112.31.00.10	10  	Men's (659)	
+doz.
+kg
+6112.31.00.20	20  	Boys' (659)	
+doz.
+kg
+6112.39.00	 	Of other textile materials		13.2% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6112.39.00.10	10  	Of cotton (359)	
+doz.
+kg
+ 	Other:				
+6112.39.00.15	15  	Containing 70 percent or more by weight of silk or silk waste (759)	
+doz.
+kg
+6112.39.00.90	90  	Other (859)	
+doz.
+kg
+ 	Women's or girls' swimwear:				
+6112.41.00	 	Of synthetic fibers		24.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Of fabric containing by weight 5 percent or more elastomeric yarn or rubber thread:				
+6112.41.00.10	10  	Women's (659)	
+doz.
+kg
+6112.41.00.20	20  	Girls' (659)	
+doz.
+kg
+ 	Other:				
+6112.41.00.30	30  	Women's (659)	
+doz.
+kg
+6112.41.00.40	40  	Girls' (659)	
+doz.
+kg
+6112.49.00	 	Of other textile materials		13.2% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6112.49.00.10	10  	Of cotton (359)	
+doz.
+kg
+ 	Other:				
+6112.49.00.15	15  	Containing 70 percent or more by weight of silk or silk waste (759)	
+doz.
+kg
+6112.49.00.90	90  	Other (859)	
+doz.
+kg
+6113.00	 	Garments, made up of knitted or crocheted fabrics of heading 5903, 5906 or 5907:				
+6113.00.10	 	Having an outer surface impregnated, coated, covered, or laminated with rubber or plastics material which completely obscures the underlying fabric		3.8% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+ 	Coats and jackets:				
+6113.00.10.05	05  	Men's or boys'	
+doz.
+kg
+6113.00.10.10	10  	Women's or girls'	
+doz.
+kg
+6113.00.10.12	12  	Other	
+doz.
+kg
+6113.00.90	 	Other		7.1% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+ 	Coats and jackets:				
+ 	Of cotton:				
+6113.00.90.15	15  	Men's or boys' (334)	
+doz.
+kg
+6113.00.90.20	20  	Women's or girls' (335)	
+doz.
+kg
+ 	Other:				
+6113.00.90.25	25  	Men's or boys' (634)	
+doz.
+kg
+6113.00.90.30	30  	Women's or girls' (635)	
+doz.
+kg
+ 	Trousers, breeches and shorts:				
+ 	Of cotton:				
+6113.00.90.38	38  	Men's or boys' (347)	
+doz.
+kg
+6113.00.90.42	42  	Women's or girls (348)	
+doz.
+kg
+ 	Other:				
+6113.00.90.44	44  	Men's or boys' (647)	
+doz.
+kg
+6113.00.90.52	52  	Women's or girls' (648)	
+doz.
+kg
+ 	Overalls and coveralls:				
+ 	Of cotton:				
+6113.00.90.55	55  	Men's or boys' (359)	
+doz.
+kg
+6113.00.90.60	60  	Women's or girls' (359)	
+doz.
+kg
+ 	Other:				
+6113.00.90.65	65  	Men's or boys' (659)	
+doz.
+kg
+6113.00.90.70	70  	Women's or girls' (659)	
+doz.
+kg
+ 	Other:				
+ 	Of cotton:				
+6113.00.90.74	74  	Men's or boys' (359)	
+doz.
+kg
+6113.00.90.82	82  	Women's or girls' (359)	
+doz.
+kg
+ 	Other:				
+6113.00.90.84	84  	Men's or boys' (659)	
+doz.
+kg
+6113.00.90.86	86  	Women's or girls' (659)	
+doz.
+kg
+6114	 	Other garments, knitted or crocheted:				
+6114.20.00	 	Of cotton		10.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Tops:				
+6114.20.00.05	05  	Men's or boys' (338)	
+doz.
+kg
+6114.20.00.10	10  	Women's or girls' (339)	
+doz.
+kg
+6114.20.00.15	15  	Jumpers (359)	
+doz.
+kg
+6114.20.00.20	20  	Bodysuits and bodyshirts (359)	
+doz.
+kg
+ 	Sunsuits, washsuits, one-piece playsuits and similar apparel:				
+6114.20.00.35	35  	Boys' (237)	
+doz.
+kg
+6114.20.00.40	40  	Women's or girls' (237)	
+doz.
+kg
+ 	Coveralls, jumpsuits and similar apparel:				
+6114.20.00.42	42  	Insulated, for cold weather protection (359)	
+doz.
+kg
+ 	Other:				
+6114.20.00.44	44  	Boys', sizes 2-7 (237)	
+doz.
+kg
+6114.20.00.46	46  	Girls' (237)	
+doz.
+kg
+6114.20.00.48	48  	Men's and other boys' (359)	
+doz.
+kg
+6114.20.00.52	52  	Women's (359)	
+doz.
+kg
+ 	Other:				
+6114.20.00.55	55  	Men's or boys' (359)	
+doz.
+kg
+6114.20.00.60	60  	Women's or girls' (359)	
+doz.
+kg
+6114.30	 	Of man-made fibers:				
+6114.30.10	 	Tops		28.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6114.30.10.10	10  	Men's or boys' (638)	
+doz.
+kg
+6114.30.10.20	20  	Women's or girls' (639)	
+doz.
+kg
+6114.30.20	 	Bodysuits and bodyshirts		32% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6114.30.20.10	10  	Of fabric containing by weight 5 percent or more elastomeric yarn or rubber thread (659)	
+doz.
+kg
+ 	Other:				
+6114.30.20.30	30  	Containing 23 percent or more by weight of wool or fine animal hair (459)	
+doz.
+kg
+6114.30.20.60	60  	Other (659)	
+doz.
+kg
+6114.30.30	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Jumpers:				
+6114.30.30.12	12  	Containing 23 percent or more by weight of wool orfine animal hair (459)	
+doz.
+kg
+6114.30.30.14	14  	Other (659)	
+doz.
+kg
+ 	Sunsuits, washsuits, one-piece playsuits and similar apparel:				
+6114.30.30.20	20  	Boys' (237)	
+doz.
+kg
+6114.30.30.30	30  	Women's or girls' (237)	
+doz.
+kg
+ 	Coveralls, jumpsuits and similar apparel:				
+ 	Men's or boys':				
+6114.30.30.42	42  	Containing 23 percent or more by weight of wool or fine animal hair (459)	
+doz.
+kg
+6114.30.30.44	44  	Other (659)	
+doz.
+kg
+ 	Women's or girls':				
+6114.30.30.52	52  	Containing 23 percent or more by weight of wool or fine animal hair (459)	
+doz.
+kg
+6114.30.30.54	54  	Other (659)	
+doz.
+kg
+ 	Other:				
+6114.30.30.60	60  	Men's or boys' (659)	
+doz.
+kg
+6114.30.30.70	70  	Women's or girls' (659)	
+doz.
+kg
+6114.90	 	Of other textile materials:				
+6114.90.05	 	Of wool or fine animal hair		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Tops:				
+6114.90.05.20	20  	Men's or boys' (438)	
+doz.
+kg
+6114.90.05.40	40  	Women's or girls' (438)	
+doz.
+kg
+6114.90.05.50	50  	Jumpers (459)	
+doz.
+kg
+ 	Other:				
+6114.90.05.60	60  	Men's or boys' (459)	
+doz.
+kg
+6114.90.05.70	70  	Women's or girls' (459)	
+doz.
+kg
+6114.90.10	 	Containing 70 percent or more by weight of silk or silk waste		0.9% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Tops:				
+6114.90.10.10	10  	Men's or boys' (738)	
+doz.
+kg
+6114.90.10.20	20  	Women's or girls' (739)	
+doz.
+kg
+6114.90.10.30	30  	Jumpers (759)	
+doz.
+kg
+6114.90.10.40	40  	Sunsuits, washsuits and similar apparel (759)	
+doz.
+kg
+6114.90.10.50	50  	Coveralls, jumpsuits and similar apparel (759)	
+doz.
+kg
+6114.90.10.60	60  	Other (759)	
+doz.
+kg
+6114.90.90	 	Other		5.6%	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6114.90.90.10	10  	Tops (838)	
+doz.
+kg
+6114.90.90.20	20  	Jumpers (859)	
+doz.
+kg
+6114.90.90.30	30  	Sunsuits, washsuits and similar apparel (859)	
+doz.
+kg
+6114.90.90.40	40  	Coveralls, jumpsuits and similar apparel (859)	
+doz.
+kg
+ 	Other:				
+6114.90.90.45	45  	Subject to cotton restraints (359)	
+doz.
+kg
+6114.90.90.50	50  	Subject to wool restraints (459)	
+doz.
+kg
+6114.90.90.55	55  	Subject to man-made fiber restraints (659)	
+doz.
+kg
+6114.90.90.70	70  	Other (859)	
+doz.
+kg
+6115	 	Panty hose, tights, stockings, socks and other hosiery, including graduated compression hosiery (for example, stockings for varicose veins) and footwear without applied soles, knitted or crocheted:				
+6115.10	 	Graduated compression hosiery (for example, stockings for varicose veins):				
+6115.10.05	00  	Surgical panty hose and surgical stockings with graduated compression for orthopedic treatment	
+doz. prs.
+kg
+Free		40%
+ 	Other graduated compression panty hose and tights:				
+6115.10.10	00  	Of synthetic fibers (659)	
+doz. prs.
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6115.10.15	 	Of other textile materials		16% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6115.10.15.10	10  	Of cotton (359)	
+doz. prs.
+kg
+6115.10.15.20	20  	Of wool or fine animal hair (459)	
+doz. prs.
+kg
+6115.10.15.40	40  	Other (859)	
+doz. prs.
+kg
+ 	Other graduated compression hosiery:				
+6115.10.30	00  	Of cotton (332)	
+doz. prs.
+kg
+13.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51%
+6115.10.40	00  	Of synthetic fibers (632)	
+doz. prs.
+kg
+14.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6115.10.55	00  	Of artificial fibers (632)	
+doz. prs.
+kg
+14.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6115.10.60	00  	Of other textile materials (832)	
+doz. prs.
+kg
+9.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Other panty hose and tights:				
+6115.21.00	 	Of synthetic fibers, measuring per single yarn less than 67 decitex		16% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6115.21.00.10	10  	Tights (659)	
+doz. prs.
+kg
+6115.21.00.20	20  	Other (632)	
+doz. prs.
+kg
+6115.22.00	00  	Of synthetic fibers, measuring per single yarn 67 decitex or more (659)	
+doz. prs.
+kg
+14.9%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6115.29	 	Of other textile materials:				
+6115.29.40	00  	Containing 70 percent or more by weight of silk or silk waste	
+doz. prs.
+kg
+2.6% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6115.29.80	 	Other		16%	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6115.29.80.10	10  	Of cotton (359)	
+doz. prs.
+kg
+6115.29.80.20	20  	Of wool or fine animal hair (459)	
+doz. prs.
+kg
+6115.29.80.40	40  	Other (859)	
+doz. prs.
+kg
+6115.30	 	Other women's full-length or knee-length hosiery, measuring per single yarn less than 67 decitex:				
+6115.30.10	00  	Containing 70 percent or more by weight of silk or silk waste	
+doz. prs.
+kg
+2.7% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6115.30.90	 	Other		14.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6115.30.90.10	10  	Of man-made fibers (632)	
+doz. prs.
+kg
+6115.30.90.30	30  	Other (832)	
+doz. prs.
+kg
+ 	Other:				
+6115.94.00	00  	Of wool or fine animal hair (432)	
+doz. prs.
+kg
+11.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6115.95	 	Of cotton:				
+6115.95.60	00  	Containing lace or net (332)	
+doz. prs.
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6115.95.90	00  	Other (332)	
+doz. prs.
+kg
+13.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51%
+6115.96	 	Of synthetic fibers:				
+6115.96.60	 	Containing lace or net		18.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6115.96.60.10	10  	Containing 23 percent or more by weight of wool or fine animal hair (432)	
+doz. prs.
+kg
+6115.96.60.20	20  	Other (632)	
+doz. prs.
+kg
+6115.96.90	 	Other		14.6%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6115.96.90.10	10  	Containing 23 percent or more by weight of wool or fine animal hair (432)	
+doz. prs.
+kg
+6115.96.90.20	20  	Other (632)	
+doz. prs.
+kg
+6115.99	 	Of other textile materials:				
+ 	Of artificial fibers:				
+6115.99.14	 	Containing lace or net		18.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6115.99.14.10	10  	Containing 23 percent or more by weight of wool or fine animal hair (432)	
+doz. prs.
+kg
+6115.99.14.20	20  	Other (632)	
+doz. prs.
+kg
+6115.99.19	 	Other		14.6%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+6115.99.19.10	10  	Containing 23 percent or more by weight of wool or fine animal hair (432)	
+doz. prs.
+kg
+6115.99.19.20	20  	Other (632)	
+doz. prs.
+kg
+6115.99.40	00  	Containing 70 percent or more by weight of silk or silk waste	
+doz. prs.
+kg
+1.6% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6115.99.90	00  	Other (832)	
+doz. prs.
+kg
+9.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6116	 	Gloves, mittens and mitts, knitted or crocheted:				
+6116.10	 	Impregnated, coated, covered or laminated with plastics or rubber:				
+6116.10.05	00  	Ice hockey gloves and field hockey gloves	
+doz. prs.
+kg
+Free		25%
+6116.10.08	00  	Other gloves, mittens and mitts, all the foregoing specially designed for use in sports, including ski and snowmobile gloves, mittens and mitts	
+doz. prs.
+kg
+2.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+ 	Without fourchettes:				
+ 	Cut and sewn from preexisting machine knit fabric that is impregnated, coated, covered or laminated with plastics or rubber:				
+ 	Of vegetable fibers:				
+6116.10.13	00  	Containing over 50 percent by weight of plastics or rubber	
+doz. prs.
+kg
+12.5% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61%
+6116.10.17	 	Other		23.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 22.5% (E)	61%
+6116.10.17.20	20  	Subject to cotton restraints (331)	
+doz. prs.
+kg
+6116.10.17.30	30  	Subject to man-made fiber restraints (631)	
+doz. prs.
+kg
+6116.10.17.40	40  	Other (831)	
+doz. prs.
+kg
+ 	Other:				
+6116.10.44	00  	Containing over 50 percent by weight of plastics or rubber	
+doz. prs.
+kg
+9.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 8.9% (E)	90%
+6116.10.48	 	Other		18.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 16.3% (E)	90%
+6116.10.48.10	10  	Subject to cotton restraints (331)	
+doz. prs.
+kg
+6116.10.48.20	20  	Subject to man-made fiber re- straints (631)	
+doz. prs.
+kg
+6116.10.48.30	30  	Other (831)	
+doz. prs.
+kg
+ 	Other:				
+6116.10.55	 	Containing 50 percent or more by weight of cotton, man-made fibers or other textile fibers, or any combination thereof		13.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 10.7% (E)	75%
+6116.10.55.10	10  	Subject to cotton restraints (331)	
+doz. prs.
+kg
+6116.10.55.20	20  	Subject to man-made fiber restraints (631)	
+doz. prs.
+kg
+6116.10.55.30	30  	Other (831)	
+doz. prs.
+kg
+6116.10.65	00  	Other	
+doz. prs.
+kg
+7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 6% (E)	75%
+ 	With fourchettes:				
+6116.10.75	 	Containing 50 percent or more by weight of cotton, man-made fibers or other textile fibers, or any combination thereof		13.2%	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+6116.10.75.10	10  	Subject to cotton restraints (331)	
+doz. prs.
+kg
+6116.10.75.20	20  	Subject to man-made fiber restraints (631)	
+doz. prs.
+kg
+6116.10.75.30	30  	Other (831)	
+doz. prs.
+kg
+6116.10.95	00  	Other	
+doz. prs.
+kg
+7% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+6116.91.00	00  	Of wool or fine animal hair (431)	
+doz. prs.
+kg
+31.2¢/kg + 7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg +50%
+6116.92	 	Of cotton:				
+6116.92.05	00  	Ice hockey gloves and field hockey gloves	
+doz. prs.
+kg
+Free		45%
+6116.92.08	00  	Other gloves, mittens and mitts, all the fore going specially designed for use in sports, including ski and snowmobile gloves, mittens and mitts	
+doz. prs.
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+ 	Made from a pre-existing machine knit fabric:				
+6116.92.64	 	Without fourchettes		23.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 22.5% (E)	90%
+6116.92.64.10	10  	Terry cloth type, looped pile fabric (331)	
+doz. prs.
+kg
+6116.92.64.20	20  	Jersey type, brushed or napped fabric (331)	
+doz. prs.
+kg
+6116.92.64.30	30  	Lisle type, no pile, not brushed or napped (331)	
+doz. prs.
+kg
+6116.92.64.40	40  	Other (331)	
+doz. prs.
+kg
+6116.92.74	 	With fourchettes		23.5%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6116.92.74.50	50  	Jersey type, brushed or napped fabric (331)	
+doz. prs.
+kg
+6116.92.74.60	60  	Lisle type, no pile, not brushed or napped (331)	
+doz. prs.
+kg
+6116.92.74.70	70  	Other (331)	
+doz. prs.
+kg
+ 	Other:				
+6116.92.88	00  	Without fourchettes (331)	
+doz. prs.
+kg
+9.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 7.4% (E)	90%
+6116.92.94	00  	With fourchettes (331)	
+doz. prs.
+kg
+9.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6116.93	 	Of synthetic fibers:				
+6116.93.05	00  	Ice hockey gloves and field hockey gloves	
+doz. prs.
+kg
+Free 1/		45%
+6116.93.08	00  	Other gloves, mittens and mitts, all the fore going specially designed for use in sports, including ski and snowmobile gloves, mittens and mitts	
+doz. prs.
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+ 	Containing 23 percent or more by weight of wool or fine animal hair:				
+6116.93.64	00  	Without fourchettes (431)	
+doz. prs.
+kg
+31¢/kg + 6.9%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 31¢/kg + 5.4% (E)	$1.10/kg + 50%
+6116.93.74	00  	With fourchettes (431)	
+doz. prs.
+kg
+31¢/kg + 6.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg + 50%
+ 	Other:				
+6116.93.88	00  	Without fourchettes (631)	
+doz. prs.
+kg
+18.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 16.3% (E)	90%
+6116.93.94	00  	With fourchettes (631)	
+doz. prs.
+kg
+18.6%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6116.99	 	Of other textile materials:				
+ 	Of artificial fibers:				
+6116.99.20	00  	Ice hockey gloves and field hockey gloves	
+doz. prs.
+kg
+Free		45%
+6116.99.35	00  	Other gloves, mittens and mitts, all the fore going specially designed for use in sports, including ski and snowmobile gloves, mittens and mitts	
+doz. prs.
+kg
+2.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+6116.99.48	00  	Without fourchettes (631)	
+doz. prs.
+kg
+18.8%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 16.5% (E)	90%
+6116.99.54	00  	With fourchettes (631)	
+doz. prs.
+kg
+18.8%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6116.99.75	00  	Containing 70 percent or more by weight of silk or silk waste	
+doz. prs.
+kg
+Free		40%
+6116.99.95	 	Other		3.8%	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+6116.99.95.10	10  	Subject to cotton restraints (331)	
+doz. prs.
+kg
+6116.99.95.20	20  	Subject to wool restraints (431)	
+doz. prs.
+kg
+6116.99.95.30	30  	Subject to man-made fiber restraints (631)	
+doz. prs.
+kg
+6116.99.95.60	60  	Other (831)	
+doz. prs.
+kg
+6117	 	Other made up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories:				
+6117.10	 	Shawls, scarves, mufflers, mantillas, veils and the like:				
+6117.10.10	00  	Of wool or fine animal hair (459)	
+doz.
+kg
+9.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6117.10.20	 	Of man-made fibers		11.3%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6117.10.20.10	10  	Containing 23 percent or more by weight of wool or fine animal hair (459)	
+doz.
+kg
+6117.10.20.30	30  	Other (659)	
+doz.
+kg
+6117.10.40	00  	Containing 70 percent or more by weight of silk or silk waste	
+doz.
+kg
+1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6117.10.60	 	Other		9.5% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	90%
+6117.10.60.10	10  	Of cotton (359)	
+doz.
+kg
+6117.10.60.20	20  	Other (859)	
+doz.
+kg
+6117.80	 	Other accessories:				
+ 	Containing 70 percent or more by weight of silk or silk waste:				
+6117.80.20	00  	Ties, bow ties and cravats (758)	
+doz.
+kg
+1.2% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	71.5%
+6117.80.30	 	Other		2.3%	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6117.80.30.10	10  	Headbands, ponytail holders and similar articles	
+doz.
+kg
+6117.80.30.90	90  	Other (759)	
+doz.
+kg
+ 	Other:				
+6117.80.85	00  	Headbands, ponytail holders and similar articles	
+doz.
+kg
+14.6% 1/	Free (A*, AU, BH, CL, CO, D, E*, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	90%
+6117.80.87	 	Ties, bow ties and cravats		5%	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	71.5%
+6117.80.87.10	10  	Of cotton (359)	
+doz.
+kg
+6117.80.87.20	20  	Of wool or fine animal hair (459)	
+doz.
+kg
+6117.80.87.30	30  	Of man-made fibers (659)	
+doz.
+kg
+6117.80.87.70	70  	Other (858)	
+doz.
+kg
+6117.80.95	 	Other		14.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6117.80.95.10	10  	Of cotton (359)	
+doz.
+kg
+6117.80.95.20	20  	Of wool or fine animal hair (459)	
+doz.
+kg
+ 	Of man-made fibers:				
+6117.80.95.30	30  	Containing 23 percent or more by weight of wool or fine animal hair (459)	
+doz.
+kg
+6117.80.95.40	40  	Other (659)	
+doz.
+kg
+6117.80.95.70	70  	Other (859)	
+doz.
+kg
+6117.90	 	Parts:				
+6117.90.10	 	Containing 70 percent or more by weight of silk or silk waste		2.3% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6117.90.10.10	10  	Of sweaters (746)	
+doz.
+kg
+6117.90.10.20	20  	Of blouses and shirts (739)	
+doz.
+kg
+6117.90.10.30	30  	Of coats and jackets (735)	
+doz.
+kg
+6117.90.10.40	40  	Of trousers, breeches and shorts (748)	
+doz.
+kg
+6117.90.10.60	60  	Other (759)	
+doz.
+kg
+6117.90.90	 	Other		14.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Of sweaters:				
+6117.90.90.03	03  	Of cotton (345)	
+doz.
+kg
+6117.90.90.05	05  	Of wool or fine animal hair (446)	
+doz.
+kg
+6117.90.90.10	10  	Of man-made fibers (646)	
+doz.
+kg
+6117.90.90.15	15  	Other (845)	
+doz.
+kg
+ 	Of blouses and shirts:				
+6117.90.90.20	20  	Of cotton (339)	
+doz.
+kg
+6117.90.90.25	25  	Of wool or fine animal hair (438)	
+doz.
+kg
+6117.90.90.30	30  	Of man-made fibers (639)	
+doz.
+kg
+6117.90.90.35	35  	Other (838)	
+doz.
+kg
+ 	Of coats and jackets:				
+6117.90.90.40	40  	Of cotton (335)	
+doz.
+kg
+6117.90.90.45	45  	Of wool or fine animal hair (435)	
+doz.
+kg
+6117.90.90.50	50  	Of man-made fibers (635)	
+doz.
+kg
+6117.90.90.55	55  	Other (835)	
+doz.
+kg
+ 	Of trousers, breeches and shorts:				
+6117.90.90.60	60  	Of cotton (348)	
+doz.
+kg
+6117.90.90.65	65  	Of wool or fine animal hair (448)	
+doz.
+kg
+6117.90.90.70	70  	Of man-made fibers (648)	
+doz.
+kg
+6117.90.90.75	75  	Other (847)	
+doz.
+kg
+ 	Other:				
+6117.90.90.80	80  	Of cotton (359)	
+doz.
+kg
+6117.90.90.85	85  	Of wool or fine animal hair (459)	
+doz.
+kg
+6117.90.90.90	90  	Of man-made fibers (659)	
+doz.
+kg
+6117.90.90.95	95  	Other (859)	
+doz.
+kg

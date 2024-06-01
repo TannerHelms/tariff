@@ -1,0 +1,370 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+9503.00.00	 	Tricycles, scooters, pedal cars and similar wheeled toys; dollsʼ carriages; dolls, other toys; reduced-scale (“scaleˮ) models and similar recreational models, working or not; puzzles of all kinds; parts and accessories thereof		Free		70%
+ 	“Childrenʼs productsˮ as defined in 15 U.S.C. § 2052:				
+ 	Inflatable toy balls, balloons and punchballs, of rubber:				
+ 	Labeled or determined by importer as intended for use by persons:				
+9503.00.00.11	11  	Under 3 years of age	
+No.
+9503.00.00.13	13  	3 to 12 years of age	
+No.
+ 	Other:				
+ 	Labeled or determined by importer as intended for use by persons:				
+9503.00.00.71	71  	Under 3 years of age	
+No.
+9503.00.00.73	73  	3 to 12 years of age	
+No.
+9503.00.00.90	90  	Other	
+No.
+9504	 	Video game consoles and machines, table or parlor games, including pinball machines, billiards, special tables for casino games and automatic bowling equipment, amusement machines operated by coins, banknotes, bank cards, tokens or by any other means of payment:				
+9504.20	 	Articles and accessories for billiards of all kinds:				
+9504.20.20	00  	Balls	
+No.
+Free 1/		50%
+9504.20.40	00  	Chalk	
+No.
+Free 1/		25%
+9504.20.60	00  	Tables	
+No.
+Free		33 1/3%
+9504.20.80	00  	Other, including parts and accessories	
+kg
+Free 1/		33 1/3%
+9504.30.00	 	Other games, operated by coins, banknotes, bank cards, tokens or by any other means of payment, other than automatic bowling alley equipment; parts and accessories thereof		Free 1/		35%
+9504.30.00.10	10  	Video	
+No.
+ 	Other:				
+ 	Games:				
+9504.30.00.20	20  	Pinball machines and bell-type machines and consoles	
+No.
+9504.30.00.40	40  	Other	
+No.
+9504.30.00.60	60  	Parts and accessories	
+No.
+9504.40.00	00  	Playing cards	
+pack
+Free		10¢/pack + 20% 1/
+9504.50.00	00  	Video game consoles and machines, other than those of subheading 9504.30, and parts and accessories thereof	
+No.
+Free		35%
+9504.90	 	Other:				
+9504.90.40	00  	Game machines, other than those operated by coins, banknotes (paper currency), discs or similar articles; parts and accessories thereof	
+No.
+Free		35%
+ 	Other:				
+9504.90.60	00  	Chess, checkers, parchisi, backgammon, darts and other games played on boards of a special design, all the foregoing games and parts there of (including their boards); mah-jong and dominoes; any of the foregoing games in combination with each other, or with other games, packaged together as a unit in immediate containers of a type used in retail sales; poker chips and dice	
+No.
+Free		40%
+9504.90.90	 	Other		Free 1/		40%
+9504.90.90.40	40  	Bowling balls	
+No.
+9504.90.90.60	60  	Bowling equipment and parts and accessories thereof	
+No.
+9504.90.90.80	80  	Other	
+No.
+9505	 	Festive, carnival or other entertainment articles, including magic tricks and practical joke articles; parts and accessories thereof:				
+9505.10	 	Articles for Christmas festivities and parts and accessories thereof:				
+ 	Christmas ornaments:				
+9505.10.10	00  	Of glass	
+No.
+Free 1/		60%
+ 	Other:				
+9505.10.15	00  	Of wood	
+No.
+Free		20% 1/
+9505.10.25	00  	Other	
+No.
+Free		20% 1/
+9505.10.30	00  	Nativity scenes and figures thereof	
+No.
+Free		80%
+ 	Other:				
+9505.10.40	 	Of plastics		Free		60%
+9505.10.40.10	10  	Artificial Christmas trees	
+No.
+9505.10.40.20	20  	Other	
+No.
+9505.10.50	 	Other		Free		90%
+9505.10.50.10	10  	Artificial Christmas trees	
+No.
+9505.10.50.20	20  	Other	
+No.
+9505.90	 	Other:				
+9505.90.20	00  	Magic tricks and practical joke articles; parts and accessories thereof	
+No.
+Free		70%
+9505.90.40	00  	Confetti, paper spirals or streamers, party favors and noisemakers; parts and accessories thereof	
+No.
+Free		45%
+9505.90.60	00  	Other	
+No.
+Free		25% 1/
+9506	 	Articles and equipment for general physical exercise, gymnastics, athletics, other sports (including table-tennis) or outdoor games, not specified or included elsewhere in this chapter; swimming pools and wading pools; parts and accessories thereof:				
+ 	Snow-skis and other snow-ski equipment; parts and accessories thereof:				
+9506.11	 	Skis and parts and accessories thereof, except ski poles:				
+9506.11.20	00  	Cross-country skis	
+prs.
+Free 1/		33 1/3% 1/
+9506.11.40	 	Other skis		2.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+9506.11.40.10	10  	Snowboards	
+No.
+9506.11.40.80	80  	Other	
+prs.
+9506.11.60	00  	Parts and accessories	
+No.
+Free 1/		45%
+9506.12	 	Ski bindings and parts and accessories thereof:				
+9506.12.40	00  	Cross-country	
+No.
+Free 1/		45%
+9506.12.80	00  	Other	
+No.
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9506.19	 	Other:				
+9506.19.40	00  	Cross-country	
+No.
+Free 1/		45%
+9506.19.80	 	Other		2.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9506.19.80.40	40  	Ski poles and parts and accessories thereof	
+No.
+9506.19.80.80	80  	Other	
+No.
+ 	Water skis, surf boards, sailboards and other water- sport equipment; parts and accessories thereof:				
+9506.21	 	Sailboards and parts and accessories thereof:				
+9506.21.40	00  	Sailboards	
+No.
+Free 1/		30%
+9506.21.80	00  	Parts and accessories	
+No.
+Free 1/		30%
+9506.29.00	 	Other		Free 1/		40%
+9506.29.00.20	20  	Water skis	
+prs.
+9506.29.00.30	30  	Surf boards	
+No.
+9506.29.00.80	80  	Other	
+No.
+ 	Golf clubs and other golf equipment; parts and accessories thereof:				
+9506.31.00	00  	Golf clubs, complete	
+No.
+4.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.32.00	00  	Balls	
+doz.
+Free 1/		30%
+9506.39.00	 	Other		4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.39.00.60	60  	Parts of golf clubs	
+No.
+9506.39.00.80	80  	Other	
+No.
+9506.40.00	00  	Articles and equipment for table-tennis, and parts and accessories thereof	
+No.
+5.1%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Tennis, badminton or similar rackets, whether or not strung; parts and accessories thereof:				
+9506.51	 	Lawn-tennis rackets, whether or not strung, and parts and accessories thereof:				
+9506.51.20	00  	Rackets, strung	
+No.
+5.3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.51.40	00  	Rackets, not strung	
+No.
+3.9%	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.51.60	00  	Parts and accessories	
+No.
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.59	 	Other:				
+9506.59.40	 	Badminton rackets and parts and accessories thereof		5.6%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.59.40.40	40  	Rackets and racket frames	
+No.
+9506.59.40.80	80  	Other parts and accessories	
+No.
+9506.59.80	 	Other		4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9506.59.80.20	20  	Racquetball rackets	
+No.
+9506.59.80.40	40  	Squash rackets	
+No.
+9506.59.80.60	60  	Other, including parts and accessories	
+No.
+ 	Balls, other than golf balls and table-tennis balls:				
+9506.61.00	00  	Lawn-tennis balls	
+No.
+Free 1/		30%
+9506.62	 	Inflatable balls:				
+9506.62.40	 	Footballs and soccer balls		Free 1/		30%
+9506.62.40.40	40  	Footballs	
+No.
+9506.62.40.80	80  	Soccer balls	
+No.
+9506.62.80	 	Other		4.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.62.80.20	20  	Basketballs	
+No.
+9506.62.80.40	40  	Volleyballs	
+No.
+9506.62.80.60	60  	Other	
+No.
+9506.69	 	Other:				
+9506.69.20	 	Baseballs and softballs		Free 1/		30%
+9506.69.20.40	40  	Baseballs	
+No.
+9506.69.20.80	80  	Softballs	
+No.
+9506.69.40	00  	Noninflatable hollow balls not over 19 cm in diameter	
+No.
+5.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	70%
+9506.69.60	 	Other		4.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.69.60.10	10  	Polo balls	
+No.
+9506.69.60.20	20  	Other	
+No.
+9506.70	 	Ice skates and roller skates, including skating boots with skates attached; parts and accessories thereof:				
+9506.70.20	 	Roller skates and parts and accessories thereof		Free		20%
+9506.70.20.10	10  	Attached to boots	
+prs.
+9506.70.20.90	90  	Other	
+No.
+9506.70.40	00  	Ice skates with footwear permanently attached	
+prs.
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9506.70.60	 	Other, including parts and accessories for ice skates with footwear permanently attached		Free 1/		20%
+9506.70.60.40	40  	Ice skates	
+prs.
+9506.70.60.80	80  	Parts and accessories	
+prs.
+ 	Other:				
+9506.91.00	 	Articles and equipment for general physical exercise, gymnastics or athletics; parts and accessories thereof		4.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9506.91.00.10	10  	Exercise cycles	
+No.
+9506.91.00.20	20  	Exercise rowing machines	
+No.
+9506.91.00.30	30  	Other	
+No.
+9506.99	 	Other:				
+9506.99.05	 	Archery articles and equipment and parts and accessories thereof		Free 1/		35%
+9506.99.05.10	10  	Bows and bow parts	
+No.
+9506.99.05.20	20  	Arrows and arrow parts	
+No.
+9506.99.05.30	30  	Other	
+No.
+ 	Badminton articles and equipment, except rackets, and parts and accessories thereof:				
+9506.99.08	00  	Nets of cotton	
+No.
+kg
+2.8%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.99.12	00  	Other	
+No.
+5.6%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.99.15	00  	Baseball articles and equipment, except balls, and parts and accessories thereof	
+No.
+Free		30%
+9506.99.20	00  	Football, soccer and polo articles and equip- ment, except balls, and parts and accessories thereof	
+No.
+Free 1/		30%
+9506.99.25	 	Ice-hockey and field-hockey articles and equipment, except balls and skates, and parts and accessories thereof		Free 1/		30% 1/
+9506.99.25.40	40  	Ice-hockey sticks	
+No.
+9506.99.25.80	80  	Other, including parts and accessories	
+No.
+9506.99.28	00  	Lacrosse sticks	
+No.
+Free 1/		30%
+9506.99.30	00  	Lawn-tennis articles and equipment, except balls and rackets, and parts and accessories thereof	
+No.
+3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+9506.99.35	00  	Skeet targets	
+doz.
+Free 1/		20%
+ 	Sleds, bobsleds, toboggans and the like and parts and accessories thereof:				
+9506.99.40	00  	Toboggans; bobsleds and luges of a kind used in international competition	
+No.
+Free 1/		Free
+9506.99.45	00  	Other, including parts and accessories	
+No.
+2.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9506.99.50	00  	Snowshoes and parts and accessories thereof	
+No.
+2.6%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33 1/3%
+9506.99.55	00  	Swimming pools and wading pools and parts and accessories thereof	
+No.
+5.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+9506.99.60	 	Other		4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9506.99.60.40	40  	Nets not elsewhere specified or included	
+kg
+9506.99.60.80	80  	Other	
+No.
+9507	 	Fishing rods, fish hooks and other line fishing tackle; fish landing nets, butterfly nets and similar nets; decoy "birds" (other than those of heading 9208 or 9705) and similar hunting or shooting equipment; parts and accessories thereof:				
+9507.10.00	 	Fishing rods and parts and accessories thereof		6%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+9507.10.00.40	40  	Fishing rods	
+No.
+9507.10.00.80	80  	Parts and accessories	
+No.
+9507.20	 	Fish hooks, whether or not snelled:				
+9507.20.40	00  	Snelled hooks	
+kg
+4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+9507.20.80	00  	Other	
+kg
+4.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	45%
+9507.30	 	Fishing reels and parts and accessories thereof:				
+ 	Fishing reels:				
+9507.30.20	00  	Valued not over $2.70 each	
+No.
+9.2%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+9507.30.40	00  	Valued over $2.70 but not over $8.45 each	
+No.
+24¢ each	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+9507.30.60	00  	Valued over $8.45 each	
+No.
+3.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	55%
+9507.30.80	00  	Parts and accessories	
+No.
+5.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+9507.90	 	Other:				
+9507.90.20	00  	Fishing line put up and packaged for retail sale	
+No.
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	65%
+9507.90.40	00  	Fishing casts or leaders	
+doz.
+5.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 2.8% (JP)	55%
+9507.90.60	00  	Fish landing nets, butterfly nets and similar nets	
+No.
+5%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other, including parts and accessories:				
+9507.90.70	00  	Artificial baits and flies	
+doz.
+9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 4.5% (JP)	55%
+9507.90.80	00  	Other, including parts and accessories	
+No.
+9%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+9508	 	Traveling circuses and traveling menageries; amusement park rides and water park amusements; fairground amusements, including shooting galleries; traveling theaters; parts and accessories thereof:				
+9508.10.00	00  	Traveling circuses and traveling menageries	
+No.
+Free 1/		35%
+ 	Amusement park rides and water park amusements:				
+9508.21.00	00  	Roller coasters	
+No.
+Free 1/		35%
+9508.22.00	00  	Carousels, swings and roundabouts	
+No.
+Free 1/		35%
+9508.23.00	00  	Bumper (dodge’em) cars	
+No.
+Free 1/		35%
+9508.24.00	00  	Motion simulators and moving theaters	
+No.
+Free 1/		35%
+9508.25.00	00  	Water rides	
+No.
+Free 1/		35%
+9508.26.00	00  	Water park amusements	
+No.
+Free 1/		35%
+9508.29.00	00  	Other	
+No.
+Free 1/		35%
+9508.30.00	00  	Fairground amusements	
+No.
+Free 1/		35%
+9508.40.00	00  	Traveling theaters	
+No.
+Free 1/		35%

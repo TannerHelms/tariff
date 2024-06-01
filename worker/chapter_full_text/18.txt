@@ -1,0 +1,338 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+1801.00.00	00  	Cocoa beans, whole or broken, raw or roasted	
+kg
+Free 1/		Free
+1802.00.00	00  	Cocoa shells, husks, skins and other cocoa waste	
+kg
+Free 1/		10%
+1803	 	Cocoa paste, whether or not defatted:				
+1803.10.00	00  	Not defatted	
+kg
+Free 1/		6.6¢/kg
+1803.20.00	00  	Wholly or partly defatted	
+kg
+0.2¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+1804.00.00	00  	Cocoa butter, fat and oil	
+kg
+Free 1/		25%
+1805.00.00	00  	Cocoa powder, not containing added sugar or other sweetening matter	
+kg
+0.52¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+1806	 	Chocolate and other food preparations containing cocoa:				
+1806.10	 	Cocoa powder, containing added sugar or other sweetening matter:				
+ 	Containing less than 65 percent by weight of sugar:				
+1806.10.05	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+Free 1/		40%
+1806.10.10	00  	Described in additional U.S. note 1 to this chapter and entered pursuant to its provisions	
+kg
+Free 1/		40%
+1806.10.15	00  	Other 1/	
+kg
+21.7¢/kg 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	25.5¢/kg
+ 	Containing 65 percent or more but less than 90 percent by dry weight of sugar:				
+1806.10.22	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:				
+1806.10.24	00  	Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+1806.10.28	00  	Other 1/	
+kg
+33.6¢/kg 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	39.5¢/kg
+ 	Other:				
+1806.10.34	00  	Described in additional U.S. note 1 to this chapter and entered pursuant to its provisions	
+kg
+10% 1/	Free (A, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1806.10.38	00  	Other 1/	
+kg
+33.6¢/kg 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	39.5¢/kg
+ 	Containing 90 percent or more by dry weight of sugar:				
+1806.10.43	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:				
+1806.10.45	00  	Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+1806.10.55	00  	Other 1/	
+kg
+33.6¢/kg 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	39.5¢/kg
+ 	Other:				
+1806.10.65	00  	Described in additional U.S. note 1 to this chapter and entered pursuant to its provisions	
+kg
+10% 1/	Free (A*, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1806.10.75	00  	Other 1/	
+kg
+33.6¢/kg 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	39.5¢/kg
+1806.20	 	Other preparations in blocks, slabs or bars, weighing more than 2 kg or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, of a content exceeding 2 kg:				
+ 	Preparations consisting wholly of ground cocoa beans, with or without added cocoa fat, flavoring or emulsifying agents, and containing not more than 32 percent by weight of butterfat or other milk solids and not more than 60 percent by weight of sugar:				
+1806.20.20	 	In blocks or slabs weighing 4.5 kg or more each		Free 1/		8.8¢/kg
+1806.20.20.10	10  	Not containing butterfat or other milk solids	
+kg
+1806.20.20.90	90  	Containing butterfat or other milk solids	
+kg
+kg cmsc
+ 	Other:				
+ 	Containing butterfat or other milk solids (excluding articles for consumption at retail as candy or confection):				
+1806.20.22	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other, containing over 5.5 percent by weight of butterfat:				
+1806.20.24	00  	Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+1806.20.26	00  	Containing less than 21 percent by weight of milk solids 1/	
+kg
+kg cmsc
+37.2¢/kg + 4.3% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 3.7¢/kg + 0.4% (P) 4.9¢/kg + 0.5% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.42, 9915.04.66 (P+)	43.8¢/kg + 5%
+1806.20.28	00  	Other 1/	
+kg
+kg cmsc
+52.8¢/kg + 4.3% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5.2¢/kg + 0.4% (P) 7¢/kg + 0.5% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.43, 9915.04.67 (P+)	62.1¢/kg + 5%
+ 	Other:				
+1806.20.34	00  	Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+5% 1/	Free (A, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+1806.20.36	00  	Containing less than 21 percent by weight of milk solids 1/	
+kg
+kg cmsc
+37.2¢/kg + 4.3% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 3.7¢/kg + 0.4% (P) 4.9¢/kg + 0.5% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.42, 9915.04.66 (P+)	43.8¢/kg + 5%
+1806.20.38	00  	Other 1/	
+kg
+kg cmsc
+52.8¢/kg + 4.3% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5.2¢/kg + 0.4% (P) 7¢/kg + 0.5% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.43, 9915.04.67 (P+)	62.1¢/kg + 5%
+1806.20.50	00  	Other	
+kg
+4.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+1806.20.60	00  	Confectioners' coatings and other products (except confectionery) containing by weight not less than 6.8 percent non-fat solids of the cocoa bean nib and not less than 15 percent of vegetable fats other than cocoa butter	
+kg
+2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+ 	Containing more than 65 percent by weight of sugar:				
+1806.20.67	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 5% (JP)	20%
+ 	Other:				
+ 	Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:				
+1806.20.71	00  	Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+1806.20.73	00  	Other 1/	
+kg
+30.5¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	35.9¢/kg + 10%
+ 	Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:				
+1806.20.75	00  	Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (A, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1806.20.77	00  	Other 1/	
+kg
+30.5¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	35.9¢/kg + 10%
+1806.20.78	00  	Other	
+kg
+8.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+1806.20.79	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 5% (JP)	20%
+ 	Other:				
+ 	Dairy products described in additional U.S. note 1 to chapter 4:				
+1806.20.81	00  	Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+1806.20.82	00  	Containing less than 21 percent by weight of milk solids 1/	
+kg
+kg cmsc
+37.2¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 3.7¢/kg + 0.8% (P) 4.9¢/kg + 1.1% (PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.44, 9915.04.68 (P+) See 9918.04.60-9918.04.80 (CO)	43.8¢/kg + 10%
+1806.20.83	00  	Other 1/	
+kg
+kg cmsc
+52.8¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5.2¢/kg + 0.8% (P) 7¢/kg + 1.1% (PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.45, 9915.04.69 (P+) See 9918.04.60-9918.04.80 (CO)	62.1¢/kg +10%
+ 	Other, low fat chocolate crumb (excluding articles for consumption at retail as candy or confection):				
+1806.20.85	00  	Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+1806.20.87	00  	Containing less than 21 percent by weight of milk solids 1/	
+kg
+kg cmsc
+37.2¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 3.7¢/kg + 0.8% (P) 4.9¢/kg + 1.1% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.44, 9915.04.68 (P+)	43.8¢/kg + 10%
+1806.20.89	00  	Other 1/	
+kg
+kg cmsc
+52.8¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5.2¢/kg + 0.8% (P) 7¢/kg + 1.1% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.45, 9915.04.69 (P+)	62.1¢/kg + 10%
+ 	Other:				
+ 	Blended syrups described in additional U.S. note 4 to chapter 17:				
+1806.20.91	00  	Described in additional U.S. note 9 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+1806.20.94	00  	Other 1/	
+kg
+37.2¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	43.8¢/kg + 10%
+ 	Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:				
+1806.20.95	00  	Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1806.20.98	00  	Other 1/	
+kg
+37.2¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01 (MA)	43.8¢/kg + 10%
+1806.20.99	00  	Other	
+kg
+8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other, in blocks, slabs or bars:				
+1806.31.00	 	Filled		5.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 2.8% (JP)	40%
+ 	Confectionery:				
+1806.31.00.41	41  	Containing peanuts, peanut butter or peanut paste	
+kg
+1806.31.00.49	49  	Other	
+kg
+1806.31.00.80	80  	Other	
+kg
+1806.32	 	Not filled:				
+ 	Preparations consisting wholly of ground cocoa beans, with or without added cocoa fat, flavoring or emulsifying agents, and containing not more than 32 percent by weight of butterfat or other milk solids and not more than 60 percent by weight of sugar:				
+ 	Containing butterfat or other milk solids (excluding articles for consumption at retail as candy or confection):				
+1806.32.01	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other, containing over 5.5 percent by weight of butterfat:				
+1806.32.04	00  	Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+1806.32.06	00  	Containing less than 21 percent by weight of milk solids 1/	
+kg
+kg cmsc
+37.2¢/kg + 4.3% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 3.7¢/kg + 0.4% (P) 4.9¢/kg + 0.5% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.42, 9915.04.66 (P+)	43.8¢/kg + 5%
+1806.32.08	00  	Other 1/	
+kg
+kg cmsc
+52.8¢/kg + 4.3% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5.2¢/kg + 0.4% (P) 7¢/kg + 0.5% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.43, 9915.04.67 (P+)	62.1¢/kg + 5%
+ 	Other:				
+1806.32.14	00  	Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+5% 1/	Free (A, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+1806.32.16	00  	Containing less than 21 percent by weight of milk solids 1/	
+kg
+kg cmsc
+37.2¢/kg + 4.3% 1/	Free (BH, CL, JO, KR, MA, OM, PA, PE, SG) 3.7¢/kg + 0.4% (P) 4.9¢/kg + 0.5% (CO) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.42, 9915.04.66 (P+)	43.8¢/kg + 5%
+1806.32.18	00  	Other 1/	
+kg
+kg cmsc
+52.8¢/kg + 4.3% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5.2¢/kg + 0.4% (P) 7¢/kg + 0.5% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.43, 9915.04.67 (P+)	62.1¢/kg + 5%
+1806.32.30	00  	Other	
+kg
+4.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+1806.32.55	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.5% (JP)	40%
+ 	Other, dairy products described in additional U.S. note 1 to chapter 4:				
+1806.32.60	00  	Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions	
+kg
+kg cmsc
+7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+1806.32.70	00  	Containing less than 21 percent by weight of milk solids 1/	
+kg
+kg cmsc
+37.2¢/kg + 6% 1/	Free (BH, CL, JO, KR, MA, OM, PA, PE, SG) 3.7¢/kg + 0.6% (P) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.46, 9915.04.70 (P+) See 9918.04.60-9918.04.80 (CO)	43.8¢/kg +7%
+1806.32.80	00  	Other 1/	
+kg
+kg cmsc
+52.8¢/kg + 6% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5.2¢/kg + 0.6% (P) 7¢/kg + 0.8% (PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.47, 9915.04.71 (P+) See 9918.04.60-9918.04.80 (CO)	62.1¢/kg +7%
+1806.32.90	00  	Other	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+1806.90	 	Other:				
+1806.90.01	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+3.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+ 	Dairy products described in additional U.S. note 1 to chapter 4:				
+1806.90.05	00  	Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions	
+kg
+kg cmsc
+3.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+1806.90.08	00  	Containing less than 21 percent by weight of milk solids 1/	
+kg
+kg cmsc
+37.2¢/kg + 6% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 3.7¢/kg + 0.6% (P) 4.9¢/kg + 0.8% (PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.46, 9915.04.70 (P+) See 9918.04.60-9918.04.80 (CO)	43.8¢/kg + 7%
+1806.90.10	00  	Other 1/	
+kg
+kg cmsc
+52.8¢/kg + 6% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5.2¢/kg + 0.6% (P) 7¢/kg + 0.8% (PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.47, 9915.04.71 (P+) See 9918.04.60-9918.04.80 (CO)	62.1¢/kg +7%
+ 	Other:				
+ 	Containing butterfat or other milk solids (excluding articles for consumption at retail as candy or confection):				
+ 	Containing over 5.5 percent by weight of butterfat:				
+1806.90.15	00  	Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+3.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+1806.90.18	00  	Containing less than 21 percent by weight of milk solids 1/	
+kg
+kg cmsc
+37.2¢/kg + 6% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 3.7¢/kg + 0.6% (P) 4.9¢/kg + 0.8% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.46, 9915.04.70 (P+)	43.8¢/kg + 7%
+1806.90.20	00  	Other 1/	
+kg
+kg cmsc
+52.8¢/kg + 6% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5.2¢/kg + 0.6% (P) 7¢/kg + 0.8% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.47, 9915.04.71 (P+)	62.1¢/kg +7%
+ 	Other:				
+1806.90.25	00  	Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+3.5% 1/	Free (A*, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+1806.90.28	00  	Containing less than 21 percent by weight of milk solids 1/	
+kg
+kg cmsc
+37.2¢/kg + 6% 1/	Free (BH, CL, JO, KR, MA, OM, PA, PE, SG) 3.7¢/kg + 0.6% (P) 4.9¢/kg + 0.8% (CO) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.46, 9915.04.70 (P+)	43.8¢/kg + 7%
+1806.90.30	00  	Other 1/	
+kg
+kg cmsc
+52.8¢/kg + 6% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5.2¢/kg + 0.6% (P) 7¢/kg + 0.8% (CO, PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.47, 9915.04.71 (P+)	62.1¢/kg + 7%
+ 	Other:				
+ 	Blended syrups described in additional U.S. note 4 to chapter 17:				
+1806.90.35	00  	Described in additional U.S. note 9 to chapter 17 and entered pursuant to its provisions	
+kg
+3.5% 1/	Free (CO, KR, OM, PA, PE, S)	40%
+1806.90.39	00  	Other 1/	
+kg
+37.2¢/kg + 6% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	43.8¢/kg + 7%
+ 	Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:				
+1806.90.45	00  	Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions	
+kg
+3.5% 1/	Free (CO, KR, OM, PA, PE, S)	40%
+1806.90.49	00  	Other 1/	
+kg
+37.2¢/kg + 6% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	43.8¢/kg + 7%
+ 	Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:				
+1806.90.55	00  	Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions	
+kg
+3.5% 1/	Free (A*, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+1806.90.59	00  	Other 1/	
+kg
+37.2¢/kg + 6% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	43.8¢/kg + 7%
+1806.90.90	 	Other		6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Confectionery:				
+1806.90.90.11	11  	Containing peanuts or peanut products	
+kg
+1806.90.90.19	19  	Other	
+kg
+1806.90.90.90	90  	Other	
+kg

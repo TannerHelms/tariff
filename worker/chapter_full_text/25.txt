@@ -1,0 +1,324 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+2501.00.00	00  	Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water	
+t
+Free 1/		26% 1/
+2502.00.00	00  	Unroasted iron pyrites	
+t
+Free 1/		Free
+2503.00.00	 	Sulfur of all kinds, other than sublimed sulfur, precipitated sulfur and colloidal sulfur		Free 1/		Free
+2503.00.00.10	10  	Crude or unrefined sulfur	
+t
+2503.00.00.90	90  	Other	
+t
+2504	 	Natural graphite:				
+2504.10	 	In powder or in flakes:				
+2504.10.10	00  	Crystalline flake (not including flake dust)	
+kg
+Free		3.6¢/kg
+2504.10.50	00  	Other	
+kg
+Free		10%
+2504.90.00	00  	Other	
+kg
+Free		10%
+2505	 	Natural sands of all kinds, whether or not colored, other than metalbearing sands of chapter 26:				
+2505.10	 	Silica sands and quartz sands:				
+2505.10.10	00  	Sand containing by weight 95 percent or more of silica and not more than 0.6 percent of oxide of iron	
+t
+Free 1/		$1.97/t
+2505.10.50	00  	Other	
+t
+Free 1/		Free
+2505.90.00	00  	Other	
+t
+Free 1/		Free
+2506	 	Quartz (other than natural sands); quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape:				
+2506.10.00	 	Quartz		Free 1/		Free
+2506.10.00.10	10  	Sands (other than natural) containing by weight 95 percent or more of silica and not more than 0.6 percent of oxide of iron	
+t
+2506.10.00.50	50  	Other	
+t
+2506.20.00	 	Quartzite		Free 1/		Free
+2506.20.00.10	10  	Crude or roughly trimmed	
+t
+2506.20.00.80	80  	Other	
+t
+2507.00.00	00  	Kaolin and other kaolinic clays, whether or not calcined	
+t
+Free 1/		$2.46/t
+2508	 	Other clays (not including expanded clays of heading 6806), andalusite, kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earths:				
+2508.10.00	00  	Bentonite	
+t
+Free 1/		$3.20/t
+2508.30.00	00  	Fire-clay	
+t
+Free		$1.97/t
+2508.40.01	 	Other clays		Free 1/		$1.97/t
+2508.40.01.10	10  	Common blue clay and other ball clays	
+t
+2508.40.01.20	20  	Decolorizing earths and fuller's earth	
+t
+2508.40.01.50	50  	Other	
+t
+2508.50.00	00  	Andalusite, kyanite and sillimanite	
+t
+Free 1/		Free
+2508.60.00	00  	Mullite	
+t
+Free 1/		30%
+2508.70.00	00  	Chamotte or dinas earth	
+t
+Free 1/		Free
+2509.00	 	Chalk:				
+2509.00.10	00  	Crude	
+t
+Free 1/		Free
+2509.00.20	00  	Other	
+t
+Free 1/		13%
+2510	 	Natural calcium phosphates, natural aluminum calcium phosphates and phosphatic chalk:				
+2510.10.00	00  	Unground	
+t
+Free 1/		Free
+2510.20.00	00  	Ground	
+t
+Free 1/		Free
+2511	 	Natural barium sulfate (barytes); natural barium carbonate (witherite), whether or not calcined, other than barium oxide of heading 2816:				
+2511.10	 	Natural barium sulfate (barytes):				
+2511.10.10	00  	Ground	
+t
+Free		$7.38/t
+2511.10.50	00  	Other	
+t
+$1.25/t	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$3.94/t
+2511.20.00	00  	Natural barium carbonate (witherite)	
+kg
+Free 1/		30%
+2512.00.00	00  	Siliceous fossil meals (for example, kieselguhr, tripolite and diatomite) and similar siliceous earths, whether or not calcined, of an apparent specific gravity of 1 or less	
+t
+Free 1/		Free 1/
+2513	 	Pumice; emery; natural corundum, natural garnet and other natural abrasives, whether or not heat-treated:				
+2513.10.00	 	Pumice stone		Free 1/		Free
+2513.10.00.10	10  	Crude or in irregular pieces, including crushed pumice	
+kg
+2513.10.00.80	80  	Other	
+kg
+2513.20	 	Emery, natural corundum, natural garnet and other natural abrasives:				
+2513.20.10	00  	Crude or in irregular pieces	
+kg
+Free 1/		Free
+2513.20.90	00  	Other	
+kg
+Free 1/		2.2¢/kg
+2514.00.00	00  	Slate, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape	
+t
+Free 1/		25% 1/
+2515	 	Marble, travertine and other calcareous monumental or building stone of an apparent specific gravity of 2.5 or more, and alabaster, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape:				
+ 	Marble and travertine:				
+2515.11.00	00  	Crude or roughly trimmed	
+m3
+t
+Free 1/		$22.95/m3
+2515.12	 	Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape:				
+2515.12.10	00  	Marble	
+t
+Free 1/		13%
+2515.12.20	00  	Travertine	
+t
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+2515.20.00	00  	Other calcareous monumental or building stone; alabaster	
+t
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+2516	 	Granite, porphyry, basalt, sandstone and other monumental or building stone, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape:				
+ 	Granite:				
+2516.11.00	00  	Crude or roughly trimmed	
+m3
+t
+Free 1/		$8.83/m3
+2516.12.00	 	Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape		2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+2516.12.00.30	30  	Having a thickness of 7.5 cm or more	
+t
+2516.12.00.60	60  	Other	
+t
+2516.20	 	Sandstone:				
+2516.20.10	00  	Crude or roughly trimmed	
+m3
+t
+Free 1/		$5.30/m3
+2516.20.20	00  	Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape	
+t
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+2516.90.00	 	Other monumental or building stone		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+2516.90.00.30	30  	Having a thickness of 7.5 cm or more	
+t
+2516.90.00.60	60  	Other	
+t
+2517	 	Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates, for road metalling, or for railway or other ballast; shingle and flint, whether or not heat-treated; macadam of slag, dross or similar industrial waste, whether or not incorporating the materials cited in the first part of the heading; tarred macadam; granules, chippings and powder, of stones of heading 2515 or 2516, whether or not heat-treated:				
+2517.10.00	 	Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates, for road metalling, or for railway or other ballast, shingle and flint, whether or not heat-treated		Free 1/		30%
+2517.10.00.15	15  	Pebbles and gravel	
+t
+2517.10.00.20	20  	Limestone, except pebbles and gravel	
+t
+2517.10.00.55	55  	Other	
+t
+2517.20.00	00  	Macadam of slag, dross or similar industrial waste, whether or not incorporating the materials cited in subheading 2517.10	
+t
+Free 1/		30%
+2517.30.00	00  	Tarred macadam	
+t
+Free 1/		30%
+ 	Granules, chippings and powder, of stones of heading 2515 or 2516, whether or not heat-treated:				
+2517.41.00	00  	Of marble	
+t
+Free 1/		30%
+2517.49.00	00  	Other	
+t
+Free 1/		$1.10/t
+2518	 	Dolomite, whether or not calcined or sintered, including dolomite roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape:				
+2518.10.00	00  	Dolomite, not calcined or sintered	
+t
+Free 1/		Free
+2518.20.00	00  	Calcined or sintered dolomite	
+t
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+2519	 	Natural magnesium carbonate (magnesite); fused magnesia; dead-burned (sintered) magnesia, whether or not containing small quantities of other oxides added before sintering; other magnesium oxide, whether or not pure:				
+2519.10.00	00  	Natural magnesium carbonate (magnesite)	
+t
+Free		$10.33/t
+2519.90	 	Other:				
+2519.90.10	00  	Fused magnesia and dead-burned (sintered) magnesia	
+kg
+Free		1.7¢/kg
+2519.90.20	00  	Caustic calcined magnesite	
+t
+Free		$20.70/t
+2519.90.50	00  	Other	
+kg
+Free		15.4¢/kg 1/
+2520	 	Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulfate) whether or not colored, with or without small quantities of accelerators or retarders:				
+2520.10.00	00  	Gypsum; anhydrite	
+t
+Free 1/		Free
+2520.20.00	00  	Plasters	
+t
+Free 1/		$1.38/t
+2521.00.00	00  	Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of lime or cement	
+t
+Free 1/		Free
+2522	 	Quicklime, slaked lime and hydraulic lime, other than calcium oxide and hydroxide of heading 2825:				
+2522.10.00	00  	Quicklime	
+kg
+Free 1/		0.2¢/kg, including weight of container
+2522.20.00	00  	Slaked lime	
+kg
+Free 1/		0.3¢/kg, including weight of container
+2522.30.00	00  	Hydraulic lime	
+kg
+Free 1/		0.2¢/kg, including weight of container
+2523	 	Portland cement, aluminous cement, slag cement, supersulfate cement and similar hydraulic cements, whether or not colored or in the form of clinkers:				
+2523.10.00	00  	Cement clinkers	
+t
+Free 1/		$1.32/t, including weight of container
+ 	Portland cement:				
+2523.21.00	00  	White cement, whether or not artificially colored	
+t
+Free 1/		$1.76/t, including weight of container
+2523.29.00	00  	Other	
+t
+Free 1/		$1.32/t, including weight of container
+2523.30.00	00  	Aluminous cement	
+t
+Free 1/		$1.32/t, including weight of container
+2523.90.00	00  	Other hydraulic cements	
+t
+Free 1/		$1.32/t, including weight of container
+2524	 	Asbestos:				
+2524.10.00	00  	Crocidolite (Blue)	
+t
+Free 1/		Free
+2524.90.00	 	Other		Free 1/		Free
+2524.90.00.10	10  	Amosite	
+t
+ 	Chrysotile:				
+2524.90.00.30	30  	Crudes	
+t
+2524.90.00.40	40  	Milled fibers, group 3 grades (spinning fibers or equivalent)	
+t
+2524.90.00.45	45  	Milled fibers, group 4 and 5 grades	
+t
+2524.90.00.55	55  	Other	
+t
+2524.90.00.60	60  	Other	
+t
+2525	 	Mica, including splittings; mica waste:				
+2525.10.00	 	Crude mica and mica rifted into sheets or splittings		Free 1/		Free
+2525.10.00.10	10  	Split block mica	
+kg
+2525.10.00.20	20  	Mica splittings	
+kg
+2525.10.00.50	50  	Other	
+kg
+2525.20.00	00  	Mica powder	
+kg
+Free 1/		20%
+2525.30.00	00  	Mica waste	
+kg
+Free 1/		8.8¢/kg
+2526	 	Natural steatite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; talc:				
+2526.10.00	00  	Not crushed, not powdered	
+kg
+Free		0.6¢/kg
+2526.20.00	00  	Crushed or powdered	
+t
+Free		35%
+2528.00.00	 	Natural borates and concentrates thereof (whether or not calcined), but not including borates separated from natural brine; natural boric acid containing not more than 85 percent of H3BO3 calculated on the dry weight		Free 1/		Free
+2528.00.00.05	05  	Natural sodium borates and concentrates thereof (whether or not calcined)	
+kg
+2528.00.00.10	10  	Natural calcium borates	
+kg
+2528.00.00.50	50  	Other	
+kg
+2529	 	Feldspar; leucite, nepheline and nepheline syenite; fluorspar:				
+2529.10.00	00  	Feldspar	
+t
+Free 1/		49¢/t
+ 	Fluorspar:				
+2529.21.00	00  	Containing by weight 97 percent or less of calcium fluoride	
+t
+Free		13.5%
+2529.22.00	00  	Containing by weight more than 97 percent of calcium fluoride	
+t
+Free		$5.51/t
+2529.30.00	 	Leucite; nepheline and nepheline syenite		Free 1/		Free
+2529.30.00.10	10  	Nepheline syenite	
+t
+2529.30.00.50	50  	Other	
+t
+2530	 	Mineral substances not elsewhere specified or included:				
+2530.10.00	00  	Vermiculite, perlite and chlorites, unexpanded	
+kg
+Free 1/		Free
+2530.20	 	Kieserite, epsom salts (natural magnesium sulfates):				
+2530.20.10	00  	Kieserite	
+kg
+Free 1/		Free
+2530.20.20	00  	Epsom salts	
+kg
+Free 1/		20%
+2530.90	 	Other:				
+2530.90.10	00  	Natural cryolite; natural chiolite	
+t
+Free 1/		Free
+2530.90.20	00  	Natural micaceous iron oxides	
+kg
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2530.90.80	 	Other		Free		0.3¢/kg 1/
+2530.90.80.10	10  	Celestite	
+kg
+2530.90.80.15	15  	Earth colors	
+kg
+2530.90.80.50	50  	Other	
+kg

@@ -1,0 +1,506 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+3201	 	Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives:				
+3201.10.00	00  	Quebracho extract	
+kg
+Free 1/		Free 1/
+3201.20.00	00  	Wattle extract	
+kg
+Free 1/		Free
+3201.90	 	Other:				
+3201.90.10	00  	Tannic acid, containing by weight 50 percent or more of tannic acid	
+kg
+1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8%
+3201.90.25	00  	Extracts of canaigre, chestnut, curupay, divi-divi, eucalyptus, gambier, hemlock, larch, mangrove, myrobalan, oak, sumac, tara, urunday or valonia	
+kg
+Free 1/		Free
+3201.90.50	00  	Other	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+3202	 	Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre-tanning:				
+3202.10	 	Synthetic organic tanning substances:				
+3202.10.10	00  	Aromatic or modified aromatic	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 48.5%
+3202.10.50	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	41.5%
+3202.90	 	Other:				
+3202.90.10	00  	Consisting wholly of inorganic subtances	
+kg
+Free 1/		25%
+3202.90.50	00  	Other	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3203.00	 	Coloring matter of vegetable or animal origin (including dyeing extracts but excluding animal black), whether or not chemically defined; preparations as specified in note 3 to this chapter based on coloring matter of vegetable or animal origin:				
+3203.00.10	00  	Annato, archil, cochineal, cudbear, litmus, logwood and marigold meal	
+kg
+Free 1/		Free
+3203.00.30	00  	Mixtures of 3,4-dihydroxyphenyl-2,4,6-trihydroxy- phenylmethanone and 2-(2,4-dihydroxyphenyl)-3,5,7- trihydroxy-4H-1-benzopyran-4-one	
+kg
+Free 1/		15%
+3203.00.80	00  	Other	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	15%
+3204	 	Synthetic organic coloring matter, whether or not chemically defined; preparations as specified in note 3 to this chapter based on synthetic organic coloring matter; synthetic organic products of a kind used as fluorescent brightening agents or as luminophores, whether or not chemically defined:				
+ 	Synthetic organic coloring matter and preparations based thereon as specified in note 3 to this chapter:				
+3204.11	 	Disperse dyes and preparations based thereon:				
+3204.11.10	00  	Disperse blue 19, 26, 26:1, 35, 55, 56, 58, 72, 73, 79, 83, 84, 93, 95, 122, 125, 126, 128, 148, 154, 165, 180, 183, 185, 200, 284, 285, 288, 289, 295, 296; Disperse brown 19; Disperse green 9; Disperse orange 7, 13, 20, 31, 32, 42, 47, 48, 54, 56, 60, 63, 70, 80, 96, 127, 137, 139; Disperse red 44, 46, 72, 73, 90, 93, 107, 118, 121, 122, 131, 133, 134,151, 169, 184, 185, 202, 203, 224, 277, 278, 279, 282, 288, 303, 310; Disperse violet 23, 33, 35, 48, 57, 63; Disperse yellow 13, 44, 58, 63, 65, 82, 85, 91, 107, 119, 122, 124, 126, 139, 182, 183, 184, 202, 204; Dyes containing, by weight-- 12.7 percent Disperse Yellow 1, 32.3 percent Disperse Orange 1, 19.8 percent Disperse Blue 35, and 35.2 percent Disperse Blue 3; Dyes containing, by weight-- 39.0 percent Disperse Yellow 39, 28.0 percent Disperse Orange 25, and 33.0 percent Disperse Violet 27; Dyes containing, by weight-- 89.4 percent Disperse Violet 27, and 10.6 percent Disperse Green 9; Dyes containing, by weight-- 67.7 percent Disperse Blue 35, 14.2 percent Disperse Yellow 1, and 18.1 percent Disperse Orange 1; Dyes containing, by weight-- 74.3 percent Disperse Blue 285, 18.0 percent Disperse Brown 19, and 7.7 percent Disperse Yellow 126	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	52.5%
+3204.11.15	00  	Disperse blue 30	
+kg
+6.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.9%
+3204.11.18	00  	N-[2-[(2,6-Dicyano-4-methylphenylazo]-5- (diethylamino)-phenyl] methanesulfonamide; and N-[2-[2,6-Dicyano-4-methylphenylazo]-5- (di-1-propylamino) phenyl]methanesulfonamide	
+kg
+Free 1/		63.5%
+ 	Other:				
+3204.11.35	00  	Products described in additional U.S. note 3 to section VI	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	63.5%
+3204.11.50	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	63.5%
+3204.12	 	Acid dyes, whether or not premetallized, and preparations based thereon; mordant dyes and preparations based thereon:				
+3204.12.05	00  	Acid black 210 powder and presscake	
+kg
+Free 1/		72%
+3204.12.13	00  	Acid violet 19	
+kg
+Free 1/		51%
+3204.12.17	00  	Acid black 31, 50, 94, 129; Acid blue 54, 127, 129, 143; Acid brown 44, 46, 48, 58, 188, 189; Acid green 40; Acid red 130, 145, 174, 211; Acid violet 31, 41, 48; Acid yellow 2, 75; Mordant black 8; Mordant green 47; andMordant red 17, 27	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51%
+3204.12.20	00  	Acid black 61, 63, 76, 83, 117, 127, 131, 132, 139, 164, 170, 177, 183, 188, 194, 199, 211; Acid blue 1, 47, 60, 61, 66, 72, 81, 82, 83, 90, 98, 102, 112, 123, 126, 127:1, 130, 133, 140, 142, 147, 151, 172, 175, 182, 185, 193, 204, 205, 208, 209, 221, 225, 229, 239, 242, 247, 250, 252, 254, 260, 261, 264, 266, 268, 280, 284, 288, 290, 296, 312, 317, 318; Acid brown 10, 11, 12, 30, 33, 45, 50, 52, 68, 83, 85, 100, 101, 103, 104, 105, 106, 126, 127, 147, 158, 160, 161, 162, 163, 165, 180, 191, 224, 226, 227, 235, 237, 239, 248, 266, 267, 270, 276, 282, 283, 289, 290, 291, 298, 304, 311, 314, 315, 321, 322, 324, 325, 330, 331, 355, 357, 358, 359, 360, 361, 362, 384; Acid green 9, 26, 28, 41, 43, 60, 68, 70, 71, 73, 80, 82, 84, 89, 92, 93, 94, 108, 112; Acid orange 3, 19, 28, 33, 43, 47, 61, 86, 89, 92, 94, 102, 107, 126, 135, 142, 144; Acid red 37, 42, 48, 52, 57, 58, 92, 111, 118, 127, 131, 138, 143, 155, 161, 183, 199, 213, 215, 216, 226, 227, 228, 249, 252, 257, 259, 260, 261, 263, 274, 281, 282, 283, 301, 303, 310, 315, 330, 331, 332, 336, 347, 357, 359, 360, 361, 362, 380, 392, 394, 396; Acid violet 9, 34, 36, 47, 66, 75, 80, 90, 103, 109, 111, 121; Acid yellow 7, 35, 64, 70, 72, 96, 98, 111, 127, 136, 155, 167, 183, 184, 194, 195, 199, 218, 221, 223, 227; Copper phthalocyanine-3,3',4,4'-tetrasulfonic acid; Copper phthalocyanine-4,4ʻ,4'',4'''-tetrasulfonic acid; Dyes containing, by weight--24.2 percent Acid Yellow 135, 21.7 percent Acid Orange 51, and 54.1 percent Acid Blue 113; Dyes containing, by weight-- 10.1 percent Acid Yellow 64, 11.6 percent Acid Orange 51, 26.3 percent Acid Blue 113, 50.5 percent Acid Black 172, and 1.5 percent Acid Green 25	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	53.4%
+3204.12.30	00  	Mordant black 75; Mordant blue 1; Mordant brown 79; and Mordant red 81, 84	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50.5%
+ 	Other:				
+3204.12.45	00  	Products described in additional U.S. note 3 to section VI	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+3204.12.50	 	Other		6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+3204.12.50.10	10  	FD&C red 40 (CAS No. 25956-17-6)	
+kg
+3204.12.50.20	20  	FD&C yellow 5 (CAS No. 1934-21-0)	
+kg
+3204.12.50.30	30  	FD&C yellow 6 (CAS No. 2783-94-0)	
+kg
+3204.12.50.90	90  	Other	
+kg
+3204.13	 	Basic dyes and preparations based thereon:				
+3204.13.10	00  	Basic black 7; Basic blue 41, 45, 48, 55, 62, 66, 70, 71, 78, 80, 81, 120, 141; Basic green 6, 8; Basic orange 30, 35, 36, 37, 43, 44, 48; Basic red 22, 23, 28, 29, 43, 44, 46, 58, 75, 100; Basic violet 2, 22, 25, 37, 38; and Basic yellow 19, 23, 24, 25, 39, 40, 45, 54, 56, 63, 70, 77	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	52.3%
+3204.13.20	00  	Basic orange 22 and Basic red 13	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.5%
+3204.13.25	00  	Basic blue 3; Basic red 14; and Basic yellow 1, 11, 13	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65.4%
+3204.13.45	00  	3,7-Bis(dimethylamino) phenazathionium chloride (Methylene blue); and Basic blue 147	
+kg
+Free 1/		71.7%
+ 	Other:				
+3204.13.60	00  	Products described in additional U.S. note 3 to section VI	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	71.7%
+3204.13.80	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	71.7%
+3204.14	 	Direct dyes and preparations based thereon:				
+3204.14.10	00  	Direct black 62, 91; Direct blue 92, 106, 108, 109, 160, 172; Direct brown 103, 115, 116; Direct green 5, 29, 31; and Direct orange 37	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.5%
+3204.14.20	00  	Direct black 51, 69, 112, 114, 118, 122; Direct blue 74, 77, 85, 90, 156, 158, 158:1, 207, 211, 225, 244, 267; Direct brown 97, 113, 157, 169, 170, 200, 212, 214; Direct green 33, 59, 67, 68; Direct orange 17, 60, 105, 106, 107, 118; Direct red 9, 89, 92, 95, 111, 127, 173, 207, 221; Direct violet 47, 93; and Direct yellow 27, 39, 68, 93, 95, 96, 98, 109, 110, 133, 134	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54.7%
+3204.14.25	00  	Direct blue 86; Direct red 83; and Direct yellow 28	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	67.3%
+ 	Other:				
+3204.14.30	00  	Products described in additional U.S. note 3 to section VI	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	67.3%
+3204.14.50	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	67.3%
+3204.15	 	Vat dyes (including those usable in that state as pigments) and preparations based thereon:				
+3204.15.10	00  	Vat blue 1 (synthetic indigo),"Colour Index No. 73000"	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg + 29%
+3204.15.20	00  	Vat brown 3; Vat orange 2, 7; and Vat violet 9, 13	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	64.5%
+3204.15.25	00  	Vat red 1	
+kg
+Free 1/		75.3%
+3204.15.30	00  	Solubilized vat blue 5; Solubilized vat orange 1; Solubilized vat yellow 7, 45, 47; Vat black 19, 30, 31; Vat blue 5, 16, 19, 21, 66, 67; Vat brown 33, 50, 57; Vat green 28, 48; Vat orange 5, 13; Vat red 10, 15, 32, 41; and Vat yellow 46	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.1%
+3204.15.35	00  	Solubilized vat orange 3; Vat blue 2; Vat red 44; and Vat yellow 4, 20	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	52.3%
+ 	Other:				
+3204.15.40	00  	Products described in additional U.S. note 3 to section VI	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75.3%
+3204.15.80	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75.3%
+3204.16	 	Reactive dyes and preparations based thereon:				
+3204.16.10	00  	Reactive black 1; Reactive blue 1, 2, 4; Reactive orange 1; Reactive red 1, 2, 3, 5, 6; and Reactive yellow 1	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50.8%
+3204.16.20	00  	Dyes containing, by weight-- 71.0 percent Reactive Yellow 85, and 29.0 percent Reactive Orange 13; Dyes containing, by weight--50.0 percent Reactive Red 120, and 50.0 percent Reactive Yellow 84; Dyes containing, by weight-- 50.0 percent Reactive Blue 74, and 50.0 percent Reactive Blue 63; Dyes containing, by weight--66.7 percent Reactive Orange 12, and 33.3 percent Reactive Red 32; Dyes containing, by weight-- 57.9 percent Reactive Blue 13, and 42.1 percent Reactive Black 41; Reactive black 4, 10, 13, 21, 23, 26, 34, 35, 41; Reactive blue 6, 7, 8, 10, 13, 18, 19, 21, 22, 23, 24, 26, 27, 29, 34, 38, 39, 40, 41, 42, 43, 44, 50, 51, 52, 63, 65, 66, 67, 69, 73, 74, 75, 77, 78, 79, 82, 94, 99, 103, 104, 114, 116, 118, 136, 137, 139, 140, 156, 157, 160, 162, 163, 167, 170; Reactive brown 2, 5, 7, 12, 16, 18, 19, 23, 26; Reactive green 5, 6, 8, 12, 15, 16, 19; Reactive orange 3, 5, 9, 10, 11, 15, 20, 29, 33, 34, 35, 41, 42, 44, 45, 62, 64, 67, 68, 69, 70, 71, 82, 84, 89; Reactive red 4, 7, 8, 10, 12, 13, 16, 17, 19, 21, 24, 29, 30, 32, 40, 42, 44, 45, 49, 55, 56, 66, 78, 80, 82, 83, 84, 85, 86, 99, 104, 116, 118, 119, 121, 122, 123, 124, 132, 134, 141, 151, 152, 159, 179; Reactive violet 3, 6, 12, 23, 24; and Reactive yellow 2, 4, 5, 6, 11, 12, 15, 25, 27, 29, 35, 37, 39, 41, 42, 52, 57, 58, 64, 81, 82, 85, 87, 110, 125, 135	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	47.5%
+ 	Other:				
+3204.16.30	00  	Products described in additional U.S. note 3 to section VI	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	63.8%
+3204.16.50	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	63.8%
+3204.17	 	Pigments and preparations based thereon:				
+3204.17.04	 	Pigment black 1; Pigment blue 16, 18; Pigment brown 22, 23, 25, 32; Pigment green 8; Pigment orange 31, 34, 36, 51; Pigment red 9, 14, 34, 48:3, 52, 68, 112, 139, 144, 146, 151, 166, 169,170, 171, 175, 176, 177, 180, 185, 188, 192, 199, 208, 209, 216, 220, 221; Pigment violet 32; and Pigment yellow 16, 24, 49, 62:1, 81, 93, 95, 97, 108, 109, 110, 113, 117, 127, 153		6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	46.8%
+3204.17.04.05	05  	Pigment blue 16	
+kg
+3204.17.04.15	15  	Pigment orange 31	
+kg
+3204.17.04.20	20  	Pigment orange 36	
+kg
+3204.17.04.25	25  	Pigment red 144	
+kg
+3204.17.04.30	30  	Pigment red 166	
+kg
+3204.17.04.35	35  	Pigment red 177	
+kg
+3204.17.04.85	85  	Other	
+kg
+3204.17.08	00  	Pigment red 178; Pigment yellow 101, 138	
+kg
+Free 1/		46.8%
+3204.17.20	00  	Copper phthalocyanine ([Phthalocyanato(2-)]- copper), not ready for use as a pigment	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 48%
+3204.17.40	 	Isoindolenine red pigment; Pigment red 214, 242, 254; Pigment red 149 dry and pigment red 149 presscake; and Pigment yellow 155, 183		Free 1/		72%
+3204.17.40.15	15  	Pigment red 149	
+kg
+3204.17.40.30	30  	Pigment red 214	
+kg
+3204.17.40.90	90  	Other	
+kg
+ 	Other:				
+3204.17.60	 	Products described in additional U.S. note 3 to section VI		6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+3204.17.60.05	05  	Pigment blue 15	
+kg
+3204.17.60.10	10  	Pigment blue 15:1	
+kg
+3204.17.60.15	15  	Pigment blue 15:2	
+kg
+3204.17.60.20	20  	Pigment blue 15:4	
+kg
+3204.17.60.85	85  	Other	
+kg
+3204.17.90	 	Other		6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, L, MA, OM, P, PA, PE, S, SG)	72%
+3204.17.90.02	02  	Pigment blue 15:3, dry, presscake or aqueous slurry	
+kg
+3204.17.90.03	03  	Preparations based on pigment blue 15:3	
+kg
+3204.17.90.06	06  	Pigment blue 61	
+kg
+3204.17.90.10	10  	Pigment green 7	
+kg
+3204.17.90.15	15  	Pigment green 36	
+kg
+3204.17.90.18	18  	Pigment red 57:1, dry, presscake or aqueous slurry	
+kg
+3204.17.90.19	19  	Preparations based on pigment red 57:1	
+kg
+3204.17.90.21	21  	Pigment red 122	
+kg
+3204.17.90.25	25  	Pigment red 149	
+kg
+3204.17.90.30	30  	Pigment red 179	
+kg
+3204.17.90.35	35  	Pigment violet 19	
+kg
+3204.17.90.40	40  	Pigment violet 23	
+kg
+3204.17.90.46	46  	Pigment yellow 12, dry, presscake or aqueous slurry	
+kg
+3204.17.90.47	47  	Preparations based on pigment yellow 12	
+kg
+3204.17.90.50	50  	Pigment yellow 13	
+kg
+3204.17.90.55	55  	Pigment yellow 74	
+kg
+3204.17.90.60	60  	Pigment yellow 75	
+kg
+3204.17.90.86	86  	Other	
+kg
+3204.18.00	00  	Carotenoid coloring matters and preparations based thereon	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+3204.19	 	Other, including mixtures of coloring matter of two or more of the subheadings 3204.11 to 3204.19:				
+ 	Solvent dyes and preparations based thereon:				
+3204.19.06	00  	Solvent yellow 43, 44, 85, 172	
+kg
+Free 1/		64.1%
+3204.19.11	00  	Solvent black 2, 3, 27, 28, 29, 34, 35; Solvent blue 45, 49, 51, 53, 56, 67, 97; Solvent brown 1, 28, 42, 43, 44; Solvent green 4, 5, 7, 19, 27, 28; Solvent orange 45, 54, 59, 62, 63, 67; Solvent red 7, 18, 19, 23, 27, 35, 89, 92, 100, 110, 118, 119, 124, 125, 127, 129, 130, 131, 132, 160, 162; Solvent violet 2, 23, 24; and Solvent yellow 1, 30, 32, 48, 64, 89, 93, 98, 160	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.7%
+ 	Other:				
+3204.19.20	 	Products described in additional U.S. note 3 to section VI		6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	64.1%
+3204.19.20.20	20  	Solvent red 179	
+kg
+3204.19.20.40	40  	Solvent yellow 163	
+kg
+3204.19.20.90	90  	Other	
+kg
+3204.19.25	 	Other		6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	64.1%
+3204.19.25.20	20  	Solvent red 135	
+kg
+3204.19.25.40	40  	Solvent orange 60	
+kg
+3204.19.25.60	60  	Solvent yellow 33	
+kg
+3204.19.25.95	95  	Other	
+kg
+ 	Other:				
+3204.19.30	00  	Sulfur black, "Colour Index Nos. 53185, 53190, and 53195"	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg + 28%
+ 	Other:				
+3204.19.40	00  	Products described in additional U.S. note 3 to section VI	
+kg
+6.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50.5%
+3204.19.50	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50.5%
+3204.20	 	Synthetic organic products of a kind used as fluorescent brightening agents:				
+3204.20.10	00  	Fluorescent brightening agent 32	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	64.2%
+3204.20.40	00  	Benzoxazol	
+kg
+Free		44.1%
+3204.20.80	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	44.1%
+3204.90.00	00  	Other	
+kg
+5.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	50.8%
+3205.00	 	Color lakes; preparations as specified in note 3 to this chapter based on color lakes:				
+ 	Carmine:				
+3205.00.05	00  	Food coloring solutions, containing cochineal carmine lake and paprika oleo resins, but not including any synthetic organic coloring matter	
+kg
+Free 1/		72%
+3205.00.15	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+ 	Other:				
+3205.00.40	 	Products described in additional U.S. note 3 to section VI		6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+3205.00.40.10	10  	Yellow	
+kg
+3205.00.40.20	20  	Red	
+kg
+3205.00.40.40	40  	Blue	
+kg
+3205.00.40.55	55  	Other	
+kg
+3205.00.50	 	Other		6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	72%
+3205.00.50.10	10  	Yellow	
+kg
+3205.00.50.20	20  	Red	
+kg
+3205.00.50.30	30  	Violet	
+kg
+3205.00.50.40	40  	Blue	
+kg
+3205.00.50.50	50  	Other	
+kg
+3206	 	Other coloring matter; preparations as specified in note 3 to this chapter, other than those of heading 3203, 3204 or 3205; inorganic products of a kind used as luminophores, whether or not chemically defined:				
+ 	Pigments and preparations based on titanium dioxide:				
+3206.11.00	00  	Containing 80 percent or more by weight of titanium dioxide calculated on the dry matter	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3206.19.00	00  	Other	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3206.20.00	 	Pigments and preparations based on chromium compounds		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3206.20.00.10	10  	Chrome yellow	
+kg
+3206.20.00.20	20  	Molybdenum orange	
+kg
+3206.20.00.30	30  	Zinc yellow	
+kg
+3206.20.00.50	50  	Other	
+kg
+ 	Other coloring matter and other preparations:				
+3206.41.00	00  	Ultramarine and preparations based thereon	
+kg
+1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.5%
+3206.42.00	00  	Lithopone and other pigments and preparations based on zinc sulfide	
+kg
+2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11%
+3206.49	 	Other:				
+3206.49.10	00  	Concentrated dispersions of pigments in plastics materials	
+kg
+5.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 45%
+3206.49.20	00  	Preparations based on iron oxides	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+3206.49.30	00  	Preparations based on zinc oxides	
+kg
+1.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.5%
+3206.49.40	00  	Preparations based on carbon black	
+kg
+Free 1/		20%
+3206.49.55	00  	Pigments and preparations based on hexacyanoferrates (ferrocyanides and ferricyanides)	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12%
+3206.49.60	 	Other		3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3206.49.60.10	10  	Pigments and preparations based on cadmium compounds	
+kg
+3206.49.60.50	50  	Other	
+kg
+3206.50.00	00  	Inorganic products of a kind used as luminophores	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+3207	 	Prepared pigments, prepared opacifiers and prepared colors, vitrifiable enamels and glazes, engobes (slips), liquid lustres and similar preparations, of a kind used in the ceramic, enamelling or glass industry; glass frit and other glass, in the form of powder, granules or flakes:				
+3207.10.00	00  	Prepared pigments, prepared opacifiers, prepared colors and similar preparations	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3207.20.00	00  	Vitrifiable enamels and glazes, engobes (slips) and similar preparations	
+kg
+4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3207.30.00	00  	Liquid lustres and similar preparations	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3207.40	 	Glass frit and other glass, in the form of powder, granules or flakes:				
+3207.40.10	00  	Ground or pulverized	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3207.40.50	00  	Other	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3208	 	Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a nonaqueous medium; solutions as defined in note 4 to this chapter:				
+3208.10.00	00  	Based on polyesters	
+liters
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg +46%
+3208.20.00	00  	Based on acrylic or vinyl polymers	
+liters
+kg
+3.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3208.90.00	00  	Other	
+liters
+kg
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3209	 	Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium:				
+3209.10.00	00  	Based on acrylic or vinyl polymers	
+liters
+kg
+5.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3209.90.00	00  	Other	
+liters
+kg
+5.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 46%
+3210.00.00	00  	Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather	
+liters
+kg
+1.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3211.00.00	00  	Prepared driers	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3212	 	Pigments (including metallic powders and flakes) dispersed in nonaqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels); stamping foils; dyes and other coloring matter put up in forms or packings for retail sale:				
+3212.10.00	00  	Stamping foils	
+m2
+4.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+3212.90.00	 	Other		3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3212.90.00.10	10  	Metallic aluminum pigments	
+kg
+3212.90.00.50	50  	Other	
+kg
+3213	 	Artists', students' or signboard painters' colors, modifying tints, amusement colors and the like, in tablets, tubes, jars, bottles, pans or in similar forms or packings:				
+3213.10.00	00  	Colors in sets	
+pcs
+6.5% on the entire set 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	70% on the entire set
+3213.90.00	00  	Other	
+pcs
+3.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.6%
+3214	 	Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings; nonrefractory surfacing preparations for facades, indoor walls, floors, ceilings or the like:				
+3214.10.00	 	Glazier's putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Mastics:				
+3214.10.00.10	10  	Caulking compounds	
+kg
+3214.10.00.20	20  	Other	
+kg
+3214.10.00.90	90  	Painters' fillings	
+kg
+3214.90	 	Other:				
+3214.90.10	00  	Based on rubber	
+kg
+Free 1/		20% 1/
+3214.90.50	00  	Other	
+kg
+3.25% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+3215	 	Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid:				
+ 	Printing ink:				
+3215.11	 	Black:				
+ 	Solid:				
+3215.11.10	00  	In engineered shapes, for insertion into apparatus of subheadings 8443.31, 8443.32 or 8443.39	
+kg
+Free 1/		10%
+3215.11.30	00  	Other	
+kg
+1.8% 1/	Free (A, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+3215.11.90	 	Other		1.8% 1/	Free (A, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+3215.11.90.10	10  	News	
+kg
+ 	Other:				
+3215.11.90.20	20  	Flexographic	
+kg
+3215.11.90.30	30  	Gravure	
+kg
+3215.11.90.40	40  	Letterpress	
+kg
+3215.11.90.50	50  	Offset Lithographic	
+kg
+3215.11.90.60	60  	Other	
+kg
+3215.19	 	Other:				
+ 	Solid:				
+3215.19.10	00  	In engineered shapes, for insertion into apparatus of subheadings 8443.31, 8443.32 or 8443.39	
+kg
+Free 1/		10%
+3215.19.30	00  	Other	
+kg
+1.8% 1/	Free (A, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+3215.19.90	 	Other		1.8% 1/	Free (A, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+3215.19.90.10	10  	News	
+kg
+ 	Other:				
+3215.19.90.20	20  	Flexographic	
+kg
+3215.19.90.30	30  	Gravure	
+kg
+3215.19.90.40	40  	Letterpress	
+kg
+3215.19.90.50	50  	Offset lithographic	
+kg
+3215.19.90.60	60  	Other	
+kg
+3215.90	 	Other:				
+3215.90.10	00  	Drawing ink	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+3215.90.50	00  	Other	
+kg
+1.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/

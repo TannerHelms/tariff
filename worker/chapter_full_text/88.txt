@@ -1,0 +1,201 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+8801.00.00	 	Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft		Free 1/		50%
+ 	Gliders and hang gliders:				
+8801.00.00.10	10  	Hang gliders	
+No.
+8801.00.00.20	20  	Gliders	
+No.
+8801.00.00.50	50  	Other	
+No.
+8802	 	Other aircraft (for example, helicopters, airplanes, except unmanned aircraft of heading 8806); spacecraft (including satellites) and suborbital and spacecraft launch vehicles:				
+ 	Helicopters:				
+8802.11.01	 	Of an unladen weight not exceeding 2,000 kg		Free 1/		30%
+ 	New:				
+8802.11.01.15	15  	Military	
+No.
+ 	Other:				
+8802.11.01.30	30  	Of an unladen weight not exceeding 998 kg	
+No.
+8802.11.01.45	45  	Of an unladen weight exceeding 998 but not exceeding 2,000 kg	
+No.
+ 	Used or rebuilt:				
+8802.11.01.60	60  	Military	
+No.
+8802.11.01.90	90  	Other	
+No.
+8802.12.01	 	Of an unladen weight exceeding 2,000 kg		Free 1/		30%
+ 	New:				
+8802.12.01.20	20  	Military	
+No.
+8802.12.01.40	40  	Other	
+No.
+ 	Used or rebuilt:				
+8802.12.01.60	60  	Military	
+No.
+8802.12.01.80	80  	Other	
+No.
+8802.20.01	 	Airplanes and other aircraft, of an unladen weight not exceeding 2,000 kg		Free 1/		30% 1/
+8802.20.01.15	15  	Of an unladen weight not exceeding 450 kg	
+No.
+ 	Other:				
+ 	New:				
+ 	Military aircraft:				
+8802.20.01.20	20  	Airplanes	
+No.
+8802.20.01.30	30  	Other aircraft	
+No.
+ 	Other:				
+8802.20.01.40	40  	Single engine airplanes	
+No.
+8802.20.01.50	50  	Multiple engine airplanes	
+No.
+8802.20.01.60	60  	Other aircraft	
+No.
+ 	Used or rebuilt:				
+8802.20.01.70	70  	Military aircraft	
+No.
+8802.20.01.80	80  	Other aircraft	
+No.
+8802.30.01	 	Airplanes and other aircraft, of an unladen weight exceeding 2,000 kg but not exceeding 15,000 kg		Free 1/		30%
+ 	New:				
+ 	Military aircraft:				
+8802.30.01.10	10  	Fighters	
+No.
+8802.30.01.20	20  	Other	
+No.
+ 	Other:				
+ 	Multiple engine airplanes:				
+8802.30.01.30	30  	Of an unladen weight exceeding 2,000 but not exceeding 4,536 kg	
+No.
+ 	Of an unladen weight exceeding 4,536 but not exceeding 15,000 kg:				
+8802.30.01.40	40  	Turbofan powered	
+No.
+8802.30.01.50	50  	Other	
+No.
+8802.30.01.60	60  	Other	
+No.
+ 	Used or rebuilt:				
+8802.30.01.70	70  	Military aircraft	
+No.
+8802.30.01.80	80  	Other aircraft	
+No.
+8802.40.01	 	Airplanes and other aircraft, of an unladen weight exceeding 15,000 kg		Free 1/		30%
+ 	New:				
+ 	Military aircraft:				
+8802.40.01.15	15  	Fighters	
+No.
+8802.40.01.20	20  	Cargo transports	
+No.
+8802.40.01.30	30  	Other	
+No.
+ 	Other:				
+8802.40.01.40	40  	Passenger transports	
+No.
+8802.40.01.60	60  	Cargo transports	
+No.
+8802.40.01.70	70  	Other (including passenger/cargo combinations)	
+No.
+ 	Used or rebuilt:				
+8802.40.01.80	80  	Military aircraft	
+No.
+8802.40.01.90	90  	Other aircraft	
+No.
+8802.60	 	Spacecraft (including satellites) and suborbital and spacecraft launch vehicles:				
+8802.60.30	00  	Communications satellites	
+No.
+Free 1/		Free
+8802.60.90	 	Other		Free 1/		27.5%
+8802.60.90.20	20  	Military	
+No.
+8802.60.90.40	40  	Other	
+No.
+8804.00.00	00  	Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+8805	 	Aircraft launching gear; deck-arrestor or similar gear; ground flying trainers; parts of the foregoing articles:				
+8805.10.00	00  	Aircraft launching gear and parts thereof; deck- arrestors or similar gear and parts thereof	
+kg
+Free 1/		35%
+ 	Ground flying trainers and parts thereof:				
+8805.21.00	00  	Air combat simulators and parts thereof	
+kg
+Free 1/		35%
+8805.29.00	00  	Other	
+kg
+Free 1/		35%
+8806	 	Unmanned aircraft:				
+8806.10.00	00  	Designed for the carriage of passengers	
+No.
+Free 1/		30% 1/
+ 	Other, for remote-controlled flight only:				
+8806.21.00	00  	With maximum take-off weight not more than 250 g	
+No.
+Free 1/		30% 1/
+8806.22.00	00  	With maximum take-off weight more than 250 g but not more than 7 kg	
+No.
+Free 1/		30% 1/
+8806.23.00	00  	With maximum take-off weight more than 7 kg but not more than 25 kg	
+No.
+Free 1/		30% 1/
+8806.24.00	00  	With maximum take-off weight more than 25 kg but not more than 150 kg	
+No.
+Free 1/		30% 1/
+8806.29.00	00  	Other	
+No.
+Free 1/		30% 1/
+ 	Other:				
+8806.91.00	00  	With maximum take-off weight not more than 250 g	
+No.
+Free 1/		30% 1/
+8806.92.00	00  	With maximum take-off weight more than 250 g but not more than 7 kg	
+No.
+Free 1/		30% 1/
+8806.93.00	00  	With maximum take-off weight more than 7 kg but not more than 25 kg	
+No.
+Free 1/		30% 1/
+8806.94.00	00  	With maximum take-off weight more than 25 kg but not more than 150 kg	
+No.
+Free 1/		30% 1/
+8806.99.00	00  	Other	
+No.
+Free 1/		30% 1/
+8807	 	Parts of goods of heading 8801, 8802 or 8806:				
+8807.10.00	 	Propellers and rotors and parts thereof		Free 1/		27.5% 1/
+ 	For use in civil aircraft:				
+8807.10.00.15	15  	For use by the Department of Defense or the United States Coast Guard 1/	
+kg
+8807.10.00.30	30  	Other 1/	
+kg
+8807.10.00.60	60  	Other	
+kg
+8807.20.00	 	Undercarriages and parts thereof		Free 1/		27.5% 1/
+ 	For use in civil aircraft:				
+8807.20.00.15	15  	For use by the Department of Defense or the United States Coast Guard 1/	
+kg
+8807.20.00.30	30  	Other 1/	
+kg
+8807.20.00.60	60  	Other	
+kg
+8807.30.00	 	Other parts of airplanes, helicopters or unmanned aircraft		Free 1/		27.5% 1/
+ 	For use in civil aircraft:				
+8807.30.00.15	15  	For use by the Department of Defense or the United States Coast Guard 1/	
+kg
+8807.30.00.30	30  	Other 1/	
+kg
+8807.30.00.60	60  	Other	
+kg
+8807.90	 	Other:				
+8807.90.30	00  	Parts of communications satellites	
+kg
+Free 1/		Free
+8807.90.90	 	Other		Free 1/		27.5% 1/
+ 	For use in civil aircraft:				
+8807.90.90.15	15  	For use by the Department of Defense or the United States Coast Guard 1/	
+kg
+8807.90.90.30	30  	Other 1/	
+kg
+8807.90.90.60	60  	Other	
+kg

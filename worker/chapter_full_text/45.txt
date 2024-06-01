@@ -1,0 +1,72 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+4501	 	Natural cork, raw or simply prepared; waste cork; crushed, granulated or ground cork:				
+4501.10.00	00  	Natural cork, raw or simply prepared	
+kg
+Free 1/		Free
+4501.90	 	Other:				
+4501.90.20	00  	Waste cork	
+kg
+Free 1/		Free
+4501.90.40	00  	Crushed, granulated or ground cork	
+kg
+Free 1/		6.6¢/kg
+4502.00.00	00  	Natural cork, debacked or roughly squared, or in rectangular (including square) blocks, plates, sheets or strip (including sharp-edged blanks for corks or stoppers)	
+kg
+Free 1/		22¢/kg
+4503	 	Articles of natural cork:				
+4503.10	 	Corks and stoppers:				
+ 	Tapered and of a thickness (or length) greater than the maximum diameter:				
+4503.10.20	00  	With maximum diameter not over 19 mm	
+kg
+Free 1/		68¢/kg
+ 	Other:				
+4503.10.30	00  	Wholly of cork, of a thickness (or length) greater than the maximum diameter	
+kg
+Free 1/		55¢/kg
+4503.10.40	00  	Other	
+kg
+Free 1/		55¢/kg
+4503.10.60	00  	Other	
+kg
+Free 1/		55¢/kg
+4503.90	 	Other:				
+4503.90.20	00  	Disks, wafers and washers	
+kg
+Free 1/		55¢/kg
+4503.90.40	00  	Wallcoverings, backed with paper or otherwise reinforced	
+kg
+Free 1/		3.3¢/kg + 20%
+4503.90.60	00  	Other	
+kg
+14% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4504	 	Agglomerated cork (with or without a binding substance) and articles of agglomerated cork:				
+4504.10	 	Blocks, plates, sheets and strip; tiles of any shape; solid cylinders, including disks:				
+4504.10.10	00  	Vulcanized sheets and slabs wholly of ground or pulverized cork and rubber	
+kg
+Free 1/		25%
+4504.10.20	00  	Insulation, coated or not coated, of compressed cork	
+m3
+kg
+Free 1/		Free
+4504.10.30	00  	Floor coverings	
+kg
+Free 1/		22¢/kg
+4504.10.40	00  	Wallcoverings, backed with paper or otherwise reinforced	
+kg
+Free 1/		3.3¢/kg + 20%
+ 	Corks, stoppers, disks, wafers and washers:				
+4504.10.45	00  	Stoppers, not tapered, wholly of cork, of a thickness (or length) greater than the maximum diameter	
+kg
+Free 1/		55¢/kg
+4504.10.47	00  	Other	
+kg
+Free 1/		55¢/kg
+4504.10.50	00  	Other	
+kg
+Free 1/		45%
+4504.90.00	00  	Other	
+kg
+Free 1/		45%

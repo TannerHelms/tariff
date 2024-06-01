@@ -1,0 +1,412 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+2101	 	Extracts, essences and concentrates, of coffee, tea or maté and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof:				
+ 	Extracts, essences and concentrates of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee:				
+2101.11	 	Extracts, essences and concentrates:				
+2101.11.21	 	Instant coffee, not flavored		Free 1/		Free
+ 	Not decaffeinated:				
+2101.11.21.26	26  	Packaged for retail sale	
+kg
+2101.11.21.29	29  	Other	
+kg
+ 	Decaffeinated:				
+2101.11.21.31	31  	Packaged for retail sale	
+kg
+2101.11.21.39	39  	Other	
+kg
+2101.11.29	 	Other		Free 1/		Free
+2101.11.29.41	41  	Packaged for retail sale	
+kg
+2101.11.29.49	49  	Other	
+kg
+2101.12	 	Preparations with a basis of extracts, essences or concentrates or with a basis of coffee:				
+2101.12.32	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+ 	Blended syrups described in additional U.S. note 4 to chapter 17:				
+2101.12.34	00  	Described in additional U.S. note 9 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+2101.12.38	00  	Other 1/	
+kg
+30.5¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	35.9¢/kg + 10%
+ 	Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:				
+2101.12.44	00  	Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+2101.12.48	00  	Other 1/	
+kg
+30.5¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	35.9¢/kg + 10%
+ 	Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:				
+2101.12.54	00  	Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (A, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2101.12.58	00  	Other 1/	
+kg
+30.5¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	35.9¢/kg + 10%
+2101.12.90	00  	Other	
+kg
+8.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2101.20	 	Extracts, essences and concentrates, of tea or maté, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or maté:				
+2101.20.20	 	Extracts, essences and concentrates		Free 1/		10%
+2101.20.20.10	10  	Instant tea	
+kg
+2101.20.20.90	90  	Other	
+kg
+ 	Other:				
+2101.20.32	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+ 	Blended syrups described in additional U.S. note 4 to chapter 17:				
+2101.20.34	00  	Described in additional U.S. note 9 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+2101.20.38	00  	Other 1/	
+kg
+30.5¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	35.9¢/kg + 10%
+ 	Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:				
+2101.20.44	00  	Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+2101.20.48	00  	Other 1/	
+kg
+30.5¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	35.9¢/kg + 10%
+ 	Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:				
+2101.20.54	00  	Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (A*, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2101.20.58	00  	Other 1/	
+kg
+30.5¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	35.9¢/kg + 10%
+2101.20.90	00  	Other	
+kg
+8.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2101.30.00	00  	Roasted chicory and other roasted coffee substitutes and extracts, essences and concentrates thereof	
+kg
+2.1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+2102	 	Yeasts (active or inactive); other single-cell microorganisms, dead (but not including vaccines of heading 3002); prepared baking powders:				
+2102.10.00	00  	Active yeasts	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2102.20	 	Inactive yeasts; other single-cell microorganisms, dead:				
+2102.20.20	00  	Yeasts (except dried brewers' yeast)	
+kg
+6.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2102.20.40	00  	Dried brewers' yeast, crude	
+kg
+Free 1/		Free
+2102.20.60	00  	Other	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2102.30.00	00  	Prepared baking powders	
+kg
+Free 1/		25%
+2103	 	Sauces and preparations therefore; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard:				
+2103.10.00	00  	Soy sauce	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+2103.20	 	Tomato ketchup and other tomato sauces:				
+2103.20.20	00  	Tomato ketchup	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2103.20.40	 	Other		11.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+2103.20.40.20	20  	In containers holding less than 1.4 kg	
+kg
+2103.20.40.40	40  	Other	
+kg
+2103.30	 	Mustard flour and meal and prepared mustard:				
+2103.30.20	00  	Mustard flour and meal	
+kg
+Free 1/		22¢/kg
+2103.30.40	00  	Prepared mustard	
+kg
+2.8¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22¢/kg
+2103.90	 	Other:				
+2103.90.20	00  	Sauces derived or prepared from fish	
+kg
+Free 1/		30%
+2103.90.40	00  	Nonalcoholic preparations of yeast extract (other than sauces)	
+kg
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+ 	Mixed condiments and mixed seasonings:				
+ 	Mixed condiments and mixed seasonings described in additional U.S. note 3 to this chapter:				
+2103.90.72	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+7.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.75% (JP)	35%
+2103.90.74	00  	Described in additional U.S. note 4 to this chapter and entered pursuant to its provisions	
+kg
+7.5% 1/	Free (A, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2103.90.78	00  	Other 1/	
+kg
+30.5¢/kg + 6.4% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	35.9¢/kg + 7.5%
+2103.90.80	00  	Other	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2103.90.90	 	Other		6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2103.90.90.20	20  	Mayonnaise	
+kg
+2103.90.90.40	40  	Other salad dressings	
+kg
+ 	Tomato-based preparations for sauces:				
+2103.90.90.51	51  	In containers holding less than 1.4 kg	
+kg
+2103.90.90.59	59  	Other	
+kg
+2103.90.90.91	91  	Other	
+kg
+2104	 	Soups and broths and preparations therefor; homogenized composite food preparations:				
+2104.10.00	 	Soups and broths and preparations therefor		3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2104.10.00.20	20  	Dried	
+kg
+ 	Other:				
+2104.10.00.40	40  	Based on fish or other seafood	
+kg
+2104.10.00.60	60  	Other	
+kg
+2104.20	 	Homogenized composite food preparations:				
+2104.20.10	00  	Put up for retail sale as food suitable for infants or for dietetic purposes	
+kg
+2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2104.20.50	00  	Put up for retail sale as food suitable for young children	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2105.00	 	Ice cream and other edible ice, whether or not containing cocoa:				
+ 	Ice cream:				
+2105.00.05	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 10% (JP)	20%
+2105.00.10	00  	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions	
+kg
+liters
+20% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2105.00.20	00  	Other 1/	
+kg
+liters
+50.2¢/kg + 17% 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 5¢/kg + 1.7% (P) See 9822.04.05 (AU) See 9823.01.01-9823.01.07 (S+) See 9908.21.01 (IL) See 9915.21.05-9915.21.20 (P+) See 9919.21.10, 9919.21.11-9919.21.12 (PA)	59¢/kg +20%
+ 	Other:				
+ 	Dairy products described in additional U.S. note 1 to chapter 4:				
+2105.00.25	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 10% (JP)	20%
+2105.00.30	00  	Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions	
+kg
+kg cmsc
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2105.00.40	00  	Other 1/	
+kg
+kg cmsc
+50.2¢/kg + 17% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 5¢/kg + 1.7% (P) 6.6¢/kg + 2.2% (PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.51, 9915.04.75 (P+) See 9918.04.60-9918.04.80 (CO)	59¢/kg + 20%
+2105.00.50	00  	Other	
+kg
+17% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2106	 	Food preparations not elsewhere specified or included:				
+2106.10.00	00  	Protein concentrates and textured protein substances	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2106.90	 	Other:				
+ 	Products derived from the dried milk, dried buttermilk or dried whey of subheadings 0402.10, 0402.21.05, 0402.21.25, 0402.21.30, 0402.21.50, 0403.90.41, 0403.90.45, 0404.10.50 or 0404.10.90, which contain not over 5.5 percent by weight of butterfat and which are mixed with other ingredients including, but not limited to sugar, if such mixtures contain over 16 percent milk solids by weight, are capable of being further processed or mixed with similar ingredients and are not prepared for marketing to the retail consumer in the identical form and package in which imported:				
+2106.90.03	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+2.9¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12.1¢/kg
+2106.90.06	00  	Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions	
+kg
+kg cmsc
+2.9¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12.1¢/kg
+2106.90.09	00  	Other 1/	
+kg
+kg cmsc
+86.2¢/kg 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 8.6¢/kg (P) 11.4¢/kg (PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.52, 9915.04.76 (P+) See 9918.04.60-9918.04.80 (CO)	$1.014/kg
+ 	Compound alcoholic preparations of an alcoholic strength by volume exceeding 0.5 percent vol., of a kind used for the manufacture of beverages:				
+2106.90.12	00  	Containing not over 20 percent of alcohol by weight	
+kg
+4.2¢/kg + 1.9% 1/ 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	44¢/kg + 25% 1/
+2106.90.15	00  	Containing over 20 percent but not over 50 percent of alcohol by weight	
+kg
+8.4¢/kg + 1.9% 1/ 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	88¢/kg + 25% 1/
+2106.90.18	00  	Containing over 50 percent of alcohol by weight	
+kg
+17¢/kg + 1.9% 1/ 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.76/kg + 25% 1/
+ 	Butter substitutes, whether in liquid or solid state, containing over 15 percent by weight of butter or other fats or oils derived from milk:				
+ 	Containing over 10 percent by weight of milk solids:				
+ 	Butter substitutes containing over 45 percent by weight of butterfat:				
+2106.90.22	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+15.4¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+2106.90.24	00  	Described in additional U.S. note 14 to chapter 4 and entered pursuant to its provisions	
+kg
+kg cmsc
+15.4¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+2106.90.26	00  	Other 1/	
+kg
+kg cmsc
+$1.996/kg 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 19.9¢/kg (P) 26.6¢/kg (PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9915.04.05, 9915.04.10, 9915.04.16 (P+)	$2.348/kg
+2106.90.28	00  	Other	
+kg
+kg cmsc
+13.1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+ 	Other:				
+ 	Butter substitutes containing over 45 percent by weight of butterfat:				
+2106.90.32	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+15.4¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+2106.90.34	00  	Described in additional U.S. note 14 to chapter 4 and entered pursuant to its provisions	
+kg
+kg cmsc
+15.4¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+2106.90.36	00  	Other 1/	
+kg
+kg cmsc
+$1.996/kg 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 19.9¢/kg (P) 26.6¢/kg (PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9915.04.05, 9915.04.10, 9915.04.16 (P+)	$2.348/kg
+2106.90.38	00  	Other	
+kg
+kg cmsc
+13.1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+2106.90.39	00  	Artificially sweetened cough drops	
+kg
+Free		30%
+ 	Syrups derived from cane or beet sugar, containing added coloring but not added flavoring matter:				
+2106.90.42	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+3.6606¢/kg of total sugars 1/	Free (A*, AU, BH, CL, CO, D, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.58170¢/kg of total sugars
+2106.90.44	00  	Described in additional U.S. note 5 to chapter 17 andentered pursuant to its provisions	
+kg
+3.6606¢/kg of total sugars 1/	Free (A*, BH, CL, CO, D, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG) See 9822.05.15 (P+)	6.58170¢/kg of total sugars
+2106.90.46	00  	Other 1/	
+kg
+35.74¢/kg 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	42.05¢/kg
+ 	Fruit or vegetable juices, fortified with vitamins or minerals:				
+2106.90.48	00  	Orange juice	
+liters
+7.85¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+ 	Other:				
+2106.90.52	00  	Juice of any single fruit or vegetable	
+liters
+The rate applicable to the natural juice in heading 2009 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)The rate applicable to the natural juice in heading 2009 (A*, D)	The rate applicable to the natural juice in heading 2009
+2106.90.54	00  	Mixtures of juices	
+liters
+The rate applicable to the natural juice in heading 2009 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)The rate applicable to the natural juice in heading 2009 (A*, D)	The rate applicable to the natural juice in heading 2009
+ 	Other:				
+2106.90.58	 	Of gelatin		4.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Put up for retail sale:				
+2106.90.58.30	30  	Containing sugar derived from sugar cane or sugar beets	
+kg
+2106.90.58.50	50  	Other	
+kg
+ 	Other:				
+2106.90.58.70	70  	Containing sugar derived from sugar cane or sugar beets	
+kg
+2106.90.58.90	90  	Other	
+kg
+ 	Other:				
+ 	Containing over 10 percent by weight of milk solids				
+2106.90.62	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other, dairy products described in additional U.S. note 1 to chapter 4:				
+2106.90.64	00  	Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2106.90.66	00  	Other 1/	
+kg
+kg cmsc
+70.4¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 7¢/kg + 0.8% (P) 9.3¢/kg + 1.1% (PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.39, 9915.04.63 (P+) See 9918.04.60, 9918.04.67 (CO)	82.8¢/kg + 10%
+ 	Other:				
+ 	Blended syrups described in additional U.S. note 4 to chapter 17:				
+2106.90.68	00  	Described in additional U.S. note 9 to chapter 17 and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+2106.90.72	00  	Other 1/	
+kg
+kg cmsc
+70.4¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	82.8¢/kg + 10%
+ 	Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:				
+2106.90.74	00  	Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+2106.90.76	00  	Other 1/	
+kg
+kg cmsc
+70.4¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	82.8¢/kg + 10%
+ 	Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:				
+2106.90.78	00  	Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2106.90.80	00  	Other 1/	
+kg
+kg cmsc
+70.4¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	82.8¢/kg + 10%
+2106.90.82	00  	Other	
+kg
+kg cmsc
+6.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+2106.90.83	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other, dairy products described in additional U.S. note 1 to chapter 4:				
+2106.90.85	00  	Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2106.90.87	00  	Other 1/	
+kg
+28.8¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 2.8¢/kg + 0.8% (P) 3.8¢/kg + 1.1% (PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.53, 9915.04.77 (P+) See 9918.04.60, 9918.04.79 (CO)	33.9¢/kg +10%
+ 	Other:				
+ 	Blended syrups described in additional U.S. note 4 to chapter 17:				
+2106.90.89	00  	Described in additional U.S. note 9 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+2106.90.91	00  	Other 1/	
+kg
+28.8¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	33.9¢/kg + 10%
+ 	Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:				
+2106.90.92	00  	Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (CO, KR, OM, PA, PE, S)	20%
+2106.90.94	00  	Other 1/	
+kg
+28.8¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	33.9¢/kg + 10%
+ 	Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:				
+2106.90.95	00  	Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions	
+kg
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2106.90.97	00  	Other 1/	
+kg
+28.8¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, OM, SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)	33.9¢/kg + 10%
+2106.90.99	 	Other		6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Preparations for the manufacture of beverages:				
+2106.90.99.71	71  	Containing high-intensity sweeteners (e.g., aspartame and/or saccharin	
+kg
+2106.90.99.72	72  	Containing sugar derived from sugar cane and/or sugar beets	
+kg
+2106.90.99.73	73  	Other	
+kg
+2106.90.99.75	75  	Non-dairy coffee whiteners	
+kg
+2106.90.99.80	80  	Other cream or milk substitutes	
+kg
+2106.90.99.85	85  	Confectionery (including gum) containing synthetic sweetening agents (e.g., saccharin) instead of sugar	
+kg
+2106.90.99.87	87  	Herbal teas and herbal infusions comprising mixed herbs	
+kg
+2106.90.99.88	88  	Flavored honey	
+kg
+ 	Other:				
+2106.90.99.90	90  	Canned	
+kg
+ 	Other:				
+2106.90.99.95	95  	Frozen	
+kg
+ 	Other:				
+2106.90.99.97	97  	Containing sugar derived from sugar cane and/or sugar beets	
+kg
+2106.90.99.98	98  	Other	
+kg

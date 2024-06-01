@@ -1,0 +1,1346 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+9001	 	Optical fibers and optical fiber bundles; optical fiber cables other than those of heading 8544; sheets and plates of polarizing material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked:				
+9001.10.00	 	Optical fibers, optical fiber bundles and cables		6.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+ 	Optical fibers:				
+9001.10.00.30	30  	For transmission of voice, data or video communications	
+m
+ 	Other:				
+9001.10.00.50	50  	Plastic optical fibers	
+m
+9001.10.00.70	70  	Other	
+m
+ 	Optical fiber bundles and cables:				
+9001.10.00.75	75  	Plastic optical fiber bundles and cables	
+Fiber m
+9001.10.00.85	85  	Other	
+Fiber m
+9001.20.00	00  	Sheets and plates of polarizing material	
+kg
+Free 1/		50%
+9001.30.00	00  	Contact lenses	
+No.
+2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9001.40.00	00  	Spectacle lenses of glass	
+prs.
+2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9001.50.00	00  	Spectacle lenses of other materials	
+prs.
+2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9001.90	 	Other:				
+9001.90.40	00  	Lenses	
+No.
+Free 1/		45%
+9001.90.50	00  	Prisms	
+No.
+Free 1/		65%
+9001.90.60	00  	Mirrors	
+No.
+Free 1/		45%
+ 	Other:				
+9001.90.80	00  	Halftone screens designed for use in engraving or photographic processes	
+No.
+Free 1/		25%
+9001.90.90	00  	Other	
+No.
+Free 1/		85%
+9002	 	Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked; parts and accessories thereof:				
+ 	Objective lenses and parts and accessories thereof:				
+9002.11	 	For cameras, projectors or photographic enlargers or reducers:				
+9002.11.40	00  	Projection	
+No.
+2.45% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+9002.11.60	00  	Mounted lenses suitable for use in, and entered separately from, closed-circuit television cameras, with or without attached electrical or non-electrical closed-circuit television camera connectors, and with or without attached motors	
+No.
+Free 1/		45%
+9002.11.90	00  	Other	
+No.
+2.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	45%
+9002.19.00	00  	Other	
+No.
+Free 1/		45%
+9002.20	 	Filters and parts and accessories thereof:				
+9002.20.40	00  	Photographic	
+No.
+Free 1/		20% 1/
+9002.20.80	00  	Other	
+No.
+Free 1/		65%
+9002.90	 	Other:				
+9002.90.20	00  	Prisms	
+No.
+Free 1/		65%
+9002.90.40	00  	Mirrors	
+No.
+Free 1/		45%
+ 	Other:				
+9002.90.70	00  	Halftone screens designed for use in engraving or photographic processes	
+No.
+Free 1/		25%
+9002.90.85	00  	Mounted lenses suitable for use in, and entered separately from, closed-circuit television cameras, with or without attached electrical or non-electrical closed-circuit television camera connectors, and with or without attached motors	
+No.
+Free 1/		65%
+9002.90.95	00  	Other	
+No.
+Free 1/		65%
+9003	 	Frames and mountings for spectacles, goggles or the like, and parts thereof:				
+ 	Frames and mountings:				
+9003.11.00	00  	Of plastics	
+doz.
+2.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+9003.19.00	00  	Of other materials	
+doz.
+Free 1/		50%
+9003.90.00	00  	Parts	
+No.
+2.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+9004	 	Spectacles, goggles and the like, corrective, protective or other:				
+9004.10.00	00  	Sunglasses	
+doz.
+2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	40%
+9004.90.00	 	Other		2.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	40%
+9004.90.00.10	10  	Safety glasses or safety goggles 1/	
+doz.
+9004.90.00.90	90  	Other 1/	
+doz.
+9005	 	Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments for radio-astronomy; parts and accessories thereof:				
+9005.10.00	 	Binoculars		Free 1/		60%
+9005.10.00.20	20  	Prism binoculars for use with infrared light	
+No.
+9005.10.00.40	40  	Other prism binoculars 1/	
+No.
+9005.10.00.80	80  	Other	
+No.
+9005.80	 	Other instruments:				
+9005.80.40	 	Optical telescopes		8%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9005.80.40.20	20  	For use with infrared light	
+No.
+9005.80.40.40	40  	Other	
+No.
+9005.80.60	00  	Other	
+No.
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9005.90	 	Parts and accessories (including mountings):				
+9005.90.40	00  	Incorporating goods of heading 9001 or 9002	
+No.
+The rate applicable to the article of which it is a part or accessory 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to the article of which it is a part or accessory
+9005.90.80	01  	Other	
+No.
+The rate applicable to the article of which it is a part or accessory 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to the article of which it is a part or accessory
+9006	 	Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 8539; parts and accessories thereof:				
+9006.30.00	00  	Cameras specially designed for underwater use, for aerial survey, or for medical or surgical examination of internal organs; comparison cameras for forensic or criminological purposes	
+No.
+Free 1/		20%
+9006.40	 	Instant print cameras:				
+9006.40.40	00  	Fixed focus	
+No.
+Free 1/		20%
+ 	Other than fixed focus:				
+9006.40.60	00  	Valued not over $10 each	
+No.
+6.8%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9006.40.90	00  	Valued over $10 each	
+No.
+Free		20%
+ 	Other cameras:				
+9006.53.02	 	For roll film of a width of 35 mm		Free 1/		20%
+9006.53.02.05	05  	With through-the-lens viewfinder (single lens reflex (SLR))	
+No.
+ 	Other:				
+ 	One time use cameras:				
+9006.53.02.10	10  	With built-in electronic stroboscopic flash	
+No.
+9006.53.02.20	20  	Other	
+No.
+ 	Other:				
+9006.53.02.50	50  	With built-in electronic stroboscopic flash	
+No.
+9006.53.02.70	70  	Other	
+No.
+9006.59	 	Other:				
+ 	For roll film of a width less than 35mm:				
+9006.59.01	 	With through-the-lens viewfinder (single lens reflex (SLR))		Free 1/		20%
+9006.59.01.60	60  	For magnetically sensitized roll film of a width of 24 mm	
+No.
+9006.59.01.90	90  	Other	
+No.
+ 	Other:				
+ 	Fixed focus:				
+ 	Hand held:				
+9006.59.05	 	110 cameras		Free 1/		20%
+9006.59.05.20	20  	With built-in electronic stroboscopic flash	
+No.
+9006.59.05.40	40  	Other	
+No.
+9006.59.08	00  	Other	
+No.
+4% 1/	Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9006.59.10	00  	Other	
+No.
+Free 1/		
+ 	Other than fixed focus:				
+9006.59.12	00  	Valued not over $10 each	
+No.
+6.8% 1/	Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9006.59.15	 	Valued over $10 each		Free 1/		20%
+ 	Hand held:				
+ 	110 cameras:				
+9006.59.15.20	20  	With built-in electronic stroboscopic flash	
+No.
+20%
+9006.59.15.40	40  	Other	
+No.
+9006.59.15.60	60  	Other	
+No.
+9006.59.15.80	80  	Other	
+No.
+ 	Other:				
+9006.59.20	00  	Cameras of a kind used for preparing printing plates or cylinders	
+No.
+Free 1/		20%
+9006.59.40	 	Fixed focus		4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9006.59.40.40	40  	Disc cameras	
+No.
+9006.59.40.60	60  	Other	
+No.
+ 	Other than fixed focus:				
+9006.59.60	00  	Valued not over $10 each	
+No.
+6.8%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9006.59.91	00  	Valued over $10 each	
+No.
+Free 1/		20%
+ 	Photographic flashlight apparatus and flashbulbs:				
+9006.61.00	 	Discharge lamp ("electronic") flashlight apparatus		Free 1/		35%
+ 	Capable of camera mounting:				
+9006.61.00.20	20  	Capable of automatically controlling flash duration	
+No.
+9006.61.00.40	40  	Other	
+No.
+9006.61.00.60	60  	Other	
+No.
+9006.69.01	 	Other		Free		35%
+9006.69.01.10	10  	Flashbulbs, flashcubes and the like	
+No.
+9006.69.01.50	50  	Other	
+No.
+ 	Parts and accessories:				
+9006.91.00	01  	For cameras	
+No.
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20% 1/
+9006.99.00	00  	Other	
+No.
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9007	 	Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus; parts and accessories thereof:				
+9007.10.00	00  	Cameras	
+No.
+Free 1/		20%
+9007.20	 	Projectors:				
+ 	For film of less than 16 mm:				
+9007.20.20	00  	With sound recording and reproducing systems; and those capable of projecting only sound motion pictures	
+No.
+Free 1/		45%
+9007.20.40	00  	Other	
+No.
+4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+9007.20.60	 	With sound recording and reproducing systems; and those capable of projecting only sound motion pictures		Free 1/		45%
+9007.20.60.40	40  	16 mm	
+No.
+9007.20.60.80	80  	Other	
+No.
+9007.20.80	00  	Other	
+No.
+3.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Parts and accessories:				
+9007.91	 	For cameras:				
+9007.91.40	00  	Parts	
+kg
+Free 1/		20% 1/
+9007.91.80	01  	Other	
+kg
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9007.92.00	00  	For projectors	
+kg
+3.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9008	 	Image projectors, other than cinematographic; photographic (other than cinematographic) enlargers and reducers; parts and accessories thereof:				
+9008.50	 	Projectors, enlargers and reducers:				
+9008.50.10	00  	Slide projectors	
+No.
+7%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Microfilm, microfiche or other microform readers, whether or not capable of producing copies:				
+9008.50.20	00  	Capable of producing copies	
+No.
+Free 1/		35%
+9008.50.30	00  	Other	
+No.
+3.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9008.50.40	00  	Other image projectors	
+No.
+4.6%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9008.50.50	00  	Photographic (other than cinematographic) enlargers and reducers	
+No.
+Free 1/		20%
+9008.90	 	Parts and accessories:				
+9008.90.40	00  	Of image projectors, other than cinematographic	
+kg
+Free 1/		35%
+9008.90.80	00  	Other	
+kg
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20% 1/
+9010	 	Apparatus and equipment for photographic (including cinematographic) laboratories, not specified or included elsewhere in this chapter; negatoscopes; projection screens; parts and accessories thereof:				
+9010.10.00	00  	Apparatus and equipment for automatically developing photographic (including cinematographic) film or paper in rolls or for automatically exposing developed film to rolls of photographic paper	
+kg
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9010.50	 	Other apparatus and equipment for photographic (including cinematographic) laboratories; negatoscopes:				
+9010.50.10	00  	Contact printers	
+No.
+Free 1/		35%
+9010.50.20	00  	Developing tanks	
+No.
+Free 1/		45%
+ 	Photographic film viewers, titlers, splicers and editors, all the foregoing and combinations thereof:				
+ 	Articles containing an optical lens or designed to contain such a lens:				
+9010.50.30	00  	Editors and combination editor-splicers, for cinematographic film	
+No.
+Free 1/		45%
+9010.50.40	00  	Other	
+kg
+Free 1/		45%
+9010.50.50	00  	Other	
+kg
+Free 1/		35%
+9010.50.60	00  	Other	
+kg
+Free 1/		35%
+9010.60.00	00  	Projection screens	
+No.
+Free 1/		50%
+9010.90	 	Parts and accessories:				
+9010.90.85	00  	Parts and accessories of articles of subheadings 9010.50 and 9010.60	
+kg
+Free 1/		45%
+9010.90.95	00  	Other	
+kg
+2.9% 1/	Free (A*, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9011	 	Compound optical microscopes, including those for photomicrography, cinemicrography or microprojection; parts and accessories thereof:				
+9011.10	 	Stereoscopic microscopes:				
+9011.10.40	00  	Provided with a means for photographing the image	
+No.
+Free 1/		20%
+9011.10.80	00  	Other 1/	
+No.
+Free 1/		45%
+9011.20	 	Other microscopes, for photomicrography, cinemicrography or microprojection:				
+9011.20.40	00  	Provided with a means for photographing the image	
+No.
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+9011.20.80	00  	Other	
+No.
+7.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9011.80.00	00  	Other microscopes 1/	
+No.
+Free 1/		45%
+9011.90.00	00  	Parts and accessories 1/	
+kg
+Free 1/		45%
+9012	 	Microscopes other than optical microscopes; diffraction apparatus; parts and accessories thereof:				
+9012.10.00	00  	Microscopes other than optical microscopes; diffraction apparatus	
+No.
+Free 1/		40%
+9012.90.00	00  	Parts and accessories	
+kg
+Free 1/		40%
+9013	 	Lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in this chapter:				
+9013.10	 	Telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter or section XVI:				
+ 	Telescopic sights for rifles:				
+9013.10.10	00  	Not designed for use with infrared light	
+No.
+14.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 7.45% (JP)	45%
+9013.10.30	00  	Other	
+No.
+1.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+9013.10.45	00  	Telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter of section XVI	
+No.
+Free 1/		45%
+9013.10.50	00  	Other	
+No.
+5.3% 1/	Free (A*, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9013.20.00	00  	Lasers, other than laser diodes	
+No.
+Free 1/		35%
+9013.80	 	Other devices, appliances and instruments:				
+9013.80.20	00  	Hand magnifiers, magnifying glasses, loupes, thread counters and similar apparatus	
+No.
+6.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9013.80.40	00  	Door viewers (door eyes)	
+No.
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+9013.80.91	00  	Other	
+No.
+4.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9013.90	 	Parts and accessories:				
+9013.90.20	00  	Of telescopic sights for rifles	
+No.
+16% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+9013.90.70	00  	Other parts and accessories, other than for telescopic sights for fitting to arms or for periscopes	
+No.
+Free 1/		45%
+9013.90.80	00  	Other	
+No.
+4.5% 1/	Free (A, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9014	 	Direction finding compasses; other navigational instruments and appliances; parts and accessories thereof:				
+9014.10	 	Direction finding compasses:				
+9014.10.10	00  	Optical instruments	
+No.
+Free 1/		45%
+ 	Other:				
+9014.10.60	00  	Gyroscopic compasses, other than electrical	
+No.
+Free 1/		35%
+ 	Other:				
+9014.10.70	 	Electrical		Free 1/		40%
+9014.10.70.30	30  	Gyroscopic compasses	
+No.
+9014.10.70.60	60  	Other	
+No.
+9014.10.90	00  	Other	
+No.
+Free 1/		45%
+9014.20	 	Instruments and appliances for aeronautical or space navigation (other than compasses):				
+9014.20.20	00  	Optical instruments and appliances	
+No.
+Free 1/		45%
+ 	Other:				
+9014.20.40	00  	Automatic pilots	
+No.
+Free 1/		40%
+ 	Other:				
+9014.20.60	00  	Electrical	
+No.
+Free 1/		40%
+9014.20.80	 	Other		Free 1/		30% 1/
+9014.20.80.40	40  	For use in civil aircraft 1/	
+No.
+9014.20.80.80	80  	Other	
+No.
+9014.80	 	Other instruments and appliances:				
+9014.80.10	00  	Optical instruments	
+No.
+Free 1/		45%
+ 	Other:				
+9014.80.20	00  	Ships' logs and depth-sounding apparatus 1/	
+No.
+Free 1/		70%
+ 	Other:				
+9014.80.40	00  	Electrical	
+No.
+Free 1/		40%
+9014.80.50	00  	Other	
+No.
+Free 1/		30% 1/
+9014.90	 	Parts and accessories:				
+9014.90.10	00  	Of articles covered by subheading 9014.20.40	
+kg
+Free 1/		40%
+9014.90.20	 	Of articles covered by subheading 9014.20.80		Free 1/		30%
+9014.90.20.40	40  	For use in civil aircraft 1/	
+No.
+9014.90.20.80	80  	Other	
+No.
+9014.90.40	00  	Of articles covered by subheading 9014.80.50	
+kg
+Free 1/		30%
+9014.90.60	00  	Other	
+kg
+Free 1/		40%
+9015	 	Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders; parts and accessories thereof:				
+9015.10	 	Rangefinders:				
+9015.10.40	00  	Electrical	
+No.
+Free 1/		40%
+9015.10.80	00  	Other	
+No.
+Free 1/		45%
+9015.20	 	Theodolites and tachymeters (tacheometers):				
+9015.20.40	00  	Electrical	
+No.
+Free 1/		40%
+9015.20.80	00  	Other	
+No.
+Free 1/		45%
+9015.30	 	Levels:				
+9015.30.40	00  	Electrical	
+No.
+Free 1/		40%
+9015.30.80	00  	Other	
+No.
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9015.40	 	Photogrammetrical surveying instruments and appliances:				
+9015.40.40	00  	Electrical	
+No.
+Free 1/		40%
+9015.40.80	00  	Other	
+No.
+Free 1/		40%
+9015.80	 	Other instruments and appliances:				
+9015.80.20	00  	Optical instruments and appliances	
+No.
+Free 1/		45%
+ 	Other:				
+9015.80.60	00  	Seismographs	
+No.
+Free 1/		40%
+9015.80.80	 	Other		Free 1/		40%
+9015.80.80.40	40  	Geophysical instruments and appliances	
+No.
+9015.80.80.80	80  	Other 1/	
+kg
+9015.90.01	 	Parts and accessories		Free 1/		The rate applicable to the article of which it is a part or accessory
+9015.90.01.10	10  	Of rangefinders	
+kg
+9015.90.01.20	20  	Of theodolites and tachymeters	
+kg
+9015.90.01.30	30  	Of levels	
+kg
+9015.90.01.40	40  	Of photogrammetrical surveying instruments and apparatus	
+kg
+9015.90.01.50	50  	Of seismographs	
+kg
+9015.90.01.60	60  	Of other geophysical instruments and appliances	
+kg
+9015.90.01.90	90  	Other 1/	
+kg
+9016.00	 	Balances of a sensitivity of 5 cg or better, with or without weights; parts and accessories thereof:				
+9016.00.20	00  	Electrical balances and parts and accessories thereof	
+kg
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+9016.00.40	00  	Jewelers' balances and parts and accessories thereof	
+kg
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9016.00.60	00  	Other	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9017	 	Drawing, marking-out or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, calipers), not specified or included elsewhere in this chapter; parts and accessories thereof:				
+9017.10	 	Drafting tables and machines, whether or not automatic:				
+9017.10.40	00  	Plotters	
+No.
+Free 1/		45%
+9017.10.80	00  	Other	
+No.
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9017.20	 	Other drawing, marking-out or mathematical calculating instruments:				
+9017.20.40	00  	Disc calculators, slide rules and other mathematical calculating instruments	
+No.
+3.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9017.20.70	00  	Plotters	
+No.
+Free 1/		45%
+9017.20.80	 	Other		4.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9017.20.80.40	40  	Hand operated input devices which transmit position data to computer processors or displays (digitizers)	
+No.
+9017.20.80.80	80  	Other	
+kg
+9017.30	 	Micrometers, calipers and gauges:				
+9017.30.40	00  	Micrometers and calipers	
+No.
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9017.30.80	00  	Other	
+No.
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9017.80.00	00  	Other instruments	
+No.
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 2.65%(JP)	45%
+9017.90.01	 	Parts and accessories		The rate applicable to the article of which it is a part or accessory 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate applicable to the article of which it is a part or accessory
+9017.90.01.05	05  	Of articles of subheading 9017.10.40	
+kg
+9017.90.01.15	15  	Of articles of subheading 9017.10.80	
+kg
+9017.90.01.20	20  	Of articles of subheading 9017.20.40	
+kg
+9017.90.01.32	32  	Of articles of subheading 9017.20.70	
+kg
+9017.90.01.36	36  	Of articles of subheading 9017.20.80	
+kg
+9017.90.01.40	40  	Of articles of subheading 9017.30.40	
+kg
+9017.90.01.50	50  	Of articles of subheading 9017.30.80	
+kg
+9017.90.01.60	60  	Other	
+kg
+9018	 	Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments; parts and accessories thereof:				
+ 	Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters); parts and accessories thereof:				
+9018.11	 	Electrocardiographs, and parts and accessories thereof:				
+9018.11.30	00  	Electrocardiographs	
+No.
+Free 1/		35%
+9018.11.60	00  	Printed circuit assemblies	
+No.
+Free 1/		35%
+9018.11.90	00  	Other 1/	
+No.
+Free 1/		35%
+9018.12.00	00  	Ultrasonic scanning apparatus 1/	
+No.
+Free 1/		35%
+9018.13.00	00  	Magnetic resonance imaging apparatus	
+No.
+Free 1/		35%
+9018.14.00	00  	Scintigraphic apparatus	
+No.
+Free 1/		35%
+9018.19	 	Other:				
+9018.19.40	00  	Apparatus for functional exploratory examination, and parts and accessories thereof	
+No.
+Free 1/		55%
+ 	Other:				
+9018.19.55	00  	Patient monitoring systems	
+No.
+Free 1/		35%
+9018.19.75	00  	Printed circuit assemblies for parameter acquisition modules	
+No.
+Free 1/		35%
+9018.19.95	 	Other		Free 1/		35%
+9018.19.95.30	30  	Basal metabolism and blood pressure apparatus 1/	
+No.
+9018.19.95.35	35  	Electroencephalographs (EEG) and electromyographs (EMG)	
+No.
+9018.19.95.50	50  	Other apparatus 1/	
+No.
+9018.19.95.60	60  	Parts and accessories 1/	
+No.
+9018.20.00	 	Ultraviolet or infrared ray apparatus, and parts and accessories thereof		Free 1/		35%
+9018.20.00.40	40  	Therapeutic	
+No.
+9018.20.00.80	80  	Other	
+No.
+ 	Syringes, needles, catheters, cannulae and the like; parts and accessories thereof:				
+9018.31.00	 	Syringes, with or without needles; parts and accessories thereof		Free		60%
+ 	Syringes, with or without their needles:				
+9018.31.00.40	40  	Hypodermic	
+No.
+9018.31.00.80	80  	Other	
+No.
+9018.31.00.90	90  	Parts and accessories	
+No.
+9018.32.00	00  	Tubular metal needles and needles for sutures and parts and accessories thereof	
+No.
+Free		55%
+9018.39.00	 	Other		Free		30%
+ 	Bougies, catheters, drains and sondes, and parts and accessories thereof:				
+9018.39.00.20	20  	Rubber catheters	
+doz.
+9018.39.00.40	40  	Other	
+No.
+9018.39.00.50	50  	Other	
+No.
+ 	Other instruments and appliances, used in dental sciences, and parts and accessories thereof:				
+9018.41.00	00  	Dental drill engines, whether or not combined on a single base with other dental equipment, and parts and accessories thereof	
+No.
+Free		35%
+9018.49	 	Other:				
+9018.49.40	00  	Dental burs	
+gross
+Free		35%
+9018.49.80	 	Other		Free		35%
+9018.49.80.40	40  	Dental hand instruments and parts and accessories thereof	
+No.
+9018.49.80.80	80  	Other	
+No.
+9018.50.00	00  	Other ophthalmic instruments and appliances and parts and accessories thereof	
+No.
+Free		60%
+9018.90	 	Other instruments and appliances and parts and accessories thereof:				
+ 	Optical instruments and appliances and parts and accessories thereof:				
+9018.90.10	00  	Mirrors and reflectors	
+No.
+Free		45%
+9018.90.20	00  	Other 1/	
+No.
+Free 1/		60%
+ 	Other:				
+9018.90.30	00  	Anesthetic instruments and appliances and parts and accessories thereof 1/	
+No.
+Free 1/		45%
+9018.90.40	00  	Percussion hammers, stethoscopes and parts of stethoscopes	
+No.
+Free		45%
+9018.90.50	 	Sphygmomanometers, tensimeters and oscillometers; all the foregoing and parts and accessories thereof		Free		27.5%
+9018.90.50.40	40  	Sphygmomanometers and parts and accessories thereof	
+No.
+9018.90.50.80	80  	Other	
+No.
+ 	Electro-medical instruments and appliances and parts and accessories thereof:				
+9018.90.60	00  	Electro-surgical instruments and appliances, other than extracorporeal shock wave lithotripters; all the foregoing and parts and accessories thereof 1/	
+No.
+Free 1/		55%
+ 	Other:				
+9018.90.64	00  	Defibrillators	
+No.
+Free		35%
+9018.90.68	00  	Printed circuit assemblies for the defibrillators of subheading 9018.90.64	
+No.
+Free		35%
+9018.90.75	 	Other		Free 1/		35%
+9018.90.75.20	20  	Dialysis instruments and apparatus	
+No.
+ 	Other therapeutic appliances and instruments:				
+9018.90.75.40	40  	Ultrasonic	
+No.
+9018.90.75.60	60  	Other	
+No.
+9018.90.75.70	70  	Parts and accessories of dialysis instruments and apparatus	
+No.
+9018.90.75.80	80  	Other 1/	
+No.
+9018.90.80	00  	Other	
+No.
+Free		55%
+9019	 	Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus; parts and accessories thereof:				
+9019.10	 	Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; parts and accessories thereof:				
+9019.10.20	 	Mechano-therapy appliances and massage apparatus; parts and accessories thereof		Free		35%
+9019.10.20.10	10  	Mechano-therapy appliances	
+No.
+ 	Massage apparatus:				
+ 	Electrically operated:				
+ 	Battery powered:				
+9019.10.20.20	20  	Handheld	
+No.
+9019.10.20.30	30  	Other	
+No.
+ 	Other:				
+9019.10.20.35	35  	Powered by AC adapter	
+No.
+9019.10.20.45	45  	Other	
+No.
+9019.10.20.50	50  	Other	
+No.
+9019.10.20.90	90  	Parts and accessories	
+No.
+ 	Other:				
+9019.10.40	00  	Electrically operated apparatus and parts thereof	
+No.
+Free		35%
+9019.10.60	00  	Other	
+No.
+Free		55%
+9019.20.00	00  	Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus; parts and accessories thereof	
+No.
+Free		35%
+9020.00	 	Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters; parts and accessories thereof:				
+9020.00.40	00  	Underwater breathing devices designed as a complete unit to be carried on the person and not requiring attendants	
+No.
+Free		27.5%
+9020.00.60	00  	Other breathing appliances and gas masks	
+No.
+2.5%	Free (A, AU, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9020.00.90	00  	Other	
+kg
+2.5%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9021	 	Orthopedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability; parts and accessories thereof:				
+9021.10.00	 	Orthopedic or fracture appliances, and parts and accessories thereof		Free		55%
+9021.10.00.50	50  	Bone plates, screws and nails, and other internal fixation devices or appliances	
+No.
+9021.10.00.90	90  	Other	
+No.
+ 	Artificial teeth and dental fittings, and parts and accessories thereof:				
+9021.21	 	Artificial teeth and parts and accessories thereof:				
+9021.21.40	00  	Of plastics	
+No.
+Free		20%
+9021.21.80	00  	Other	
+No.
+Free		70%
+9021.29	 	Other:				
+9021.29.40	00  	Of plastics	
+No.
+Free		20%
+9021.29.80	00  	Other	
+No.
+Free		70%
+ 	Other artificial parts of the body and parts and accessories thereof:				
+9021.31.00	00  	Artificial joints and parts and accessories thereof	
+No.
+Free		55%
+9021.39.00	00  	Other	
+No.
+Free		40%
+9021.40.00	00  	Hearing aids, excluding parts and accessories thereof	
+No.
+Free		35%
+9021.50.00	00  	Pacemakers for stimulating heart muscles, excluding parts and accessories thereof	
+No.
+Free 1/		35%
+9021.90	 	Other:				
+9021.90.40	 	Parts and accessories for hearing aids and for pacemakers for stimulating heart muscles		Free		35%
+9021.90.40.40	40  	For hearing aids	
+No.
+9021.90.40.80	80  	Other	
+No.
+9021.90.81	00  	Other	
+No.
+Free		35%
+9022	 	Apparatus based on the use of X-rays or of alpha, beta, gamma or other ionizing radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus, X-ray tubes and other X-ray generators, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and the like; parts and accessories thereof:				
+ 	Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus:				
+9022.12.00	00  	Computed tomography apparatus 1/	
+No.
+Free 1/		35%
+9022.13.00	00  	Other, for dental uses	
+No.
+Free 1/		35%
+9022.14.00	00  	Other, for medical, surgical or veterinary uses 1/	
+No.
+Free 1/		35%
+9022.19.00	00  	For other uses	
+No.
+Free 1/		35%
+ 	Apparatus based on the use of alpha, beta, gamma or other ionizing radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus:				
+9022.21.00	00  	For medical, surgical, dental or veterinary uses	
+No.
+Free 1/		35%
+9022.29	 	For other uses:				
+9022.29.40	00  	Smoke detectors, ionization type	
+No.
+Free		35%
+9022.29.80	00  	Other	
+No.
+Free 1/		35%
+9022.30.00	00  	X-ray tubes	
+No.
+Free 1/		35%
+9022.90	 	Other, including parts and accessories:				
+9022.90.05	00  	Radiation generator units	
+No.
+0.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9022.90.15	00  	Radiation beam delivery units	
+No.
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+9022.90.25	00  	Other apparatus 1/	
+No.
+0.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Parts and accessories:				
+9022.90.40	00  	Of X-ray tubes 1/	
+No.
+0.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+9022.90.60	00  	Of apparatus based on the use of X-rays 1/	
+No.
+Free 1/		35%
+9022.90.70	00  	Of smoke detectors, ionization type	
+No.
+1%	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9022.90.95	00  	Other 1/	
+No.
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9023.00.00	00  	Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses, and parts and accessories thereof	
+kg
+Free 1/		Free 1/
+9024	 	Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics), and parts and accessories thereof:				
+9024.10.00	00  	Machines and appliances for testing metals	
+No.
+Free 1/		40%
+9024.80.00	00  	Other machines and appliances	
+No.
+Free 1/		40%
+9024.90.00	 	Parts and accessories		Free 1/		40%
+9024.90.00.40	40  	Of machines and appliances for testing metals	
+kg
+9024.90.00.80	80  	Other	
+kg
+9025	 	Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments; parts and accessories thereof:				
+ 	Thermometers and pyrometers, not combined with other instruments:				
+9025.11	 	Liquid-filled, for direct reading:				
+9025.11.20	00  	Clinical	
+No.
+Free		85%
+9025.11.40	00  	Other	
+No.
+Free		85%
+9025.19	 	Other:				
+9025.19.40	00  	Pyrometers	
+No.
+Free 1/		45%
+9025.19.80	 	Other		Free 1/		40%
+ 	Clinical				
+9025.19.80.10	10  	Infrared thermometers of a kind described in statistical note 2 of this chapter 1/	
+No.
+9025.19.80.20	20  	Other 1/	
+No.
+ 	Other				
+9025.19.80.60	60  	Infrared thermometers 1/	
+No.
+9025.19.80.85	85  	Other 1/	
+No.
+9025.80	 	Other instruments:				
+9025.80.10	00  	Electrical	
+No.
+1.7% 1/	Free (A, AU, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+9025.80.15	00  	Barometers, not combined with other instruments	
+No.
+1% 1/	Free (A, AU, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9025.80.20	00  	Hydrometers and similar floating instruments, whether or not incorporating a thermometer, non-recording	
+No.
+2.9% 1/	Free (A, AU, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	85%
+9025.80.35	00  	Hygrometers and psychrometers, non-recording	
+No.
+1.4% 1/	Free (A, AU, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+9025.80.40	00  	Thermographs, barographs, hygrographs and other recording instruments	
+No.
+1% 1/	Free (A, AU, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9025.80.50	00  	Other	
+No.
+1.6% 1/	Free (A, AU, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+9025.90.06	00  	Parts and accessories 1/	
+kg
+Free 1/		The rate applicable to the article of which it is a part or accessory
+9026	 	Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 9014, 9015, 9028 or 9032; parts and accessories thereof:				
+9026.10	 	For measuring or checking the flow or level of liquids:				
+9026.10.20	 	Electrical		Free 1/		40%
+9026.10.20.40	40  	Flow meters	
+No.
+9026.10.20.80	80  	Other	
+No.
+ 	Other:				
+9026.10.40	00  	Flow meters	
+No.
+Free 1/		$4.50 each + 65%
+9026.10.60	00  	Other	
+No.
+Free 1/		35%
+9026.20	 	For measuring or checking pressure:				
+9026.20.40	00  	Electrical	
+No.
+Free 1/		40%
+9026.20.80	00  	Other	
+No.
+Free 1/		35%
+9026.80	 	Other instruments and apparatus:				
+9026.80.20	00  	Electrical	
+No.
+Free 1/		40%
+ 	Other:				
+9026.80.40	00  	Heat meters incorporating liquid supply meters, and anemometers	
+No.
+Free 1/		$4.50 each + 65%
+9026.80.60	00  	Other	
+No.
+Free 1/		35%
+9026.90	 	Parts and accessories:				
+9026.90.20	00  	Of electrical instruments and apparatus	
+kg
+Free 1/		40%
+ 	Other:				
+9026.90.40	00  	Of flow meters, heat meters incorporating liquid supply meters and anemometers	
+kg
+Free 1/		65%
+9026.90.60	00  	Other	
+kg
+Free 1/		35%
+9027	 	Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes; parts and accessories thereof:				
+9027.10	 	Gas or smoke analysis apparatus:				
+9027.10.20	00  	Electrical 1/	
+kg
+Free 1/		40%
+ 	Other:				
+9027.10.40	00  	Optical instruments and apparatus	
+kg
+Free 1/		50%
+9027.10.60	00  	Other	
+kg
+Free 1/		40%
+9027.20	 	Chromatographs and electrophoresis instruments:				
+9027.20.50	 	Electrical		Free 1/		40%
+9027.20.50.30	30  	Electrophoresis instruments	
+No.
+9027.20.50.50	50  	Gas chromatographs	
+No.
+9027.20.50.60	60  	Liquid chromatographs	
+No.
+9027.20.50.80	80  	Other	
+No.
+9027.20.80	 	Other		Free 1/		40%
+9027.20.80.30	30  	Gas chromatographs	
+No.
+9027.20.80.60	60  	Liquid chromatographs	
+No.
+9027.20.80.90	90  	Other	
+No.
+9027.30	 	Spectrometers, spectrophotometers and spectrographs using optical radiations (ultraviolet, visible, infrared):				
+9027.30.40	 	Electrical		Free 1/		40%
+9027.30.40.40	40  	Spectrophotometers	
+No.
+9027.30.40.80	80  	Other	
+No.
+9027.30.80	 	Other		Free 1/		50%
+9027.30.80.20	20  	Spectroscopes	
+No.
+9027.30.80.80	80  	Other	
+No.
+9027.50	 	Other instruments and apparatus using optical radiations (ultraviolet, visible, infrared):				
+9027.50.10	00  	Exposure meters	
+No.
+1.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	27.5%
+ 	Other:				
+9027.50.40	 	Electrical		Free 1/		40%
+9027.50.40.15	15  	Chemical analysis instruments and apparatus	
+No.
+9027.50.40.20	20  	Thermal analysis instruments and apparatus	
+No.
+9027.50.40.50	50  	Photometers	
+No.
+9027.50.40.60	60  	Other	
+No.
+9027.50.80	 	Other		Free 1/		50%
+9027.50.80.15	15  	Chemical analysis instruments and apparatus	
+No.
+9027.50.80.20	20  	Thermal analysis instruments and apparatus	
+No.
+9027.50.80.60	60  	Other	
+No.
+ 	Other instruments and apparatus:				
+9027.81.00	00  	Mass spectrometers	
+No.
+Free 1/		40%
+9027.89	 	Other:				
+9027.89.25	00  	Nuclear magnetic resonance instruments	
+No.
+Free 1/		40%
+ 	Other:				
+9027.89.45	 	Electrical		Free 1/		40%
+9027.89.45.30	30  	Chemical analysis instruments and apparatus	
+kg
+9027.89.45.60	60  	Physical analysis instruments and apparatus	
+kg
+9027.89.45.90	90  	Other	
+kg
+9027.89.80	 	Other		Free 1/		40%
+9027.89.80.30	30  	Chemical analysis instruments and apparatus	
+kg
+9027.89.80.60	60  	Physical analysis instruments and apparatus	
+kg
+9027.89.80.90	90  	Other	
+kg
+9027.90	 	Microtomes; parts and accessories:				
+9027.90.20	00  	Microtomes	
+No.
+Free 1/		40%
+ 	Parts and accessories:				
+ 	Of electrical instruments and apparatus:				
+9027.90.45	00  	Printed circuit assemblies for the goods of subheading 9027.81 or 9027.89	
+No.
+Free 1/		40%
+ 	Other:				
+9027.90.54	00  	Of electrophoresis instruments not incorporating an optical or other measuring device	
+kg
+Free 1/		40%
+9027.90.56	 	Of instruments and apparatus of subheading 9027.20, 9027.30, 9027.50, 9027.81 or 9027.89		Free 1/		40%
+9027.90.56.25	25  	Of articles of subheading 9027.20.50	
+kg
+9027.90.56.30	30  	Of articles of subheading 9027.30.40	
+kg
+9027.90.56.40	40  	Of articles of subheading 9027.50.10	
+kg
+9027.90.56.50	50  	Of articles of subheading 9027.50.40 1/	
+kg
+9027.90.56.95	95  	Other	
+kg
+9027.90.59	 	Other		Free 1/		40%
+9027.90.59.10	10  	Of articles of subheading 9027.10.20	
+kg
+9027.90.59.95	95  	Other	
+kg
+ 	Other:				
+ 	Of optical instruments and apparatus:				
+9027.90.64	00  	Of instruments and apparatus of subheading 9027.20, 9027.30, 9027.50, 9027.81 or 9027.89	
+kg
+Free 1/		50%
+9027.90.68	00  	Other	
+kg
+Free 1/		50%
+ 	Other:				
+9027.90.84	00  	Of instruments and apparatus of subheading 9027.20, 9027.30, 9027.50, 9027.81 or 9027.89	
+kg
+Free 1/		40%
+9027.90.88	00  	Other	
+kg
+Free 1/		40%
+9028	 	Gas, liquid or electricity supply or production meters, including calibrating meters thereof; parts and accessories thereof:				
+9028.10.00	00  	Gas meters	
+No.
+16¢ each + 2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$4.50 each + 65%
+9028.20.00	00  	Liquid meters	
+No.
+16¢ each + 2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$4.50 each + 65%
+9028.30.00	00  	Electricity meters	
+No.
+Free 1/		$4.50 each + 65%
+9028.90.00	 	Parts and accessories		Free 1/		65%
+9028.90.00.40	40  	Of electricity meters	
+kg
+9028.90.00.80	80  	Other	
+kg
+9029	 	Revolution counters, production counters, taximeters, odometers, pedometers and the like; speedometers and tachometers, other than those of heading 9014 or 9015; stroboscopes; parts and accessories thereof:				
+9029.10	 	Revolution counters, production counters, taximeters, odometers, pedometers and the like:				
+9029.10.40	00  	Taximeters	
+No.
+5.3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	85%
+9029.10.80	00  	Other 1/	
+No.
+Free 1/		35%
+9029.20	 	Speedometers and tachometers; stroboscopes:				
+9029.20.20	00  	Bicycle speedometers	
+No.
+6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+9029.20.40	 	Other speedometers and tachometers		Free 1/		35%
+9029.20.40.40	40  	For use in civil aircraft 1/	
+No.
+9029.20.40.80	80  	Other	
+No.
+9029.20.60	00  	Stroboscopes	
+No.
+16¢ each + 2.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$4.50 each + 65%
+9029.90	 	Parts and accessories:				
+9029.90.20	00  	Of taximeters	
+kg
+5.3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	85%
+9029.90.40	00  	Of bicycle speedometers	
+kg
+6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+9029.90.60	00  	Of stroboscopes	
+kg
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+9029.90.80	 	Other		Free 1/		35%
+9029.90.80.40	40  	Of speedometers and tachometers	
+kg
+9029.90.80.80	80  	Other	
+kg
+9030	 	Oscilloscopes, spectrum analyzers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 9028; instruments and apparatus for measuring or detecting alpha, beta, gamma, X-ray, cosmic or other ionizing radiations; parts and accessories thereof:​				
+9030.10.00	00  	Instruments and apparatus for measuring or detecting ionizing radiations	
+No.
+Free 1/		40%
+9030.20	 	Oscilloscopes and oscillographs:				
+9030.20.05	00  	Specially designed for telecommunications	
+No.
+Free 1/		40%
+9030.20.10	00  	Other oscilloscopes and oscillographs	
+No.
+Free 1/		40%
+ 	Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):				
+9030.31.00	00  	Multimeters, without a recording device	
+No.
+Free 1/		40%
+9030.32.00	00  	Multimeters, with a recording device	
+No.
+Free 1/		40%
+9030.33	 	Other, without a recording device:				
+9030.33.34	00  	Resistance measuring instruments	
+No.
+1.7% 1/	Free (A*, AU, B, BH, C, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9030.33.38	00  	Other	
+No.
+Free 1/		40%
+9030.39.01	00  	Other, with a recording device	
+No.
+Free 1/		40%
+9030.40.00	00  	Other instruments and apparatus, specially designed for telecommunications (for example, cross-talk meters, gain measuring instruments, distortion factor meters, psophometers)	
+No.
+Free 1/		40%
+ 	Other instruments and apparatus:				
+9030.82.00	00  	For measuring or checking semiconductor wafers or devices (including integrated circuits)	
+No.
+Free 1/		40%
+9030.84.00	00  	Other, with a recording device	
+No.
+Free 1/		40%
+9030.89.01	00  	Other	
+No.
+Free 1/		40%
+9030.90	 	Parts and accessories:				
+ 	For articles of subheading 9030.10:				
+9030.90.25	00  	Printed circuit assemblies	
+No.
+Free 1/		40%
+9030.90.46	00  	Other 1/	
+kg
+Free 1/		40%
+ 	Other:				
+ 	Printed circuit assemblies:				
+9030.90.66	00  	Of instruments and apparatus of subheading 9030.40 or 9030.82	
+No.
+Free 1/		40%
+9030.90.68	00  	Other	
+No.
+Free 1/		40%
+ 	Other:				
+9030.90.84	00  	Of instruments and apparatus of subheading 9030.82	
+kg
+Free 1/		40%
+9030.90.89	 	Other		Free 1/		40%
+9030.90.89.11	11  	Of articles of subheading 9030.20	
+kg
+9030.90.89.21	21  	Of articles of subheading 9030.31	
+kg
+9030.90.89.22	22  	Of articles of subheading 9030.32	
+kg
+9030.90.89.23	23  	Of articles of subheading 9030.33	
+kg
+9030.90.89.31	31  	Of articles of subheading 9030.39	
+kg
+9030.90.89.40	40  	Of articles of subheading 9030.40	
+kg
+9030.90.89.56	56  	Of articles of subheading 9030.84	
+kg
+9030.90.89.61	61  	Other	
+kg
+9031	 	Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this chapter; profile projectors; parts and accessories thereof:				
+9031.10.00	00  	Machines for balancing mechanical parts	
+No.
+Free 1/		40%
+9031.20.00	00  	Test benches	
+No.
+1.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other optical instruments and appliances:				
+9031.41.00	 	For inspecting semiconductor wafers or devices (including integrated circuits) or for inspecting photomasks or reticles used in manufacturing semiconductor devices (including integrated circuits)		Free 1/		50%
+9031.41.00.20	20  	For inspecting photomasks or reticles used in manufacturing semiconductor devices	
+No.
+ 	For inspecting semiconductor wafers or devices:				
+9031.41.00.40	40  	For wafers	
+No.
+9031.41.00.60	60  	Other	
+No.
+9031.49	 	Other:				
+9031.49.10	00  	Profile projectors	
+No.
+Free 1/		45%
+9031.49.40	00  	Coordinate-measuring machines	
+No.
+Free 1/		50%
+9031.49.70	00  	For inspecting masks (other than photomasks) used in manufacturing semiconductor devices; for measuring surface particulate contamination on semiconductor devices	
+No.
+Free 1/		50%
+9031.49.90	00  	Other	
+No.
+Free 1/		50%
+9031.80	 	Other instruments, appliances and machines:				
+9031.80.40	00  	Electron beam microscopes fitted with equipment specifically designed for the handling and transport of semiconductor wafers or reticles	
+No.
+Free 1/		40%
+9031.80.80	 	Other		Free 1/		40%
+ 	Equipment for testing the characteristics of internal combustion engines:				
+9031.80.80.60	60  	For testing electrical characteristics	
+kg
+9031.80.80.70	70  	Other	
+kg
+9031.80.80.85	85  	Other	
+kg
+9031.90	 	Parts and accessories:				
+9031.90.21	00  	Of profile projectors	
+kg
+Free 1/		45%
+ 	Of other optical instruments and appliances, other than test benches:				
+9031.90.45	00  	Bases and frames for the coordinate-measuring machines of subheading 9031.49.40	
+kg
+Free 1/		50%
+9031.90.54	00  	Of optical instruments and appliances of subheading 9031.41 or 9031.49.70	
+kg
+Free 1/		50%
+9031.90.59	00  	Other	
+kg
+Free 1/		50%
+ 	Other:				
+9031.90.70	00  	Of articles of subheading 9031.80.40	
+kg
+Free 1/		40%
+9031.90.91	 	Other		Free 1/		40%
+9031.90.91.30	30  	Of machines for balancing mechanical parts	
+kg
+9031.90.91.60	60  	Of test benches	
+kg
+9031.90.91.95	95  	Other	
+kg
+9032	 	Automatic regulating or controlling instruments and apparatus; parts and accessories thereof:				
+9032.10.00	 	Thermostats		1.7% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	For air conditioning, refrigeration or heating systems:				
+9032.10.00.30	30  	Designed for wall mounting 1/	
+No.
+9032.10.00.60	60  	Other	
+No.
+9032.10.00.90	90  	Other	
+No.
+9032.20.00	00  	Manostats	
+No.
+Free 1/		35%
+ 	Other instruments and apparatus:				
+9032.81.00	 	Hydraulic and pneumatic		Free 1/		35%
+ 	Industrial process control instruments and apparatus:				
+9032.81.00.20	20  	Hydraulic	
+No.
+9032.81.00.60	60  	Pneumatic	
+No.
+9032.81.00.80	80  	Other	
+No.
+9032.89	 	Other:				
+ 	Automatic voltage and voltage-current regulators:				
+9032.89.20	00  	Designed for use in a 6, 12 or 24 V system	
+No.
+1.1% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+9032.89.40	00  	Other 1/	
+No.
+1.7% 1/	Free (A, AU, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9032.89.60	 	Other		1.7% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Control instruments for air conditioning, refrigeration or heating systems:				
+9032.89.60.15	15  	Complete systems	
+No.
+9032.89.60.25	25  	Other	
+No.
+ 	Process control instruments and apparatus:				
+9032.89.60.30	30  	Complete systems	
+No.
+ 	Other:				
+9032.89.60.40	40  	Temperature control instruments	
+No.
+9032.89.60.50	50  	Pressure and draft control instruments	
+No.
+9032.89.60.60	60  	Flow and liquid level control instruments	
+No.
+9032.89.60.70	70  	Humidity control instruments	
+No.
+9032.89.60.75	75  	Other	
+kg
+9032.89.60.85	85  	Other	
+kg
+9032.90	 	Parts and accessories:				
+ 	Of automatic voltage and voltage-current regulators:				
+9032.90.21	00  	Designed for use in a 6, 12 or 24 V system	
+kg
+1.1% 1/	Free (A, AU, B, BH, C, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+9032.90.41	00  	Other	
+kg
+1.7% 1/	Free (A, AU, BH, C, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+9032.90.61	 	Other		1.7% 1/	Free (A, AU, B, BH, C, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+9032.90.61.20	20  	Of thermostats	
+kg
+9032.90.61.40	40  	Of manostats	
+kg
+9032.90.61.60	60  	Of instruments and apparatus of subheading 9032.81	
+kg
+9032.90.61.80	80  	Other	
+kg
+9033.00	 	Parts and accessories (not specified or included elsewhere in this chapter) for machines, appliances, instruments or apparatus of chapter 90:				
+9033.00.20	00  	Light-emitting diode (LED) backlights modules, the foregoing which are lighting sources that consist of one or more LEDs and one or more connectors and are mounted on a printed circuit or other similar substrate, and other passive components, whether or not combined with optical components or protective diodes, and used as backlights illumination for liquid crystal displays (LCDs)	
+No.
+Free 1/		40%
+9033.00.30	00  	Touch-sensitive data input devices (so-called “touch screens”) without display capabilities, for incorporation into apparatus having a display, which function by detecting the presence and location of a touch within the display area (such sensing may be obtained by means of resistance, electrostatic capacity, acoustic pulse recognition, infrared lights or other touch-sensitive technology)	
+No.
+Free 1/		40%
+9033.00.90	00  	Other	
+kg
+4.4% 1/	Free (A*, AU, B, BH, C, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%

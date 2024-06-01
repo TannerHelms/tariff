@@ -1,0 +1,1349 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+5501	 	Synthetic filament tow:				
+ 	Of nylon or other polyamides:				
+5501.11.00	00  	Of aramids	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+5501.19.00	00  	Other	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+5501.20.00	00  	Of polyesters 1/	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+5501.30.00	 	Acrylic or modacrylic		7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+5501.30.00.10	10  	Containing 92 percent or more by weight of acrylonitrile units with filaments numbering fewer than 70,000 (+/-2000) with filament diameter 1.59 decitex (plus or minus 0.027) or less, or in a separable tow construction capable of being separated into tows of 70,000 (+/-2000) or fewer with filament diameter 1.59 decitex (plus or minus 0.027) or less.	
+kg
+5501.30.00.90	90  	Other	
+kg
+5501.40.00	00  	Of polypropylene 1/	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+5501.90.01	00  	Other	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+5502	 	Artificial filament tow:				
+5502.10.00	00  	Of cellulose acetate	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+5502.90.00	00  	Other	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+5503	 	Synthetic staple fibers, not carded, combed or otherwise processed for spinning:				
+ 	Of nylon or other polyamides:				
+5503.11.00	00  	Of aramids	
+kg
+4.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+5503.19	 	Other:				
+5503.19.10	00  	Containing 10 percent or more by weight of nylon 12	
+kg
+Free 1/		25%
+5503.19.90	00  	Other	
+kg
+4.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+5503.20.00	 	Of polyesters		4.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+5503.20.00.15	15  	Bi-component fibers having an outer copolymer sheath that melts at a lower temperature than the core, of a kind used for bonding fibers together	
+kg
+ 	Other:				
+5503.20.00.25	25  	Measuring less than 3.3 decitex	
+kg
+5503.20.00.45	45  	Measuring 3.3 decitex or more but less than 13.2 decitex	
+kg
+5503.20.00.65	65  	Measuring 13.2 decitex or more	
+kg
+5503.30.00	00  	Acrylic or modacrylic	
+kg
+4.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+5503.40.00	00  	Of polypropylene	
+kg
+4.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+5503.90	 	Other:				
+5503.90.10	00  	Of vinyon	
+kg
+Free 1/		25%
+5503.90.90	00  	Other	
+kg
+4.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+5504	 	Artificial staple fibers, not carded, combed or otherwise processed for spinning:				
+5504.10.00	00  	Of viscose rayon 1/	
+kg
+4.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+5504.90.00	00  	Other	
+kg
+4.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+5505	 	Waste (including noils, yarn waste and garnetted stock) of man-made fibers:				
+5505.10.00	 	Of synthetic fibers		Free 1/		10%
+5505.10.00.20	20  	Of nylon or other polyamides	
+kg
+5505.10.00.40	40  	Of polyesters	
+kg
+5505.10.00.60	60  	Other	
+kg
+5505.20.00	00  	Of artificial fibers	
+kg
+Free 1/		10%
+5506	 	Synthetic staple fibers, carded, combed or otherwise processed for spinning:				
+5506.10.00	00  	Of nylon or other polyamides	
+kg
+5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.5%
+5506.20.00	00  	Of polyesters	
+kg
+5.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.5%
+5506.30.00	00  	Acrylic or modacrylic	
+kg
+5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.5%
+5506.40.00	00  	Of polypropylene	
+kg
+5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.5%
+5506.90.01	00  	Other	
+kg
+5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.5%
+5507.00.00	00  	Artificial staple fibers, carded, combed or otherwise processed for spinning	
+kg
+5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.5%
+5508	 	Sewing thread of man-made staple fibers, whether or not put up for retail sale:				
+5508.10.00	00  	Of synthetic staple fibers (200)	
+kg
+11.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5508.20.00	00  	Of artificial staple fibers (200)	
+kg
+11% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5509	 	Yarn (other than sewing thread) of synthetic staple fibers, not put up for retail sale:				
+ 	Containing 85 percent or more by weight of staple fibers of nylon or other polyamides:				
+5509.11.00	00  	Single yarn (604)	
+kg
+9.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54%
+5509.12.00	00  	Multiple (folded) or cabled yarn (604)	
+kg
+10.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+ 	Containing 85 percent or more by weight of polyester staple fibers:				
+5509.21.00	00  	Single yarn (604)	
+kg
+9.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54%
+5509.22.00	 	Multiple (folded) or cabled yarn		10.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+5509.22.00.10	10  	Multiple (folded), with a final "Z" twist (200)	
+kg
+5509.22.00.90	90  	Other (604)	
+kg
+ 	Containing 85 percent or more by weight of acrylic or modacrylic staple fibers:				
+5509.31.00	00  	Single yarn (604)	
+kg
+9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54%
+5509.32.00	00  	Multiple (folded) or cabled yarn (604)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+ 	Other yarn, containing 85 percent or more by weight of synthetic staple fibers:				
+5509.41.00	 	Single yarn		9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54%
+5509.41.00.10	10  	Of polyvinyl alcohol (PVA) fibers (604)	
+kg
+5509.41.00.90	90  	Other (604)	
+kg
+5509.42.00	 	Multiple (folded) or cabled yarn		7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+5509.42.00.10	10  	Of polyvinyl alcohol (PVA) fibers (604)	
+kg
+5509.42.00.90	90  	Other (604)	
+kg
+ 	Other yarn, of polyester staple fibers:				
+5509.51	 	Mixed mainly or solely with artificial staple fibers:				
+5509.51.30	00  	Single yarn (607)	
+kg
+9.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54%
+5509.51.60	00  	Multiple (folded) or cabled yarn (607)	
+kg
+10.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+5509.52.00	00  	Mixed mainly or solely with wool or fine animal hair (607)	
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5509.53.00	 	Mixed mainly or solely with cotton		13.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5509.53.00.30	30  	Not exceeding 52 nm (607)	
+kg
+5509.53.00.60	60  	Exceeding 52 nm (607)	
+kg
+5509.59.00	00  	Other (607)	
+kg
+13.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Other yarn, of acrylic or modacrylic staple fibers:				
+5509.61.00	00  	Mixed mainly or solely with wool or fine animal hair (607)	
+kg
+13.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5509.62.00	00  	Mixed mainly or solely with cotton (607)	
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5509.69	 	Other:				
+ 	Mixed mainly or solely with artificial staple fibers:				
+5509.69.20	00  	Single yarn (607)	
+kg
+9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54%
+5509.69.40	00  	Multiple (folded) or cabled yarn (607)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+5509.69.60	00  	Other (607)	
+kg
+13.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Other yarn:				
+5509.91.00	00  	Mixed mainly or solely with wool or fine animal hair (607)	
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5509.92.00	00  	Mixed mainly or solely with cotton (607)	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5509.99	 	Other:				
+ 	Mixed mainly or solely with artificial staple fibers:				
+5509.99.20	00  	Single yarn (607)	
+kg
+9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54%
+5509.99.40	00  	Multiple (folded) or cabled yarn (607)	
+kg
+10.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+5509.99.60	00  	Other (607)	
+kg
+13.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5510	 	Yarn (other than sewing thread) of artificial staple fibers, not put up for retail sale:				
+ 	Containing 85 percent or more by weight of artificial staple fibers:				
+5510.11.00	00  	Single yarn (603)	
+kg
+9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54%
+5510.12.00	00  	Multiple (folded) or cabled yarn (603)	
+kg
+10.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+5510.20.00	00  	Other yarn, mixed mainly or solely with wool or fine animal hair (607)	
+kg
+10.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5510.30.00	00  	Other yarn, mixed mainly or solely with cotton (607)	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5510.90	 	Other yarn:				
+ 	Mixed mainly or solely with synthetic staple fibers:				
+5510.90.20	00  	Single yarn (607)	
+kg
+9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54%
+5510.90.40	00  	Multiple (folded) or cabled yarn (607)	
+kg
+10.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	61.5%
+5510.90.60	00  	Other (607)	
+kg
+13.2% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5511	 	Yarn (other than sewing thread) of man-made staple fibers, put up for retail sale:				
+5511.10.00	 	Of synthetic staple fibers, containing 85 percent or more by weight of such fibers		7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5511.10.00.30	30  	Acrylic or modacrylic (200)	
+kg
+5511.10.00.60	60  	Other (200)	
+kg
+5511.20.00	00  	Of synthetic staple fibers, containing less than 85 percent by weight of such fibers (200)	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5511.30.00	00  	Of artificial staple fibers (200)	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5512	 	Woven fabrics of synthetic staple fibers, containing 85 percent or more by weight of synthetic staple fibers:				
+ 	Containing 85 percent or more by weight of polyester staple fibers:				
+5512.11.00	 	Unbleached or bleached		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5512.11.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+ 	Sheeting:				
+5512.11.00.22	22  	Of a width exceeding 254 cm (613)	
+m²
+kg
+5512.11.00.27	27  	Other (613)	
+m²
+kg
+5512.11.00.30	30  	Printcloth (615)	
+m²
+kg
+5512.11.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5512.11.00.50	50  	Duck (219)	
+m²
+kg
+5512.11.00.60	60  	Satin weave or twill weave (617)	
+m²
+kg
+5512.11.00.70	70  	Oxford cloth (227)	
+m²
+kg
+5512.11.00.90	90  	Other (220)	
+m²
+kg
+5512.19.00	 	Other		13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5512.19.00.05	05  	Of yarns of different colors, except blue denim or jacquard weave (218)	
+m²
+kg
+5512.19.00.10	10  	Blue denim (225)	
+m²
+kg
+ 	Other:				
+5512.19.00.15	15  	Poplin or broadcloth (614)	
+m²
+kg
+ 	Sheeting:				
+5512.19.00.22	22  	Of a width exceeding 254 cm (613)	
+m²
+kg
+5512.19.00.27	27  	Other (613)	
+m²
+kg
+5512.19.00.30	30  	Printcloth (615)	
+m²
+kg
+5512.19.00.35	35  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5512.19.00.40	40  	Duck (219)	
+m²
+kg
+5512.19.00.45	45  	Satin weave or twill weave (617)	
+m²
+kg
+5512.19.00.50	50  	Oxford cloth (227)	
+m²
+kg
+5512.19.00.90	90  	Other (220) 1/	
+m²
+kg
+ 	Containing 85 percent of more by weight of acrylic or modacrylic staple fibers:				
+5512.21.00	 	Unbleached or bleached		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5512.21.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5512.21.00.20	20  	Sheeting (613)	
+m²
+kg
+5512.21.00.30	30  	Printcloth (615)	
+m²
+kg
+5512.21.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5512.21.00.50	50  	Duck (219)	
+m²
+kg
+5512.21.00.60	60  	Satin weave or twill weave (617)	
+m²
+kg
+5512.21.00.70	70  	Oxford cloth (227)	
+m²
+kg
+5512.21.00.90	90  	Other (220)	
+m²
+kg
+5512.29.00	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5512.29.00.05	05  	Of yarns of different colors, except blue denim or jacquard weave (218)	
+m²
+kg
+5512.29.00.10	10  	Blue denim (225)	
+m²
+kg
+ 	Other:				
+5512.29.00.15	15  	Poplin or broadcloth (614)	
+m²
+kg
+5512.29.00.20	20  	Sheeting (613)	
+m²
+kg
+5512.29.00.25	25  	Printcloth (615)	
+m²
+kg
+5512.29.00.30	30  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5512.29.00.35	35  	Duck (219)	
+m²
+kg
+5512.29.00.40	40  	Satin weave or twill weave (617)	
+m²
+kg
+5512.29.00.45	45  	Oxford cloth (227)	
+m²
+kg
+5512.29.00.90	90  	Other (220)	
+m²
+kg
+ 	Other:				
+5512.91.00	 	Unbleached or bleached		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5512.91.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5512.91.00.20	20  	Sheeting (613)	
+m²
+kg
+5512.91.00.30	30  	Printcloth (615)	
+m²
+kg
+5512.91.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5512.91.00.50	50  	Duck (219)	
+m²
+kg
+5512.91.00.60	60  	Satin weave or twill weave (617)	
+m²
+kg
+5512.91.00.70	70  	Oxford cloth (227)	
+m²
+kg
+5512.91.00.90	90  	Other (220)	
+m²
+kg
+5512.99.00	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5512.99.00.05	05  	Of yarns of different colors, except blue denim or jacquard weave (218)	
+m²
+kg
+5512.99.00.10	10  	Blue denim (225)	
+m²
+kg
+ 	Other:				
+5512.99.00.15	15  	Poplin or broadcloth (614)	
+m²
+kg
+5512.99.00.20	20  	Sheeting (613)	
+m²
+kg
+5512.99.00.25	25  	Printcloth (615)	
+m²
+kg
+5512.99.00.30	30  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5512.99.00.35	35  	Duck (219)	
+m²
+kg
+5512.99.00.40	40  	Satin weave or twill weave (617)	
+m²
+kg
+5512.99.00.45	45  	Oxford cloth (227)	
+m²
+kg
+5512.99.00.90	90  	Other (220)	
+m²
+kg
+5513	 	Woven fabrics of synthetic staple fibers, containing less than 85 percent by weight of such fibers, mixed mainly or solely with cotton, of a weight not exceeding 170 g/m²:				
+ 	Unbleached or bleached:				
+5513.11.00	 	Of polyester staple fibers, plain weave		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.11.00.20	20  	Poplin or broadcloth (614)	
+m²
+kg
+5513.11.00.40	40  	Sheeting (613)	
+m²
+kg
+5513.11.00.60	60  	Printcloth (615)	
+m²
+kg
+5513.11.00.90	90  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5513.12.00	00  	3-thread or 4-thread twill, including cross twill, of polyester staple fibers (617)	
+m²
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.13.00	 	Other woven fabrics of polyester staple fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.13.00.20	20  	Satin weave or twill weave (617)	
+m²
+kg
+5513.13.00.40	40  	Oxford cloth (227)	
+m²
+kg
+5513.13.00.90	90  	Other (220)	
+m²
+kg
+5513.19.00	 	Other woven fabrics		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.19.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5513.19.00.20	20  	Sheeting (613)	
+m²
+kg
+5513.19.00.30	30  	Printcloth (615)	
+m²
+kg
+5513.19.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5513.19.00.50	50  	Satin weave or twill weave (617)	
+m²
+kg
+5513.19.00.60	60  	Oxford cloth (227)	
+m²
+kg
+5513.19.00.90	90  	Other (220)	
+m²
+kg
+ 	Dyed:				
+5513.21.00	 	Of polyester staple fibers, plain weave		14.9%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.21.00.20	20  	Poplin or broadcloth (614)	
+m²
+kg
+5513.21.00.40	40  	Sheeting (613)	
+m²
+kg
+5513.21.00.60	60  	Printcloth (615)	
+m²
+kg
+5513.21.00.90	90  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5513.23.01	 	Other woven fabrics of polyester staple fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.23.01.21	21  	Satin weave or twill weave (617)	
+m²
+kg
+5513.23.01.41	41  	Oxford cloth (227)	
+m²
+kg
+5513.23.01.91	91  	Other (220)	
+m²
+kg
+5513.29.00	 	Other woven fabrics		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.29.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5513.29.00.20	20  	Sheeting (613)	
+m²
+kg
+5513.29.00.30	30  	Printcloth (615)	
+m²
+kg
+5513.29.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5513.29.00.50	50  	Satin weave or twill weave (617)	
+m²
+kg
+5513.29.00.60	60  	Oxford cloth (227)	
+m²
+kg
+5513.29.00.90	90  	Other (220)	
+m²
+kg
+ 	Of yarns of different colors:				
+5513.31.00	00  	Of polyester staple fibers, plain weave (218)	
+m²
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.39.01	 	Other woven fabrics		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.39.01.11	11  	Jacquard weave (220)	
+m²
+kg
+5513.39.01.15	15  	Oxford cloth (218)	
+m²
+kg
+5513.39.01.91	91  	Other (218)	
+m²
+kg
+ 	Printed:				
+5513.41.00	 	Of polyester staple fibers, plain weave		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.41.00.20	20  	Poplin or broadcloth (614)	
+m²
+kg
+5513.41.00.40	40  	Sheeting (613)	
+m²
+kg
+5513.41.00.60	60  	Printcloth (615)	
+m²
+kg
+5513.41.00.90	90  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5513.49	 	Other woven fabrics:				
+5513.49.10	00  	3-thread or 4-thread twill, including cross twill, of polyester staple fibers (617)	
+m²
+kg
+13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.49.20	 	Other woven fabrics of polyester staple fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.49.20.20	20  	Satin weave or twill weave (617)	
+m²
+kg
+5513.49.20.40	40  	Oxford cloth (227)	
+m²
+kg
+5513.49.20.90	90  	Other (220)	
+m²
+kg
+5513.49.90	 	Other		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5513.49.90.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5513.49.90.20	20  	Sheeting (613)	
+m²
+kg
+5513.49.90.30	30  	Printcloth (615)	
+m²
+kg
+5513.49.90.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5513.49.90.50	50  	Satin weave or twill weave (617)	
+m²
+kg
+5513.49.90.60	60  	Oxford cloth (227)	
+m²
+kg
+5513.49.90.90	90  	Other (220)	
+m²
+kg
+5514	 	Woven fabrics of synthetic staple fibers, containing less than 85 percent by weight of such fibers, mixed mainly or solely with cotton, of a weight exceeding 170 g/m²:				
+ 	Unbleached or bleached:				
+5514.11.00	 	Of polyester staple fibers, plain weave		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.11.00.20	20  	Poplin or broadcloth (614)	
+m²
+kg
+ 	Sheeting:				
+5514.11.00.30	30  	Not napped (613)	
+m²
+kg
+5514.11.00.50	50  	Napped (613)	
+m²
+kg
+5514.11.00.90	90  	Plain weave duck (219)	
+m²
+kg
+5514.12.00	 	3-thread or 4-thread twill, including cross twill, of polyester staple fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.12.00.20	20  	Not napped (617)	
+m²
+kg
+5514.12.00.40	40  	Napped (617)	
+m²
+kg
+5514.19	 	Other woven fabrics:				
+5514.19.10	 	Woven fabrics of polyester staple fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.19.10.20	20  	Satin weave or twill weave (617)	
+m²
+kg
+5514.19.10.40	40  	Duck, except plain weave (219)	
+m²
+kg
+5514.19.10.90	90  	Other (220)	
+m²
+kg
+5514.19.90	 	Other		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.19.90.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5514.19.90.20	20  	Sheeting (613)	
+m²
+kg
+5514.19.90.30	30  	Duck (219)	
+m²
+kg
+5514.19.90.40	40  	Satin weave or twill weave (617)	
+m²
+kg
+5514.19.90.90	90  	Other (220)	
+m²
+kg
+ 	Dyed:				
+5514.21.00	 	Of polyester staple fibers, plain weave		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.21.00.20	20  	Poplin or broadcloth (614)	
+m²
+kg
+ 	Sheeting:				
+5514.21.00.30	30  	Not napped (613)	
+m²
+kg
+5514.21.00.50	50  	Napped (613)	
+m²
+kg
+5514.21.00.90	90  	Plain weave duck (219)	
+m²
+kg
+5514.22.00	 	3-thread or 4-thread twill, including cross twill, of polyester staple fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.22.00.20	20  	Not napped (617)	
+m²
+kg
+5514.22.00.40	40  	Napped (617)	
+m²
+kg
+5514.23.00	 	Other woven fabrics of polyester staple fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.23.00.20	20  	Satin weave or twill weave (617)	
+m²
+kg
+5514.23.00.40	40  	Duck, except plain weave (219)	
+m²
+kg
+5514.23.00.90	90  	Other (220)	
+m²
+kg
+5514.29.00	 	Other woven fabrics		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.29.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5514.29.00.20	20  	Sheeting (613)	
+m²
+kg
+5514.29.00.30	30  	Duck (219)	
+m²
+kg
+5514.29.00.40	40  	Satin weave or twill weave (617)	
+m²
+kg
+5514.29.00.90	90  	Other (220)	
+m²
+kg
+5514.30	 	Of yarns of different colors:				
+5514.30.31	00  	Of polyester staple fibers, plain weave (218)	
+m²
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.30.32	 	3-thread or 4-thread twill, including cross twill, of polyester staple fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Denim:				
+5514.30.32.10	10  	Blue denim (225)	
+m²
+kg
+5514.30.32.15	15  	Other denim (218)	
+m²
+kg
+5514.30.32.80	80  	Other (218)	
+m²
+kg
+5514.30.33	 	Other woven fabrics of polyester staple fibers		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.30.33.10	10  	Jacquard weave (220)	
+m²
+kg
+5514.30.33.90	90  	Other (218)	
+m²
+kg
+5514.30.39	 	Other woven fabrics		Free 1/		81%
+5514.30.39.10	10  	Blue denim (225)	
+m²
+kg
+5514.30.39.20	20  	Jacquard weave (220)	
+m²
+kg
+5514.30.39.90	90  	Other (218)	
+m²
+kg
+ 	Printed:				
+5514.41.00	 	Of polyester staple fibers, plain weave		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.41.00.20	20  	Poplin or broadcloth (614)	
+m²
+kg
+ 	Sheeting:				
+5514.41.00.30	30  	Not napped (613)	
+m²
+kg
+5514.41.00.50	50  	Napped (613)	
+m²
+kg
+5514.41.00.90	90  	Plain weave duck (219)	
+m²
+kg
+5514.42.00	 	3-thread or 4-thread twill, including cross twill, of polyester staple fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.42.00.20	20  	Not napped (617)	
+m²
+kg
+5514.42.00.40	40  	Napped (617)	
+m²
+kg
+5514.43.00	 	Other woven fabrics of polyester staple fibers		Free 1/		81%
+5514.43.00.20	20  	Satin weave or twill weave (617)	
+m²
+kg
+5514.43.00.40	40  	Duck, except plain weave (219)	
+m²
+kg
+5514.43.00.90	90  	Other (220)	
+m²
+kg
+5514.49.00	 	Other woven fabrics		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5514.49.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5514.49.00.20	20  	Sheeting (613)	
+m²
+kg
+5514.49.00.30	30  	Duck (219)	
+m²
+kg
+5514.49.00.40	40  	Satin weave or twill weave (617)	
+m²
+kg
+5514.49.00.90	90  	Other (220)	
+m²
+kg
+5515	 	Other woven fabrics of synthetic staple fibers:				
+ 	Of polyester staple fibers:				
+5515.11.00	 	Mixed mainly or solely with viscose rayon staple fibers		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5515.11.00.05	05  	Of yarns of different colors, except blue denim or jacquard weave (218)	
+m²
+kg
+5515.11.00.10	10  	Blue denim (225)	
+m²
+kg
+ 	Other:				
+5515.11.00.15	15  	Poplin or broadcloth (614)	
+m²
+kg
+5515.11.00.20	20  	Sheeting (613)	
+m²
+kg
+5515.11.00.25	25  	Printcloth (615)	
+m²
+kg
+5515.11.00.30	30  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5515.11.00.35	35  	Duck (219)	
+m²
+kg
+5515.11.00.40	40  	Satin weave or twill weave (617)	
+m²
+kg
+5515.11.00.45	45  	Oxford cloth (227)	
+m²
+kg
+5515.11.00.90	90  	Other (220)	
+m²
+kg
+5515.12.00	 	Mixed mainly or solely with man-made filaments		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5515.12.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+ 	Sheeting:				
+5515.12.00.22	22  	Of a width exceeding 254 cm (627)	
+m²
+kg
+5515.12.00.27	27  	Other (627)	
+m²
+kg
+5515.12.00.30	30  	Printcloth (626)	
+m²
+kg
+5515.12.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+5515.12.00.90	90  	Other (629)	
+m²
+kg
+5515.13	 	Mixed mainly or solely with wool or fine animal hair:				
+5515.13.05	 	Containing 36 percent or more by weight of wool or fine animal hair		25% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5515.13.05.10	10  	Not combed (410)	
+m²
+kg
+5515.13.05.20	20  	Combed (410)	
+m²
+kg
+5515.13.10	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+5515.13.10.10	10  	Not combed (624)	
+m²
+kg
+5515.13.10.20	20  	Combed (624)	
+m²
+kg
+5515.19.00	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5515.19.00.05	05  	Of yarns of different colors, except blue denim or jacquard weave (218)	
+m²
+kg
+5515.19.00.10	10  	Blue denim (225)	
+m²
+kg
+ 	Other:				
+5515.19.00.15	15  	Poplin or broadcloth (614)	
+m²
+kg
+5515.19.00.20	20  	Sheeting (613)	
+m²
+kg
+5515.19.00.25	25  	Printcloth (615)	
+m²
+kg
+5515.19.00.30	30  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5515.19.00.35	35  	Duck (219)	
+m²
+kg
+5515.19.00.40	40  	Satin weave or twill weave (617)	
+m²
+kg
+5515.19.00.45	45  	Oxford cloth (227)	
+m²
+kg
+5515.19.00.90	90  	Other (220)	
+m²
+kg
+ 	Of acrylic or modacrylic staple fibers:				
+5515.21.00	 	Mixed mainly or solely with man-made filaments		Free 1/		81%
+5515.21.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+5515.21.00.20	20  	Sheeting (627)	
+m²
+kg
+5515.21.00.30	30  	Printcloth (626)	
+m²
+kg
+5515.21.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+5515.21.00.90	90  	Other (629)	
+m²
+kg
+5515.22	 	Mixed mainly or solely with wool or fine animal hair:				
+5515.22.05	 	Containing 36 percent or more by weight of wool or fine animal hair		20.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5515.22.05.10	10  	Not combed (410)	
+m²
+kg
+5515.22.05.20	20  	Combed (410)	
+m²
+kg
+5515.22.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+5515.29.00	 	Other		Free 1/		81%
+5515.29.00.05	05  	Of yarns of different colors, except blue denim or jacquard weave (218)	
+m²
+kg
+5515.29.00.10	10  	Blue denim (225)	
+m²
+kg
+ 	Other:				
+5515.29.00.15	15  	Poplin or broadcloth (614)	
+m²
+kg
+5515.29.00.20	20  	Sheeting (613)	
+m²
+kg
+5515.29.00.25	25  	Printcloth (615)	
+m²
+kg
+5515.29.00.30	30  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5515.29.00.35	35  	Duck (219)	
+m²
+kg
+5515.29.00.40	40  	Satin weave or twill weave (617)	
+m²
+kg
+5515.29.00.45	45  	Oxford cloth (227)	
+m²
+kg
+5515.29.00.90	90  	Other (220)	
+m²
+kg
+ 	Other woven fabrics:				
+5515.91.00	 	Mixed mainly or solely with man-made filaments		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5515.91.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+5515.91.00.20	20  	Sheeting (627)	
+m²
+kg
+5515.91.00.30	30  	Printcloth (626)	
+m²
+kg
+5515.91.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+5515.91.00.90	90  	Other (629)	
+m²
+kg
+5515.99	 	Other:				
+ 	Mixed mainly or solely with wool or fine animal hair:				
+5515.99.05	 	Containing 36 percent or more by weight of wool or fine animal hair		25% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5515.99.05.10	10  	Not combed (410)	
+m²
+kg
+5515.99.05.20	20  	Combed (410)	
+m²
+kg
+5515.99.10	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+5515.99.10.10	10  	Not combed (624)	
+m²
+kg
+5515.99.10.20	20  	Combed (624)	
+m²
+kg
+5515.99.90	 	Other		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5515.99.90.05	05  	Of yarns of different colors, except blue denim or jacquard weave (218)	
+m²
+kg
+5515.99.90.10	10  	Blue denim (225)	
+m²
+kg
+ 	Other:				
+5515.99.90.15	15  	Poplin or broadcloth (614)	
+m²
+kg
+5515.99.90.20	20  	Sheeting (613)	
+m²
+kg
+5515.99.90.25	25  	Printcloth (615)	
+m²
+kg
+5515.99.90.30	30  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5515.99.90.35	35  	Duck (219)	
+m²
+kg
+5515.99.90.40	40  	Satin weave or twill weave (617)	
+m²
+kg
+5515.99.90.45	45  	Oxford cloth (227)	
+m²
+kg
+5515.99.90.90	90  	Other (220)	
+m²
+kg
+5516	 	Woven fabrics of artificial staple fibers:				
+ 	Containing 85 percent or more by weight of artificial staple fibers:				
+5516.11.00	 	Unbleached or bleached		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.11.00.10	10  	Plain weave (611)	
+m²
+kg
+5516.11.00.20	20  	Satin weave or twill weave (611)	
+m²
+kg
+5516.11.00.90	90  	Other (611)	
+m²
+kg
+5516.12.00	 	Dyed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.12.00.10	10  	Plain weave (611)	
+m²
+kg
+5516.12.00.20	20  	Satin weave or twill weave (611)	
+m²
+kg
+5516.12.00.90	90  	Other (611)	
+m²
+kg
+5516.13.00	00  	Of yarns of different colors (611)	
+m²
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.14.00	 	Printed		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Plain weave:				
+5516.14.00.05	05  	Discharge printed (611)	
+m²
+kg
+5516.14.00.15	15  	Other (611)	
+m²
+kg
+ 	Satin weave or twill weave:				
+5516.14.00.25	25  	Discharge printed (611)	
+m²
+kg
+5516.14.00.30	30  	Other (611)	
+m²
+kg
+ 	Other:				
+5516.14.00.85	85  	Discharge printed (611)	
+m²
+kg
+5516.14.00.95	95  	Other (611)	
+m²
+kg
+ 	Containing less than 85 percent by weight of artificial staple fibers, mixed mainly or solely with man-made filaments:				
+5516.21.00	 	Unbleached or bleached		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.21.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+5516.21.00.20	20  	Sheeting (627)	
+m²
+kg
+5516.21.00.30	30  	Printcloth (626)	
+m²
+kg
+5516.21.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+5516.21.00.90	90  	Other (629)	
+m²
+kg
+5516.22.00	 	Dyed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.22.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+5516.22.00.20	20  	Sheeting (627)	
+m²
+kg
+5516.22.00.30	30  	Printcloth (626)	
+m²
+kg
+5516.22.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+5516.22.00.90	90  	Other (629)	
+m²
+kg
+5516.23.00	 	Of yarns of different colors		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.23.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+5516.23.00.20	20  	Sheeting (627)	
+m²
+kg
+5516.23.00.30	30  	Printcloth (626)	
+m²
+kg
+5516.23.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+5516.23.00.90	90  	Other (629)	
+m²
+kg
+5516.24.00	 	Printed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.24.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+5516.24.00.20	20  	Sheeting (627)	
+m²
+kg
+5516.24.00.30	30  	Printcloth (626)	
+m²
+kg
+5516.24.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+ 	Other:				
+5516.24.00.85	85  	Discharge printed (629)	
+m²
+kg
+5516.24.00.95	95  	Other (629)	
+m²
+kg
+ 	Containing less than 85 percent by weight of artificial staple fibers, mixed mainly or solely with wool or fine animal hair:				
+5516.31	 	Unbleached or bleached:				
+5516.31.05	 	Containing 36 percent or more by weight of wool or fine animal hair		19.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5516.31.05.10	10  	Not combed (410)	
+m²
+kg
+5516.31.05.20	20  	Combed (410)	
+m²
+kg
+5516.31.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+5516.32	 	Dyed:				
+5516.32.05	 	Containing 36 percent or more by weight of wool or fine animal hair		25% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5516.32.05.10	10  	Not combed (410)	
+m²
+kg
+5516.32.05.20	20  	Combed (410)	
+m²
+kg
+5516.32.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+5516.33	 	Of yarns of different colors:				
+5516.33.05	 	Containing 36 percent or more by weight of wool or fine animal hair		25% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5516.33.05.10	10  	Not combed (410)	
+m²
+kg
+5516.33.05.20	20  	Combed (410)	
+m²
+kg
+5516.33.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+5516.34	 	Printed:				
+5516.34.05	 	Containing 36 percent or more by weight of wool or fine animal hair		19.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5516.34.05.10	10  	Not combed (410)	
+m²
+kg
+5516.34.05.20	20  	Combed (410)	
+m²
+kg
+5516.34.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+ 	Containing less than 85 percent by weight of artificial staple fibers, mixed mainly or solely with cotton:				
+5516.41.00	 	Unbleached or bleached		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.41.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+ 	Sheeting:				
+5516.41.00.22	22  	Of a width exceeding 127 cm (613)	
+m²
+kg
+5516.41.00.27	27  	Other (613)	
+m²
+kg
+5516.41.00.30	30  	Printcloth (615)	
+m²
+kg
+5516.41.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5516.41.00.50	50  	Duck (219)	
+m²
+kg
+5516.41.00.60	60  	Satin weave or twill weave (617)	
+m²
+kg
+5516.41.00.70	70  	Oxford cloth (227)	
+m²
+kg
+5516.41.00.90	90  	Other (220)	
+m²
+kg
+5516.42.00	 	Dyed		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.42.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+ 	Sheeting:				
+5516.42.00.22	22  	Of a width exceeding 127 cm (613)	
+m²
+kg
+5516.42.00.27	27  	Other (613)	
+m²
+kg
+5516.42.00.30	30  	Printcloth (615)	
+m²
+kg
+5516.42.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5516.42.00.50	50  	Duck (219)	
+m²
+kg
+5516.42.00.60	60  	Satin weave or twill weave (617)	
+m²
+kg
+5516.42.00.70	70  	Oxford cloth (227)	
+m²
+kg
+5516.42.00.90	90  	Other (220)	
+m²
+kg
+5516.43.00	 	Of yarns of different colors		Free 1/		81%
+ 	Denim:				
+5516.43.00.10	10  	Blue denim (225)	
+m²
+kg
+5516.43.00.15	15  	Other denim (218)	
+m²
+kg
+5516.43.00.20	20  	Jacquard weave (220)	
+m²
+kg
+ 	Other:				
+5516.43.00.35	35  	Of a width exceeding 127 cm (218)	
+m²
+kg
+5516.43.00.80	80  	Other (218)	
+m²
+kg
+5516.44.00	 	Printed		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.44.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+ 	Sheeting:				
+5516.44.00.22	22  	Of a width exceeding 127 cm (613)	
+m²
+kg
+5516.44.00.27	27  	Other (613)	
+m²
+kg
+5516.44.00.30	30  	Printcloth (615)	
+m²
+kg
+5516.44.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5516.44.00.50	50  	Duck (219)	
+m²
+kg
+5516.44.00.60	60  	Satin weave or twill weave (617)	
+m²
+kg
+5516.44.00.70	70  	Oxford cloth (227)	
+m²
+kg
+5516.44.00.90	90  	Other (220)	
+m²
+kg
+ 	Other:				
+5516.91.00	 	Unbleached or bleached		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.91.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5516.91.00.20	20  	Sheeting (613)	
+m²
+kg
+5516.91.00.30	30  	Printcloth (615)	
+m²
+kg
+5516.91.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5516.91.00.50	50  	Duck (219)	
+m²
+kg
+5516.91.00.60	60  	Satin weave or twill weave (617)	
+m²
+kg
+5516.91.00.70	70  	Oxford cloth (227)	
+m²
+kg
+5516.91.00.90	90  	Other (220)	
+m²
+kg
+5516.92.00	 	Dyed		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.92.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5516.92.00.20	20  	Sheeting (613)	
+m²
+kg
+5516.92.00.30	30  	Printcloth (615)	
+m²
+kg
+5516.92.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5516.92.00.50	50  	Duck (219)	
+m²
+kg
+5516.92.00.60	60  	Satin weave or twill weave (617)	
+m²
+kg
+5516.92.00.70	70  	Oxford cloth (227)	
+m²
+kg
+5516.92.00.90	90  	Other (220)	
+m²
+kg
+5516.93.00	 	Of yarns of different colors		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.93.00.10	10  	Blue denim (225)	
+m²
+kg
+5516.93.00.20	20  	Jacquard weave (220)	
+m²
+kg
+5516.93.00.90	90  	Other (218)	
+m²
+kg
+5516.94.00	 	Printed		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5516.94.00.10	10  	Poplin or broadcloth (614)	
+m²
+kg
+5516.94.00.20	20  	Sheeting (613)	
+m²
+kg
+5516.94.00.30	30  	Printcloth (615)	
+m²
+kg
+5516.94.00.40	40  	Cheesecloth; lawns, voiles or batistes (226)	
+m²
+kg
+5516.94.00.50	50  	Duck (219)	
+m²
+kg
+5516.94.00.60	60  	Satin weave or twill weave (617)	
+m²
+kg
+5516.94.00.70	70  	Oxford cloth (227)	
+m²
+kg
+5516.94.00.90	90  	Other (220)	
+m²
+kg

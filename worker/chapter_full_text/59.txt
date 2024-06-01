@@ -1,0 +1,316 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+5901	 	Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations:				
+5901.10	 	Textile fabrics coated with gum or amylaceous sub- stances, of a kind used for the outer covers of books or the like:				
+5901.10.10	00  	Of man-made fibers (229)	
+m2
+kg
+7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74.5%
+5901.10.20	00  	Other (229)	
+m2
+kg
+4.1% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+5901.90	 	Other:				
+5901.90.20	00  	Of man-made fibers (229)	
+m2
+kg
+7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74.5%
+5901.90.40	00  	Other (229)	
+m2
+kg
+4.1% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+5902	 	Tire cord fabric of high tenacity yarn of nylon or other poly- amides, polyesters or viscose rayon:				
+5902.10.00	00  	Of nylon or other polyamides (229)	
+kg
+5.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+5902.20.00	00  	Of polyesters (229)	
+kg
+5.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+5902.90.00	00  	Other (229)	
+kg
+Free 1/		25%
+5903	 	Textile fabrics impregnated, coated, covered or laminated with plastics, other than those of heading 5902:				
+5903.10	 	With poly(vinyl chloride):				
+5903.10.10	00  	Of cotton	
+m2
+kg
+2.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Of man-made fibers:				
+ 	Fabrics specified in note 9 to section XI:				
+5903.10.15	00  	Over 60 percent by weight of plastics	
+m2
+kg
+Free 1/		40%
+5903.10.18	00  	Other (229)	
+m2
+kg
+14.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	83.5%
+ 	Other:				
+5903.10.20	 	Over 70 percent by weight of rubber or plastics		Free 1/		25% 1/
+5903.10.20.10	10  	Fabrics, of yarns sheathed with poly(vinyl chloride), not otherwise impregnated, coated, covered or laminated	
+m2
+kg
+5903.10.20.90	90  	Other	
+m2
+kg
+5903.10.25	00  	Other (229)	
+m2
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84.5%
+5903.10.30	00  	Other	
+m2
+kg
+2.7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5903.20	 	With polyurethane:				
+5903.20.10	00  	Of cotton	
+m2
+kg
+2.7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Of man-made fibers:				
+ 	Fabrics specified in note 9 to section XI:				
+5903.20.15	00  	Over 60 percent by weight of plastics	
+m2
+kg
+Free 1/		40%
+5903.20.18	00  	Other (229)	
+m2
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	83.5%
+ 	Other:				
+5903.20.20	00  	Over 70 percent by weight of rubber or plastics	
+m2
+kg
+Free 1/		25%
+5903.20.25	00  	Other (229)	
+m2
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84.5%
+5903.20.30	 	Other		2.7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5903.20.30.10	10  	Of wool or fine animal hair (414)	
+m2
+kg
+5903.20.30.90	90  	Other	
+m2
+kg
+5903.90	 	Other:				
+5903.90.10	00  	Of cotton	
+m2
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Of man-made fibers:				
+ 	Fabrics specified in note 9 to section XI:				
+5903.90.15	00  	Over 60 percent by weight of plastics	
+m2
+kg
+Free 1/		40%
+5903.90.18	00  	Other (229)	
+m2
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	83.5%
+ 	Other:				
+5903.90.20	00  	Over 70 percent by weight of rubber or plastics	
+m2
+kg
+Free 1/		25%
+5903.90.25	00  	Other (229)	
+m2
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PE, S, SG)	84.5%
+5903.90.30	 	Other		2.7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5903.90.30.10	10  	Of wool or fine animal hair (414)	
+m2
+kg
+5903.90.30.90	90  	Other	
+m2
+kg
+5904	 	Linoleum, whether or not cut to shape; floor coverings con- sisting of a coating or covering applied on a textile backing, whether or not cut to shape:				
+5904.10.00	00  	Linoleum	
+m2
+kg
+Free 1/		35%
+5904.90	 	Other:				
+5904.90.10	00  	With a base consisting of needleloom felt or non- wovens	
+m2
+kg
+Free 1/		40%
+5904.90.90	00  	Other	
+m2
+kg
+Free 1/		40%
+5905.00	 	Textile wall coverings:				
+5905.00.10	00  	Backed with permanently affixed paper	
+m2
+kg
+Free 1/		3.3¢/kg + 20%
+5905.00.90	00  	Other (229)	
+m2
+kg
+Free 1/		74%
+5906	 	Rubberized textile fabrics, other than those of heading 5902:				
+5906.10.00	00  	Adhesive tape of a width not exceeding 20 cm	
+kg
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+5906.91	 	Knitted or crocheted:				
+5906.91.10	00  	Of cotton	
+m2
+kg
+2.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Of man-made fibers:				
+5906.91.20	00  	Over 70 percent by weight of rubber or plastics	
+m2
+kg
+Free 1/		25%
+5906.91.25	00  	Other (229)	
+m2
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	84.5%
+5906.91.30	00  	Other	
+m2
+kg
+2.7% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5906.99	 	Other:				
+5906.99.10	00  	Of cotton	
+m2
+kg
+2.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Of man-made fibers:				
+5906.99.20	00  	Over 70 percent by weight of rubber or plastics	
+m2
+kg
+Free 1/		25%
+5906.99.25	00  	Other (229)	
+m2
+kg
+Free 1/		84.5%
+5906.99.30	00  	Other	
+m2
+kg
+3.3% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5907.00	 	Textile fabrics otherwise impregnated, coated or covered; painted canvas being theatrical scenery, studio back-cloths or the like:				
+ 	Laminated fabrics; fabrics specified in note 9 to section XI:				
+ 	Of man-made fibers:				
+5907.00.05	00  	Theatrical, ballet, and operatic scenery and properties, including sets (229)	
+m2
+kg
+Free 1/		83.5%
+5907.00.15	00  	Other (229)	
+m2
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	83.5%
+ 	Other:				
+5907.00.25	00  	Theatrical, ballet, and operatic scenery and properties, including sets (229)	
+m2
+kg
+Free 1/		83.5%
+5907.00.35	00  	Other (229)	
+m2
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	83.5%
+ 	Other:				
+5907.00.60	00  	Of man-made fibers (229)	
+m2
+kg
+Free 1/		50%
+5907.00.80	 	Other		Free 1/		50%
+5907.00.80.10	10  	Of vegetable fibers, except cotton (810)	
+m2
+kg
+5907.00.80.90	90  	Other (229)	
+m2
+kg
+5908.00.00	00  	Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated	
+kg
+3.4% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	78.5%
+5909.00	 	Textile hosepiping and similar textile tubing, with or without lining, armor or accessories of other materials:				
+5909.00.10	00  	Of vegetable fibers	
+kg
+Free 1/		21.5%
+5909.00.20	00  	Other	
+kg
+3.3% 1/	Free (AU, B, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	88.5%
+5910.00	 	Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material:				
+5910.00.10	 	Of man-made fibers		4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+ 	Power transmission belts and belting:				
+ 	Belts:				
+5910.00.10.10	10  	V-belts	
+No.
+kg
+5910.00.10.20	20  	Synchronous belts	
+No.
+kg
+5910.00.10.30	30  	Other	
+No.
+kg
+ 	Belting:				
+5910.00.10.60	60  	Link	
+m
+kg
+5910.00.10.70	70  	Other	
+m
+kg
+5910.00.10.90	90  	Other	
+kg
+5910.00.90	00  	Other	
+kg
+2.6% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+5911	 	Textile products and articles, for technical uses, specified in note 8 to this chapter:				
+5911.10	 	Textile fabrics, felt and felt-lined woven fabrics, coated, covered or laminated with rubber, leather or other material, of a kind used for card clothing, and similar fabrics of a kind used for other technical purposes, including narrow fabrics made of velvet impregnated with rubber, for covering weaving spindles (weaving beams):				
+5911.10.10	00  	Printers' rubberized blankets	
+kg
+2.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5911.10.20	00  	Other	
+kg
+3.8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.5%
+5911.20	 	Bolting cloth, whether or not made up:				
+5911.20.10	00  	Fabrics principally used for stenciling purposes in screen-process printing	
+m2
+kg
+3.3% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	62%
+ 	Other:				
+5911.20.20	00  	Of silk	
+m2
+kg
+Free 1/		Free
+5911.20.30	00  	Other (229)	
+m2
+kg
+Free 1/		63%
+ 	Textile fabrics and felts, endless or fitted with linking devices, of a kind used in papermaking or similar machines (for example, for pulp or asbestos-cement):				
+5911.31.00	 	Weighing less than 650 g/m2		3.8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.5%
+5911.31.00.10	10  	Press felts	
+m2
+kg
+5911.31.00.20	20  	Dryer felts and dryer fabrics	
+m2
+kg
+5911.31.00.30	30  	Paper-forming fabrics	
+m2
+kg
+5911.31.00.80	80  	Other	
+m2
+kg
+5911.32.00	 	Weighing 650 g/m2 or more		3.8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.5%
+5911.32.00.10	10  	Press felts	
+m2
+kg
+5911.32.00.20	20  	Dryer felts and dryer fabrics	
+m2
+kg
+5911.32.00.30	30  	Paper-forming fabrics	
+m2
+kg
+5911.32.00.80	80  	Other	
+m2
+kg
+5911.40.01	00  	Filtering or straining cloth of a kind used in oil presses or the like, including that of human hair	
+m2
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5911.90.00	 	Other		3.8% 1/	Free (AU, B, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	68.5%
+5911.90.00.40	40  	Cords, braids and the like of a kind used in industry as packing or lubricating material	
+kg
+5911.90.00.80	80  	Other	
+kg

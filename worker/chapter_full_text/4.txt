@@ -1,0 +1,1144 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+0401	 	Milk and cream, not concentrated nor containing added sugar or other sweetening matter:				
+0401.10.00	00  	Of a fat content, by weight, not exceeding 1 percent	
+liters
+kg
+0.34¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.5¢/liter
+0401.20	 	Of a fat content, by weight, exceeding 1 percent but not exceeding 6 percent:				
+0401.20.20	00  	For not over 11,356,236 liters entered in any calendar year	
+liters
+kg cmsc
+0.43¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.7¢/liter
+0401.20.40	00  	Other	
+liters
+kg cmsc
+1.5¢/liter 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.7¢/liter
+0401.40	 	Of a fat content, by weight, exceeding 6 percent but not exceeding 10 percent:				
+0401.40.02	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+liters
+3.2¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15¢/liter
+0401.40.05	00  	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions	
+liters
+kg cmsc
+3.2¢/liter 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15¢/liter
+0401.40.25	00  	Other 1/	
+liters
+kg cmsc
+77.2¢/liter 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 7.7¢/liter (P) 10.2¢/liter (PA) See 9822.04.05 (AU) See 9823.01.01-9823.01.07 (S+) See 9915.04.01-9915.04.03 (P+)	15¢/liter
+0401.50	 	Of a fat content, by weight, exceeding 10 percent:				
+ 	Of a fat content, by weight, not exceeding 45 percent:				
+0401.50.02	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+liters
+3.2¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15¢/liter
+0401.50.05	00  	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions	
+liters
+kg cmsc
+3.2¢/liter 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15¢/liter
+0401.50.25	00  	Other 1/	
+liters
+kg cmsc
+77.2¢/liter 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 7.7¢/liter (P) 10.2¢/liter (PA) See 9822.04.05 (AU) See 9823.01.01-9823.01.07 (S+) See 9915.04.01-9915.04.03 (P+)	15¢/liter
+ 	Other:				
+0401.50.42	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+liters
+kg
+12.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+0401.50.50	00  	Described in additional U.S. note 6 to this chapter and entered pursuant to its provisions	
+liters
+kg
+12.3¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+0401.50.75	00  	Other 1/	
+liters
+kg
+$1.646/kg 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 16.4¢/kg (P) 21.9¢/kg (PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9908.04.01 (IL) See 9915.04.05, 9915.04.06, 9915.04.12 (P+)	$1.936/kg
+0402	 	Milk and cream, concentrated or containing added sugar or other sweetening matter:				
+0402.10	 	In powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 percent:				
+0402.10.05	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+3.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0402.10.10	00  	Described in additional U.S. note 7 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+3.3¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0402.10.50	00  	Other 1/	
+kg
+kg cmsc
+86.5¢/kg 1/	Free (BH, CL, JO, MA, OM, SG) 5¢/kg (PE) 8.6¢/kg (P) 11.5¢/kg (CO, KR, PA) See 9822.04.15 (AU) See 9823.02.01-9823.02.04 (S+) See 9908.04.03 (IL) See 9915.04.20, 9915.04.21, 9915.04.25 (P+)	$1.018/kg
+ 	In powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 percent:				
+0402.21	 	Not containing added sugar or other sweetening matter:				
+ 	Of a fat content, by weight, not exceeding 3 percent:				
+0402.21.02	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+3.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0402.21.05	00  	Described in additional U.S. note 7 to this chapterand entered pursuant to its provisions	
+kg
+kg cmsc
+3.3¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0402.21.25	00  	Other 1/	
+kg
+kg cmsc
+86.5¢/kg 1/	Free (BH, CL, JO, MA, OM, SG) 5¢/kg (PE) 8.6¢/kg (P) 11.5¢/kg (CO, KR, PA) See 9822.04.15 (AU) See 9823.02.01-9823.02.04 (S+) See 9908.04.03 (IL) See 9915.04.20, 9915.04.21, 9915.04.25 (P+)	$1.018/kg
+ 	Of a fat content, by weight, exceeding 3 percent but not exceeding 35 percent:				
+0402.21.27	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+6.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.7¢/kg
+0402.21.30	00  	Described in additional U.S. note 8 to this chapterand entered pursuant to its provisions	
+kg
+kg cmsc
+6.8¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.7¢/kg
+0402.21.50	00  	Other 1/	
+kg
+kg cmsc
+$1.092/kg 1/	Free (BH, CL, JO, MA, OM, SG) 6.4¢/kg (PE) 10.9¢/kg (P) 14.5¢/kg (CO, KR, PA) See 9822.04.20 (AU) See 9823.05.01-9823.05.06 (S+) See 9915.04.20, 9915.04.22, 9915.04.26 (P+)	$1.285/kg
+ 	Other:				
+0402.21.73	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+13.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	27.3¢/kg
+0402.21.75	00  	Described in additional U.S. note 9 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+13.7¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	27.3¢/kg
+0402.21.90	00  	Other 1/	
+kg
+kg cmsc
+$1.556/kg 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 15.5¢/kg (P) 20.7¢/kg (CO, PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9915.04.05, 9915.04.07, 9915.04.13 (P+)	$1.831/kg
+0402.29	 	Other:				
+0402.29.05	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+17.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0402.29.10	00  	Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+17.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0402.29.50	00  	Other 1/	
+kg
+kg cmsc
+$1.104/kg + 14.9% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 11¢/kg + 1.4% (P) 14.7¢/kg + 1.9% (PA) See 9822.04.25 (AU) See 9823.05.01-9823.05.06 (S+) See 9915.04.30, 9915.04.31, 9915.04.55 (P+) See 9918.04.60, 9918.04.61 (CO)	$1.299/kg + 17.5%
+ 	Other:				
+0402.91	 	Not containing added sugar or other sweetening matter:				
+ 	Described in general note 15 of the tariff schedule and entered pursuant to its provisions:				
+0402.91.03	00  	In airtight containers	
+kg
+2.2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢/kg
+0402.91.06	00  	Other	
+kg
+3.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.6¢/kg
+ 	Described in additional U.S. note 11 to this chapter and entered pursuant to its provisions:				
+0402.91.10	00  	In airtight containers	
+kg
+kg cmsc
+2.2¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢/kg
+0402.91.30	00  	Other	
+kg
+kg cmsc
+3.3¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.6¢/kg
+ 	Other:				
+0402.91.70	00  	In airtight containers 1/	
+kg
+kg cmsc
+31.3¢/kg 1/	Free (BH, CL, JO, KR, MA, OM, SG) 3.1¢/kg (P) 4.1¢/kg (CO) See 9822.04.30 (AU) See 9823.07.01-9823.07.07 (S+) See 9915.04.30, 9915.04.32, 9915.04.56, 9915.04.79 (P+) See 9917.04.10, 9917.04.11 (PE) See 9919.04.10, 9919.04.11, 9919.04.13 (PA)	36.8¢/kg
+0402.91.90	00  	Other 1/	
+kg
+kg cmsc
+31.3¢/kg 1/	Free (BH, CL, JO, KR, MA, OM, SG) 3.1¢/kg (P) 4.1¢/kg (CO) See 9822.04.30 (AU) See 9823.07.01-9823.07.07 (S+) See 9915.04.30, 9915.04.32, 9915.04.56, 9915.04.79 (P+) See 9917.04.10, 9917.04.11 (PE) See 9919.04.10, 9919.04.11, 9919.04.13 (PA)	36.8¢/kg
+0402.99	 	Other:				
+ 	Condensed milk:				
+ 	Described in general note 15 of the tariff schedule and entered pursuant to its provisions:				
+0402.99.03	00  	In airtight containers	
+kg
+3.9¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6¢/kg
+0402.99.06	00  	Other	
+kg
+3.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.6¢/kg
+ 	Described in additional U.S. note 11 to this chapter and entered pursuant to its provisions:				
+0402.99.10	00  	In airtight containers	
+kg
+kg cmsc
+3.9¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6¢/kg
+0402.99.30	00  	Other	
+kg
+kg cmsc
+3.3¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.6¢/kg
+ 	Other:				
+0402.99.45	00  	In airtight containers 1/	
+kg
+kg cmsc
+49.6¢/kg 1/	Free (BH, CL, JO, KR, MA, OM, SG) 4.9¢/kg (P) 6.6¢/kg (CO) See 9822.04.30 (AU) See 9823.07.01-9823.07.07 (S+) See 9915.04.30, 9915.04.33, 9915.04.57, 9915.04.79 (P+) See 9917.04.10, 9917.04.12 (PE) See 9919.04.10, 9919.04.12, 99.19.04.14 (PA)	58.4¢/kg
+0402.99.55	00  	Other 1/	
+kg
+kg cmsc
+49.6¢/kg 1/	Free (BH, CL, JO, KR, MA, OM, SG) 4.9¢/kg (P) 6.6¢/kg (CO) See 9822.04.30 (AU) See 9823.07.01-9823.07.07 (S+) See 9915.04.30, 9915.04.33, 9915.04.57, 9915.04.79 (P+) See 9917.04.10, 9917.04.12 (PE) See 9919.04.10, 9919.04.12, 99.19.04.14 (PA)	58.4¢/kg
+ 	Other:				
+0402.99.68	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+17.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0402.99.70	00  	Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+17.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0402.99.90	00  	Other 1/	
+kg
+kg cmsc
+46.3¢/kg + 14.9% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 4.6¢/kg + 1.4% (P) 6.1¢/kg + 1.9% (PA) See 9822.04.25 (AU) See 9823.07.01-9823.07.07 (S+) See 9915.04.30, 9915.04.34, 9915.04.58 (P+) See 9918.04.60, 9918.04.62 (CO)	54.5¢/kg + 17.5%
+0403	 	Yogurt; buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavored or containing added fruit, nuts or cocoa:				
+0403.20	 	Yogurt:				
+ 	In dry form:				
+0403.20.05	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions.	
+kg
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0403.20.10	00  	Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0403.20.50	00  	Other 1/	
+kg
+kg cmsc
+$1.035/kg + 17%	Free (BH, CL, JO, KR, MA, OM, PE, SG) 10.3¢/kg + 1.7% (P) 13.8¢/kg + 2.2% (PA) See 9822.04.25 (AU) See 9823.06.01-9823.06.09 (S+) See 9915.04.30, 9915.04.35, 9915.04.59 (P+) See 9918.04.60, 9918.04.63 (CO)	$1.217/kg + 20%
+0403.20.90	00  	Other	
+kg
+kg cmsc
+17% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0403.90	 	Other:				
+ 	Sour cream containing not over 45 percent by weight of butterfat; buttermilk:				
+ 	Fluid:				
+ 	Sour cream:				
+0403.90.02	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+liters
+3.2¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15¢/liter
+0403.90.04	00  	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions	
+liters
+kg cmsc
+3.2¢/liter 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15¢/liter
+0403.90.16	00  	Other 1/	
+liters
+kg cmsc
+77.2¢/liter 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 7.7¢/liter (P) 10.2¢/liter (PA) See 9822.04.05 (AU) See 9823.01.01-9823.01.07 (S+) See 9915.04.01-9915.04.03 (P+)	90.8¢/liter
+0403.90.20	00  	Buttermilk	
+liters
+kg cmsc
+0.34¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.5¢/liter
+ 	Dried:				
+ 	Containing not over 6 percent by weight of butterfat:				
+0403.90.37	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+3.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0403.90.41	 	Described in additional U.S. note 12 to this chapter and entered pursuant to its provisions		3.3¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0403.90.41.10	10  	Articles for which an import license is required	
+kg
+kg cmsc
+0403.90.41.90	90  	Other	
+kg
+kg cmsc
+0403.90.45	00  	Other 1/	
+kg
+kg cmsc
+87.6¢/kg 1/	Free (BH, CL, JO, MA, OM, PE, SG) 8.7¢/kg (P) 11.6¢/kg (CO, KR, PA) See 9822.04.20 (AU) See 9823.06.01-9823.06.09 (S+) See 9915.04.20, 9915.04.23, 9915.04.27 (P+)	$1.03/kg
+ 	Containing over 6 percent but not over 35 percent by weight of butterfat:				
+0403.90.47	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+6.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.7¢/kg
+0403.90.51	00  	Described in additional U.S. note 8 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+6.8¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.7¢/kg
+0403.90.55	00  	Other 1/	
+kg
+kg cmsc
+$1.092/kg 1/	Free (BH, CL, JO, MA, OM, SG) 6.4¢/kg (PE) 10.9¢/kg (P) 14.5¢/kg (CO, KR, PA) See 9822.04.20 (AU) See 9823.06.01-9823.06.09 (S+) See 9915.04.20, 9915.04.22, 9915.04.26 (P+)	$1.285/kg
+ 	Other:				
+0403.90.57	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+13.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	27.3¢/kg
+0403.90.61	00  	Described in additional U.S. note 9 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+13.7¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	27.3¢/kg
+0403.90.65	00  	Other 1/	
+kg
+kg cmsc
+$1.556/kg 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 15.5¢/kg (P) 20.7¢/kg (CO, PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9915.04.05, 9915.04.07, 9915.04.13 (P+)	$1.831/kg
+ 	Sour cream containing over 45 percent by weight of butterfat:				
+0403.90.72	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+12.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30.9¢/kg
+0403.90.74	00  	Described in additional U.S. note 6 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+12.3¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30.9¢/kg
+0403.90.78	00  	Other 1/	
+kg
+kg cmsc
+$1.646/kg 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 16.4¢/kg (P) 21.9¢/kg (PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9908.04.01 (IL) See 9915.04.05, 9915.04.08, 9915.04.14 (P+)	$1.936/kg
+ 	Other:				
+0403.90.85	00  	Fermented milk other than dried fermented milk or other than dried milk with added lactic ferments	
+kg
+kg cmsc
+17% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+0403.90.87	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0403.90.90	00  	Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0403.90.95	00  	Other 1/	
+kg
+kg cmsc
+$1.034/kg + 17% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 10.3¢/kg + 1.7% (P) 13.7¢/kg + 2.2% (PA) See 9822.04.25 (AU) See 9823.06.01-9823.06.09 (S+) See 9915.04.30, 9915.04.36, 9915.04.60 (P+) See 9918.04.60, 9918.04.64 (CO)	$1.217/kg + 20%
+0404	 	Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included:				
+0404.10	 	Whey and modified whey, whether or not concentrated or containing added sugar or other sweetening matter:				
+ 	Modified whey:				
+0404.10.05	00  	Whey protein concentrates	
+kg
+kg cmsc
+8.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+0404.10.08	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+13% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0404.10.11	00  	Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+13% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0404.10.15	00  	Other 1/	
+kg
+kg cmsc
+$1.035/kg + 8.5% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 10.3¢/kg + 0.8% (P) 13.8¢/kg + 1.1% (PA) See 9822.04.25 (AU) See 9823.06.01-9823.06.09 (S+) See 9915.04.30, 9915.04.37, 9915.04.61 (P+) See 9918.04.60, 9918.04.65 (CO)	$1.217/kg + 10%
+ 	Other:				
+0404.10.20	00  	Fluid	
+liters
+kg cmsc
+0.34¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.5¢/liter
+ 	Dried:				
+0404.10.48	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+3.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0404.10.50	 	Described in additional U.S. note 12 to this chapter and entered pursuant to its provisions		3.3¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0404.10.50.10	10  	Articles for which an import license is required	
+kg
+kg cmsc
+0404.10.50.90	90  	Other	
+kg
+kg cmsc
+0404.10.90	00  	Other 1/	
+kg
+kg cmsc
+87.6¢/kg 1/	Free (BH, CL, JO, MA, OM, PE, SG) 8.7¢/kg (P) 11.6¢/kg (CO, KR, PA) See 9822.04.20 (AU) See 9823.06.01-9823.06.09 (S+) See 9915.04.20, 9915.04.23, 9915.04.27 (P+)	$1.03/kg
+0404.90	 	Other:				
+0404.90.10	00  	Milk protein concentrates	
+kg
+kg cmsc
+0.37¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12¢/kg
+ 	Other:				
+ 	Dairy products described in additional U.S. note 1 to chapter 4:				
+0404.90.28	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+14.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0404.90.30	00  	Described in additional U.S. note 10 to this chapterand entered pursuant to its provisions	
+kg
+kg cmsc
+14.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0404.90.50	00  	Other 1/	
+kg
+kg cmsc
+$1.189/kg + 8.5% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 11.8¢/kg + 0.8% (P) 15.8¢/kg + 1.1% (PA) See 9822.04.25 (AU) See 9823.06.01-9823.06.09 (S+) See 9915.04.30, 9915.04.38, 9915.04.62 (P+) See 9918.04.60, 9918.04.66 (CO)	$1.399/kg + 10%
+0404.90.70	00  	Other	
+kg
+kg cmsc
+8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0405	 	Butter and other fats and oils derived from milk; dairy spreads:				
+0405.10	 	Butter:				
+0405.10.05	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+12.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30.9¢/kg
+0405.10.10	00  	Described in additional U.S. note 6 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+12.3¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30.9¢/kg
+0405.10.20	00  	Other 1/	
+kg
+kg cmsc
+$1.541/kg 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 15.4¢/kg (P) 20.5¢/kg (PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9908.04.01 (IL) See 9915.04.05, 9915.04.09, 9915.04.15 (P+)	$1.813/kg
+0405.20	 	Dairy spreads:				
+ 	Butter substitutes, whether in liquid or solid state:				
+ 	Containing over 45 percent by weight of butterfat:				
+0405.20.10	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+15.4¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+0405.20.20	00  	Described in additional U.S. note 14 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+15.4¢/kg 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+0405.20.30	00  	Other 1/	
+kg
+kg cmsc
+$1.996/kg 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 19.9¢/kg (P) 26.6¢/kg (PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9915.04.05, 9915.04.10, 9915.04.16 (P+)	$2.348/kg
+0405.20.40	00  	Other	
+kg
+kg cmsc
+13.1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+ 	Other:				
+ 	Dairy products described in additional U.S. note 1 to chapter 4:				
+0405.20.50	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0405.20.60	00  	Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0405.20.70	00  	Other 1/	
+kg
+kg cmsc
+70.4¢/kg + 8.5% 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 7¢/kg + 0.8% (P) 9.3¢/kg + 1.1% (PA) See 9822.04.25 (AU) See 9823.03.01-9823.03.12 (S+) See 9915.04.30, 9915.04.39, 9915.04.63 (P+) See 9918.04.60, 9918.04.67 (CO)	82.8¢/kg + 10%
+0405.20.80	00  	Other	
+kg
+kg cmsc
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0405.90	 	Other:				
+0405.90.05	 	Described in general note 15 of the tariff schedule and entered pursuant to its provisions		10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0405.90.05.20	20  	Anhydrous milk fat	
+kg
+0405.90.05.40	40  	Other	
+kg
+0405.90.10	 	Described in additional U.S. note 14 to this chapter and entered pursuant to its provisions		10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+0405.90.10.20	20  	Anhydrous milk fat	
+kg
+kg cmsc
+0405.90.10.40	40  	Other	
+kg
+kg cmsc
+0405.90.20	 	Other 1/		$1.865/kg + 8.5% 1/	Free (BH, CL, CO, JO, KR, MA, OM, PE, SG) 18.6¢/kg + 0.8% (P) 24.8¢/kg + 1.1% (PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9915.04.05, 9915.04.11, 9915.04.17 (P+)	$2.194/kg + 10%
+0405.90.20.20	20  	Anhydrous milk fat	
+kg
+kg cmsc
+0405.90.20.40	40  	Other	
+kg
+kg cmsc
+0406	 	Cheese and curd:				
+0406.10	 	Fresh (unripened or uncured) cheese, including whey cheese, and curd:				
+ 	Chongos:				
+0406.10.02	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.10.04	00  	Described in additional U.S.note 16 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.10.08	00  	Other 1/	
+kg
+kg cmsc
+$1.509/kg 1/	Free (BH, CL, JO, MA, OM, SG) 15¢/kg (P) 20.1¢/kg (KR) See 9822.04.35 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.81, 9915.04.90, 9915.04.99 (P+) See 9917.04.50, 9917.04.51 (PE) See 9918.04.50, 9918.04.51 (CO) See 9919.04.40, 9919.04.41-9919.04.42 (PA)	$1.775/kg
+ 	Other:				
+0406.10.12	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+ 	Blue-mold cheese and cheese and substitutes for cheese containing, or processed from, blue-mold cheese:				
+0406.10.14	00  	Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.10.18	00  	Other 1/	
+kg
+kg cmsc
+$2.269/kg 1/	Free (BH, CL, JO, MA, OM, SG) 22.6¢/kg (P) 30.2¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.82, 9915.04.91 (P+) See 9917.04.50, 9917.04.52 (PE) See 9918.04.50, 9918.04.52 (CO) See 9919.04.50, 9919.04.51, 9919.04.61 (PA)	$2.67/kg
+ 	Cheddar cheese, and cheese and substitutes for cheese containing, or processed from, Cheddar cheese:				
+0406.10.24	00  	Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.10.28	00  	Other 1/	
+kg
+kg cmsc
+$1.227/kg 1/	Free (BH, CL, JO, MA, OM, SG) 12.2¢/kg (P) 16.3¢/kg (KR) See 9822.04.45 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.83, 9915.04.92 (P+) See 9917.04.50, 9917.04.53 (PE) See 9918.04.50, 9918.04.53 (CO) See 9919.04.50, 9919.04.52, 9919.04.62 (PA)	$1.443/kg
+ 	American-type cheese, including Colby, washed curd and granular cheese (but not including Cheddar cheese), and cheese and substitutes for cheese containing, or processed from, such American-type cheese:				
+0406.10.34	00  	Described in additional U.S. note 19 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.10.38	00  	Other 1/	
+kg
+kg cmsc
+$1.055/kg 1/	Free (BH, CL, JO, MA, OM, SG) 10.5¢/kg (P) 14¢/kg (KR) See 9822.04.50 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.84, 9915.04.93 (P+) See 9917.04.50, 9917.04.54 (PE) See 9918.04.50, 9918.04.54 (CO) See 9919.04.50, 9919.04.53, 9919.04.63 (PA)	$1.241/kg
+ 	Edam and Gouda cheeses, and cheese and substitutes for processed from, Edam and Gouda cheese:				
+0406.10.44	00  	Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.10.48	00  	Other 1/	
+kg
+kg cmsc
+$1.803/kg 1/	Free (BH, CL, JO, MA, OM, SG) 18¢/kg (P) 24¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.85, 9915.04.94 (P+) See 9917.04.50, 9917.04.55 (PE) See 9918.04.50, 9918.04.55 (CO) See 9919.04.50, 9919.04.54, 9919.04.64 (PA)	$2.121/kg
+ 	Italian-type cheeses, made from cow's milk, in original loaves (Romano made from cow's milk, Reggiano, Parmesan, Provol- one, Provoletti and Sbrinz); Italian-type cheeses, made from cow's milk, not in original loaves (Romano made from cow's milk, Reggiano, Parmesan, Provolone, Provoletti, Sbrinz and Goya), and cheese and substitutes for cheese containing, or processed from, such Italian-type cheeses, whether or not in original loaves:				
+0406.10.54	00  	Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.10.58	00  	Other 1/	
+kg
+kg cmsc
+$2.146/kg 1/	Free (BH, CL, JO, MA, OM, SG) 21.4¢/kg (P) 28.6¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.86, 9915.04.95 (P+) See 9917.04.50, 9917.04.56 (PE) See 9918.04.50, 9918.04.56 (CO) See 9919.04.50, 9919.04.55, 9919.04.65 (PA)	$2.525/kg
+ 	Swiss or Emmentaler cheese other than with eye formation, Gruyere-process cheese and cheese and substitutes for cheese containing, or processed from, such cheeses:				
+0406.10.64	00  	Described in additional U.S. note 22 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.10.68	00  	Other 1/	
+kg
+kg cmsc
+$1.386/kg 1/	Free (BH, CL, JO, MA, OM, SG) 13.8¢/kg (P) 18.4¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.87, 9915.04.96 (P+) See 9917.04.50, 9917.04.57 (PE) See 9918.04.50, 9918.04.57 (CO) See 9919.04.50, 9919.04.56, 9919.04.66 (PA)	$1.631/kg
+ 	Other:				
+ 	Cheese, and substitutes for cheese, containing 0.5 percent or less by weight of butterfat:				
+0406.10.74	00  	Described in additional U.S. note 23 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.10.78	00  	Other 1/	
+kg
+kg cmsc
+$1.128/kg 1/	Free (BH, CL, JO, MA, OM, SG) 11.2¢/kg (P) 15¢/kg (KR) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.88, 9915.04.97 (P+) See 9917.04.50, 9917.04.58 (PE) See 9918.04.50, 9918.04.58 (CO) See 9919.04.50, 9919.04.57, 9919.04.67 (PA)	$1.328/kg
+ 	Other cheese and substitutes for cheese (except cheese not containing cow's milk, and soft ripened cow's milk cheese):				
+0406.10.84	00  	Described in additional U.S. note 16 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.10.88	00  	Other 1/	
+kg
+kg cmsc
+$1.509/kg 1/	Free (BH, CL, JO, MA, OM, SG) 15¢/kg (P) 20.1¢/kg (KR) See 9822.04.35 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.81, 9915.04.90, 9915.04.99 (P+) See 9917.04.50, 9917.04.51 (PE) See 9918.04.50, 9918.04.51 (CO) See 9919.04.40, 9919.04.41-9919.04.42 (PA)	$1.775/kg
+0406.10.95	00  	Other	
+kg
+8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20	 	Grated or powdered cheese, of all kinds:				
+ 	Blue-veined cheese:				
+0406.20.10	00  	Roquefort cheese	
+kg
+8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.15	00  	Stilton cheese described in additional U.S. note 24 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+17% 1/	Free (CO, JO, KR, OM, PA, PE, S)	35%
+ 	Other:				
+0406.20.22	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.24	00  	Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+20% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.28	00  	Other 1/	
+kg
+kg cmsc
+$2.269/kg 1/	Free (BH, CL, JO, MA, OM, SG) 22.6¢/kg (P) 30.2¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.82, 9915.04.91 (P+) See 9917.04.50, 9917.04.52 (PE) See 9918.04.50, 9918.04.52 (CO) See 9919.04.50, 9919.04.51, 9919.04.61 (PA)	$2.67/kg
+ 	Cheddar cheese:				
+0406.20.29	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+16% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.31	 	Described in additional U.S.note 18 to this chapter and entered pursuant to its provisions		16% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.31.10	10  	Produced in Canada and not subject to licensing requirements	
+kg
+kg cmsc
+0406.20.31.90	90  	Other	
+kg
+kg cmsc
+0406.20.33	00  	Other 1/	
+kg
+kg cmsc
+$1.227/kg 1/	Free (BH, CL, JO, MA, OM, SG) 12.2¢/kg (P) 16.3¢/kg (KR) See 9822.04.45 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.83, 9915.04.92 (P+) See 9917.04.50, 9917.04.53 (PE) See 9918.04.50, 9918.04.53 (CO) See 9919.04.50, 9919.04.52, 9919.04.62 (PA)	$1.443/kg
+ 	Colby:				
+0406.20.34	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.36	00  	Described in additional U.S.note 19 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.39	00  	Other 1/	
+kg
+kg cmsc
+$1.055/kg 1/	Free (BH, CL, JO, MA, OM, SG) 10.5¢/kg (P) 14¢/kg (KR) See 9822.04.50 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.84, 9915.04.93 (P+) See 9917.04.50, 9917.04.54 (PE) See 9918.04.50, 9918.04.54 (CO) See 9919.04.50, 9919.04.53, 9919.04.63 (PA)	$1.241/kg
+ 	Edam and Gouda cheeses:				
+0406.20.43	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+15% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.44	00  	Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+15% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.48	00  	Other 1/	
+kg
+kg cmsc
+$1.803/kg 1/	Free (BH, CL, JO, MA, OM, SG) 18¢/kg (P) 24¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.85, 9915.04.94 (P+) See 9917.04.50, 9917.04.55 (PE) See 9918.04.50, 9918.04.55 (CO) See 9919.04.50, 9919.04.54, 9919.04.64 (PA)	$2.121/kg
+ 	Romano made from cow's milk, Reggiano, Parmesan, Provolone, Provoletti, Sbrinz and Goya cheeses:				
+0406.20.49	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+15% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+ 	Made from cow's milk:				
+0406.20.51	00  	Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+15% 1/	Free (A, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.53	00  	Other 1/	
+kg
+kg cmsc
+$2.146/kg 1/	Free (BH, CL, JO, MA, OM, SG) 21.4¢/kg (P) 28.6¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.86, 9915.04.95 (P+) See 9917.04.50, 9917.04.56 (PE) See 9918.04.50, 9918.04.56 (CO) See 9919.04.50, 9919.04.55, 9919.04.65 (PA)	$2.525/kg
+0406.20.54	00  	Other	
+kg
+9.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other, including mixtures of the above:				
+0406.20.55	00  	Cheeses made from sheep's milk	
+kg
+9.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.56	00  	Other, described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+0406.20.57	00  	Containing, or processed from, Bryndza, Gjetost, Gammelost, Nokkelost or Roquefort cheeses	
+kg
+8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Containing, or processed from, blue-veined cheese (except Roquefort):				
+0406.20.61	00  	Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.63	00  	Other 1/	
+kg
+kg cmsc
+$2.269/kg 1/	Free (BH, CL, JO, MA, OM, SG) 22.6¢/kg (P) 30.2¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.82, 9915.04.91 (P+) See 9917.04.50, 9917.04.52 (PE) See 9918.04.50, 9918.04.52 (CO) See 9919.04.50, 9919.04.51, 9919.04.61 (PA)	$2.67/kg
+ 	Containing, or processed from, Cheddar cheese:				
+0406.20.65	00  	Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.67	00  	Other 1/	
+kg
+kg cmsc
+$1.227/kg 1/	Free (BH, CL, JO, MA, OM, SG) 12.2¢/kg (P) 16.3¢/kg (KR) See 9822.04.45 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.83, 9915.04.92 (P+) See 9917.04.50, 9917.04.53 (PE) See 9918.04.50, 9918.04.53 (CO) See 9919.04.50, 9919.04.52, 9919.04.62 (PA)	$1.443/kg
+ 	Containing, or processed from, American- type cheese (including Colby, washed curd and granular cheese but not including Cheddar):				
+0406.20.69	00  	Described in additional U.S.note 19 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.71	00  	Other 1/	
+kg
+kg cmsc
+$1.055/kg 1/	Free (BH, CL, JO, MA, OM, SG) 10.5¢/kg (P) 14¢/kg (KR) See 9822.04.50 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.84, 9915.04.93 (P+) See 9917.04.50, 9917.04.54 (PE) See 9918.04.50, 9918.04.54 (CO) See 9919.04.50, 9919.04.53, 9919.04.63 (PA)	$1.241/kg
+ 	Containing, or processed from, Edam or Gouda cheese:				
+0406.20.73	00  	Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.75	00  	Other 1/	
+kg
+kg cmsc
+$1.803/kg 1/	Free (BH, CL, JO, MA, OM, SG) 18¢/kg (P) 24¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.85, 9915.04.94 (P+) See 9917.04.50, 9917.04.55 (PE) See 9918.04.50, 9918.04.55 (CO) See 9919.04.50, 9919.04.54, 9919.04.64 (PA)	$2.121/kg
+ 	Containing, or processed from, Italian-type cheeses (Romano, Reggiano, Parmesan, Provolone, Provoletti, Sbrinz and Goya) made from cow's milk:				
+0406.20.77	00  	Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.79	00  	Other 1/	
+kg
+kg cmsc
+$2.146/kg 1/	Free (BH, CL, JO, MA, OM, SG) 21.4¢/kg (P) 28.6¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.86, 9915.04.95 (P+) See 9917.04.50, 9917.04.56 (PE) See 9918.04.50, 9918.04.56 (CO) See 9919.04.50, 9919.04.55, 9919.04.65 (PA)	$2.525/kg
+ 	Containing, or processed from, Swiss, Emmentaler, or Gruyere-process cheeses:				
+0406.20.81	00  	Described in additional U.S. note 22 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.83	00  	Other 1/	
+kg
+kg cmsc
+$1.386/kg 1/	Free (BH, CL, JO, MA, OM, SG) 13.8¢/kg (P) 18.4¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.87, 9915.04.96 (P+) See 9917.04.50, 9917.04.57 (PE) See 9918.04.50, 9918.04.57 (CO) See 9919.04.50, 9919.04.56, 9919.04.66 (PA)	$1.631/kg
+ 	Other:				
+ 	Containing 0.5 percent or less by weight of butterfat:				
+0406.20.85	00  	Described in additional U.S. note 23 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.87	00  	Other 1/	
+kg
+kg cmsc
+$1.128/kg 1/	Free (BH, CL, JO, MA, OM, SG) 11.2¢/kg (P) 15¢/kg (KR) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.88, 9915.04.97 (P+) See 9917.04.50, 9917.04.58 (PE) See 9918.04.50, 9918.04.58 (CO) See 9919.04.50, 9919.04.57, 9919.04.67 (PA)	$1.328/kg
+ 	Other:				
+ 	Containing cow's milk:				
+0406.20.89	00  	Described in additional U.S. note 16 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.20.91	00  	Other 1/	
+kg
+kg cmsc
+$1.509/kg 1/	Free (BH, CL, JO, MA, OM, SG) 15¢/kg (P) 20.1¢/kg (KR) See 9822.04.35 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.81, 9915.04.90, 9915.04.99 (P+) See 9917.04.50, 9917.04.51 (PE) See 9918.04.50, 9918.04.51 (CO) See 9919.04.40, 9919.04.41-9919.04.42 (PA)	$1.775/kg
+0406.20.95	00  	Other	
+kg
+8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30	 	Processed (process) cheese, not grated or powdered:				
+ 	Blue-veined cheese other than Roquefort cheese:				
+0406.30.05	00  	Stilton cheese described in additional U.S. note 24 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+17% 1/	Free (CO, JO, KR, OM, PA, PE, S)	35%
+ 	Other:				
+0406.30.12	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.14	00  	Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+20% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.18	00  	Other 1/	
+kg
+kg cmsc
+$2.269/kg 1/	Free (BH, CL, JO, MA, OM, SG) 22.6¢/kg (P) 30.2¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.82, 9915.04.91 (P+) See 9917.04.50, 9917.04.52 (PE) See 9918.04.50, 9918.04.52 (CO) See 9919.04.50, 9919.04.51, 9919.04.61 (PA)	$2.67/kg
+ 	Cheddar cheese:				
+0406.30.22	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+16% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.24	00  	Described in additional U.S.note 18 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+16% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.28	00  	Other 1/	
+kg
+kg cmsc
+$1.227/kg 1/	Free (BH, CL, JO, MA, OM, SG) 12.2¢/kg (P) 16.3¢/kg (KR) See 9822.04.45 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.83, 9915.04.92 (P+) See 9917.04.50, 9917.04.53 (PE) See 9918.04.50, 9918.04.53 (CO) See 9919.04.50, 9919.04.52, 9919.04.62 (PA)	$1.443/kg
+ 	Colby cheese:				
+0406.30.32	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.34	00  	Described in additional U.S. note 19 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.38	00  	Other 1/	
+kg
+kg cmsc
+$1.055/kg 1/	Free (BH, CL, JO, MA, OM, SG) 10.5¢/kg (P) 14¢/kg (KR) See 9822.04.50 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.84, 9915.04.93 (P+) See 9917.04.50, 9917.04.54 (PE) See 9918.04.50, 9918.04.54 (CO) See 9919.04.50, 9919.04.53, 9919.04.63 (PA)	$1.241/kg
+ 	Edam and Gouda cheeses:				
+0406.30.42	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+15% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.44	00  	Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+15% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.48	00  	Other 1/	
+kg
+kg cmsc
+$1.803/kg 1/	Free (BH, CL, JO, MA, OM, SG) 18¢/kg (P) 24¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.85, 9915.04.94 (P+) See 9917.04.50, 9917.04.55 (PE) See 9918.04.50, 9918.04.55 (CO) See 9919.04.50, 9919.04.54, 9919.04.64 (PA)	$2.121/kg
+ 	Gruyere-process cheese:				
+0406.30.49	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+6.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.51	00  	Described in additional U.S. note 22 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+6.4% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.53	00  	Other 1/	
+kg
+kg cmsc
+$1.386/kg 1/	Free (BH, CL, JO, MA, OM, SG) 13.8¢/kg (P) 18.4¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.87, 9915.04.96 (P+) See 9917.04.50, 9917.04.57 (PE) See 9918.04.50, 9918.04.57 (CO) See 9919.04.50, 9919.04.56, 9919.04.66 (PA)	$1.631/kg
+ 	Other, including mixtures of the above:				
+0406.30.55	00  	Cheeses made from sheep's milk	
+kg
+9.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.56	00  	Other, described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+0406.30.57	00  	Containing, or processed from, Bryndza, Gjetost, Gammelost, Nokkelost or Roquefort cheeses	
+kg
+8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Containing, or processed from, blue-veined cheese(except Roquefort):				
+0406.30.61	00  	Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.63	00  	Other 1/	
+kg
+kg cmsc
+$2.269/kg 1/	Free (BH, CL, JO, MA, OM, SG) 22.6¢/kg (P) 30.2¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.82, 9915.04.91 (P+) See 9917.04.50, 9917.04.52 (PE) See 9918.04.50, 9918.04.52 (CO) See 9919.04.50, 9919.04.51, 9919.04.61 (PA)	$2.67/kg
+ 	Containing, or processed from, Cheddar cheese:				
+0406.30.65	00  	Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.67	00  	Other 1/	
+kg
+kg cmsc
+$1.227/kg 1/	Free (BH, CL, JO, MA, OM, SG) 12.2¢/kg (P) 16.3¢/kg (KR) See 9822.04.45 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.83, 9915.04.92 (P+) See 9917.04.50, 9917.04.53 (PE) See 9918.04.50, 9918.04.53 (CO) See 9919.04.50, 9919.04.52, 9919.04.62 (PA)	$1.443/kg
+ 	Containing, or processed from, American- type cheese (including Colby, washed curd and granular cheese, but not including Cheddar):				
+0406.30.69	00  	Described in additional U.S. note 19 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.71	00  	Other 1/	
+kg
+kg cmsc
+$1.055/kg 1/	Free (BH, CL, JO, MA, OM, SG) 10.5¢/kg (P) 14¢/kg (KR) See 9822.04.50 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.84, 9915.04.93 (P+) See 9917.04.50, 9917.04.54 (PE) See 9918.04.50, 9918.04.54 (CO) See 9919.04.50, 9919.04.53, 9919.04.63 (PA)	$1.241/kg
+ 	Containing, or processed from, Edam or Gouda cheeses:				
+0406.30.73	00  	Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.75	00  	Other 1/	
+kg
+kg cmsc
+$1.803/kg 1/	Free (BH, CL, JO, MA, OM, SG) 18¢/kg (P) 24¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.85, 9915.04.94 (P+) See 9917.04.50, 9917.04.55 (PE) See 9918.04.50, 9918.04.55 (CO) See 9919.04.50, 9919.04.54, 9919.04.64 (PA)	$2.121/kg
+ 	Containing, or processed from, Italian-type cheeses (Romano, Reggiano, Parmesan, Provolone, Provoletti, Sbrinz and Goya):				
+0406.30.77	00  	Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.79	00  	Other 1/	
+kg
+kg cmsc
+$2.146/kg 1/	Free (BH, CL, JO, MA, OM, SG) 21.4¢/kg (P) 28.6¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.86, 9915.04.95 (P+) See 9917.04.50, 9917.04.56 (PE) See 9918.04.50, 9918.04.56 (CO) See 9919.04.50, 9919.04.55, 9919.04.65 (PA)	$2.525/kg
+ 	Containing, or processed from, Swiss, Emmentaler or Gruyere-process cheeses:				
+0406.30.81	00  	Described in additional U.S. note 22 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.83	00  	Other 1/	
+kg
+kg cmsc
+$1.386/kg 1/	Free (BH, CL, JO, MA, OM, SG) 13.8¢/kg (P) 18.4¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.87, 9915.04.96 (P+) See 9917.04.50, 9917.04.57 (PE) See 9918.04.50, 9918.04.57 (CO) See 9919.04.50, 9919.04.56, 9919.04.66 (PA)	$1.631/kg
+ 	Other:				
+ 	Containing 0.5 percent or less by weight of butterfat:				
+0406.30.85	00  	Described in additional U.S. note 23 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.87	00  	Other 1/	
+kg
+kg cmsc
+$1.128/kg 1/	Free (BH, CL, JO, MA, OM, SG) 11.2¢/kg (P) 15¢/kg (KR) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.88, 9915.04.97 (P+) See 9917.04.50, 9917.04.58 (PE) See 9918.04.50, 9918.04.58 (CO) See 9919.04.50, 9919.04.57, 9919.04.67 (PA)	$1.328/kg
+ 	Other:				
+ 	Containing cow's milk:				
+0406.30.89	00  	Described in additional U.S. note 16 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.30.91	00  	Other 1/	
+kg
+kg cmsc
+$1.509/kg 1/	Free (BH, CL, JO, MA, OM, SG) 15¢/kg (P) 20.1¢/kg (KR) See 9822.04.35 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.81, 9915.04.90, 9915.04.99 (P+) See 9917.04.50, 9917.04.54 (PE) See 9918.04.50, 9918.04.51 (CO) See 9919.04.40, 9919.04.41-9919.04.42 (PA)	$1.775/kg
+0406.30.95	00  	Other	
+kg
+8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.40	 	Blue-veined cheese and other cheese containing veins produced by Penicillium roqueforti :				
+ 	Roquefort:				
+0406.40.20	00  	In original loaves	
+kg
+2.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.40.40	00  	Other	
+kg
+4.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Stilton cheese described in additional U.S. note 24 to this chapter and entered pursuant to its provisions:				
+0406.40.44	00  	In original loaves	
+kg
+kg cmsc
+12.8% 1/	Free (CO, JO, KR, OM, PA, PE, S)	35%
+0406.40.48	00  	Other	
+kg
+kg cmsc
+17% 1/	Free (CO, JO, KR, OM, PA, PE, S)	35%
+ 	Other:				
+ 	Described in general note 15 of the tariff schedule and entered pursuant to its provisions:				
+0406.40.51	00  	In original loaves	
+kg
+15% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.40.52	00  	Other	
+kg
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions:				
+0406.40.54	00  	In original loaves	
+kg
+kg cmsc
+15% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.40.58	00  	Other	
+kg
+kg cmsc
+20% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.40.70	00  	Other 1/	
+kg
+kg cmsc
+$2.269/kg 1/	Free (BH, CL, JO, MA, OM, SG) 22.6¢/kg (P) 30.2¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.82, 9915.04.91 (P+) See 9917.04.50, 9917.04.52 (PE) See 9918.04.50, 9918.04.52 (CO) See 9919.04.50, 9919.04.51, 9919.04.61 (PA)	$2.67/kg
+0406.90	 	Other cheese:				
+0406.90.05	00  	Bryndza cheese	
+kg
+7.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Cheddar cheese:				
+0406.90.06	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+12% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.08	 	Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions		12% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.08.10	10  	Produced in Canada and not subject to licensing requirements	
+kg
+kg cmsc
+0406.90.08.90	90  	Other	
+kg
+kg cmsc
+0406.90.12	00  	Other 1/	
+kg
+kg cmsc
+$1.227/kg 1/	Free (BH, CL, JO, MA, OM, SG) 12.2¢/kg (P) 16.3¢/kg (KR) See 9822.04.45 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.83, 9915.04.92 (P+) See 9917.04.50, 9917.04.53 (PE) See 9918.04.50, 9918.04.53 (CO) See 9919.04.50, 9919.04.52, 9919.04.62 (PA)	$1.443/kg
+ 	Edam and Gouda cheeses:				
+0406.90.14	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+15% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.16	00  	Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+15% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.18	00  	Other 1/	
+kg
+kg cmsc
+$1.803/kg 1/	Free (BH, CL, JO, MA, OM, SG) 18¢/kg (P) 24¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.85, 9915.04.94 (P+) See 9917.04.50, 9917.04.55 (PE) See 9918.04.50, 9918.04.55 (CO) See 9919.04.50, 9919.04.54, 9919.04.64 (PA)	$2.121/kg
+ 	Gjetost cheeses:				
+0406.90.20	00  	Made from goat's milk whey or from whey obtained from a mixture of goat's milk and not more than 20 percent by weight of cow's milk	
+kg
+4.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.25	00  	Other	
+kg
+8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Goya cheese:				
+0406.90.28	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+25% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+ 	Made from cow's milk and not in original loaves:				
+0406.90.31	00  	Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+25% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.32	00  	Other 1/	
+kg
+kg cmsc
+$2.146/kg 1/	Free (BH, CL, JO, MA, OM, SG) 21.4¢/kg (P) 28.6¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.86, 9915.04.95 (P+) See 9917.04.50, 9917.04.56 (PE) See 9918.04.50, 9918.04.56 (CO) See 9919.04.50, 9919.04.55, 9919.04.65 (PA)	$2.525/kg
+0406.90.33	00  	Other	
+kg
+kg cmsc
+21.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Sbrinz cheese:				
+0406.90.34	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+19% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+ 	Made from cow's milk:				
+0406.90.36	00  	Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+19% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.37	00  	Other 1/	
+kg
+kg cmsc
+$2.146/kg 1/	Free (BH, CL, JO, MA, OM, SG) 21.4¢/kg (P) 28.6¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.86, 9915.04.95 (P+) See 9917.04.50, 9917.04.56 (PE) See 9918.04.50, 9918.04.56 (CO) See 9919.04.50, 9919.04.55, 9919.04.65 (PA)	$2.525/kg
+0406.90.38	00  	Other	
+kg
+12.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Romano made from cow's milk, Reggiano, Parmesan, Provolone and Provoletti cheeses:				
+0406.90.39	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+15% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+ 	Made from cow's milk:				
+0406.90.41	00  	Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+15% 1/	Free (A, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.42	00  	Other 1/	
+kg
+kg cmsc
+$2.146/kg 1/	Free (BH, CL, JO, MA, OM, SG) 21.4¢/kg (P) 28.6¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.86, 9915.04.95 (P+) See 9917.04.50, 9917.04.56 (PE) See 9918.04.50, 9918.04.56 (CO) See 9919.04.50, 9919.04.55, 9919.04.65 (PA)	$2.525/kg
+0406.90.43	00  	Other	
+kg
+9.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Swiss or Emmentaler cheese with eye formation:				
+0406.90.44	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+6.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.46	00  	Described in additional U.S. note 25 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+6.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.48	00  	Other 1/	
+kg
+kg cmsc
+$1.877/kg 1/	Free (BH, CL, JO, MA, OM, SG) 18.7¢/kg (P) 25¢/kg (KR) See 9822.04.65 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.89, 9915.04.98 (P+) See 9917.04.50, 9917.04.59 (PE) See 9918.04.50, 9918.04.59 (CO) See 9919.04.50, 9919.04.58, 9919.04.68 (PA)	$2.208/kg
+0406.90.49	00  	Gammelost and Nokkelost cheeses	
+kg
+kg cmsc
+5.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Colby cheese:				
+0406.90.51	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.52	00  	Described in additional U.S. note 19 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+20% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.54	00  	Other 1/	
+kg
+kg cmsc
+$1.055/kg 1/	Free (BH, CL, JO, MA, OM, SG) 10.5¢/kg (P) 14¢/kg (KR) See 9822.04.50 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.84, 9915.04.93 (P+) See 9917.04.50, 9917.04.54 (PE) See 9918.04.50, 9918.04.54 (CO) See 9919.04.50, 9919.04.53, 9919.04.63 (PA)	$1.241/kg
+ 	Other cheeses, and substitutes for cheese, including mixtures of the above:				
+ 	Cheeses made from sheep's milk:				
+0406.90.56	00  	In original loaves and suitable for grating	
+kg
+Free 1/		35%
+0406.90.57	00  	Pecorino, in original loaves, not suitable for grating	
+kg
+Free 1/		35%
+0406.90.59	00  	Other	
+kg
+9.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other, described in general note 15 of the tariff schedule and entered pursuant to its provisions (including mixtures):				
+0406.90.61	00  	Containing Romano, Reggiano, Parmesan, Provolone, Provoletti, Sbrinz or Goya, all the foregoing made from cow's milk	
+kg
+7.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.63	00  	Other	
+kg
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other, including mixtures of the above (excluding goods containing mixtures of subheadings 0406.90.61 or 0406.90.63):				
+ 	Containing Romano, Reggiano, Parmesan, Provolone, Provoletti, Sbrinz or Goya, all the foregoing made from cow's milk:				
+0406.90.66	00  	Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+7.5% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.68	00  	Other 1/	
+kg
+kg cmsc
+$2.146/kg 1/	Free (BH, CL, JO, MA, OM, SG) 21.4¢/kg (P) 28.6¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.86, 9915.04.95 (P+) See 9917.04.50, 9917.04.56 (PE) See 9918.04.50, 9918.04.56 (CO) See 9919.04.50, 9919.04.55, 9919.04.65 (PA)	$2.525/kg
+ 	Containing, or processed from, blue-veined cheese:				
+0406.90.72	00  	Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.74	00  	Other 1/	
+kg
+kg cmsc
+$2.269/kg 1/	Free (BH, CL, JO, MA, OM, SG) 22.6¢/kg (P) 30.2¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.82, 9915.04.91 (P+) See 9917.04.50, 9917.04.52 (PE) See 9918.04.50, 9918.04.52 (CO) See 9919.04.50, 9919.04.51, 9919.04.61 (PA)	$2.67/kg
+ 	Containing, or processed from, Cheddar cheese:				
+0406.90.76	00  	Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.78	00  	Other 1/	
+kg
+kg cmsc
+$1.227/kg 1/	Free (BH, CL, JO, MA, OM, SG) 12.2¢/kg (P) 16.3¢/kg (KR) See 9822.04.45 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.83, 9915.04.92 (P+) See 9917.04.50, 9917.04.53 (PE) See 9918.04.50, 9918.04.53 (CO) See 9919.04.50, 9919.04.52, 9919.04.62 (PA)	$1.443/kg
+ 	Containing, or processed from, American- type cheese (including Colby, washed curd and granular cheese, but not including Cheddar):				
+0406.90.82	00  	Described in additional U.S. note 19 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.84	00  	Other 1/	
+kg
+kg cmsc
+$1.055/kg 1/	Free (BH, CL, JO, MA, OM, SG) 10.5¢/kg (P) 14¢/kg (KR) See 9822.04.50 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.84, 9915.04.93 (P+) See 9917.04.50, 9917.04.54 (PE) See 9918.04.50, 9918.04.54 (CO) See 9919.04.50, 9919.04.53, 9919.04.63 (PA)	$1.241/kg
+ 	Containing, or processed from, Edam or Gouda cheese:				
+0406.90.86	00  	Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.88	00  	Other 1/	
+kg
+kg cmsc
+$1.803/kg 1/	Free (BH, CL, JO, MA, OM, SG) 18¢/kg (P) 24¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.85, 9915.04.94 (P+) See 9917.04.50, 9917.04.55 (PE) See 9918.04.50, 9918.04.55 (CO) See 9919.04.50, 9919.04.54, 9919.04.64 (PA)	$2.121/kg
+ 	Containing, or processed from, Swiss, Emmentaler or Gruyere-process cheese:				
+0406.90.90	00  	Described in additional U.S. note 22 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.92	00  	Other 1/	
+kg
+kg cmsc
+$1.386/kg 1/	Free (BH, CL, JO, MA, OM, SG) 13.8¢/kg (P) 18.4¢/kg (KR) See 9822.04.40 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.87, 9915.04.96 (P+) See 9917.04.50, 9917.04.57 (PE) See 9918.04.50, 9918.04.57 (CO) See 9919.04.50, 9919.04.56, 9919.04.66 (PA)	$1.631/kg
+ 	Other:				
+ 	Containing 0.5 percent or less by weight of butterfat:				
+0406.90.93	00  	Described in additional U.S. note 23 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.94	00  	Other 1/	
+kg
+kg cmsc
+$1.128/kg 1/	Free (BH, CL, JO, MA, OM, SG) 11.2¢/kg (P) 15¢/kg (KR) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.88, 9915.04.97 (P+) See 9917.04.50, 9917.04.58 (PE) See 9918.04.50, 9918.04.58 (CO) See 9919.04.50, 9919.04.57, 9919.04.67 (PA(PA)	$1.328/kg
+ 	Other:				
+ 	Containing cow's milk (except soft- ripened cow's milk cheese):				
+0406.90.95	00  	Described in additional U.S. note 16 to this chapter and entered pursuant to its provisions	
+kg
+kg cmsc
+10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0406.90.97	00  	Other 1/	
+kg
+kg cmsc
+$1.509/kg 1/	Free (BH, CL, JO, MA, OM, SG) 15¢/kg (P) 20.1¢/kg (KR) See 9822.04.35 (AU) See 9823.04.01-9823.04.54 (S+) See 9908.04.05 (IL) See 9915.04.80, 9915.04.81, 9915.04.90, 9915.04.99 (P+) See 9917.04.50, 9917.04.51 (PE) See 9918.04.50, 9918.04.51 (CO) See 9919.04.40, 9919.04.41-9919.04.42 (PA)	$1.775/kg
+0406.90.99	00  	Other	
+kg
+kg cmsc
+8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0407	 	Birds' eggs, in shell, fresh, preserved or cooked:				
+ 	Fertilized eggs for incubation:				
+0407.11.00	00  	Of fowls of the species Gallus domesticus	
+doz.
+2.8¢/doz. 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10¢/doz.
+0407.19.00	00  	Other	
+doz.
+2.8¢/doz. 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10¢/doz.
+ 	Other fresh eggs:				
+0407.21.00	 	Of fowls of the species Gallus domesticus		2.8¢/doz. 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10¢/doz.
+0407.21.00.30	30  	Fresh table eggs (consumer grades)	
+doz.
+0407.21.00.90	90  	Other	
+doz.
+0407.29.00	00  	Other	
+doz.
+2.8¢/doz. 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10¢/doz.
+0407.90.00	00  	Other	
+doz.
+2.8¢/doz. 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10¢/doz.
+0408	 	Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, molded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter:				
+ 	Egg yolks:				
+0408.11.00	00  	Dried	
+kg
+47.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	59.5¢/kg
+0408.19.00	00  	Other	
+kg
+9.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg
+ 	Other:				
+0408.91.00	00  	Dried	
+kg
+47.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	59.5¢/kg
+0408.99.00	00  	Other	
+kg
+9.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg
+0409.00.00	 	Natural honey		1.9¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0409.00.00.05	05  	Certified Organic	
+kg
+ 	Other:				
+0409.00.00.10	10  	Comb honey and honey packaged for retail sale	
+kg
+ 	Other:				
+0409.00.00.35	35  	White or lighter	
+kg
+0409.00.00.45	45  	Extra light amber	
+kg
+0409.00.00.56	56  	Light amber	
+kg
+0409.00.00.65	65  	Amber or darker	
+kg
+0410	 	Insects and other edible products of animal origin, not elsewhere specified or included:				
+0410.10.00	00  	Insects	
+kg
+1.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+0410.90.00	00  	Other	
+kg
+1.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%

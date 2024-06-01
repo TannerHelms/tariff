@@ -1,0 +1,179 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+8901	 	Cruise ships, excursion boats, ferry boats, cargo ships, barges and similar vessels for the transport of persons or goods:				
+8901.10.00	00  	Cruise ships, excursion boats and similar vessels principally designed for the transport of persons; ferry boats of all kinds	
+No.
+Free 1/		Free
+8901.20.00	00  	Tankers	
+No.
+Free 1/		Free
+8901.30.00	00  	Refrigerated vessels, other than those of subheading 8901.20	
+No.
+Free 1/		Free
+8901.90.00	00  	Other vessels for the transport of goods and other vessels for the transport of both persons and goods	
+No.
+Free 1/		Free
+8902.00.00	00  	Fishing vessels; factory ships and other vessels for processing or preserving fishery products	
+No.
+Free 1/		Free
+8903	 	Yachts and other vessels for pleasure or sports; row boats and canoes:				
+ 	Inflatable (including rigid hull inflatable) boats:				
+8903.11.00	 	Fitted or designed to be fitted with a motor, unladen (net) weight (excluding the motor) not exceeding 100 kg		2.4% 1/	Free(A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Valued over $500:				
+8903.11.00.15	15  	With attached rigid hull	
+No.
+8903.11.00.20	20  	Other	
+No.
+8903.11.00.60	60  	Other	
+No.
+8903.12.00	 	Not designed for use with a motor and unladen (net) weight not exceeding 100 kg		2.4% 1/	Free(A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Valued over $500:				
+8903.12.00.15	15  	With attached rigid hull	
+No.
+8903.12.00.20	20  	Other	
+No.
+8903.12.00.60	60  	Other	
+No.
+8903.19.00	00  	Other	
+No.
+2.4% 1/	Free(A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Sailboats, other than inflatable, with or without auxiliary motor:				
+8903.21.00	 	Of a length not exceeding 7.5 m		1.5% 1/	Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+8903.21.00.10	10  	With auxiliary motor	
+No.
+ 	Other:				
+8903.21.00.30	30  	Of a length not exceeding 4 m	
+No.
+8903.21.00.35	35  	Of a length exceeding 4 m but not exceeding 6.5 m	
+No.
+8903.21.00.40	40  	Of a length exceeding 6.5 m but not exceeding 7.5 m	
+No.
+8903.22.00	 	Of a length exceeding 7.5 m but not exceeding 24 m		1.5% 1/	Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	With auxiliary motor:				
+8903.22.00.15	15  	Of a length exceeding 7.5 m but not exceeding 9.2 m	
+No.
+8903.22.00.20	20  	Of a length exceeding 9.2 m	
+No.
+ 	Other:				
+8903.22.00.25	25  	Of a length exceeding 7.5 m but not exceeding 9.2 m	
+No.
+8903.22.00.60	60  	Of a length exceeding 9.2 m	
+No.
+8903.23.00	 	Of a length exceeding 24 m		1.5% 1/	Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+8903.23.00.15	15  	With auxiliary motor	
+No.
+8903.23.00.20	20  	Other	
+No.
+ 	Motorboats, other than inflatable, not including outboard motorboats:				
+8903.31.00	 	Of a length not exceeding 7.5 m		1.5% 1/	Free(A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+ 	Inboard/outdrive:				
+8903.31.00.15	15  	Cabin cruisers	
+No.
+8903.31.00.20	20  	Other	
+No.
+8903.31.00.25	25  	Other	
+No.
+8903.32.00	 	Of a length exceeding 7.5 m but not exceeding 24 m		1.5% 1/	Free(A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+ 	Inboard/outdrive:				
+8903.32.00.15	15  	Cabin cruisers	
+No.
+8903.32.00.20	20  	Other	
+No.
+8903.32.00.25	25  	Other	
+No.
+8903.33.00	 	Of a length exceeding 24 m		1.5% 1/	Free(A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+ 	Inboard/outdrive:				
+8903.33.00.15	15  	Cabin cruisers	
+No.
+8903.33.00.20	20  	Other	
+No.
+8903.33.00.25	25  	Other	
+No.
+ 	Other:				
+8903.93	 	Of a length not exceeding 7.5 m:				
+ 	Row boats and canoes which are not of a type designed to be principally used with motors or sails:				
+8903.93.05	00  	Canoes	
+No.
+Free 1/		35%
+8903.93.15	00  	Other	
+No.
+2.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8903.93.20	 	Outboard motorboats		1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	With hulls of metal:				
+8903.93.20.15	15  	Not exceeding 5 m in length	
+No.
+8903.93.20.30	30  	Exceeding 5 m in length	
+No.
+ 	With hulls of reinforced plastics:				
+8903.93.20.45	45  	Not exceeding 5 m in length	
+No.
+8903.93.20.60	60  	Exceeding 5 m in length	
+No.
+8903.93.20.75	75  	Other	
+No.
+8903.93.90	00  	Other	
+No.
+1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+8903.99	 	Other:				
+ 	Row boats and canoes which are not of a type designed to be principally used with motors or sails:				
+8903.99.06	00  	Canoes	
+No.
+Free 1/		35%
+8903.99.16	00  	Other	
+No.
+2.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8903.99.21	 	Outboard motorboats		1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+8903.99.21.10	10  	With hulls of metal	
+No.
+8903.99.21.20	20  	With hulls of reinforced plastics	
+No.
+8903.99.21.90	90  	Other	
+No.
+8903.99.91	00  	Other	
+No.
+1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+8904.00.00	00  	Tugs and pusher craft	
+No.
+Free 1/		Free
+8905	 	Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms:				
+8905.10.00	00  	Dredgers	
+No.
+Free 1/		Free
+8905.20.00	00  	Floating or submersible drilling or production platforms	
+t
+No.
+Free 1/		Free
+8905.90	 	Other:				
+8905.90.10	00  	Floating docks	
+t
+No.
+Free		35%
+8905.90.50	00  	Other	
+No.
+Free 1/		Free
+8906	 	Other vessels, including warships and lifeboats other than row boats:				
+8906.10.00	00  	Warships	
+No.
+Free 1/		Free
+8906.90.00	 	Other		Free 1/		Free
+8906.90.00.10	10  	Hulls	
+t
+No.
+8906.90.00.90	90  	Other	
+No.
+8907	 	Other floating structures (for example, rafts, tanks, cofferdams, landing-stages, buoys and beacons):				
+8907.10.00	00  	Inflatable rafts	
+No.
+Free 1/		45%
+8907.90.00	 	Other		Free 1/		45%
+8907.90.00.30	30  	Buoys	
+No.
+8907.90.00.60	60  	Tanks	
+No.
+8907.90.00.90	90  	Other	
+No.
+8908.00.00	00  	Vessels and other floating structures for breaking up (scrapping)	
+t
+Free 1/		Free

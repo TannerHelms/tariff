@@ -1,0 +1,353 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+1501	 	Pig fat (including lard) and poultry fat, other than that of heading 0209 or 1503:				
+1501.10.00	00  	Lard	
+kg
+3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+1501.20.00	 	Other pig fat		3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+1501.20.00.40	40  	Choice white grease	
+kg
+1501.20.00.60	60  	Yellow grease	
+kg
+1501.20.00.80	80  	Other	
+kg
+1501.90.00	00  	Other	
+kg
+3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+1502	 	Fats of bovine animals, sheep or goats, other than those of heading 1503:				
+1502.10.00	 	Tallow		0.43¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.7¢/kg
+1502.10.00.20	20  	Edible	
+kg
+1502.10.00.40	40  	Inedible	
+kg
+1502.90.00	00  	Other	
+kg
+0.43¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.7¢/kg
+1503.00.00	00  	Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared	
+kg
+2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.8¢/kg
+1504	 	Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified:				
+1504.10	 	Fish-liver oils and their fractions:				
+1504.10.20	00  	Cod	
+kg
+Free 1/		Free
+1504.10.40	00  	Other	
+kg
+2.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg + 10%
+1504.20	 	Fats and oils and their fractions, of fish, other than liver oils:				
+1504.20.20	00  	Cod	
+kg
+Free 1/		Free
+1504.20.40	00  	Herring	
+kg
+1¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢/kg
+1504.20.60	 	Other		1.5¢/kg + 5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg + 20%
+1504.20.60.20	20  	Menhaden	
+kg
+1504.20.60.40	40  	Other	
+kg
+1504.30.00	00  	Fats and oils and their fractions, of marine mammals	
+kg
+1.7¢/kg + 5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg + 20%
+1505.00	 	Wool grease and fatty substances derived therefrom (including lanolin):				
+1505.00.10	00  	Wool grease, crude	
+kg
+1.3¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9.5¢/kg
+1505.00.90	00  	Other	
+kg
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	27%
+1506.00.00	00  	Other animal fats and oils and their fractions, whether or not refined, but not chemically modified	
+kg
+2.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1507	 	Soybean oil and its fractions, whether or not refined, but not chemically modified:				
+1507.10.00	00  	Crude oil, whether or not degummed	
+kg
+19.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+1507.90	 	Other:				
+1507.90.20	00  	Pharmaceutical Grade meeting FDA requirements for use in intravenous fat emulsions, valued over $5/kg	
+kg
+Free 1/		10%
+1507.90.40	 	Other		19.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+1507.90.40.20	20  	Once-refined (subjected to alkali or caustic wash, but not bleached or deodorized)	
+kg
+1507.90.40.40	40  	Other (fully refined, washed, bleached or deodorized)	
+kg
+1508	 	Peanut (ground-nut) oil and its fractions, whether or not refined, but not chemically modified:				
+1508.10.00	00  	Crude oil	
+kg
+7.5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.8¢/kg
+1508.90.00	00  	Other	
+kg
+7.5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.8¢/kg
+1509	 	Olive oil and its fractions, whether or not refined, but not chemically modified:				
+1509.20	 	Extra virgin olive oil:				
+1509.20.20	 	Weighing with the immediate container under 18 kg		5¢/kg on contents and container 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg on contents and container
+1509.20.20.30	30  	Certified organic	
+kg
+1509.20.20.90	90  	Other	
+kg
+1509.20.90	 	Other		3.4¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	14.3¢/kg
+1509.20.90.30	30  	Certified organic	
+kg
+1509.20.90.90	90  	Other	
+kg
+1509.30	 	Virgin olive oil:				
+1509.30.20	 	Weighing with the immediate container under 18 kg		5¢/kg on contents and container 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg on contents and container
+1509.30.20.30	30  	Certified organic	
+kg
+1509.30.20.90	90  	Other	
+kg
+1509.30.90	 	Other		3.4¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	14.3¢/kg
+1509.30.90.30	30  	Certified organic	
+kg
+1509.30.90.90	90  	Other	
+kg
+1509.40	 	Other virgin olive oils:				
+1509.40.20	 	Weighing with the immediate container under 18 kg		5¢/kg on contents and container 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg on contents and container
+1509.40.20.30	30  	Certified organic	
+kg
+1509.40.20.90	90  	Other	
+kg
+1509.40.90	 	Other		3.4¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	14.3¢/kg
+1509.40.90.30	30  	Certified organic	
+kg
+1509.40.90.90	90  	Other	
+kg
+1509.90	 	Other:				
+1509.90.20	00  	Weighing with the immediate container under 18 kg	
+kg
+5¢/kg on contents and container 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg on contents and container
+1509.90.40	00  	Other	
+kg
+3.4¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	14.3¢/kg
+1510	 	Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils and fractions with oils or fractions of heading 1509:				
+1510.10	 	Crude olive pomace oil:				
+1510.10.10	00  	Weighing with the immediate container under 18 kg	
+kg
+5¢/kg on contents and container 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg on contents and container
+1510.10.90	00  	Other	
+kg
+3.4¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	14.3¢/kg
+1510.90	 	Other:				
+1510.90.10	00  	Rendered unfit for use as food	
+kg
+Free 1/		Free
+ 	Other:				
+1510.90.20	00  	Weighing with the immediate container under 18 kg	
+kg
+5¢/kg on contents and container 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg on contents and container
+1510.90.90	00  	Other	
+kg
+3.4¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	14.3¢/kg
+1511	 	Palm oil and its fractions, whether or not refined, but not chemically modified:				
+1511.10.00	00  	Crude oil	
+kg
+Free 1/		Free
+1511.90.00	00  	Other	
+kg
+Free 1/		Free
+1512	 	Sunflower-seed, safflower or cottonseed oil, and fractions thereof, whether or not refined, but not chemically modified:				
+ 	Sunflower-seed or safflower oil and fractions thereof:				
+1512.11.00	 	Crude oil		1.7¢/kg + 3.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9.9¢/kg + 20%
+ 	Sunflower-seed oil:				
+1512.11.00.25	25  	Certified organic	
+kg
+1512.11.00.35	35  	Other	
+kg
+1512.11.00.40	40  	Safflower oil	
+kg
+1512.19.00	 	Other		1.7¢/kg + 3.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9.9¢/kg + 20%
+ 	Sunflower-seed oil:				
+1512.19.00.25	25  	Certified organic	
+kg
+1512.19.00.35	35  	Other	
+kg
+1512.19.00.40	40  	Safflower oil	
+kg
+ 	Cottonseed oil and its fractions:				
+1512.21.00	00  	Crude oil, whether or not gossypol has been removed	
+kg
+5.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+1512.29.00	 	Other		5.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+1512.29.00.20	20  	Once-refined (subjected to alkalai or caustic wash, but not bleached or deodorized)	
+kg
+1512.29.00.40	40  	Other (fully refined, washed, bleached or deodorized)	
+kg
+1513	 	Coconut (copra), palm kernel or babassu oil, and fractions thereof, whether or not refined, but not chemically modified:				
+ 	Coconut (copra) oil and its fractions:				
+1513.11.00	00  	Crude oil	
+kg
+Free 1/		4.4¢/kg
+1513.19.00	00  	Other	
+kg
+Free 1/		4.4¢/kg
+ 	Palm kernel or babassu oil and fractions thereof:				
+1513.21.00	00  	Crude oil	
+kg
+Free 1/		2.2¢/kg
+1513.29.00	00  	Other	
+kg
+Free 1/		2.2¢/kg
+1514	 	Rapeseed, colza or mustard oil, and fractions thereof, whether or not refined, but not chemically modified:				
+ 	Low erucic acid rape or colza oil and its fractions:				
+1514.11.00	00  	Crude oil	
+kg
+6.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22.5%
+1514.19.00	00  	Other	
+kg
+6.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22.5%
+ 	Other:				
+1514.91	 	Crude oil:				
+1514.91.10	00  	Imported to be used in the manufacture of rubber substitutes or lubricating oil	
+kg
+Free		1.8¢/kg
+1514.91.90	 	Other		6.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22.5%
+1514.91.90.10	10  	Rape or colza oil and its fractions	
+kg
+1514.91.90.20	20  	Mustard seed oil and its fractions	
+kg
+1514.99	 	Other:				
+1514.99.10	00  	Imported to be used in the manufacture of rubber substitutes or lubricating oil	
+kg
+Free 1/		1.8¢/kg
+ 	Other:				
+1514.99.50	 	Denatured		1.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9.92¢/kg
+1514.99.50.10	10  	Rape or colza oil and its fractions	
+kg
+1514.99.50.20	20  	Mustard seed oil and its fractions	
+kg
+1514.99.90	 	Other		6.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22.5%
+1514.99.90.10	10  	Rape or colza oil and its fractions	
+kg
+1514.99.90.20	20  	Mustard seed oil and its fractions	
+kg
+1515	 	Other fixed vegetable or microbial fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified:				
+ 	Linseed oil and its fractions:				
+1515.11.00	00  	Crude oil	
+kg
+6.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9.9¢/kg
+1515.19.00	00  	Other	
+kg
+6.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9.9¢/kg
+ 	Corn (maize) oil and its fractions:				
+1515.21.00	00  	Crude oil	
+kg
+3.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1515.29.00	 	Other		3.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1515.29.00.20	20  	Once-refined (subjected to alkalai or caustic wash, but not bleached or deodorized)	
+kg
+1515.29.00.40	40  	Other (fully refined, washed, bleached or deodorized)	
+kg
+1515.30.00	00  	Castor oil and its fractions	
+kg
+Free 1/		6.6¢/kg
+1515.50.00	00  	Sesame oil and its fractions	
+kg
+0.68¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+1515.60.05	00  	Microbial fats and oils and their fractions	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	20%
+1515.90	 	Other:				
+1515.90.21	00  	Nut oils	
+kg
+Free 1/		Free
+1515.90.60	00  	Jojoba oil and its fractions	
+kg
+2.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	20%
+1515.90.81	 	Other		3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	20%
+1515.90.81.10	10  	Hemp oil	
+kg
+1515.90.81.90	90  	Other	
+kg
+1516	 	Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinized, whether or not refined, but not further prepared:				
+1516.10.00	00  	Animal fats and oils and their fractions	
+kg
+7¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+1516.20	 	Vegetable fats and oils and their fractions:				
+1516.20.10	00  	Rapeseed oil	
+kg
+7.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12.5%
+1516.20.91	00  	Other	
+kg
+8.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+1516.30.00	00  	Microbial fats and oils and their fractions	
+kg
+8.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+1517	 	Margarine; edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this chapter, other than edible fats or oils or their fractions of heading 1516:				
+1517.10.00	00  	Margarine, excluding liquid margarine	
+kg
+12.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31¢/kg
+1517.90	 	Other:				
+ 	Artificial mixtures of two or more of the products provided for in headings 1501 to 1515, inclusive:				
+1517.90.10	 	Containing 5 percent or more by weight of soybean oil or any fraction thereof		18% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+1517.90.10.20	20  	Salad and cooking oils	
+kg
+ 	Baking or frying fats:				
+1517.90.10.40	40  	Wholly of vegetable oils	
+kg
+1517.90.10.60	60  	Other	
+kg
+1517.90.10.80	80  	Other	
+kg
+1517.90.20	 	Other		8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+1517.90.20.20	20  	Salad and cooking oils	
+kg
+ 	Baking or frying fats:				
+1517.90.20.40	40  	Wholly of vegetable oils	
+kg
+1517.90.20.60	60  	Other	
+kg
+1517.90.20.80	80  	Other	
+kg
+ 	Other:				
+ 	Dairy products described in additional U.S. note 1 to chapter 4:				
+1517.90.45	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+11¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+1517.90.50	00  	Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions	
+kg
+kg cmsc
+11¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+1517.90.60	00  	Other 1/	
+kg
+kg cmsc
+34.2¢/kg 1/	Free (BH, CL, JO, KR, MA, OM, PE, SG) 3.4¢/kg (P) 4.5¢/kg (PA) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9915.04.30, 9915.04.40, 9915.04.64 (P+) See 9918.04.60, 9918.04.68 (CO)	40.2¢/kg
+1517.90.90	 	Other		8.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+1517.90.90.15	15  	Partially hydrogenated salad and cooking oil	
+kg
+1517.90.90.25	25  	Soybean oil, wholly hydrogenated	
+kg
+1517.90.90.85	85  	Cottonseed oil, wholly hydrogenated	
+kg
+1517.90.90.90	90  	Other	
+kg
+1518.00	 	Animal, vegetable or microbial fats and oils and their fractions, boiled, oxidized, dehydrated, sulfurized, blown, polymerized by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516; inedible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this chapter, not elsewhere specified or included:				
+1518.00.20	00  	Of linseed or flaxseed oil	
+kg
+6.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9.9¢/kg
+1518.00.40	00  	Other	
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+1520.00.00	00  	Glycerol, crude; glycerol waters and glycerol lyes	
+kg
+Free 1/		2.2¢/kg
+1521	 	Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or colored:				
+1521.10.00	 	Vegetable waxes		Free 1/		Free
+1521.10.00.20	20  	Candelilla	
+kg
+1521.10.00.40	40  	Carnauba	
+kg
+1521.10.00.60	60  	Other	
+kg
+1521.90	 	Other:				
+1521.90.20	00  	Bleached beeswax	
+kg
+4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+1521.90.40	00  	Other	
+kg
+Free 1/		Free
+1522.00.00	00  	Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes	
+kg
+3.8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%

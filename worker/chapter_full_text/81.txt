@@ -1,0 +1,295 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+8101	 	Tungsten (wolfram) and articles thereof, including waste and scrap:				
+8101.10.00	00  	Powders	
+kg
+W kg
+7%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	58%
+ 	Other:				
+8101.94.00	00  	Unwrought tungsten, including bars and rods obtained simply by sintering	
+kg
+6.6%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8101.96.00	00  	Wire	
+kg
+4.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8101.97.00	00  	Waste and scrap	
+kg
+W kg
+2.8%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+8101.99	 	Other:				
+8101.99.10	00  	Bars and rods, other than those obtained simply by sintering, profiles, plates, sheets, strip and foil	
+kg
+6.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8101.99.80	00  	Other	
+kg
+3.7%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8102	 	Molybdenum and articles thereof, including waste and scrap:				
+8102.10.00	00  	Powders	
+kg
+Mo kg
+9.1¢/kg on molybdenum content + 1.2%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg on molybdenum content + 15%
+ 	Other:				
+8102.94.00	00  	Unwrought molybdenum, including bars and rods obtained simply by sintering	
+kg
+Mo kg
+13.9¢/kg on molybdenum content + 1.9%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg on molybdenum content + 15%
+8102.95	 	Bars and rods, other than those obtained simply by sintering, profiles, plates, sheets, strip and foil:				
+8102.95.30	00  	Bars and rods	
+kg
+6.6%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8102.95.60	00  	Other	
+kg
+6.6%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8102.96.00	00  	Wire	
+kg
+4.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8102.97.00	00  	Waste and scrap	
+kg
+Mo kg
+Free		Free
+8102.99.00	00  	Other	
+kg
+3.7%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8103	 	Tantalum and articles thereof, including waste and scrap:				
+8103.20.00	 	Unwrought tantalum, including bars and rods obtained simply by sintering; powders		2.5%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8103.20.00.30	30  	Powders	
+kg
+8103.20.00.90	90  	Other	
+kg
+8103.30.00	00  	Waste and scrap	
+kg
+Free		Free
+ 	Other:				
+8103.91.00	00  	Crucibles	
+kg
+4.4%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8103.99.00	00  	Other	
+kg
+4.4%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8104	 	Magnesium and articles thereof, including waste and scrap:				
+ 	Unwrought magnesium:				
+8104.11.00	00  	Containing at least 99.8 percent by weight of magnesium	
+kg
+8%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	100%
+8104.19.00	00  	Other	
+kg
+Mg kg
+6.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60.5%
+8104.20.00	00  	Waste and scrap	
+kg
+Free		Free
+8104.30.00	00  	Raspings, turnings and granules, graded according to size; powders	
+kg
+Mg kg
+4.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60.5%
+8104.90.00	00  	Other	
+kg
+Mg kg
+14.8¢/kg on magnesium content + 3.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	88¢/kg on magnesium content + 20%
+8105	 	Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap:				
+8105.20	 	Cobalt mattes and other intermediate products of cobalt metallurgy; unwrought cobalt; powders:				
+ 	Unwrought cobalt:				
+8105.20.30	00  	Alloys	
+kg
+4.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8105.20.60	00  	Other	
+kg
+Free 1/		Free
+8105.20.90	00  	Other	
+kg
+Free 1/		Free
+8105.30.00	00  	Waste and scrap	
+kg
+Free 1/		Free
+8105.90.00	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8106	 	Bismuth and articles thereof, including waste and scrap:				
+8106.10.00	00  	Containing more than 99.99 percent of bismuth, by weight	
+kg
+Free 1/		7.5%
+8106.90.00	00  	Other	
+kg
+Free 1/		7.5%
+8108	 	Titanium and articles thereof, including waste and scrap:				
+8108.20.00	 	Unwrought titanium; powders		15% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8108.20.00.10	10  	Sponge	
+kg
+ 	Other:				
+8108.20.00.15	15  	Powders	
+kg
+8108.20.00.30	30  	Ingots	
+kg
+8108.20.00.95	95  	Other	
+kg
+8108.30.00	00  	Waste and scrap	
+kg
+Free 1/		Free 1/
+8108.90	 	Other:				
+8108.90.30	 	Articles of titanium		5.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8108.90.30.30	30  	Castings	
+kg
+8108.90.30.60	60  	Other	
+kg
+8108.90.60	 	Other		15% 1/	Free (A*, AU, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8108.90.60.20	20  	Blooms, sheet bars, and slabs	
+kg
+8108.90.60.31	31  	Other bars, rods, profiles and wire	
+kg
+8108.90.60.45	45  	Plates, sheets, strips and foil	
+kg
+8108.90.60.60	60  	Tubes and pipes	
+kg
+8108.90.60.75	75  	Other	
+kg
+8109	 	Zirconium and articles thereof, including waste and scrap:				
+ 	Unwrought zirconium; powders:				
+8109.21.00	00  	Containing less than 1 part hafnium to 500 parts zirconium by weight	
+kg
+4.2%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8109.29.00	00  	Other	
+kg
+4.2%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Waste and scrap:				
+8109.31.00	00  	Containing less than 1 part hafnium to 500 parts zirconium by weight	
+kg
+Free 1/		Free
+8109.39.00	00  	Other	
+kg
+Free 1/		Free
+ 	Other:				
+8109.91.00	00  	Containing less than 1 part hafnium to 500 parts zirconium by weight	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8109.99.00	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8110	 	Antimony and articles thereof, including waste and scrap:				
+8110.10.00	00  	Unwrought antimony; powders	
+kg
+Free		4.4¢/kg
+8110.20.00	00  	Waste and scrap	
+kg
+Free		4.4¢/kg
+8110.90.00	00  	Other	
+kg
+Free		4.4¢/kg
+8111.00	 	Manganese and articles thereof, including waste and scrap:				
+8111.00.30	00  	Waste and scrap	
+kg
+Free		Free
+ 	Other:				
+ 	Unwrought manganese:				
+8111.00.47	00  	Flake containing at least 99.5 percent by weight manganese	
+kg
+14%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+8111.00.49	 	Other		14%	Free (A+, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+8111.00.49.10	10  	Powder containing at least 99.5 percent by weight manganese	
+kg
+8111.00.49.90	90  	Other	
+kg
+8111.00.60	00  	Other	
+kg
+3.7%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8112	 	Beryllium, chromium, hafnium, rhenium, thallium, cadmium, germanium, vanadium, gallium, indium and niobium (columbium), and articles of these metals, including waste and scrap:				
+ 	Beryllium:				
+8112.12.00	00  	Unwrought; powders	
+kg
+8.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8112.13.00	00  	Waste and scrap	
+kg
+Free 1/		Free
+8112.19.00	00  	Other	
+kg
+5.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Chromium:				
+8112.21.00	00  	Unwrought; powders	
+kg
+3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+8112.22.00	00  	Waste and scrap	
+kg
+Free		Free
+8112.29.00	00  	Other	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Hafnium:				
+8112.31.00	00  	Unwrought; waste and scrap; powders	
+kg
+Free 1/		25% 1/
+8112.39.00	00  	Other	
+kg
+4% 1/	Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Rhenium:				
+8112.41	 	Unwrought; waste and scrap; powders:				
+8112.41.10	00  	Waste and scrap	
+kg
+Free 1/		Free 1/
+8112.41.50	00  	Unwrought; powders	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8112.49.00	00  	Other	
+kg
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Thallium:				
+8112.51.00	00  	Unwrought; powders	
+kg
+4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8112.52.00	00  	Waste and scrap	
+kg
+Free 1/		Free
+8112.59.00	00  	Other	
+kg
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Cadmium:				
+8112.61.00	00  	Waste and scrap	
+kg
+Free 1/		33¢/kg
+8112.69	 	Other:				
+8112.69.10	00  	Unwrought cadmium; powders	
+kg
+Free 1/		33¢/kg
+8112.69.90	00  	Other	
+kg
+4.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+8112.92	 	Unwrought; waste and scrap; powders:				
+8112.92.07	00  	Waste and scrap	
+kg
+Free 1/		Free 1/
+ 	Other:				
+8112.92.10	00  	Gallium	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+8112.92.30	00  	Indium	
+kg
+Free		25% 1/
+8112.92.40	00  	Niobium (columbium)	
+kg
+4.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Germanium:				
+8112.92.60	00  	Unwrought	
+kg
+2.6%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8112.92.65	00  	Other	
+kg
+4.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8112.92.70	00  	Vanadium	
+kg
+V kg
+2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8112.99	 	Other:				
+8112.99.10	00  	Germanium	
+kg
+4.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8112.99.20	00  	Vanadium	
+kg
+V kg
+2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+8112.99.91	00  	Other	
+kg
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8113.00.00	00  	Cermets and articles thereof, including waste and scrap	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%

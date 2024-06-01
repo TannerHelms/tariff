@@ -1,0 +1,609 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+8201	 	Handtools of the following kinds and base metal parts thereof: spades, shovels, mattocks, picks, hoes, forks and rakes; axes, bill hooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges and other tools of a kind used in agriculture, horticulture or forestry:				
+8201.10.00	00  	Spades and shovels, and parts thereof	
+No.
+Free 1/		30%
+8201.30.00	 	Mattocks, picks, hoes and rakes, and parts thereof		Free 1/		45%
+8201.30.00.10	10  	Mattocks and picks, and parts thereof	
+No.
+8201.30.00.80	80  	Other	
+No.
+8201.40	 	Axes, bill hooks and similar hewing tools, and parts thereof:				
+8201.40.30	00  	Machetes, and parts thereof	
+No.
+Free 1/		Free
+8201.40.60	 	Other		6.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8201.40.60.10	10  	Axes and adzes, and parts thereof	
+No.
+8201.40.60.80	80  	Other	
+No.
+8201.50.00	00  	Secateurs and similar one-handed pruners and shears (including poultry shears), and parts thereof	
+No.
+1¢ each + 2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20¢ each + 45%
+8201.60.00	00  	Hedge shears, two-handed pruning shears and similar two-handed shears, and parts thereof	
+No.
+1¢ each + 2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20¢ each + 45%
+8201.90	 	Other handtools of a kind used in agriculture, horticulture or forestry, and parts thereof:				
+8201.90.30	00  	Grass shears, and parts thereof	
+No.
+2¢ each + 5.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20¢ each + 45%
+8201.90.40	00  	Forks, and parts thereof	
+No.
+Free 1/		15%
+8201.90.60	00  	Other	
+No.
+Free 1/		Free
+8202	 	Handsaws, and metal parts thereof; blades for saws of all kinds (including slitting, slotting or toothless saw blades), and base metal parts thereof:				
+8202.10.00	00  	Handsaws, and parts (except blades) thereof	
+No.
+Free 1/		20%
+8202.20.00	 	Bandsaw blades, and parts thereof		Free 1/		20%
+8202.20.00.30	30  	Metal cutting blades	
+No.
+8202.20.00.60	60  	Other	
+No.
+ 	Circular saw blades (including slitting or slotting saw blades), and parts thereof:				
+8202.31.00	00  	With working part of steel	
+No.
+Free 1/		25%
+8202.39.00	 	Other, including parts		Free 1/		25%
+8202.39.00.10	10  	With diamond working parts	
+No.
+8202.39.00.40	40  	Diamond sawblade cores	
+No.
+8202.39.00.70	70  	Other	
+No.
+8202.40	 	Chain saw blades, and parts thereof:				
+8202.40.30	00  	With cutting parts containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium	
+No.
+7.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8202.40.60	 	Other		Free 1/		27.5%
+8202.40.60.30	30  	In continuous lengths	
+m
+8202.40.60.60	60  	Other	
+No.
+ 	Other saw blades, and parts thereof:				
+8202.91	 	Straight saw blades, for working metal:				
+8202.91.30	00  	Hacksaw blades	
+No.
+Free 1/		20%
+8202.91.60	00  	Other	
+gross
+Free 1/		40¢/gross
+8202.99.00	00  	Other (including parts)	
+No.
+Free 1/		20%
+8203	 	Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal cutting shears, pipe cutters, bolt cutters, perforating punches and similar handtools, and base metal parts thereof:				
+8203.10	 	Files, rasps and similar tools:				
+8203.10.30	00  	Not over 11 cm in length	
+doz.
+Free 1/		47.5¢/doz.
+8203.10.60	00  	Over 11 cm but not over 17 cm in length	
+doz.
+Free 1/		62.5¢/doz.
+8203.10.90	00  	Over 17 cm in length	
+doz.
+Free 1/		77.5¢/doz.
+8203.20	 	Pliers (including cutting pliers), pincers, tweezers and similar tools, and parts thereof:				
+8203.20.20	00  	Tweezers	
+No.
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Other:				
+8203.20.40	00  	Slip joint pliers	
+doz.
+12% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8203.20.60	 	Other (except parts)		12¢/doz. + 5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.20/doz. + 60%
+8203.20.60.30	30  	Pliers	
+doz.
+8203.20.60.60	60  	Other	
+doz.
+8203.20.80	00  	Parts	
+No.
+4.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8203.30.00	00  	Metal cutting shears and similar tools, and parts thereof	
+No.
+Free 1/		50%
+8203.40	 	Pipe cutters, bolt cutters, perforating punches and similar tools, and parts thereof:				
+8203.40.30	00  	With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium	
+No.
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8203.40.60	00  	Other (including parts)	
+No.
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+8204	 	Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); socket wrenches, with or without handles, drives or extensions; base metal parts thereof:				
+ 	Hand-operated spanners and wrenches, and parts thereof:				
+8204.11.00	 	Nonadjustable, and parts thereof		9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8204.11.00.30	30  	Open-end, box and combination open-end and box wrenches	
+No.
+8204.11.00.60	60  	Other (including parts)	
+No.
+8204.12.00	00  	Adjustable, and parts thereof	
+No.
+9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8204.20.00	00  	Socket wrenches, with or without handles, drives and extensions, and parts thereof	
+No.
+9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8205	 	Handtools (including glass cutters) not elsewhere specified or included; blow torches and similar self-contained torches; vises, clamps and the like, other than accessories for and parts of machine tools or water-jet cutting machines; anvils; portable forges; hand- or pedal-operated grinding wheels with frameworks; base metal parts thereof:				
+8205.10.00	00  	Drilling, threading or tapping tools, and parts thereof	
+No.
+6.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8205.20	 	Hammers and sledge hammers, and parts thereof:				
+8205.20.30	00  	With heads not over 1.5 kg each	
+No.
+6.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8205.20.60	00  	With heads over 1.5 kg each	
+No.
+Free 1/		20%
+8205.30	 	Planes, chisels, gouges and similar cutting tools for working wood, and parts thereof:				
+8205.30.30	00  	With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium	
+No.
+5.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8205.30.60	00  	Other (including parts)	
+No.
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8205.40.00	00  	Screwdrivers, and parts thereof	
+No.
+6.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.1% (JP)	45%
+ 	Other handtools (including glass cutters) and parts thereof:				
+8205.51	 	Household tools, and parts thereof:				
+ 	Of iron or steel:				
+8205.51.15	00  	Carving and butcher steels, with or without handles	
+No.
+Free 1/		8¢ each + 45%
+8205.51.30	 	Other (including parts)		3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+8205.51.30.30	30  	Kitchen and table implements 1/	
+No.
+8205.51.30.60	60  	Other (including parts)	
+No.
+8205.51.45	00  	Of copper	
+No.
+Free 1/		40%
+8205.51.60	00  	Of aluminum	
+kg
+2.2¢/kg + 5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	19¢/kg + 40%
+8205.51.75	00  	Other	
+No.
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+8205.59	 	Other:				
+8205.59.10	00  	Pipe tools, and parts thereof	
+No.
+7.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.6% (JP)	45%
+8205.59.20	00  	Powder-actuated handtools, and parts thereof	
+No.
+Free 1/		27.5%
+8205.59.30	 	Crowbars, track tools and wedges, and parts thereof		Free 1/		3¢/kg 1/
+8205.59.30.10	10  	Crowbars	
+kg
+No.
+8205.59.30.80	80  	Other	
+kg
+No.
+ 	Other:				
+ 	Of iron or steel				
+8205.59.45	00  	Caulking guns	
+No.
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+8205.59.55	 	Other		5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Edged handtools:				
+8205.59.55.05	05  	Single edge razor blades other than for shaving	
+No.
+8205.59.55.10	10  	Other	
+No.
+8205.59.55.60	60  	Other (including parts)	
+No.
+8205.59.60	00  	Of copper	
+No.
+Free 1/		40%
+8205.59.70	00  	Of aluminum	
+kg
+1.5¢/kg + 3.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	19¢/kg + 40%
+8205.59.80	00  	Other	
+No.
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+8205.60.00	00  	Blow torches and similar self-contained torches, and parts thereof	
+No.
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8205.70.00	 	Vises, clamps and the like, and parts thereof		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Vises:				
+8205.70.00.30	30  	Pipe	
+No.
+8205.70.00.60	60  	Other	
+No.
+8205.70.00.90	90  	Other (including parts)	
+No.
+8205.90	 	Other, including sets of articles of two or more subheadings of this heading:				
+8205.90.10	00  	Anvils; portable forges; hand- or pedal-operated grinding wheels with frameworks; base metal parts thereof	
+No.
+Free 1/		6%
+8205.90.60	00  	Sets of articles of two or more of the foregoing subheadings	
+pcs 1/
+The rate of duty applicable to that article in the set subject to the highest rate of duty 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate of duty applicable to that article in the set subject to the highest rate of duty
+8206.00.00	00  	Tools of two or more of headings 8202 to 8205, put up in sets for retail sale	
+pcs 1/
+The rate of duty applicable to that article in the set subject to the highest rate of duty 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate of duty applicable to that article in the set subject to the highest rate of duty
+8207	 	Interchangeable tools for handtools, whether or not power operated, or for machine-tools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screwdriving), including dies for drawing or extruding metal, and rock drilling or earth boring tools; base metal parts thereof:				
+ 	Rock drilling or earth boring tools, and parts thereof:				
+8207.13.00	00  	With working part of cermets	
+No.
+3.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8207.19	 	Other, including parts:				
+8207.19.30	 	With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium		5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8207.19.30.30	30  	Percussion rock drill bits	
+No.
+ 	Other:				
+8207.19.30.60	60  	Rotary rock drill bits, core bits and reamers	
+No.
+8207.19.30.90	90  	Other	
+No.
+8207.19.60	 	Other		2.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+8207.19.60.30	30  	Percussion rock drill bits	
+No.
+ 	Other:				
+ 	Rotary rock drill bits, core bits and reamers:				
+8207.19.60.65	65  	With working part of diamonds	
+No.
+8207.19.60.70	70  	Other	
+No.
+8207.19.60.90	90  	Other	
+No.
+8207.20.00	 	Dies for drawing or extruding metal, and parts thereof		3.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+8207.20.00.30	30  	Diamond wire drawing dies	
+No.
+kg
+8207.20.00.40	40  	Other dies	
+No.
+kg
+8207.20.00.70	70  	Parts	
+No.
+kg
+8207.30	 	Tools for pressing, stamping or punching, and parts thereof:				
+8207.30.30	 	Suitable for cutting metal, and parts thereof		5.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 2.85% (JP)	60%
+8207.30.30.20	20  	Tools	
+No.
+kg
+8207.30.30.50	50  	Parts	
+No.
+kg
+8207.30.60	 	Not suitable for cutting metal, and parts thereof		2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+8207.30.60.32	32  	Stamping dies not suitable for cutting metal	
+No.
+kg
+8207.30.60.62	62  	Metal forming dies, including thread-rolling dies	
+No.
+kg
+8207.30.60.92	92  	Other tools	
+No.
+kg
+8207.30.60.95	95  	Parts	
+No.
+kg
+8207.40	 	Tools for tapping or threading, and parts thereof:				
+8207.40.30	00  	With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium	
+No.
+5.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 2.85% (JP)	60%
+8207.40.60	00  	Other	
+No.
+4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	50%
+8207.50	 	Tools for drilling, other than for rock drilling, and parts thereof:				
+8207.50.20	 	With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	60%
+8207.50.20.30	30  	Masonry drills	
+No.
+ 	Twist drills:				
+8207.50.20.45	45  	Brad point	
+No.
+8207.50.20.55	55  	Other	
+No.
+ 	Other:				
+8207.50.20.70	70  	For woodworking	
+No.
+8207.50.20.80	80  	Other	
+No.
+ 	Other:				
+8207.50.40	 	Suitable for cutting metal, and parts thereof		8.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+8207.50.40.30	30  	Twist drills	
+No.
+8207.50.40.60	60  	Other	
+No.
+ 	Not suitable for cutting metal, and parts thereof:				
+8207.50.60	00  	For handtools, and parts thereof	
+No.
+5.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8207.50.80	00  	Other	
+No.
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+8207.60.00	 	Tools for boring or broaching, and parts thereof		4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	60%
+8207.60.00.30	30  	Broaches	
+No.
+8207.60.00.35	35  	Reamers, except gun reamers	
+No.
+8207.60.00.61	61  	Other (including parts thereof)	
+No.
+8207.70	 	Tools for milling, and parts thereof:				
+8207.70.30	 	With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium		5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	60%
+8207.70.30.30	30  	End milling cutters	
+No.
+8207.70.30.40	40  	Router bits for woodworking	
+No.
+8207.70.30.60	60  	Other	
+No.
+8207.70.60	 	Other		2.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+8207.70.60.30	30  	End milling cutters	
+No.
+8207.70.60.40	40  	Router bits not suitable for cutting metal	
+No.
+8207.70.60.60	60  	Other (including parts)	
+No.
+8207.80	 	Tools for turning:				
+8207.80.30	00  	With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium	
+No.
+4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8207.80.60	00  	Other	
+No.
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+8207.90	 	Other interchangeable tools, and parts thereof:				
+8207.90.15	00  	Files and rasps, including rotary files and rasps, and parts thereof	
+doz.
+1.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+ 	Other:				
+8207.90.30	 	Cutting tools with cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium		5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+8207.90.30.30	30  	Hobs and other gear cutting tools	
+No.
+ 	For woodworking:				
+8207.90.30.75	75  	Cutterheads with interchangeable tools	
+No.
+8207.90.30.80	80  	Other	
+No.
+8207.90.30.85	85  	Other	
+No.
+ 	Other:				
+8207.90.45	00  	Suitable for cutting metal, and parts thereof	
+No.
+4.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Not suitable for cutting metal, and parts thereof:				
+8207.90.60	00  	For handtools, and parts thereof	
+No.
+4.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8207.90.75	 	Other		3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+8207.90.75.45	45  	Cutterheads with interchangeable tools	
+No.
+8207.90.75.85	85  	Other 1/	
+No.
+8208	 	Knives and cutting blades, for machines or for mechanical appliances, and base metal parts thereof:				
+8208.10.00	 	For metal working, and parts thereof		Free 1/		20%
+8208.10.00.30	30  	Over 30.5 cm in length, for metal shearing machines or over 15.2 cm in diameter for metal shearing/slitting machines	
+No.
+8208.10.00.60	60  	Other (including parts)	
+No.
+8208.20.00	 	For wood working, and parts thereof		Free 1/		20%
+8208.20.00.30	30  	Over 73.7 cm in length, for veneer-cutting machines	
+No.
+8208.20.00.60	60  	Over 15.2 cm in length, for wood-chipper machines	
+No.
+8208.20.00.90	90  	Other (including parts)	
+No.
+8208.30.00	 	For kitchen appliances or for machines used by the food industry, and parts thereof		Free 1/		20%
+8208.30.00.30	30  	For meat-slicing, meat-cutting or meat-chopping machines	
+No.
+8208.30.00.60	60  	Other (including parts)	
+No.
+8208.40	 	For agricultural, horticultural or forestry machines, and parts thereof:				
+8208.40.30	00  	Lawnmower blades	
+No.
+Free 1/		20%
+8208.40.60	00  	Other (including parts)	
+No.
+Free 1/		Free
+8208.90	 	Other:				
+8208.90.30	00  	For shoe machinery	
+No.
+Free 1/		Free
+8208.90.60	00  	Other (including parts)	
+No.
+Free 1/		20% 1/
+8209.00.00	 	Plates, sticks, tips and the like for tools, unmounted, of cermets		4.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	60%
+8209.00.00.30	30  	Of sintered metal carbides	
+kg
+8209.00.00.60	60  	Of other cermets	
+kg
+8210.00.00	00  	Hand-operated mechanical appliances, weighing 10 kg or less, used in the preparation, conditioning or serving of food or drink, and base metal parts thereof	
+No.
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+8211	 	Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 8208, and blades and other base metal parts thereof:				
+8211.10.00	00  	Sets of assorted articles	
+pcs 1/
+The rate of duty applicable to that article in the set subject to the highest rate of duty	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate of duty appli- cable to that article in the set subject to the high- est rate of duty
+ 	Other:				
+8211.91	 	Table knives having fixed blades:				
+8211.91.10	00  	Knives with silver-plated handles	
+No.
+Free 1/		8¢ each + 45%
+ 	Knives with stainless steel handles:				
+ 	With handles containing nickel or containing over 10 percent by weight of manganese:				
+8211.91.20	00  	Valued under 25¢ each, not over 25.9 cm in overall length	
+pcs
+0.4¢ each + 6.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2¢ each + 45%
+8211.91.25	00  	Other	
+pcs
+0.4¢ each + 6.8% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2¢ each + 45%
+ 	Other:				
+8211.91.30	00  	Valued under 25¢ each, not over 25.9 cm in overall length	
+pcs
+0.9¢ each + 10.6%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2¢ each + 45%
+8211.91.40	00  	Other	
+pcs
+0.3¢ each + 3.7%	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2¢ each + 45%
+8211.91.50	 	Knives with rubber or plastic handles		0.7¢ each + 3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8211.91.50.30	30  	Steak knives	
+No.
+8211.91.50.60	60  	Other	
+No.
+8211.91.80	 	Other		0.3¢ each + 4.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8211.91.80.30	30  	Steak knives	
+No.
+8211.91.80.60	60  	Other	
+No.
+8211.92	 	Other knives having fixed blades:				
+ 	With rubber or plastic handles:				
+8211.92.20	00  	Kitchen and butcher knives	
+No.
+0.8¢ each + 4.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8211.92.40	 	Other		1¢ each + 4.6%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8211.92.40.50	50  	Sheath-type knives	
+No.
+8211.92.40.60	60  	Other	
+No.
+ 	Other:				
+8211.92.60	00  	Hunting knives with wood handles	
+No.
+4.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8211.92.90	 	Other		0.4¢ each + 6.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8211.92.90.30	30  	Kitchen and butcher knives	
+No.
+8211.92.90.45	45  	Sheath-type knives	
+No.
+8211.92.90.60	60  	Other	
+No.
+8211.93.00	 	Knives having other than fixed blades		3¢ each + 5.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35¢ each + 55%
+8211.93.00.31	31  	Folding two-handled multi-use tools in which one or more tools are housed in each handle and one or more of the tools is a folding knife blade	
+No.
+8211.93.00.35	35  	Pen knives, pocket knives and other knives which have folding blades	
+No.
+8211.93.00.60	60  	Other (including parts)	
+No.
+8211.94	 	Blades:				
+8211.94.10	00  	For knives having fixed blades	
+No.
+0.16¢ each + 2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8211.94.50	00  	Other	
+No.
+1¢ each + 5.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢ each + 55%
+8211.95	 	Handles of base metal:				
+8211.95.10	00  	For table knives having fixed blades	
+No.
+0.3¢ each + 4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8211.95.50	00  	For other knives having fixed blades	
+No.
+0.4¢ each + 6.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8211.95.90	00  	Other	
+No.
+3¢ each + 5.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35¢ each + 55%
+8212	 	Razors and razor blades (including razor blade blanks in strips), and base metal parts thereof:				
+8212.10.00	00  	Razors	
+No.
+Free 1/		10¢ each + 30%
+8212.20.00	 	Safety razor blades, including razor blade blanks in strips		Free 1/		1¢ each + 30%
+8212.20.00.05	05  	Single edge razor blades for shaving	
+No.
+8212.20.00.10	10  	Other	
+No.
+8212.90.00	00  	Other parts	
+No.
+Free 1/		27.5%
+8213.00	 	Scissors, tailors' shears and similar shears, and blades and other base metal parts thereof:				
+8213.00.30	00  	Valued not over $1.75/dozen	
+No.
+1.7¢ each + 4.3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15¢ each + 45%
+ 	Valued over $1.75/dozen:				
+8213.00.60	00  	Pinking shears, valued over $30/dozen	
+No.
+8¢ each + 8%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20¢ each + 45%
+8213.00.90	00  	Other (including parts)	
+No.
+3¢ each + 3%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20¢ each + 45%
+8214	 	Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, chopping or mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files); base metal parts thereof:				
+8214.10.00	00  	Paper knives, letter openers, erasing knives, pencil sharpeners (nonmechanical) and blades and other parts thereof	
+No.
+0.3¢ each + 4.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8214.20	 	Manicure or pedicure sets and instruments (including nail files), and parts thereof:				
+8214.20.30	00  	Cuticle or cornknives, cuticle pushers, nail files, nailcleaners, nail nippers and clippers, all the foregoing used for manicure or pedicure purposes, and parts thereof	
+No.
+4%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+ 	Manicure and pedicure sets, and combinations thereof:				
+8214.20.60	00  	In leather containers	
+No.
+Free 1/		50%
+8214.20.90	00  	Other	
+No.
+4.1%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8214.90	 	Other:				
+ 	Cleavers and the like not elsewhere specified or included:				
+8214.90.30	00  	Cleavers with their handles	
+No.
+1¢ each + 4.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8214.90.60	00  	Other	
+No.
+0.2¢ each + 3.1%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8214.90.90	00  	Other (including parts)	
+No.
+1.4¢ each + 3.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20¢ each + 45%
+8215	 	Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware; and base metal parts thereof:				
+8215.10.00	00  	Sets of assorted articles containing at least one article plated with precious metal	
+pcs 1/
+The rate of duty applicable to that article in the set subject to the highest rate of duty 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate of duty applicable to that article in the set subject to the highest rate of duty
+8215.20.00	00  	Other sets of assorted articles	
+pcs 1/
+The rate of duty applicable to that article in the set subject to the highest rate of duty 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	The rate of duty applicable to that article in the set subject to the highest rate of duty
+ 	Other:				
+8215.91	 	Plated with precious metal:				
+8215.91.30	00  	Forks	
+No.
+Free 1/		2¢ each + 45%
+8215.91.60	00  	Spoons and ladles	
+No.
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+8215.91.90	00  	Other (including parts)	
+No.
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+8215.99	 	Other:				
+ 	Forks:				
+ 	With stainless steel handles:				
+ 	With handles containing nickel or containing over 10 percent by weight of manganese:				
+8215.99.01	00  	Valued under 25¢ each, not over 25.9 cm in overall length	
+pcs
+0.9¢ each + 15.8%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2¢ each + 45%
+8215.99.05	00  	Other	
+pcs
+0.5¢ each + 8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2¢ each + 45%
+ 	Other:				
+8215.99.10	00  	Valued under 25¢ each	
+pcs
+0.5¢ each + 6.3%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2¢ each + 45%
+8215.99.15	00  	Other	
+pcs
+0.4¢ each + 4.8% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2¢ each + 45%
+8215.99.20	00  	With rubber or plastic handles	
+No.
+0.5¢ each + 3.2%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+ 	Other:				
+8215.99.22	00  	Without their handles	
+No.
+Free		8¢ each + 45%
+ 	Other:				
+8215.99.24	00  	Table forks (including table serving forks) and barbecue forks with wooden handles	
+No.
+0.3¢ each + 4.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+8215.99.26	00  	Other	
+No.
+0.2¢ each + 3.1% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8¢ each + 45%
+ 	Spoons and ladles:				
+ 	With stainless steel handles:				
+8215.99.30	00  	Spoons valued under 25¢ each	
+pcs
+14%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+8215.99.35	00  	Other	
+pcs
+6.8% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+8215.99.40	 	With base metal (except stainless steel) or nonmetal handles		5%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+8215.99.40.30	30  	Tablespoons and table ladles	
+No.
+8215.99.40.60	60  	Other	
+No.
+8215.99.45	00  	Other	
+No.
+Free 1/		65%
+8215.99.50	00  	Other (including parts)	
+No.
+5.3%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%

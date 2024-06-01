@@ -4,9 +4,13 @@ from bullmq import Worker
 from prisma import Prisma
 import json
 import time
+from model import process_product_info
+from dotenv import load_dotenv
+
+# Load environment variables from .env file located one directory above
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
 
 async def process(job, job_token):
-
     # Connect to the database
     db = Prisma()
     await db.connect()
@@ -29,23 +33,42 @@ async def process(job, job_token):
         }
     )
 
-    # Process the Job
-    time.sleep(3)
+    # Prepare product information from the job data
+    product_info = {
+        "product": name,
+        "product_description": description,
+        "product_material": material,
+        "end_use": use,
+        "type": type
+    }
 
-    # Update the job status
+    # Load section and chapter descriptions
+    try:
+        with open('section_and_chapter_with_notes.json', 'r', encoding='utf-8') as f:
+            section_data = json.load(f)
+    except FileNotFoundError as e:
+        print(f"File not found: {e}")
+        section_data = None
+
+    # Process the product information with the model
+    matching_sections, true_chapters, true_hts_matches = process_product_info(product_info, section_data)
+
+    # Update the job status with the results
     await db.job.update(
         where={
             'id': job_id
         },
         data={
-            'result': json.dumps({'code': '1912', 'message': 'Job completed 10122', 'test': 'hello world done'}),
+            'result': json.dumps({
+                'matching_sections': matching_sections,
+                'true_chapters': true_chapters,
+                'true_hts_matches': true_hts_matches
+            }, ensure_ascii=False, indent=4),
             'status': 'COMPLETED'
         }
     )
-    
-    # Print out that the job has been completed
-    print(f"Processing {job.id} with data {job.data}")
 
+    print(f"Processing {job.id} with data {job.data}")
 
 async def main():
     print('work is starting...')
@@ -62,7 +85,6 @@ async def main():
 
     # When no need to process more jobs we should close the worker
     await worker.close()
-
 
 if __name__ == "__main__":
     asyncio.run(main())

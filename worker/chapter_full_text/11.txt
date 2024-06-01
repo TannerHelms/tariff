@@ -1,0 +1,164 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+1101.00.00	 	Wheat or meslin flour		0.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.3¢/kg
+1101.00.00.10	10  	Hard spring wheat	
+kg
+1101.00.00.20	20  	Durum wheat	
+kg
+1101.00.00.30	30  	White winter wheat	
+kg
+ 	Other:				
+1101.00.00.50	50  	Certified organic	
+kg
+1101.00.00.60	60  	Other	
+kg
+1102	 	Cereal flours other than of wheat or meslin:				
+1102.20.00	00  	Corn (maize) flour	
+kg
+0.3¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.1¢/kg
+1102.90	 	Other:				
+1102.90.20	00  	Buckwheat flour	
+kg
+Free 1/		1.1¢/kg
+1102.90.25	00  	Rice flour	
+kg
+0.09¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.4¢/kg
+1102.90.27	00  	Rye flour	
+kg
+0.23¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1¢/kg
+ 	Other:				
+1102.90.30	00  	Mixtures	
+kg
+12.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1102.90.60	00  	Other	
+kg
+9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1103	 	Cereal groats, meal and pellets:				
+ 	Groats and meal:				
+1103.11.00	 	Of wheat		0.5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.3¢/kg
+1103.11.00.20	20  	Semolina	
+kg
+1103.11.00.40	40  	Other	
+kg
+1103.13.00	 	Of corn (maize)		0.3¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.1¢/kg
+1103.13.00.20	20  	Cornmeal	
+kg
+1103.13.00.60	60  	Other	
+kg
+1103.19	 	Of other cereals:				
+1103.19.12	00  	Of oats	
+kg
+0.8¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.8¢/kg
+1103.19.14	00  	Of rice	
+kg
+0.09¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.4¢/kg
+1103.19.90	00  	Of other cereals	
+kg
+9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1103.20.00	 	Pellets		Free 1/		10%
+1103.20.00.10	10  	Of wheat	
+kg
+1103.20.00.90	90  	Of other cereals	
+kg
+1104	 	Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 1006; germ of cereals, whole, rolled, flaked or ground:				
+ 	Rolled or flaked grains:				
+1104.12.00	00  	Of oats	
+kg
+1.2¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.8¢/kg
+1104.19	 	Of other cereals:				
+1104.19.10	00  	Of barley	
+kg
+2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+1104.19.90	00  	Other	
+kg
+0.45¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1¢/kg
+ 	Other worked grains (for example, hulled, pearled, sliced or kibbled):				
+1104.22.00	00  	Of oats	
+kg
+0.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11%
+1104.23.00	00  	Of corn (maize)	
+kg
+0.45¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1¢/kg
+1104.29	 	Of other cereals:				
+1104.29.10	00  	Of barley	
+kg
+1.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17%
+1104.29.90	00  	Other	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1104.30.00	00  	Germ of cereals, whole, rolled, flaked or ground	
+kg
+4.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1105	 	Flour, meal, powder, flakes, granules and pellets of potatoes:				
+1105.10.00	00  	Flour, meal and powder	
+kg
+1.7¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+1105.20.00	00  	Flakes, granules and pellets	
+kg
+1.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.1¢/kg
+1106	 	Flour, meal and powder of the dried leguminous vegetables of heading 0713, of sago or of roots or tubers of heading 0714 or of the products of chapter 8:				
+1106.10.00	00  	Of the dried leguminous vegetables of heading 0713	
+kg
+8.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+1106.20	 	Of sago or of roots or tubers of heading 0714:				
+1106.20.10	00  	Of Chinese water chestnuts	
+kg
+8.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+1106.20.90	00  	Other	
+kg
+Free 1/		Free
+1106.30	 	Of the products of chapter 8:				
+1106.30.20	00  	Banana and plantain	
+kg
+2.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1106.30.40	00  	Other	
+kg
+9.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1107	 	Malt, whether or not roasted:				
+1107.10.00	00  	Not roasted	
+kg
+0.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.88¢/kg
+1107.20.00	00  	Roasted	
+kg
+0.42¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.88¢/kg
+1108	 	Starches; inulin:				
+ 	Starches:				
+1108.11.00	 	Wheat starch		0.54¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.3¢/kg
+1108.11.00.10	10  	For food use	
+kg
+1108.11.00.90	90  	Other	
+kg
+1108.12.00	 	Corn (maize) starch		0.54¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.3¢/kg
+1108.12.00.10	10  	For food use	
+kg
+1108.12.00.90	90  	Other	
+kg
+1108.13.00	 	Potato starch		0.56¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+1108.13.00.10	10  	For human consumption	
+kg
+1108.13.00.90	90  	Other	
+kg
+1108.14.00	00  	Cassava (manioc) starch	
+kg
+Free 1/		Free
+1108.19.00	 	Other starches		Free 1/		Free
+1108.19.00.10	10  	Cereal starches for non-food use	
+kg
+1108.19.00.90	90  	Other	
+kg
+1108.20.00	00  	Inulin	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+1109.00	 	Wheat gluten, whether or not dried:				
+1109.00.10	00  	To be used as animal feed	
+kg
+1.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1109.00.90	 	Other	
+kg
+6.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+1109.00.90.10	10  	Certified organic	
+kg
+1109.00.90.20	20  	Other	
+kg

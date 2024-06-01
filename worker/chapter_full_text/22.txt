@@ -1,0 +1,386 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+2201	 	Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavored; ice and snow:				
+2201.10.00	00  	Mineral waters and aerated waters	
+liters
+0.26¢/liter 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.6¢/liter
+2201.90.00	00  	Other	
+t
+Free 1/		Free
+2202	 	Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavored, and other non-alcoholic beverages, not including fruit, nut or vegetable juices of heading 2009:				
+2202.10.00	 	Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavored		0.2¢/liter 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢/liter
+ 	Carbonated soft drinks:				
+2202.10.00.20	20  	Containing high-intensity sweeteners (e.g., aspartame and/or saccharin)	
+liters
+ 	Other:				
+2202.10.00.45	45  	In aluminum containers	
+liters
+2202.10.00.55	55  	Other	
+liters
+ 	Other:				
+2202.10.00.65	65  	In aluminum containers	
+liters
+2202.10.00.75	75  	Other	
+liters
+ 	Other:				
+2202.91.00	 	Non-alcoholic beer		0.2¢/liter 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢/liter
+2202.91.00.10	10  	In aluminum containers	
+liters
+2202.91.00.20	20  	Other	
+liters
+2202.99	 	Other:				
+ 	Milk-based drinks:				
+2202.99.10	00  	Chocolate milk drink	
+liters
+kg cmsc
+17% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+2202.99.22	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+liters
+kg
+17.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2202.99.24	00  	Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions	
+liters
+kg
+17.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2202.99.28	00  	Other	
+liters
+kg
+23.5¢/liter + 14.9% 1/ 1/	Free (BH, CL, JO, KR, MA, OM, PA, PE, SG) 2.3¢/liter + 1.4% (P) See 9822.04.25 (AU) See 9823.01.01-9823.01.07 (S+) See 9915.04.30, 9915.04.54, 9915.04.78 (P+) See 9918.04.60, 9918.04.80 (CO)	27.6¢/liter+ 17.5% 1/
+ 	Fruit or vegetable juices, fortified with vitamins or minerals:				
+ 	Orange juice:				
+2202.99.30	00  	Not made from a juice having a degree of concentration of 1.5 or more (as determined before correction to the nearest 0.5 degree)	
+liters
+4.5¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2202.99.35	00  	Other	
+liters
+7.85¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+ 	Other:				
+2202.99.36	00  	Juice of any single fruit or vegetable	
+liters
+The rate applicable to the natural juice in heading 2009 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)The rate applicable to the natural juice in heading 2009(A*)	The rate applicable to the natural juice in heading 2009
+2202.99.37	00  	Mixtures of juices	
+liters
+The rate applicable to the natural juice in heading 2009 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) The rate applicable to the natural juice in heading 2009 (A*)	The rate applicable to the natural juice in heading 2009
+2202.99.91	 	Other		0.2¢/liter 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢/liter
+2202.99.91.10	10  	In aluminum containers	
+liters
+2202.99.91.20	20  	Other	
+liters
+2203.00.00	 	Beer made from malt		Free 1/ 1/		13.2¢/liter 1/
+ 	In containers each holding not over 4 liters:				
+2203.00.00.30	30  	In glass containers	
+liters
+2203.00.00.60	60  	Other	
+liters
+2203.00.00.90	90  	In containers each holding over 4 liters	
+liters
+2204	 	Wine of fresh grapes, including fortified wines; grape must other than that of heading 2009:				
+2204.10.00	 	Sparkling wine		19.8¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)8.8¢/liter(JO)	$1.59/liter 1/
+2204.10.00.30	30  	Valued not over $1.59/liter	
+liters
+ 	Valued over $1.59/liter:				
+2204.10.00.65	65  	Certified organic	
+liters
+2204.10.00.75	75  	Other	
+liters
+ 	Other wine; grape must with fermentation prevented or arrested by the addition of alcohol:				
+2204.21	 	In containers holding 2 liters or less:				
+2204.21.20	00  	Effervescent wine	
+liters
+19.8¢/liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 8.8¢/liter (JO)	$1.59/liter 1/
+ 	Other:				
+ 	Of an alcoholic strength by volume not over 14 percent vol.:				
+2204.21.30	00  	If entitled under regulations of the United States Internal Revenue Service to a type designation which includes the name "Tokay" and if so designated on the approved label	
+liters
+6.3¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)2.8¢/liter(JO)	33¢/liter 1/
+2204.21.50	 	Other		6.3¢/liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 2.8¢/liter (JO)	33¢/liter 1/
+ 	Valued not over $1.05/liter:				
+2204.21.50.05	05  	Red	
+liters
+2204.21.50.15	15  	White	
+liters
+2204.21.50.25	25  	Other	
+liters
+ 	Valued over $1.05/liter:				
+2204.21.50.28	28  	Icewine	
+liters
+ 	Other:				
+ 	Red:				
+2204.21.50.35	35  	Certified organic	
+liters
+2204.21.50.40	40  	Not certified organic	
+liters
+ 	White:				
+2204.21.50.50	50  	Certified organic	
+liters
+2204.21.50.55	55  	Not certified organic	
+liters
+2204.21.50.60	60  	Other	
+liters
+ 	Of an alcoholic strength by volume over 14 percent vol.:				
+2204.21.60	00  	If entitled under regulations of the United States Internal Revenue Service to a type designation which includes the name "Marsala" and if so designated on the approved label	
+liters
+5.3¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)2.3¢/liter(JO)	33¢/liter 1/
+2204.21.80	 	Other		16.9¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)7.5¢/liter(JO)	33¢/liter 1/
+2204.21.80.30	30  	Sherry	
+liters
+2204.21.80.60	60  	Other	
+liters
+2204.22	 	In containers holding more than 2 liters but not more than 10 liters:				
+ 	In containers holding more than 2 liters but not more than 4 liters:				
+2204.22.20	 	Of an alcoholic strength by volume not over 14 percent vol		8.4¢/liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 3.7¢/liter (JO)	33¢/liter 1/
+ 	Valued not over $1.05/liter:				
+2204.22.20.05	05  	Red	
+liters
+2204.22.20.15	15  	White	
+liters
+2204.22.20.25	25  	Other	
+liters
+ 	Valued over $1.05/liter:				
+2204.22.20.30	30  	Red	
+liters
+2204.22.20.45	45  	White	
+liters
+2204.22.20.60	60  	Other	
+liters
+2204.22.40	00  	Of an alcoholic strength by volume over 14 percent vol	
+liters
+22.4¢/liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 9.9¢/liter (JO)	33¢/liter 1/
+ 	In containers holding over 4 liters but not over 10 liters:				
+2204.22.60	00  	Of an alcoholic strength by volume not over 14 percent vol.	
+liters
+14¢/liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 6.2¢/liter (JO)	33¢/liter 1/
+2204.22.80	00  	Of an alcoholic strength by volume over 14 percent vol	
+liters
+22.4¢/liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 9.9¢/liter (JO)	33¢/liter 1/
+2204.29	 	Other:				
+2204.29.61	00  	Of an alcoholic strength by volume not over 14 percent vol.	
+liters
+14¢/liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 6.2¢/liter (JO)	33¢/liter 1/
+2204.29.81	00  	Of an alcoholic strength by volume over 14 percent vol	
+liters
+22.4¢/liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 9.9¢/liter (JO)	33¢/liter 1/
+2204.30.00	00  	Other grape must	
+liters
+pf.liters
+4.4¢/liter + 31.4¢/pf. liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 1.9¢/liter + 13.9¢/pf. liter (JO)	18.5¢/liter + $1.32/pf. liter 1/
+2205	 	Vermouth and other wine of fresh grapes flavored with plants or aromatic substances:				
+2205.10	 	In containers holding 2 liters or less:				
+2205.10.30	00  	Vermouth	
+liters
+3.5¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)1.5¢/liter(JO)	33¢/ liter 1/
+2205.10.60	00  	Other	
+liters
+4.2¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)1.8¢/liter(JO)	33¢/ liter 1/
+2205.90	 	Other:				
+ 	Vermouth:				
+2205.90.20	00  	In containers each holding over 2 liters but not over 4 liters	
+liters
+3.5¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)1.5¢/liter(JO)	33¢/liter 1/
+2205.90.40	00  	In containers each holding over 4 liters	
+liters
+3.8¢/liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 1.6¢/liter (JO)	33¢/liter 1/
+2205.90.60	00  	Other	
+liters
+4.2¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)1.8¢/liter(JO)	33¢/liter 1/
+2206.00	 	Other fermented beverages (for example, cider, perry, mead, sakè); mixtures of fermented beverages and mixtures of fermented beverages and non-alcoholic beverages, not elsewhere specified or included:				
+2206.00.15	 	Cider, whether still or sparkling		0.4¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)0.1¢/liter(JO)	1.3¢/liter 1/
+2206.00.15.10	10  	Hard cider as described in statistical note 3 to this chapter	
+liters
+2206.00.15.20	20  	Other	
+liters
+2206.00.30	00  	Prune wine	
+liters
+pf.liters
+3.1¢/liter + 22.1¢/pf. liter on ethyl alcohol content 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 1.3¢/liter + 9.8¢/pf. liter on ethyl alcohol content (JO)	18.5¢/ liter + $1.32/pf. liter on ethyl alcohol content 1/
+2206.00.45	00  	Rice wine or sakè	
+liters
+3¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)1.3¢/liter(JO)	33¢/liter 1/
+ 	Other:				
+2206.00.60	00  	Effervescent wine	
+liters
+13.9¢/liter 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 6.1¢/liter (JO)	$1.59/liter 1/
+2206.00.90	 	Other		4.2¢/liter 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)1.8¢/liter(JO)	33¢/liter 1/
+ 	Mixtures of fermented beverages and non-alcoholic beverages, ready to consume as packaged, in containers each holding not over 4 liters:				
+2206.00.90.15	15  	In aluminum containers	
+liters
+2206.00.90.25	25  	Other	
+liters
+ 	Other:				
+2206.00.90.30	30  	In aluminum containers	
+liters
+2206.00.90.40	40  	Other	
+liters
+2207	 	Undenatured ethyl alcohol of an alcoholic strength by volume of 80 percent vol. or higher; ethyl alcohol and other spirits, denatured, of any strength:				
+2207.10	 	Undenatured ethyl alcohol of an alcoholic strength by volume of 80 percent vol. or higher:				
+2207.10.30	00  	For beverage purposes	
+pf.liters
+18.9¢/pf.liter 1/ 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.32/pf. liter 1/
+2207.10.60	 	For nonbeverage purposes		2.5% 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PE, S, SG) See 9822.09.22-9822.09.24 (PA)	20% 1/
+2207.10.60.10	10  	For fuel use	
+liters
+2207.10.60.90	90  	Other	
+liters
+2207.20.00	 	Ethyl alcohol and other spirits, denatured, of any strength		1.9% 1/ 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PE, S, SG) See 9822.09.22-9822.09.24 (PA)	20% 1/ 1/
+2207.20.00.10	10  	For fuel use	
+liters
+2207.20.00.90	90  	Other	
+liters
+2208	 	Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 percent vol.; spirits, liqueurs and other spirituous beverages:				
+2208.20	 	Spirits obtained by distilling grape wine or grape marc (grape brandy):				
+2208.20.10	00  	Pisco and singani	
+pf.liters
+Free 1/ 1/		$1.78/pf. liter 1/
+ 	Other:				
+ 	In containers each holding not over 4 liters:				
+2208.20.20	00  	Valued not over $2.38/liter	
+pf.liters
+Free 1/ 1/		$2.35/pf. liter 1/
+2208.20.30	00  	Valued over $2.38 but not over $3.43/liter	
+pf.liters
+Free 1/ 1/		$2.35/pf. liter 1/
+2208.20.40	00  	Valued over $3.43/liter	
+pf.liters
+Free 1/ 1/		$2.35/pf. liter 1/
+ 	In containers each holding over 4 liters:				
+2208.20.50	00  	Valued not over $2.38/liter	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+2208.20.60	00  	Valued over $2.38/liter	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+2208.30	 	Whiskies:				
+2208.30.30	 	Irish and Scotch		Free 1/ 1/		$1.99/pf. liter 1/
+2208.30.30.30	30  	In containers each holding not over 4 liters	
+pf.liters
+2208.30.30.60	60  	In containers each holding over 4 liters	
+pf.liters
+2208.30.60	 	Other		Free 1/ 1/		$2.04/pf. liter 1/
+ 	Bourbon:				
+2208.30.60.20	20  	In containers each holding not over 4 liters	
+pf.liters
+2208.30.60.40	40  	In containers each holding over 4 liters	
+pf.liters
+ 	Other:				
+ 	In containers each holding not over 4 liters:				
+2208.30.60.55	55  	Rye	
+pf.liters
+2208.30.60.65	65  	Other	
+pf.liters
+ 	In containers each holding over 4 liters:				
+2208.30.60.75	75  	Rye	
+pf.liters
+2208.30.60.85	85  	Other	
+pf.liters
+2208.40	 	Rum and other spirits obtained by distilling fermented sugar-cane products:				
+ 	In containers each holding not over 4 liters:				
+2208.40.20	00  	Valued not over $3 per proof liter	
+pf.liters
+23.7¢/pf.liter 1/ 1/	Free (A+, AU, BH, CL, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 3.1¢/pf. liter (CO) 10.5¢/pf. liter (JO)	$1.32/pf. liter 1/
+2208.40.40	00  	Valued over $3 per proof liter	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+ 	In containers each holding over 4 liters:				
+2208.40.60	00  	Valued not over 69¢ per proof liter	
+pf.liters
+23.7¢/pf.liter 1/ 1/	Free (A+, AU, BH, CL, D, E, IL, KR, MA, OM, P, PA, PE, S, SG) 3.1¢/pf. liter (CO) 10.5¢/pf.liter (JO)	$1.32/pf. liter 1/
+2208.40.80	00  	Valued over 69¢ per proof liter	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+2208.50.00	 	Gin and Geneve		Free 1/ 1/		$1.99/pf. liter 1/
+2208.50.00.30	30  	In containers each holding not over 4 liters	
+pf.liters
+2208.50.00.60	60  	In containers each holding over 4 liters	
+pf.liters
+2208.60	 	Vodka:				
+ 	In containers each holding not over 4 liters:				
+2208.60.10	00  	Valued not over $2.05/liter	
+pf.liters
+Free 1/ 1/		$1.78/pf. liter 1/
+2208.60.20	00  	Valued over $2.05/liter	
+pf.liters
+Free 1/ 1/		$1.78/pf. liter 1/
+2208.60.50	00  	In containers each holding over 4 liters	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+2208.70.00	 	Liqueurs and cordials		Free 1/ 1/		$3.08/pf. liter 1/
+2208.70.00.30	30  	In containers each holding not over 4 liters	
+pf.liters
+2208.70.00.60	60  	In containers each holding over 4 liters	
+pf.liters
+2208.90	 	Other:				
+2208.90.01	00  	Aquavit	
+pf.liters
+Free 1/ 1/		$1.99/pf. liter 1/
+ 	Bitters:				
+2208.90.05	00  	Not fit for use as beverages	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+2208.90.10	00  	Fit for use as beverages	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+ 	Brandy:				
+ 	Slivovitz:				
+ 	Valued not over $3.43/liter:				
+2208.90.12	00  	In containers each holding not over 4 liters	
+pf.liters
+Free 1/ 1/		$2.35/pf. liter 1/
+2208.90.14	00  	In containers each holding over 4 liters	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+2208.90.15	00  	Valued over $3.43/liter	
+pf.liters
+Free 1/ 1/		$2.35/pf. liter 1/
+ 	Other:				
+ 	In containers each holding not over 4 liters:				
+2208.90.20	00  	Valued not over $2.38/liter	
+pf.liters
+Free 1/ 1/		$2.35/pf. liter 1/
+2208.90.25	00  	Valued over $2.38 but not over $3.43/liter	
+pf.liters
+Free 1/ 1/		$2.35/pf. liter 1/
+2208.90.30	00  	Valued over $3.43/liter	
+pf.liters
+Free 1/ 1/		$2.35/pf. liter 1/
+ 	In containers each holding over 4 liters:				
+2208.90.35	00  	Valued not over $2.38/liter	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+2208.90.40	00  	Valued over $2.38/liter	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+2208.90.46	 	Kirschwasser and ratafia		Free 1/ 1/		$3.08/pf. liter 1/
+2208.90.46.30	30  	In containers each holding not over 4 liters	
+pf.liters
+2208.90.46.60	60  	In containers each holding over 4 liters	
+pf.liters
+ 	Tequila:				
+2208.90.50	00  	In containers each holding not over 4 liters	
+pf.liters
+Free 1/ 1/		$1.68/pf. liter 1/
+2208.90.55	00  	In containers each holding over 4 liters	
+pf.liters
+Free 1/ 1/		$1.32/pf. liter 1/
+2208.90.71	00  	Imitations of brandy and other spirituous beverages	
+pf.liters
+Free 1/ 1/		$2.35/pf. liter 1/
+ 	Other:				
+ 	Spirits:				
+2208.90.72	00  	Mezcal in containers each holding not over 4 liters	
+pf.liters
+Free 1/ 1/		$1.78/pf. liter 1/
+2208.90.75	00  	Other	
+pf.liters
+Free 1/ 1/		$1.78/pf. liter 1/
+2208.90.80	 	Other		21.1¢/pf.liter 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)9.3¢/pf.liter(JO)	$4.05/pf. liter 1/
+2208.90.80.10	10  	Premixed cocktails or other mixed beverages, ready to consume as packaged, in containers each holding not over 4 liters	
+pf.liters
+2208.90.80.20	20  	Other	
+pf.liters
+2209.00.00	00  	Vinegar and substitutes for vinegar obtained from acetic acid	
+pf.liters
+liters
+0.5¢/pf.liter 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.1¢/pf.liter

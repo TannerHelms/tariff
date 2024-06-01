@@ -1,0 +1,858 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+2001	 	Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid:				
+2001.10.00	00  	Cucumbers including gherkins	
+kg
+9.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2001.90	 	Other:				
+ 	Capers:				
+2001.90.10	00  	In immediate containers holding more than 3.4 kg	
+kg
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2001.90.20	00  	Other	
+kg
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+ 	Vegetables:				
+2001.90.25	00  	Artichokes	
+kg
+10.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2001.90.30	00  	Beans	
+kg
+5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2001.90.33	00  	Nopalitos	
+kg
+7.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2001.90.34	00  	Onions	
+kg
+3.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2001.90.35	00  	Pimientos (Capsicum anuum)	
+kg
+8.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	38.5%
+2001.90.38	00  	Other	
+kg
+9.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2001.90.42	00  	Chestnuts, other than Chinese water chestnuts	
+kg
+4.9¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55¢/kg
+2001.90.45	00  	Mangoes	
+kg
+1.5¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33¢/kg
+2001.90.48	00  	Chinese water chestnuts	
+kg
+9.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2001.90.50	00  	Walnuts	
+kg
+7¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33¢/kg
+2001.90.60	00  	Other	
+kg
+14% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2002	 	Tomatoes prepared or preserved otherwise than by vinegar or acetic acid:				
+2002.10.00	 	Tomatoes, whole or in pieces		12.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+2002.10.00.20	20  	In containers holding less than 1.4 kg	
+kg
+2002.10.00.80	80  	Other	
+kg
+2002.90	 	Other:				
+2002.90.40	00  	In powder	
+kg
+11.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+2002.90.80	 	Other		11.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Paste:				
+2002.90.80.10	10  	In containers holding less than 1.4 kg	
+kg
+2002.90.80.20	20  	Other	
+kg
+ 	Puree:				
+2002.90.80.30	30  	In containers holding less than 1.4 kg	
+kg
+2002.90.80.40	40  	Other	
+kg
+2002.90.80.50	50  	Other	
+kg
+2003	 	Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid:				
+2003.10.01	 	Mushrooms of the genus Agaricus		6¢/kg on drained weight + 8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22¢/kg on drained weght + 45%
+ 	In containers each holding not more than 255 g:				
+2003.10.01.27	27  	Whole (including buttons)	
+kg
+2003.10.01.31	31  	Sliced	
+kg
+2003.10.01.37	37  	Other	
+kg
+ 	In containers each holding more than 255 g:				
+2003.10.01.43	43  	Whole (including buttons)	
+kg
+2003.10.01.47	47  	Sliced	
+kg
+2003.10.01.53	53  	Other	
+kg
+2003.90	 	Other:				
+2003.90.10	00  	Truffles	
+kg
+Free 1/		Free
+2003.90.80	 	Other		6¢/kg on drained weight + 8.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22¢/kg on drained weight + 45%
+2003.90.80.10	10  	Straw mushrooms	
+kg
+2003.90.80.90	90  	Other	
+kg
+2004	 	Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 2006:				
+2004.10	 	Potatoes:				
+2004.10.40	00  	Yellow (Solano) potatoes	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2004.10.80	 	Other		8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2004.10.80.20	20  	French fries	
+kg
+2004.10.80.40	40  	Other	
+kg
+2004.90	 	Other vegetables and mixtures of vegetables:				
+2004.90.10	00  	Antipasto	
+kg
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+2004.90.80	00  	Beans	
+kg
+2.1¢/kg on entire contents of container 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg on entire contents of container
+2004.90.85	 	Other		11.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2004.90.85.20	20  	Carrots	
+kg
+2004.90.85.40	40  	Sweet corn	
+kg
+2004.90.85.60	60  	Peas	
+kg
+ 	Garlic:				
+2004.90.85.65	65  	Peeled clove garlic, whether or not individually quick frozen	
+kg
+2004.90.85.75	75  	Garlic, reduced in size beyond the clove, whether or not individually quick frozen	
+kg
+2004.90.85.85	85  	Other	
+kg
+2004.90.85.95	95  	Other, including mixtures	
+kg
+2005	 	Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006:				
+2005.10.00	00  	Homogenized vegetables	
+kg
+11.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2005.20.00	 	Potatoes		6.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2005.20.00.20	20  	Potato chips	
+kg
+2005.20.00.40	40  	Potato granules	
+kg
+2005.20.00.70	70  	Other	
+kg
+2005.40.00	00  	Peas (Pisum sativum)	
+kg
+Free 1/		4.4¢/kg on entire contents of container
+ 	Beans (Vigna spp., Phaseolus spp.):				
+2005.51	 	Beans, shelled:				
+2005.51.20	 	Black-eye cowpeas		1.5¢/kg on entire contents of container 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg on entire contents of container
+2005.51.20.20	20  	Canned dried	
+kg
+2005.51.20.40	40  	Other	
+kg
+2005.51.40	 	Other		2.1¢/kg on entire contents of container 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg on entire contents of container
+2005.51.40.20	20  	Canned dried	
+kg
+2005.51.40.40	40  	Other	
+kg
+2005.59.00	00  	Other	
+kg
+1.5¢/kg on entire contents of container 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg on entire contents of container
+2005.60.00	00  	Asparagus	
+kg
+14.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2005.70	 	Olives:				
+ 	In a saline solution:				
+ 	Green in color:				
+ 	Not pitted:				
+ 	Ripe, in containers each holding less than 13 kg, drained weight:				
+2005.70.02	 	In an aggregate quantity not to exceed 730 metric tons entered in any calendar year		5.4¢/kg on drained weight 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.4¢/kg on drained weight
+2005.70.02.30	30  	In containers each holding more than 8 kg, drained weight	
+kg
+2005.70.02.60	60  	In containers each holding 8 kg or less drained weight	
+kg
+2005.70.04	 	Other		3.7¢/kg on drained weight 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.4¢/kg on drained weight
+2005.70.04.30	30  	In containers each holding more than 8 kg, drained weight	
+kg
+2005.70.04.60	60  	In containers each holding 8 kg or less, drained weight	
+kg
+ 	Other:				
+ 	In containers each holding more than 8 kg, drained weight, certified by the importer to be used for repacking or sale as green olives:				
+2005.70.06	00  	Described in additional U.S. note 4 to this chapter and entered pursuant to its provisions	
+kg
+3.7¢/kg on drained weight 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.4¢/kg on drained weight
+2005.70.08	00  	Other	
+kg
+3.7¢/kg on drained weight 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.4¢/kg on drained weight
+2005.70.12	00  	Other	
+kg
+3.7¢/kg on drained weight 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.4¢/kg on drained weight
+ 	Pitted or stuffed:				
+ 	Place packed:				
+ 	Stuffed, in containers each holding not more than 1 kg, drained weight:				
+2005.70.16	00  	In an aggregate quantity not to exceed 2,700 metric tons in any calendar year	
+kg
+5.4¢/kg on drained weight 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10.8¢/kg on drained weight
+2005.70.18	00  	Other	
+kg
+6.9¢/kg on drained weight 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10.8¢/kg on drained weight
+2005.70.23	00  	Other	
+kg
+6.9¢/kg on drained weight 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10.8¢/kg on drained weight
+2005.70.25	 	Other		8.6¢/kg on drained weight 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10.8¢/kg on drained weight
+ 	In containers each holding more than 8 kg, drained weight:				
+2005.70.25.10	10  	Whole pitted	
+kg
+2005.70.25.20	20  	Whole stuffed	
+kg
+2005.70.25.30	30  	Other, including broken, sliced or salad style	
+kg
+ 	In containers each holding 8 kg or less, drained weight:				
+ 	Whole pitted:				
+2005.70.25.42	42  	Spanish style of a kind described in statistical note 1 to this chapter	
+kg
+2005.70.25.46	46  	Other	
+kg
+2005.70.25.50	50  	Whole stuffed	
+kg
+ 	Other, including broken, sliced or salad style:				
+2005.70.25.70	70  	Spanish style of a kind described in statistical note 1 to this chapter	
+kg
+2005.70.25.80	80  	Other	
+kg
+ 	Not green in color:				
+ 	Canned:				
+2005.70.50	 	Not pitted		9.3¢/kg on drained weight 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11.6¢/kg on drained weight
+2005.70.50.30	30  	In containers each holding more than 0.3 kg, drained weight	
+kg
+2005.70.50.60	60  	In containers each holding 0.3 kg or less, drained weight	
+kg
+2005.70.60	 	Other		10.1¢/kg on drained weight 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11.9¢/kg on drained weight
+ 	Whole pitted:				
+2005.70.60.20	20  	In containers each holding more than 0.3 kg, drained weight	
+kg
+2005.70.60.30	30  	In containers each holding 0.3 kg or less, drained weight	
+kg
+2005.70.60.50	50  	Sliced	
+kg
+2005.70.60.60	60  	Chopped or minced	
+kg
+2005.70.60.70	70  	Other, including wedged or broken	
+kg
+ 	Other than canned:				
+2005.70.70	00  	In airtight containers of glass or metal	
+kg
+9.9¢/kg on drained weight 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11.6¢/kg on drained weight
+2005.70.75	 	Other	
+4.3¢/kg on drained weight 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10¢/kg on drained weight
+2005.70.75.10	10  	Whole pitted	
+kg
+2005.70.75.15	15  	Sliced	
+kg
+2005.70.75.20	20  	Chopped or minced	
+kg
+2005.70.75.25	25  	Other, including wedged or broken	
+kg
+ 	Otherwise prepared or preserved:				
+ 	Green, in containers each holding less than 13 kg, drained weight:				
+2005.70.91	00  	In an aggregate quantity not to exceed 550 metric tons in any calendar year	
+kg
+5.5¢/kg on drained weight 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg on drained weight
+2005.70.93	00  	Other	
+kg
+8.8¢/kg on drained weight 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg on drained weight
+2005.70.97	00  	Other	
+kg
+8.8¢/kg on drained weight 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg on drained weight
+2005.80.00	00  	Sweet corn (Zea mays var. saccharata)	
+kg
+5.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other vegetables and mixtures of vegetables:				
+2005.91	 	Bamboo Shoots:				
+2005.91.60	00  	In airtight containers	
+kg
+Free 1/		35%
+2005.91.97	00  	Other	
+kg
+11.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2005.99	 	Other:				
+2005.99.10	00  	Carrots in airtight containers	
+kg
+6.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2005.99.20	00  	Onions	
+kg
+4.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2005.99.30	00  	Sauerkraut	
+kg
+4.8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+2005.99.41	 	Water chestnuts, other than Chinese water chestnuts		Free 1/		35%
+2005.99.41.10	10  	Sliced	
+kg
+2005.99.41.20	20  	Whole	
+kg
+ 	Fruits of the genus Capsicum (peppers) or of the genus Pimenta (e.g., allspice):				
+2005.99.50	 	Pimientos (Capsicum anuum)		8.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	38.5%
+2005.99.50.20	20  	In containers each holding not more than 227 g	
+kg
+2005.99.50.40	40  	Other	
+kg
+2005.99.55	 	Other		14.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2005.99.55.10	10  	Sweet bell-type peppers	
+kg
+2005.99.55.90	90  	Other	
+kg
+2005.99.80	00  	Artichokes	
+kg
+14.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2005.99.85	00  	Chickpeas (garbanzos)	
+kg
+0.8¢/kg on entire contents of container 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg on entire contents of container
+2005.99.97	00  	Other	
+kg
+11.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2006.00	 	Vegetables, fruit, nuts, fruit-peel and other parts of plants preserved by sugar (drained, glacé or crystallized):				
+2006.00.20	00  	Cherries	
+kg
+9.9¢/kg + 6.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20.9¢/kg + 40%
+2006.00.30	00  	Ginger root	
+kg
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2006.00.40	00  	Pineapples	
+kg
+2.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other, including mixtures:				
+2006.00.50	00  	Mixtures	
+kg
+16% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+2006.00.60	00  	Citrus fruit; peel of citrus or other fruit	
+kg
+6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg
+2006.00.70	00  	Other fruit and nuts	
+kg
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+2006.00.90	00  	Other	
+kg
+16% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2007	 	Jams, fruit jellies, marmalades, fruit or nut pureé and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter:				
+2007.10.00	00  	Homogenized preparations	
+kg
+12% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+2007.91	 	Citrus fruit:				
+2007.91.10	00  	Pastes and pureés	
+kg
+11.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.91.40	00  	Orange marmalade	
+kg
+3.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.91.90	00  	Other	
+kg
+4.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99	 	Other:				
+ 	Jams:				
+2007.99.05	00  	Lingonberry and raspberry	
+kg
+1.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.10	00  	Strawberry	
+kg
+2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.15	00  	Currant and other berry	
+kg
+1.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.20	00  	Apricot	
+kg
+3.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.25	00  	Cherry	
+kg
+4.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20.9¢/kg + 40%
+2007.99.30	00  	Guava	
+kg
+Free 1/		35%
+2007.99.35	00  	Peach	
+kg
+7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.40	00  	Pineapple	
+kg
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.45	00  	Other	
+kg
+5.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Pastes and purees:				
+2007.99.48	00  	Apple, quince and pear	
+kg
+12% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.50	 	Guava and mango		1.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.50.10	10  	Guava	
+kg
+2007.99.50.20	20  	Mango	
+kg
+2007.99.55	00  	Papaya	
+kg
+14% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.60	00  	Strawberry	
+kg
+12% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.65	 	Other		10% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.65.10	10  	Red Raspberry	
+kg
+2007.99.65.20	20  	Other	
+kg
+ 	Fruit jellies:				
+2007.99.70	00  	Currant and berry	
+kg
+1.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2007.99.75	00  	Other	
+kg
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008	 	Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included:				
+ 	Nuts, peanuts (ground-nuts) and other seeds, whether or not mixed together:				
+2008.11	00  	Peanuts (ground-nuts):				
+ 	Peanut butter and paste:				
+2008.11.02	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+Free 1/		15¢/kg
+2008.11.05	00  	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions	
+kg
+Free 1/		15¢/kg
+2008.11.15	00  	Other 1/	
+kg
+131.8% 1/	Free (AU, BH, CL, JO, KR, MA, OM, P, PE, SG) 17.5% (CO) 26.3% (PA) See 9915.20.05-9915.20.20 (P+) See 9922.01.01-9922.01.12 (S+)	155%
+ 	Other:				
+2008.11.43	00  	Described in general note 15 of the tariff schedule and entered pursuant to its provisions	
+kg
+6.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15¢/kg
+2008.11.46	00  	Described in additional U.S. note 2 to chapter 12 and entered pursuant to its provisions	
+kg
+6.6¢/kg 1/	Free (A*, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15¢/kg
+2008.11.61	00  	Other 1/	
+kg
+131.8% 1/	Free (AU, BH, CL, JO, KR, MA, OM, P, PE, SG) 17.5% (CO) 26.3% (PA) See 9908.12.01 (IL) See 9922.01.01-9922.01.12 (S+)	155%
+2008.19	 	Other, including mixtures:				
+2008.19.10	 	Brazil nuts and cashews		Free 1/		10¢/kg
+2008.19.10.20	20  	Brazil nuts	
+kg
+2008.19.10.40	40  	Cashews	
+kg
+2008.19.15	00  	Coconuts	
+kg
+1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2008.19.20	00  	Filberts	
+kg
+11.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22¢/kg
+2008.19.25	00  	Pecans	
+kg
+9.9¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22¢/kg
+2008.19.30	 	Pignolia and pistachios		1¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+2008.19.30.10	10  	Pignolia	
+kg
+2008.19.30.20	20  	Pistachios	
+kg
+2008.19.40	00  	Almonds	
+kg
+32.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40.8¢/kg
+2008.19.50	00  	Watermelon seeds	
+kg
+6.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other, including mixtures:				
+2008.19.85	00  	Mixtures	
+kg
+22.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.19.90	 	Other		17.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.19.90.10	10  	Macadamia nuts	
+kg
+2008.19.90.90	90  	Other	
+kg
+2008.20.00	 	Pineapples		0.35¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+2008.20.00.10	10  	Containing cane and/or beet sugar	
+kg
+2008.20.00.90	90  	Other	
+kg
+2008.30	 	Citrus fruit:				
+ 	Peel:				
+2008.30.10	00  	Of oranges, mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids	
+kg
+2¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg
+2008.30.20	00  	Of lemons	
+kg
+4.2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg
+2008.30.30	00  	Other	
+kg
+11.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg
+ 	Pulp:				
+2008.30.35	00  	Orange	
+kg
+11.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.30.37	00  	Other	
+kg
+6.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+2008.30.40	00  	Oranges	
+kg
+1.4¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+ 	Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids:				
+ 	Mandarins:				
+ 	Satsumas, in airtight containers:				
+2008.30.42	 	For an aggregate quantity entered in any calendar year not to exceed 40,000 metric tons		Free 1/		2.2¢/kg
+2008.30.42.10	10  	Containing cane and/or beet sugar	
+kg
+2008.30.42.90	90  	Other	
+kg
+2008.30.46	00  	Other	
+kg
+0.28¢/kg 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+2008.30.48	00  	Other	
+kg
+0.28¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+2008.30.55	00  	Other	
+kg
+1.4¢/kg 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+ 	Lemons (Citrus limon, Citrus limonum) and limes (Citrus aurantifolia, Citrus latifolia):				
+2008.30.60	00  	Lemons	
+kg
+0.8¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+2008.30.66	00  	Limes	
+kg
+14% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.30.70	00  	Grapefruit	
+kg
+1.1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.3¢/kg
+2008.30.80	00  	Kumquats	
+kg
+0.55¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+2008.30.85	00  	Citron	
+kg
+14% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.30.96	00  	Other, including bergamots	
+kg
+14% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.40.00	 	Pears		15.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.40.00.20	20  	In containers each holding less than 1.4 kg	
+kg
+2008.40.00.40	40  	Other	
+kg
+2008.50	 	Apricots:				
+2008.50.20	00  	Pulp	
+kg
+10% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.50.40	00  	Other	
+kg
+29.8% 1/	Free (A+, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.60.00	 	Cherries		6.9¢/kg + 4.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	21¢/kg + 40%
+2008.60.00.20	20  	Maraschino	
+kg
+ 	Other:				
+2008.60.00.40	40  	Sweet varieties	
+kg
+2008.60.00.60	60  	Tart varieties	
+kg
+2008.70	 	Peaches, including nectarines:				
+2008.70.10	 	Nectarines		16% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.70.10.20	20  	In containers each holding less than 1.4 kg	
+kg
+2008.70.10.40	40  	Other	
+kg
+2008.70.20	 	Other peaches		17% 1/	Free (A+, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.70.20.20	20  	In containers each holding less than 1.4 kg	
+kg
+2008.70.20.40	40  	Other	
+kg
+2008.80.00	00  	Strawberries	
+kg
+11.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other, including mixtures other than those of subheading 2008.19:				
+2008.91.00	00  	Palm hearts	
+kg
+0.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.93.00	00  	Cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); lingonberries (Vaccinium, vitis-idaea)	
+kg
+4.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.97	 	Mixtures:				
+2008.97.10	 	In airtight containers and not containing apricots, citrus fruits, peaches or pears		5.6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.97.10.20	20  	Prepared cereal products	
+kg
+2008.97.10.40	40  	Other	
+kg
+2008.97.90	 	Other		14.9% 1/	Free (A+, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Packed in a liquid medium in airtight containers:				
+ 	Containing peaches or pears:				
+2008.97.90.30	30  	In containers each holding less than 1.4 kg	
+kg
+2008.97.90.35	35  	Other	
+kg
+ 	Other:				
+2008.97.90.40	40  	Containing oranges or grapefruit	
+kg
+2008.97.90.50	50  	Other	
+kg
+ 	Other:				
+2008.97.90.92	92  	Prepared cereal products	
+kg
+2008.97.90.94	94  	Other	
+kg
+2008.99	 	Other:				
+2008.99.05	00  	Apples	
+kg
+0.9¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+2008.99.10	00  	Avocados	
+kg
+10.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33¢/kg
+ 	Bananas:				
+2008.99.13	00  	Pulp	
+kg
+3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.15	00  	Other	
+kg
+0.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Berries:				
+2008.99.18	 	Blueberries		2.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.18.10	10  	Wild blueberries, canned	
+kg
+2008.99.18.90	90  	Other	
+kg
+2008.99.21	 	Other		4.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.21.20	20  	Red Raspberries	
+kg
+2008.99.21.40	40  	Other	
+kg
+2008.99.23	00  	Cashew apples, mameyes colorados, sapodillas, soursops and sweetsops	
+kg
+1.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.25	00  	Dates	
+kg
+22.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.28	00  	Figs	
+kg
+9.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+2008.99.29	00  	Grapes	
+kg
+7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.30	00  	Guavas	
+kg
+Free 1/		35%
+2008.99.35	00  	Lychees and longans	
+kg
+7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.40	00  	Mangoes	
+kg
+1.5¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33¢/kg
+ 	Papayas:				
+2008.99.45	00  	Pulp	
+kg
+14% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.50	00  	Other	
+kg
+1.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.60	00  	Plums (including prune plums and sloes)	
+kg
+11.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.61	00  	Soybeans	
+kg
+3.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.63	00  	Sweet ginger	
+kg
+4.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.65	00  	Cassava (manioc)	
+kg
+7.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Chinese water chestnuts:				
+2008.99.70	00  	Frozen	
+kg
+11.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.71	 	Other		Free 1/		35%
+2008.99.71.10	10  	Sliced	
+kg
+2008.99.71.20	20  	Whole	
+kg
+ 	Other:				
+2008.99.80	00  	Pulp	
+kg
+9.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.91	 	Other		6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2008.99.91.10	10  	Bean cake, bean stick, miso and similar products	
+kg
+2008.99.91.90	90  	Other	
+kg
+2009	 	Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter:				
+ 	Orange juice:				
+2009.11.00	 	Frozen		7.85¢/liter 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.11.00.20	20  	In containers each holding less than 0.946 liter	
+liters
+2009.11.00.40	40  	In containers each holding 0.946 liter or more but not more than 3.785 liters	
+liters
+2009.11.00.60	60  	In containers of more than 3.785 liters	
+liters
+2009.12	 	Not frozen, of a Brix value not exceeding 20:				
+2009.12.25	00  	Not concentrated and not made from a juice having a degree of concentration of 1.5 or more (as determined before correction to the nearest 0.5 degree)	
+liters
+4.5¢/liter 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.12.45	00  	Other	
+liters
+7.85¢/liter 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.19.00	00  	Other	
+liters
+7.85¢/liter 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+ 	Grapefruit juice; pomelo juice:				
+2009.21	 	Of a Brix value not exceeding 20:				
+2009.21.20	00  	Not concentrated and not made from a juice having a degree of concentration of 1.5 or more (as determined before correction to the nearest 0.5 degree)	
+liters
+4.5¢/ liter 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.21.40	 	Other		7.9¢/liter 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.21.40.20	20  	Frozen	
+liters
+2009.21.40.40	40  	Other	
+liters
+2009.29.00	 	Other		7.9¢/liter 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.29.00.20	20  	Frozen	
+liters
+2009.29.00.40	40  	Other	
+liters
+ 	Juice of any other single citrus fruit:				
+2009.31	 	Of a Brix value not exceeding 20:				
+ 	Lime:				
+2009.31.10	 	Unfit for beverage purposes		1.8¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+2009.31.10.20	20  	Not concentrated	
+kg
+liters
+2009.31.10.40	40  	Concentrated	
+kg
+liters
+2009.31.20	 	Other		1.7¢/liter 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.31.20.20	20  	Not concentrated	
+liters
+2009.31.20.40	40  	Concentrated	
+liters
+ 	Other:				
+2009.31.40	00  	Not concentrated	
+liters
+3.4¢/liter 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.31.60	 	Concentrated		7.9¢/liter 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+ 	Lemon juice:				
+2009.31.60.20	20  	Frozen	
+liters
+2009.31.60.40	40  	Other	
+liters
+2009.31.60.60	60  	Other	
+liters
+2009.39	 	Other:				
+ 	Lime:				
+2009.39.10	00  	Unfit for beverage purposes	
+kg
+liters
+1.8¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+2009.39.20	00  	Other	
+liters
+1.7¢/liter 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.39.60	 	Other		7.9¢/liter 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+ 	Lemon juice:				
+2009.39.60.20	20  	Frozen	
+liters
+2009.39.60.40	40  	Other	
+liters
+2009.39.60.60	60  	Other	
+liters
+ 	Pineapple juice:				
+2009.41	 	Of a Brix value not exceeding 20:				
+2009.41.20	00  	Not concentrated, or having a degree of concentration of not more than 3.5 (as determined before correction to the nearest 0.5 degree)	
+liters
+4.2¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.41.40	 	Other		1¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.41.40.20	20  	Frozen	
+liters
+2009.41.40.40	40  	Other	
+liters
+2009.49	 	Other:				
+2009.49.20	00  	Not concentrated, or having a degree of concentration of not more than 3.5 (as determined before correction to the nearest 0.5 degree)	
+liters
+4.2¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.49.40	 	Other		1¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.49.40.20	20  	Frozen	
+liters
+2009.49.40.40	40  	Other	
+liters
+2009.50.00	 	Tomato juice		0.14¢/liter 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢/liter
+2009.50.00.10	10  	In airtight containers	
+liters
+kg
+2009.50.00.90	90  	Other	
+liters
+kg
+ 	Grape juice (including grape must):				
+2009.61.00	 	Of a Brix value not exceeding 30		4.4¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	26¢/liter
+2009.61.00.20	20  	Not concentrated	
+liters
+ 	Concentrated:				
+2009.61.00.40	40  	Frozen	
+liters
+2009.61.00.60	60  	Other	
+liters
+2009.69.00	 	Other		4.4¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	26¢/liter
+2009.69.00.40	40  	Frozen	
+liters
+2009.69.00.60	60  	Other	
+liters
+ 	Apple juice:				
+2009.71.00	00  	Of a Brix value not exceeding 20	
+liters
+kg
+Free 1/		1.3¢/liter
+2009.79.00	 	Other		Free 1/		1.3¢/liter
+ 	Frozen:				
+2009.79.00.15	15  	Certified organic	
+liters
+2009.79.00.17	17  	Other	
+liters
+2009.79.00.20	20  	Other	
+liters
+ 	Juice of any other single fruit, nut or vegetable:				
+2009.81.00	00  	Cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos) juice; lingonberry (Vaccinium, vitis-idaea) juice	
+liters
+0.5¢/liter 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.89	 	Other:				
+ 	Fruit juice:				
+2009.89.20	00  	Pear juice	
+liters
+Free 1/		1.3¢/liter
+2009.89.40	00  	Prune juice	
+liters
+0.64¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+2009.89.65	 	Cherry Juice		0.5¢/liter 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+ 	Tart cherry juice concentrate:				
+2009.89.65.15	15  	Certified organic	
+liters
+2009.89.65.20	20  	Other	
+liters
+ 	Tart cherry juice:				
+2009.89.65.30	30  	Certified organic	
+liters
+2009.89.65.40	40  	Other	
+liters
+2009.89.65.50	50  	Other	
+liters
+2009.89.70	 	Other		0.5¢/liter 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter
+ 	Berry juice:				
+2009.89.70.31	31  	Blueberry juice, including concentrate	
+liters
+2009.89.70.55	55  	Red raspberry juice, including concentrate	
+liters
+2009.89.70.65	65  	Other	
+liters
+2009.89.70.70	70  	Mango Juice	
+liters
+2009.89.70.91	91  	Other	
+liters
+2009.89.80	 	Vegetable juice		0.2¢/liter 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢/liter
+2009.89.80.31	31  	In airtight containers	
+liters
+kg
+2009.89.80.39	39  	Other	
+liters
+kg
+2009.90	 	Mixtures of juices:				
+2009.90.20	00  	Vegetable	
+liters
+0.2¢/liter 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4¢/liter
+2009.90.40	00  	Other	
+liters
+7.4¢/liter 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18¢/liter

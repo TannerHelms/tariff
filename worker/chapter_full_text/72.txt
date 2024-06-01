@@ -1,0 +1,1683 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+ 	I. PRIMARY MATERIALS; PRODUCTS IN GRANULAR OR POWDER FORM				
+7201	 	Pig iron and spiegeleisen in pigs, blocks or other primary forms:				
+7201.10.00	00  	Nonalloy pig iron containing by weight 0.5 percent or less of phosphorus	
+t
+Free 1/		$1.11/t 1/
+7201.20.00	00  	Nonalloy pig iron containing by weight more than 0.5 percent of phosphorus	
+t
+Free 1/		$1.11/t
+7201.50	 	Alloy pig iron; spiegeleisen:				
+7201.50.30	00  	Alloy pig iron	
+t
+Free 1/		$1.11/t
+7201.50.60	00  	Spiegeleisen	
+t
+Free 1/		0.5%
+7202	 	Ferroalloys:				
+ 	Ferromanganese:				
+7202.11	 	Containing by weight more than 2 percent of carbon:				
+7202.11.10	00  	Containing by weight more than 2 percent but not more than 4 percent of carbon	
+kg
+Mn kg
+1.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.5%
+7202.11.50	00  	Containing by weight more than 4 percent of carbon	
+kg
+Mn kg
+1.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10.5% 1/
+7202.19	 	Other:				
+7202.19.10	00  	Containing by weight not more than 1 percent of carbon	
+kg
+Mn kg
+2.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22%
+7202.19.50	00  	Containing by weight more than 1 percent but not more than 2 percent of carbon	
+kg
+Mn kg
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.5%
+ 	Ferrosilicon:				
+7202.21	 	Containing by weight more than 55 percent of silicon:				
+ 	Containing by weight more than 55 percent but not more than 80 percent of silicon:				
+7202.21.10	00  	Containing by weight more than 3 percent of calcium	
+kg
+Si kg
+1.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11.5% 1/
+7202.21.50	00  	Other	
+kg
+Si kg
+1.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11.5%
+7202.21.75	00  	Containing by weight more than 80 percent but not more than 90 percent of silicon	
+kg
+Si kg
+1.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	9%
+7202.21.90	00  	Containing by weight more than 90 percent of silicon	
+kg
+Si kg
+5.8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+7202.29.00	 	Other		Free 1/		4.4¢/kg on silicon content 1/
+7202.29.00.10	10  	Containing by weight over 2 percent of magnesium	
+kg
+Si kg
+7202.29.00.50	50  	Other	
+kg
+Si kg
+7202.30.00	00  	Ferrosilicon manganese	
+kg
+Mn kg
+3.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	23% 1/
+ 	Ferrochromium:				
+7202.41.00	00  	Containing by weight more than 4 percent of carbon	
+kg
+Cr kg
+1.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.5% 1/
+7202.49	 	Other:				
+7202.49.10	00  	Containing by weight more than 3 percent of carbon	
+kg
+Cr kg
+1.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.5% 1/
+7202.49.50	 	Other		3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+7202.49.50.10	10  	Containing by weight more than 0.5 percent of carbon	
+kg
+Cr kg
+7202.49.50.90	90  	Other	
+kg
+Cr kg
+7202.50.00	00  	Ferrosilicon chromium	
+kg
+Cr kg
+10% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7202.60.00	00  	Ferronickel	
+kg
+Ni kg
+Free		6.6¢/kg
+7202.70.00	00  	Ferromolybdenum	
+kg
+Mo kg
+4.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31.5% 1/
+7202.80.00	00  	Ferrotungsten and ferrosilicon tungsten	
+kg
+W kg
+5.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+7202.91.00	00  	Ferrotitanium and ferrosilicon titanium	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7202.92.00	00  	Ferrovanadium	
+kg
+V kg
+4.2% 1/	Free (A+, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+7202.93	 	Ferroniobium:				
+7202.93.40	00  	Containing by weight less than 0.02 percent of phosphorus or sulfur or less than 0.4 percent of silicon	
+kg
+5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7202.93.80	00  	Other	
+kg
+5%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7202.99	 	Other:				
+7202.99.10	00  	Ferrozirconium	
+kg
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7202.99.20	00  	Calcium silicon	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7202.99.80	 	Other		5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+7202.99.80.20	20  	Ferrophosphorus	
+kg
+7202.99.80.40	40  	Other	
+kg
+7203	 	Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94 percent, in lumps, pellets or similar forms:				
+7203.10.00	00  	Ferrous products obtained by direct reduction of iron ore	
+t
+Free 1/		$2.21/t 1/
+7203.90.00	00  	Other	
+t
+Free 1/		$2.21/t
+7204	 	Ferrous waste and scrap; remelting scrap ingots of iron or steel:				
+7204.10.00	00  	Waste and scrap of cast iron	
+t
+Free 1/		74¢/t
+ 	Waste and scrap of alloy steel:				
+7204.21.00	00  	Of stainless steel	
+t
+Free 1/		74¢/t 1/
+7204.29.00	00  	Other	
+t
+Free 1/		74¢/t 1/
+7204.30.00	00  	Waste and scrap of tinned iron or steel	
+t
+Free 1/		Free
+ 	Other waste and scrap:				
+7204.41.00	 	Turnings, shavings, chips, milling waste, sawdust, filings, trimmings and stampings, whether or not in bundles		Free 1/		74¢/t
+7204.41.00.20	20  	No. 1 bundles	
+t
+7204.41.00.40	40  	No. 2 bundles	
+t
+7204.41.00.60	60  	Borings, shovelings and turnings	
+t
+7204.41.00.80	80  	Other	
+t
+7204.49.00	 	Other		Free 1/		74¢/t 1/
+7204.49.00.20	20  	No. 1 heavy melting	
+t
+7204.49.00.40	40  	No. 2 heavy melting	
+t
+ 	Other:				
+7204.49.00.60	60  	Cut plate and structural	
+t
+7204.49.00.70	70  	Shredded	
+t
+7204.49.00.80	80  	Other	
+t
+7204.50.00	00  	Remelting scrap ingots	
+t
+Free 1/		74¢/t
+7205	 	Granules and powders, of pig iron, spiegeleisen, iron or steel:				
+7205.10.00	00  	Granules	
+kg
+Free 1/		3%
+ 	Powders:				
+7205.21.00	00  	Of alloy steel	
+kg
+Free 1/		45%
+7205.29.00	00  	Other	
+t
+Free 1/		$2.21/t 1/
+ 	II. IRON AND NONALLOY STEEL				
+7206	 	Iron and nonalloy steel in ingots or other primary forms (excluding iron of heading 7203):				
+7206.10.00	00  	Ingots	
+kg
+Free 1/		20%
+7206.90.00	00  	Other	
+kg
+Free 1/		20%
+7207	 	Semifinished products of iron or nonalloy steel:				
+ 	Containing by weight less than 0.25 percent of carbon:				
+7207.11.00	00  	Of rectangular (including square) cross section, the width measuring less than twice the thickness	
+kg
+Free 1/		20%
+7207.12.00	 	Other, of rectangular (other than square) cross section		Free 1/		20% 1/
+7207.12.00.10	10  	Having a width measuring less than four times the thickness	
+kg
+7207.12.00.50	50  	Having a width measuring at least four times the thickness	
+kg
+7207.19.00	 	Other		Free 1/		20%
+7207.19.00.30	30  	Of circular cross section	
+kg
+7207.19.00.90	90  	Other	
+kg
+7207.20.00	 	Containing by weight 0.25 percent or more of carbon		Free 1/		20%
+ 	Of rectangular (including square) cross section:				
+7207.20.00.25	25  	Having a width measuring less than four times the thickness	
+kg
+7207.20.00.45	45  	Having a width measuring at least four times the thickness	
+kg
+7207.20.00.75	75  	Of circular cross section	
+kg
+7207.20.00.90	90  	Other	
+kg
+7208	 	Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated:				
+7208.10	 	In coils, not further worked than hot-rolled, with patterns in relief:				
+7208.10.15	00  	Pickled	
+kg
+Free 1/		0.4¢/kg + 20%
+ 	Other:				
+7208.10.30	00  	Of a thickness of 4.75 mm or more	
+kg
+Free 1/		20% 1/
+7208.10.60	00  	Of a thickness of less than 4.75 mm	
+kg
+Free 1/		20% 1/
+ 	Other, in coils, not further worked than hot-rolled, pickled:				
+7208.25	 	Of a thickness of 4.75 mm or more:				
+7208.25.30	00  	Of high-strength steel	
+kg
+Free 1/		20% 1/
+7208.25.60	00  	Other	
+kg
+Free 1/		0.4¢/kg + 20%
+7208.26.00	 	Of a thickness of 3 mm or more but less than 4.75 mm		Free 1/		0.4¢/kg + 20%
+7208.26.00.30	30  	High-strength steel	
+kg
+7208.26.00.60	60  	Other	
+kg
+7208.27.00	 	Of a thickness of less than 3 mm		Free 1/		0.4¢/kg + 20%
+ 	High-strength steel:				
+7208.27.00.40	40  	“Advanced” or “ultra” of a kind described in statistical note 4 to this chapter	
+kg
+7208.27.00.45	45  	Other	
+kg
+7208.27.00.60	60  	Other	
+kg
+ 	Other, in coils, not further worked than hot-rolled:				
+7208.36.00	 	Of a thickness exceeding 10 mm		Free 1/		20% 1/
+7208.36.00.30	30  	High-strength steel	
+kg
+7208.36.00.60	60  	Other	
+kg
+7208.37.00	 	Of a thickness of 4.75 mm or more but not exceeding 10 mm		Free 1/		20% 1/
+7208.37.00.30	30  	High-strength steel	
+kg
+7208.37.00.60	60  	Other	
+kg
+7208.38.00	 	Of a thickness of 3 mm or more but less than 4.75 mm		Free 1/		20% 1/
+7208.38.00.15	15  	High-strength steel	
+kg
+ 	Other:				
+7208.38.00.30	30  	With untrimmed edges	
+kg
+7208.38.00.90	90  	Other	
+kg
+7208.39.00	 	Of a thickness of less than 3 mm		Free 1/		20% 1/
+ 	High-strength steel:				
+7208.39.00.20	20  	“Advanced” or “ultra” of a kind described in statistical note 4 to this chapter	
+kg
+7208.39.00.25	25  	Other	
+kg
+ 	Other:				
+7208.39.00.30	30  	With untrimmed edges	
+kg
+7208.39.00.90	90  	Other	
+kg
+7208.40	 	Not in coils, not further worked than hot-rolled, with patterns in relief:				
+7208.40.30	 	Of a thickness of 4.75 mm or more		Free 1/		20% 1/
+7208.40.30.30	30  	Of a thickness exceeding 10 mm	
+kg
+7208.40.30.60	60  	Other	
+kg
+7208.40.60	 	Of a thickness of less than 4.75 mm		Free 1/		20% 1/
+7208.40.60.30	30  	Of a thickness less than 3 mm	
+kg
+7208.40.60.60	60  	Other	
+kg
+ 	Other, not in coils, not further worked than hot-rolled:				
+7208.51.00	 	Of a thickness exceeding 10 mm		Free 1/		20% 1/
+7208.51.00.30	30  	Universal mill plate	
+kg
+ 	Other:				
+7208.51.00.45	45  	Of high-strength steel	
+kg
+7208.51.00.60	60  	Other	
+kg
+7208.52.00	00  	Of a thickness of 4.75 mm or more but not exceeding 10 mm	
+kg
+Free 1/		20% 1/
+7208.53.00	00  	Of a thickness of 3 mm or more but less than 4.75 mm	
+kg
+Free 1/		20% 1/
+7208.54.00	00  	Of a thickness of less than 3 mm	
+kg
+Free 1/		20% 1/
+7208.90.00	00  	Other	
+kg
+Free 1/		20% 1/
+7209	 	Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coated:				
+ 	In coils, not further worked than cold-rolled (cold-reduced):				
+7209.15.00	00  	Of a thickness of 3 mm or more	
+kg
+Free 1/		0.4¢/kg + 20%
+7209.16.00	 	Of a thickness exceeding 1 mm but less than 3 mm		Free 1/		0.4¢/kg + 20% 1/
+ 	Of high-strength steel:				
+ 	Annealed:				
+7209.16.00.40	40  	“Advanced” or “ultra” of a kind described in statistical note 4 to this chapter	
+kg
+7209.16.00.45	45  	Other	
+kg
+7209.16.00.60	60  	Other	
+kg
+ 	Other:				
+7209.16.00.70	70  	Annealed	
+kg
+7209.16.00.91	91  	Other	
+kg
+7209.17.00	 	Of a thickness of 0.5 mm or more but not exceeding 1 mm		Free 1/		0.4¢/kg + 20% 1/
+ 	Of high-strength steel:				
+ 	Annealed:				
+7209.17.00.40	40  	“Advanced” or “ultra” of a kind described in statistical note 4 to this chapter	
+kg
+7209.17.00.45	45  	Other	
+kg
+7209.17.00.60	60  	Other	
+kg
+ 	Other:				
+7209.17.00.70	70  	Annealed	
+kg
+7209.17.00.91	91  	Other	
+kg
+7209.18	 	Of a thickness of less than 0.5 mm:				
+7209.18.15	 	Of high-strength steel		Free 1/		0.4¢/kg + 20%
+7209.18.15.30	30  	Annealed	
+kg
+7209.18.15.60	60  	Other	
+kg
+ 	Other:				
+7209.18.25	 	Of a thickness of less than 0.361 mm (blackplate)		Free 1/		20%
+7209.18.25.20	20  	Annealed	
+kg
+7209.18.25.85	85  	Other	
+kg
+7209.18.60	 	Other		Free 1/		0.4¢/kg + 20% 1/
+7209.18.60.20	20  	Annealed	
+kg
+7209.18.60.90	90  	Other	
+kg
+ 	Not in coils, not further worked than cold-rolled (cold-reduced):				
+7209.25.00	00  	Of a thickness of 3 mm or more	
+kg
+Free 1/		0.4¢/kg + 20%
+7209.26.00	00  	Of a thickness exceeding 1 mm but less than 3 mm	
+kg
+Free 1/		0.4¢/kg + 20%
+7209.27.00	00  	Of a thickness of 0.5 mm or more but not exceeding 1 mm	
+kg
+Free 1/		0.4¢/kg + 20%
+7209.28.00	00  	Of a thickness of less than 0.5 mm	
+kg
+Free 1/		0.4¢/kg + 20%
+7209.90.00	00  	Other	
+kg
+Free 1/		0.4¢/kg + 20%
+7210	 	Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, clad, plated or coated:				
+ 	Plated or coated with tin:				
+7210.11.00	00  	Of a thickness of 0.5 mm or more	
+kg
+Free 1/		6%
+7210.12.00	00  	Of a thickness of less than 0.5 mm	
+kg
+Free 1/		6%
+7210.20.00	00  	Plated or coated with lead, including terne-plate	
+kg
+Free 1/		6%
+7210.30.00	 	Electrolytically plated or coated with zinc		Free 1/		21.5%
+7210.30.00.30	30  	Of high-strength steel	
+kg
+7210.30.00.60	60  	Other	
+kg
+ 	Otherwise plated or coated with zinc:				
+7210.41.00	00  	Corrugated	
+kg
+Free 1/		21.5% 1/
+7210.49.00	 	Other		Free 1/		21.5% 1/
+ 	Of high-strength steel:				
+7210.49.00.40	40  	“Advanced” or “ultra” of a kind described in statistical note 4 to this chapter	
+kg
+7210.49.00.45	45  	Other	
+kg
+ 	Other:				
+7210.49.00.91	91  	Of a thickness of 0.4 mm or more	
+kg
+7210.49.00.95	95  	Other	
+kg
+7210.50.00	 	Plated or coated with chromium oxides or with chromium and chromium oxides		Free 1/		45%
+7210.50.00.20	20  	Of a width less than 1050 mm	
+kg
+7210.50.00.90	90  	Other	
+kg
+ 	Plated or coated with aluminum:				
+7210.61.00	00  	Plated or coated with aluminum-zinc alloys	
+kg
+Free 1/		21.5% 1/
+7210.69.00	00  	Other	
+kg
+Free 1/		21.5% 1/
+7210.70	 	Painted, varnished or coated with plastics:				
+7210.70.30	00  	Not coated or plated with metal and not clad	
+kg
+Free 1/		0.4¢/kg + 20%
+7210.70.60	 	Other		Free 1/		21.5% 1/
+ 	Zinc coated or plated:				
+7210.70.60.30	30  	Electrolytically coated or plated	
+kg
+7210.70.60.60	60  	Other	
+kg
+7210.70.60.90	90  	Other	
+kg
+7210.90	 	Other:				
+7210.90.10	00  	Clad	
+kg
+Free 1/		30%
+ 	Other:				
+7210.90.60	00  	Electrolytically coated or plated with base metal	
+kg
+Free 1/		45%
+7210.90.90	00  	Other	
+kg
+Free 1/		21.5%
+7211	 	Flat-rolled products of iron or nonalloy steel, of a width of less than 600 mm, not clad, plated or coated:				
+ 	Not further worked than hot-rolled:				
+7211.13.00	00  	Universal mill plate	
+kg
+Free 1/		20%
+7211.14.00	 	Other, of a thickness of 4.75 mm or more		Free 1/		20%
+7211.14.00.30	30  	Of high-strength steel	
+kg
+ 	Other:				
+7211.14.00.45	45  	Not in coils	
+kg
+7211.14.00.90	90  	Other	
+kg
+7211.19	 	Other:				
+ 	Of a width of less than 300 mm:				
+7211.19.15	00  	Of high-strength steel	
+kg
+Free 1/		25%
+ 	Other:				
+7211.19.20	00  	Of a thickness exceeding 1.25 mm	
+kg
+Free 1/		25%
+7211.19.30	00  	Other	
+kg
+Free 1/		25%
+ 	Other:				
+7211.19.45	00  	Of high-strength steel	
+kg
+Free 1/		20%
+ 	Other:				
+7211.19.60	00  	Pickled	
+kg
+Free 1/		0.4¢/kg + 20%
+7211.19.75	 	Other		Free 1/		20%
+ 	In coils:				
+7211.19.75.30	30  	With untrimmed edges	
+kg
+7211.19.75.60	60  	Other	
+kg
+7211.19.75.90	90  	Other	
+kg
+ 	Not further worked than cold-rolled (cold-reduced):				
+7211.23	 	Containing by weight less than 0.25 percent of carbon:				
+ 	Of a width of less than 300 mm:				
+ 	Of a thickness exceeding 1.25 mm:				
+7211.23.15	00  	Of high-strength steel	
+kg
+Free 1/		25%
+7211.23.20	00  	Other	
+kg
+Free 1/		25%
+7211.23.30	00  	Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm	
+kg
+Free 1/		25%
+7211.23.45	00  	Of a thickness not exceeding 0.25 mm	
+kg
+Free 1/		25%
+7211.23.60	 	Other		Free 1/		0.4¢/kg + 20%
+7211.23.60.30	30  	Of a thickness exceeding 1.25 mm	
+kg
+7211.23.60.60	60  	Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm	
+kg
+7211.23.60.90	90  	Of a thickness not exceeding 0.25 mm:	
+kg
+7211.29	 	Other:				
+ 	Of a width of less than 300 mm:				
+7211.29.20	 	Of a thickness exceeding 0.25 mm		Free 1/		25%
+7211.29.20.30	30  	Of a width less than 51 mm, in coils	
+kg
+7211.29.20.90	90  	Other	
+kg
+7211.29.45	00  	Other	
+kg
+Free 1/		25%
+7211.29.60	 	Other		Free 1/		0.4¢/kg + 20%
+7211.29.60.30	30  	Of a thickness exceeding 1.25 mm	
+kg
+7211.29.60.80	80  	Other	
+kg
+7211.90.00	00  	Other	
+kg
+Free 1/		20%
+7212	 	Flat-rolled products of iron or nonalloy steel, of a width of less than 600 mm, clad, plated or coated:				
+7212.10.00	00  	Plated or coated with tin	
+kg
+Free 1/		6%
+7212.20.00	00  	Electrolytically plated or coated with zinc	
+kg
+Free 1/		21.5%
+7212.30	 	Otherwise plated or coated with zinc:				
+ 	Of a width of less than 300 mm:				
+7212.30.10	 	Of a thickness exceeding 0.25 mm or more		Free 1/		25%
+7212.30.10.30	30  	Of a width less than 51 mm, in coils	
+kg
+7212.30.10.90	90  	Other	
+kg
+7212.30.30	00  	Other	
+kg
+Free 1/		25%
+7212.30.50	00  	Other	
+kg
+Free 1/		21.5%
+7212.40	 	Painted, varnished or coated with plastics:				
+7212.40.10	00  	Of a width of less than 300 mm	
+kg
+Free 1/		25% 1/
+7212.40.50	00  	Other	
+kg
+Free 1/		0.4¢/kg + 20% 1/
+7212.50.00	00  	Otherwise plated or coated	
+kg
+Free 1/		21.5%
+7212.60.00	00  	Clad	
+kg
+Free 1/		30%
+7213	 	Bars and rods, hot-rolled, in irregularly wound coils, of iron or nonalloy steel:				
+7213.10.00	00  	Concrete reinforcing bars and rods	
+kg
+Free 1/		20% 1/
+7213.20.00	 	Other, of free-cutting steel		Free 1/		5.5%
+7213.20.00.10	10  	Containing by weight 0.1 percent or more of lead	
+kg
+7213.20.00.80	80  	Other	
+kg
+ 	Other:				
+7213.91	 	Of circular cross section measuring less than 14 mm in diameter:				
+7213.91.30	 	Not tempered, not treated and not partly manufactured		Free 1/		5.5%
+7213.91.30.11	11  	Tire cord-quality steel wire rod of a kind described in statistical note 5 to this chapter	
+kg
+7213.91.30.15	15  	Of Cold Heading Quality (CHQ) steel of a kind described in statistical note 6 to this chapter	
+kg
+7213.91.30.20	20  	Of welding quality wire rods of a kind described in statistical note 7 to this chapter	
+kg
+7213.91.30.93	93  	Other	
+kg
+ 	Other:				
+7213.91.45	00  	Containing by weight 0.6 percent or more of carbon	
+kg
+Free 1/		5.5%
+7213.91.60	00  	Other	
+kg
+Free 1/		6%
+7213.99.00	 	Other		Free 1/		5.5%
+ 	Of circular cross section:				
+7213.99.00.30	30  	With a diameter of 14 mm or more but less than 19 mm	
+kg
+7213.99.00.60	60  	With a diameter of 19 mm or more	
+kg
+7213.99.00.90	90  	Other	
+kg
+7214	 	Other bars and rods of iron or nonalloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling:				
+7214.10.00	00  	Forged	
+kg
+Free 1/		20%
+7214.20.00	00  	Concrete reinforcing bars and rods	
+kg
+Free 1/		20% 1/
+7214.30.00	 	Other, of free-cutting steel		Free 1/		20%
+7214.30.00.10	10  	Containing by weight 0.1 percent or more of lead	
+kg
+7214.30.00.80	80  	Other	
+kg
+ 	Other:				
+7214.91.00	 	Of rectangular (other than square) cross-section		Free 1/		20%
+ 	Containing by weight less than 0.25 percent of carbon:				
+7214.91.00.16	16  	With a maximum cross section less than 152 mm	
+kg
+7214.91.00.20	20  	With a maximum cross section of 152 mm or more	
+kg
+7214.91.00.60	60  	Containing by weight 0.25 percent or more but less than 0.6 percent of carbon	
+kg
+7214.91.00.90	90  	Containing by weight 0.6 percent or more of carbon	
+kg
+7214.99.00	 	Other		Free 1/		20% 1/
+ 	Rounds:				
+ 	Containing by weight less than 0.25 percent of carbon:				
+7214.99.00.16	16  	With a diameter less than 76 mm	
+kg
+7214.99.00.21	21  	With a diameter of 76 mm or more but not exceeding 152 mm	
+kg
+7214.99.00.26	26  	With a diameter exceeding 152 mm	
+kg
+ 	Containing by weight 0.25 percent or more but less than 0.6 percent of carbon:				
+7214.99.00.31	31  	With a diameter less than 76 mm	
+kg
+7214.99.00.36	36  	With a diameter of 76 mm or more but not exceeding 152 mm	
+kg
+7214.99.00.40	40  	With a diameter exceeding 152 mm	
+kg
+7214.99.00.45	45  	Containing by weight 0.6 percent or more of carbon	
+kg
+ 	Other:				
+7214.99.00.60	60  	Containing by weight less than 0.25 percent of carbon	
+kg
+7214.99.00.75	75  	Containing by weight 0.25 percent or more but less than 0.6 percent of carbon	
+kg
+7214.99.00.90	90  	Containing by weight 0.6 percent or more of carbon	
+kg
+7215	 	Other bars and rods of iron or nonalloy steel:				
+7215.10.00	 	Of free-cutting steel, not further worked than cold-formed or cold-finished		Free 1/		0.3¢/kg + 20%
+7215.10.00.10	10  	Containing by weight 0.1 percent or more of lead	
+kg
+7215.10.00.80	80  	Other	
+kg
+7215.50.00	 	Other, not further worked than cold-formed or cold-finished		Free 1/		0.3¢/kg + 20%
+ 	Containing by weight less than 0.25 percent of carbon:				
+7215.50.00.16	16  	With a diameter or cross section measuring less than 76 mm	
+kg
+7215.50.00.18	18  	With a diameter or cross section measuring 76 mm or more but not exceeding 228 mm	
+kg
+7215.50.00.20	20  	With a diameter or cross section exceeding 228 mm	
+kg
+ 	Containing by weight 0.25 percent or more but less than 0.6 percent of carbon:				
+7215.50.00.61	61  	With a diameter or cross section measuring less than 76 mm	
+kg
+7215.50.00.63	63  	With a diameter or cross section measuring 76 mm or more but not exceeding 228 mm	
+kg
+7215.50.00.65	65  	With a diameter or cross section exceeding 228 mm	
+kg
+7215.50.00.90	90  	Containing by weight 0.6 percent or more of carbon	
+kg
+7215.90	 	Other:				
+ 	Plated or coated with metal:				
+7215.90.10	00  	Not cold-formed	
+kg
+Free 1/		0.4¢/kg + 20%
+7215.90.30	00  	Cold-formed	
+kg
+Free 1/		0.3¢/kg + 20%
+7215.90.50	00  	Other	
+kg
+Free 1/		0.3¢/kg + 20%
+7216	 	Angles, shapes and sections of iron or nonalloy steel:				
+7216.10.00	 	U, I or H sections, not further worked than hot-rolled, hot-drawn or extruded, of a height of less than 80 mm		Free 1/		2%
+7216.10.00.10	10  	U sections	
+kg
+7216.10.00.50	50  	Other	
+kg
+ 	L or T sections, not further worked than hot-rolled, hot-drawn or extruded, of a height of less than 80 mm:				
+7216.21.00	00  	L sections	
+kg
+Free 1/		2%
+7216.22.00	00  	T sections	
+kg
+Free 1/		2%
+ 	U, I or H sections, not further worked than hot-rolled, hot-drawn or extruded, of a height of 80 mm or more:				
+7216.31.00	00  	U sections	
+kg
+Free 1/		2%
+7216.32.00	00  	I sections (standard beams)	
+kg
+Free 1/		2%
+7216.33.00	 	H sections		Free 1/		2%
+7216.33.00.30	30  	Weighing not more than 11.3 kg per 30.5 cm, with a web depth measuring 102 mm to 356 mm	
+kg
+7216.33.00.60	60  	Weighing more than 11.3 kg but not more than 27.2 kg per 30.5 cm, with a web depth measuring 203 mm to 457 mm	
+kg
+7216.33.00.90	90  	Other	
+kg
+7216.40.00	 	L or T sections, not further worked than hot-rolled, hot-drawn or extruded, of a height of 80 mm or more		Free 1/		2%
+7216.40.00.10	10  	L sections	
+kg
+7216.40.00.50	50  	Other	
+kg
+7216.50.00	00  	Other angles, shapes and sections, not further worked than hot-rolled, hot-drawn or extruded	
+kg
+Free 1/		2%
+ 	Angles, shapes and sections, not further worked than cold-formed or cold-finished:				
+7216.61.00	00  	Obtained from flat-rolled products	
+kg
+Free 1/		20%
+7216.69.00	00  	Other	
+kg
+Free 1/		20% 1/
+ 	Other:				
+7216.91.00	 	Cold-formed or cold-finished from flat-rolled products		Free 1/		20% 1/
+7216.91.00.10	10  	Drilled, notched, punched or cambered	
+kg
+7216.91.00.90	90  	Other	
+kg
+7216.99.00	 	Other		Free 1/		20%
+7216.99.00.10	10  	Drilled, notched, punched or cambered	
+kg
+7216.99.00.90	90  	Other	
+kg
+7217	 	Wire of iron or nonalloy steel:				
+7217.10	 	Not plated or coated, whether or not polished:				
+ 	Containing by weight less than 0.25 percent of carbon:				
+ 	Flat wire:				
+7217.10.10	00  	Of a thickness not exceeding 0.25 mm	
+kg
+Free 1/		25%
+7217.10.20	00  	Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm	
+kg
+Free 1/		25%
+7217.10.30	00  	Of a thickness exceeding 1.25 mm	
+kg
+Free 1/		25%
+ 	Round wire:				
+7217.10.40	 	With a diameter of less than 1.5 mm		Free 1/		25%
+ 	Heat treated:				
+7217.10.40.40	40  	In coils weighing not more than 2 kilograms	
+kg
+7217.10.40.45	45  	Other	
+kg
+7217.10.40.90	90  	Other	
+kg
+7217.10.50	 	With a diameter of 1.5 mm or more		Free 1/		7%
+7217.10.50.30	30  	Heat treated	
+kg
+7217.10.50.90	90  	Other	
+kg
+7217.10.60	00  	Other wire	
+kg
+Free 1/		25% 1/
+ 	Other:				
+7217.10.70	00  	Flat wire	
+kg
+Free 1/		25%
+7217.10.80	 	Round wire		Free 1/		25%
+ 	Containing by weight 0.25 percent or more but less than 0.6 percent of carbon:				
+7217.10.80.10	10  	Heat treated	
+kg
+7217.10.80.20	20  	Other	
+kg
+ 	Containing by weight 0.6 percent or more of carbon:				
+ 	Heat treated:				
+7217.10.80.25	25  	With a diameter of less than 1.0 mm	
+kg
+7217.10.80.30	30  	With a diameter of 1.0 mm or more but less than 1.5 mm	
+kg
+7217.10.80.45	45  	With a diameter of 1.5 mm or more	
+kg
+ 	Other:				
+7217.10.80.60	60  	With a diameter of less than 1.0 mm	
+kg
+7217.10.80.75	75  	With a diameter of 1.0 mm or more but less than 1.5 mm	
+kg
+7217.10.80.90	90  	With a diameter of 1.5 mm or more	
+kg
+7217.10.90	00  	Other wire	
+kg
+Free 1/		25% 1/
+7217.20	 	Plated or coated with zinc:				
+7217.20.15	00  	Flat wire	
+kg
+Free 1/		26%
+ 	Round wire:				
+7217.20.30	00  	With a diameter of 1.5 mm or more and containing by weight less than 0.25 percent of carbon	
+kg
+Free 1/		7% 1/
+7217.20.45	 	Other		Free 1/		25%
+ 	With a diameter of less than 1.0 mm:				
+7217.20.45.10	10  	Containing by weight less than 0.25 percent of carbon	
+kg
+7217.20.45.20	20  	Containing by weight 0.25 percent or more but less than 0.6 percent of carbon	
+kg
+7217.20.45.30	30  	Containing by weight 0.6 percent or more of carbon	
+kg
+ 	With a diameter of 1.0 mm or more but less than 1.5 mm:				
+7217.20.45.40	40  	Containing by weight less than 0.25 percent of carbon	
+kg
+7217.20.45.50	50  	Containing by weight 0.25 percent or more but less than 0.6 percent of carbon	
+kg
+7217.20.45.60	60  	Containing by weight 0.6 percent or more of carbon	
+kg
+ 	With a diameter of 1.5 mm or more:				
+7217.20.45.70	70  	Containing by weight 0.25 percent or more but less than 0.6 percent of carbon	
+kg
+7217.20.45.80	80  	Containing by weight 0.6 percent or more of carbon	
+kg
+ 	Other:				
+7217.20.60	00  	Containing by weight less than 0.25 percent of carbon	
+kg
+Free 1/		25%
+7217.20.75	00  	Other	
+kg
+Free 1/		26%
+7217.30	 	Plated or coated with other base metals:				
+7217.30.15	 	Flat wire		Free 1/		26%
+7217.30.15.30	30  	Containing by weight 0.6 percent or more of carbon	
+kg
+7217.30.15.60	60  	Other	
+kg
+ 	Round wire:				
+7217.30.30	00  	With a diameter of 1.5 mm or more and containing by weight less than 0.25 percent of carbon	
+kg
+Free 1/		7%
+7217.30.45	 	Other		Free 1/		25%
+7217.30.45.04	04  	Containing by weight less than 0.20 percent of carbon, and suitable for electric arc welding	
+kg
+ 	Other:				
+ 	With a diameter of less than 1.0 mm:				
+7217.30.45.11	11  	Containing by weight less than 0.25 percent of carbon	
+kg
+7217.30.45.20	20  	Containing by weight 0.25 percent or more but less than 0.6 percent or carbon	
+kg
+7217.30.45.30	30  	Containing by weight 0.6 percent or more of carbon	
+kg
+ 	With a diameter of 1.0 mm or more but less than 1.5 mm:				
+7217.30.45.41	41  	Containing by weight less than 0.25 percent of carbon	
+kg
+7217.30.45.50	50  	Containing by weight 0.25 percent or more but less than 0.6 percent of carbon	
+kg
+7217.30.45.60	60  	Containing by weight 0.6 percent or more of carbon	
+kg
+7217.30.45.90	90  	With a diameter of 1.5 mm or more	
+kg
+ 	Other:				
+7217.30.60	00  	Containing by weight less than 0.25 percent of carbon	
+kg
+Free 1/		25%
+7217.30.75	00  	Other	
+kg
+Free 1/		26%
+7217.90	 	Other:				
+7217.90.10	00  	Coated with plastics	
+kg
+Free 1/		2%
+7217.90.50	 	Other		Free 1/		35%
+7217.90.50.30	30  	Containing by weight less than 0.25 percent of carbon	
+kg
+7217.90.50.60	60  	Containing by weight 0.25 percent or more but less than 0.6 percent of carbon	
+kg
+7217.90.50.90	90  	Containing by weight 0.6 percent or more of carbon	
+kg
+ 	III. STAINLESS STEEL				
+7218	 	Stainless steel in ingots or other primary forms; semi-finished products of stainless steel:				
+7218.10.00	00  	Ingots and other primary forms	
+kg
+Free 1/		29%
+ 	Other:				
+7218.91.00	 	Of rectangular (other than square) cross-section		Free 1/		29%
+ 	Having a width less than four times the thickness:				
+7218.91.00.15	15  	Having a cross-sectional area of less than 232 cm2	
+kg
+7218.91.00.30	30  	Having a cross-sectional area of 232 cm2 or more	
+kg
+7218.91.00.60	60  	Having a width at least four times the thickness	
+kg
+7218.99.00	 	Other		Free 1/		29%
+ 	Of square cross section:				
+7218.99.00.15	15  	Having a cross-sectional area of less than 232 cm2	
+kg
+7218.99.00.30	30  	Having a cross-sectional area of 232 cm2 or more	
+kg
+ 	Of circular cross section:				
+7218.99.00.45	45  	Having a cross-sectional area of less than 232 cm2	
+kg
+7218.99.00.60	60  	Having a cross-sectional area of 232 cm2 or more	
+kg
+7218.99.00.90	90  	Other	
+kg
+7219	 	Flat-rolled products of stainless steel, of a width of 600 mm or more:				
+ 	Not further worked than hot-rolled, in coils:				
+7219.11.00	 	Of a thickness exceeding 10 mm		Free 1/		29%
+7219.11.00.30	30  	Of a width not exceeding 1575 mm	
+kg
+7219.11.00.60	60  	Of a width exceeding 1575 mm	
+kg
+7219.12.00	 	Of a thickness of 4.75 mm or more but not exceeding 10 mm		Free 1/		29%
+7219.12.00.02	02  	Not annealed or not pickled	
+kg
+ 	Other:				
+7219.12.00.06	06  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Of a width of 1370 mm or more:				
+ 	Of a thickness exceeding 6.8 mm:				
+7219.12.00.21	21  	Of a width not exceeding 1575 mm	
+kg
+7219.12.00.26	26  	Of a width exceeding 1575 mm	
+kg
+ 	Other:				
+7219.12.00.51	51  	Of a width not exceeding 1575 mm	
+kg
+7219.12.00.56	56  	Of a width exceeding 1575 mm	
+kg
+ 	Other:				
+ 	Containing more than 0.5 percent by weight of nickel:				
+7219.12.00.66	66  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7219.12.00.71	71  	Other	
+kg
+7219.12.00.81	81  	Other	
+kg
+7219.13.00	 	Of a thickness of 3 mm or more but less than 4.75 mm		Free 1/		29%
+7219.13.00.02	02  	Not annealed or not pickled	
+kg
+ 	Other:				
+7219.13.00.31	31  	Of a width of 1370 mm or more	
+kg
+ 	Other:				
+ 	Containing more than 0.5 percent but less than 24 percent by weight of nickel:				
+7219.13.00.51	51  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7219.13.00.71	71  	Other	
+kg
+7219.13.00.81	81  	Other	
+kg
+7219.14.00	 	Of a thickness of less than 3 mm		Free 1/		29%
+7219.14.00.30	30  	Of a width of 1370 mm or more	
+kg
+ 	Other:				
+7219.14.00.65	65  	Of high-nickel alloy steel	
+kg
+7219.14.00.90	90  	Other	
+kg
+ 	Not further worked than hot-rolled, not in coils:				
+7219.21.00	 	Of a thickness exceeding 10 mm		Free 1/		29%
+7219.21.00.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+7219.21.00.20	20  	Of a width not exceeding 1575 mm	
+kg
+7219.21.00.40	40  	Of a width exceeding 1575 mm but not exceeding 1880 mm	
+kg
+7219.21.00.60	60  	Of a width exceeding 1880 mm	
+kg
+7219.22.00	 	Of a thickness of 4.75 mm or more but not exceeding 10 mm		Free 1/		29%
+7219.22.00.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Containing more than 0.5 percent by weight of nickel:				
+ 	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum:				
+7219.22.00.15	15  	Of a width not exceeding 1575 mm	
+kg
+7219.22.00.20	20  	Of a width exceeding 1575 mm but not exceeding 1880 mm	
+kg
+7219.22.00.25	25  	Of a width exceeding 1880 mm	
+kg
+ 	Other:				
+7219.22.00.35	35  	Of a width not exceeding 1575 mm	
+kg
+7219.22.00.40	40  	Of a width exceeding 1575 mm but not exceeding 1880 mm	
+kg
+7219.22.00.45	45  	Of a width exceeding 1880 mm	
+kg
+ 	Other:				
+7219.22.00.70	70  	Of a width not exceeding 1575 mm	
+kg
+7219.22.00.75	75  	Of a width exceeding 1575 mm but not exceeding 1880 mm	
+kg
+7219.22.00.80	80  	Of a width exceeding 1880 mm	
+kg
+7219.23.00	 	Of a thickness of 3 mm or more but less than 4.75 mm		Free 1/		29%
+7219.23.00.30	30  	Of a width of 1370 mm or more	
+kg
+7219.23.00.60	60  	Other	
+kg
+7219.24.00	 	Of a thickness of less than 3 mm		Free 1/		29%
+7219.24.00.30	30  	Of a width of 1370 mm or more	
+kg
+7219.24.00.60	60  	Other	
+kg
+ 	Not further worked than cold-rolled (cold-reduced):				
+7219.31.00	 	Of a thickness of 4.75 mm or more		Free 1/		29%
+7219.31.00.10	10  	In coils	
+kg
+7219.31.00.50	50  	Not in coils	
+kg
+7219.32.00	 	Of a thickness of 3 mm or more but less than 4.75 mm		Free 1/		29%
+ 	In coils:				
+ 	Of a width of 1370 mm or more:				
+7219.32.00.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+7219.32.00.20	20  	Containing more than 0.5 percent by weight of nickel	
+kg
+7219.32.00.25	25  	Other	
+kg
+ 	Other:				
+7219.32.00.35	35  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Containing more than 0.5 percent by weight of nickel:				
+7219.32.00.36	36  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7219.32.00.38	38  	Other	
+kg
+ 	Other:				
+7219.32.00.42	42  	Containing less than 15 percent by weight of chromium	
+kg
+7219.32.00.44	44  	Other	
+kg
+ 	Not in coils:				
+7219.32.00.45	45  	Of a width of 1370 mm or more	
+kg
+7219.32.00.60	60  	Other	
+kg
+7219.33.00	 	Of a thickness exceeding 1 mm but less than 3 mm		Free 1/		29%
+ 	In coils:				
+ 	Of a width of 1370 mm or more:				
+7219.33.00.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+7219.33.00.20	20  	Containing more than 0.5 percent by weight of nickel	
+kg
+7219.33.00.25	25  	Other	
+kg
+ 	Other:				
+7219.33.00.35	35  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Containing more than 0.5 percent by weight of nickel:				
+7219.33.00.36	36  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7219.33.00.38	38  	Other	
+kg
+ 	Other:				
+7219.33.00.42	42  	Containing less than 15 percent by weight of chromium	
+kg
+7219.33.00.44	44  	Other	
+kg
+ 	Not in coils:				
+7219.33.00.45	45  	Of a width of 1370 mm or more	
+kg
+ 	Other:				
+7219.33.00.70	70  	Containing more than 0.5 percent but less than 24 percent by weight of nickel	
+kg
+7219.33.00.80	80  	Other	
+kg
+7219.34.00	 	Of a thickness of 0.5 mm or more but not exceeding 1 mm		Free 1/		29%
+ 	In coils:				
+7219.34.00.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Containing more than 0.5 percent by weight of nickel:				
+7219.34.00.20	20  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7219.34.00.25	25  	Other	
+kg
+ 	Other:				
+7219.34.00.30	30  	Containing less than 15 percent by weight of chromium	
+kg
+7219.34.00.35	35  	Other	
+kg
+7219.34.00.50	50  	Not in coils	
+kg
+7219.35.00	 	Of a thickness of less than 0.5 mm		Free 1/		29%
+ 	In coils:				
+ 	Containing more than 0.5 percent but less than 24 percent by weight of nickel:				
+7219.35.00.05	05  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7219.35.00.15	15  	Other	
+kg
+ 	Other:				
+7219.35.00.30	30  	Containing less than 15 percent by weight of chromium	
+kg
+7219.35.00.35	35  	Other	
+kg
+7219.35.00.50	50  	Not in coils	
+kg
+7219.90.00	 	Other		Free 1/		29%
+7219.90.00.10	10  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Containing more than 0.5 percent by weight of nickel:				
+7219.90.00.20	20  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7219.90.00.25	25  	Other	
+kg
+ 	Other:				
+7219.90.00.60	60  	Containing less than 15 percent by weight of chromium	
+kg
+7219.90.00.80	80  	Other	
+kg
+7220	 	Flat-rolled products of stainless steel, of a width of less than 600 mm:				
+ 	Not further worked than hot-rolled:				
+7220.11.00	00  	Of a thickness of 4.75 mm or more	
+kg
+Free 1/		29%
+7220.12	 	Of a thickness of less than 4.75 mm:				
+7220.12.10	00  	Of a width of 300 mm or more	
+kg
+Free 1/		29%
+7220.12.50	00  	Of a width of less than 300 mm	
+kg
+Free 1/		34%
+7220.20	 	Not further worked than cold-rolled (cold-reduced):				
+7220.20.10	 	Of a width of 300 mm or more		Free 1/		29%
+ 	Containing more than 0.5 percent but less than 24 percent by weight of nickel:				
+7220.20.10.10	10  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7220.20.10.15	15  	Other	
+kg
+ 	Other:				
+7220.20.10.60	60  	Containing less than 15 percent by weight of chromium	
+kg
+7220.20.10.80	80  	Other	
+kg
+ 	Of a width of less than 300 mm:				
+7220.20.60	 	Of a thickness exceeding 1.25 mm		Free 1/		34%
+7220.20.60.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Containing more than 0.5 percent by weight of nickel:				
+7220.20.60.10	10  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7220.20.60.15	15  	Other	
+kg
+ 	Other:				
+7220.20.60.60	60  	Containing less than 15 percent by weight of chromium	
+kg
+7220.20.60.80	80  	Other	
+kg
+7220.20.70	 	Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm		Free 1/		34%
+7220.20.70.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Containing more than 0.5 percent by weight of nickel:				
+7220.20.70.10	10  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7220.20.70.15	15  	Other	
+kg
+ 	Other:				
+7220.20.70.60	60  	Containing less than 15 percent by weight of chromium	
+kg
+7220.20.70.80	80  	Other	
+kg
+ 	Of a thickness not exceeding 0.25 mm:				
+7220.20.80	00  	Razor blade steel	
+kg
+Free 1/		34%
+7220.20.90	 	Other		Free 1/		34%
+7220.20.90.30	30  	Containing more than 0.5 percent but less than 24 percent by weight of nickel	
+kg
+7220.20.90.60	60  	Other	
+kg
+7220.90.00	 	Other		Free 1/		46%
+ 	Containing more than 0.5 percent but less than 24 percent by weight of nickel:				
+7220.90.00.10	10  	Containing more than 1.5 percent but less than 5 percent by weight of molybdenum	
+kg
+7220.90.00.15	15  	Other	
+kg
+ 	Other:				
+7220.90.00.60	60  	Containing less than 15 percent by weight of chromium	
+kg
+7220.90.00.80	80  	Other	
+kg
+7221.00.00	 	Bars and rods, hot-rolled, in irregularly wound coils, of stainless steel		Free 1/		11%
+7221.00.00.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Of circular cross section:				
+ 	With a diameter of less than 14 mm:				
+7221.00.00.17	17  	Containing less than 8 percent by weight of nickel	
+kg
+7221.00.00.18	18  	Containing 8 percent or more but less than 24 percent by weight of nickel	
+kg
+7221.00.00.30	30  	With a diameter of 14 mm or more but less than 19 mm	
+kg
+7221.00.00.45	45  	With a diameter of 19 mm or more	
+kg
+7221.00.00.75	75  	Other	
+kg
+7222	 	Other bars and rods of stainless steel; angles, shapes and sections of stainless steel:				
+ 	Bars and rods, not further worked than hot-rolled, hot-drawn or extruded:				
+7222.11.00	 	Of circular cross-section		Free 1/		29%
+7222.11.00.01	01  	Electroslag or vacuum arc remelted	
+kg
+7222.11.00.06	06  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	With a maximum cross-sectional dimension of less than 152.4 mm:				
+7222.11.00.57	57  	Containing less than 8 percent by weight of nickel	
+kg
+7222.11.00.59	59  	Containing 8 percent or more but less than 24 percent by weight of nickel	
+kg
+ 	With a maximum cross-sectional dimension of 152.4 mm or more:				
+7222.11.00.82	82  	Containing less than 8 percent by weight of nickel	
+kg
+7222.11.00.84	84  	Containing 8 percent or more but less than 24 percent by weight of nickel	
+kg
+7222.19.00	 	Other		Free 1/		29%
+7222.19.00.01	01  	Electroslag or vacuum arc remelted	
+kg
+ 	Other:				
+7222.19.00.06	06  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+7222.19.00.52	52  	Containing less than 8 percent by weight of nickel	
+kg
+7222.19.00.54	54  	Containing 8 percent or more but less than 24 percent by weight of nickel	
+kg
+7222.20.00	 	Bars and rods, not further worked than cold-formed or cold-finished		Free 1/		29%
+7222.20.00.01	01  	Electroslag or vacuum arc remelted	
+kg
+7222.20.00.06	06  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Of a circular cross-section:				
+ 	With a maximum circular cross-sectional dimension of less than 18 mm:				
+7222.20.00.41	41  	Containing less than 8 percent by weight of nickel	
+kg
+7222.20.00.43	43  	Containing 8 percent or more but less than 24 percent by weight of nickel	
+kg
+ 	With a maximum circular cross-sectional dimension of 18 mm or more and less than 152.4 mm:				
+7222.20.00.62	62  	Containing less than 8 percent by weight of nickel	
+kg
+7222.20.00.64	64  	Containing 8 percent or more but less than 24 percent by weight of nickel	
+kg
+ 	With a maximum circular cross-sectional dimension of 152.4 mm or more:				
+7222.20.00.67	67  	Containing less than 8 percent by weight of nickel	
+kg
+7222.20.00.69	69  	Containing 8 percent or more but less than 24 percent by weight of nickel	
+kg
+ 	Other:				
+7222.20.00.71	71  	Containing less than 8 percent by weight of nickel	
+kg
+7222.20.00.73	73  	Containing 8 percent or more but less than 24 percent by weight of nickel	
+kg
+7222.30.00	 	Other bars and rods		Free 1/		29% 1/
+7222.30.00.01	01  	Electroslag or vacuum arc remelted	
+kg
+7222.30.00.12	12  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	With a maximum cross-sectional dimension of less than 152.4 mm:				
+7222.30.00.22	22  	Containing less than 8 percent by weight of nickel	
+kg
+7222.30.00.24	24  	Containing 8 percent or more but less than 24 percent by weight of nickel	
+kg
+ 	With a maximum cross-sectional dimension of 152.4 mm or more:				
+7222.30.00.82	82  	Containing less than 8 percent by weight of nickel	
+kg
+7222.30.00.84	84  	Containing 8 percent or more but less than 24 percent by weight of nickel	
+kg
+7222.40	 	Angles, shapes and sections:				
+7222.40.30	 	Hot-rolled, not drilled, not punched and not otherwise advanced		Free 1/		10%
+ 	With a maximum cross-sectional dimension of 80 mm or more:				
+7222.40.30.25	25  	Angles	
+kg
+7222.40.30.45	45  	Other	
+kg
+ 	With a maximum cross-sectional dimension of less than 80 mm:				
+7222.40.30.65	65  	Angles	
+kg
+7222.40.30.85	85  	Other	
+kg
+7222.40.60	00  	Other	
+kg
+Free 1/		28%
+7223.00	 	Wire of stainless steel:				
+7223.00.10	 	Round wire		Free 1/		34%
+7223.00.10.05	05  	Spring round wire of a kind described in statistical note 8 to this chapter	
+kg
+ 	Other:				
+7223.00.10.16	16  	With a diameter of less than 0.25 mm	
+kg
+7223.00.10.31	31  	With a diameter of 0.25 mm or more but less than 0.76 mm	
+kg
+7223.00.10.46	46  	With a diameter of 0.76 mm or more but less than 1.52 mm	
+kg
+7223.00.10.61	61  	With a diameter of 1.52 mm or more but less than 5.1 mm	
+kg
+7223.00.10.76	76  	With a diameter of 5.1 mm or more	
+kg
+7223.00.50	00  	Flat wire	
+kg
+Free 1/		34%
+7223.00.90	00  	Other	
+kg
+Free 1/		34%
+ 	IV. OTHER ALLOY STEEL; HOLLOW DRILL BARS AND RODS, OF ALLOY OR NONALLOY STEEL				
+7224	 	Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel:				
+7224.10.00	 	Ingots and other primary forms		Free 1/		28%
+7224.10.00.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+7224.10.00.45	45  	Of tool steel	
+kg
+7224.10.00.75	75  	Other	
+kg
+7224.90.00	 	Other		Free 1/		28% 1/
+7224.90.00.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+ 	Of tool steel:				
+ 	Of rectangular (including square) cross section:				
+7224.90.00.15	15  	Having a width less than four times the thickness	
+kg
+7224.90.00.25	25  	Having a width at least four times the thickness	
+kg
+7224.90.00.35	35  	Other	
+kg
+ 	Other:				
+ 	Of rectangular (including square) cross section:				
+7224.90.00.45	45  	Having a width less than four times the thickness	
+kg
+7224.90.00.55	55  	Having a width at least four times the thickness	
+kg
+7224.90.00.65	65  	Of circular cross section	
+kg
+7224.90.00.75	75  	Other	
+kg
+7225	 	Flat-rolled products of other alloy steel, of a width of 600 mm or more:				
+ 	Of silicon electrical steel:				
+7225.11.00	00  	Grain-oriented	
+kg
+Free 1/		28% 1/
+7225.19.00	00  	Other	
+kg
+Free 1/		28% 1/
+7225.30	 	Other, not further worked than hot-rolled, in coils:				
+ 	Of a thickness of 4.75 mm or more:				
+7225.30.11	 	Of tool steel		Free 1/		29%
+7225.30.11.10	10  	Of high-speed steel	
+kg
+7225.30.11.80	80  	Other	
+kg
+7225.30.30	 	Other		Free 1/		28%
+7225.30.30.05	05  	Of high-nickel alloy steel	
+kg
+7225.30.30.50	50  	Other	
+kg
+ 	Of a thickness of less than 4.75 mm:				
+7225.30.51	 	Of tool steel		Free 1/		29%
+7225.30.51.10	10  	Of high-speed steel	
+kg
+7225.30.51.80	80  	Other	
+kg
+7225.30.70	00  	Other	
+kg
+Free 1/		28%
+7225.40	 	Other, not further worked than hot-rolled, not in coils:				
+ 	Of a thickness of 4.75 mm or more:				
+7225.40.11	 	Of tool steel		Free 1/		29%
+7225.40.11.10	10  	Of high-speed steel	
+kg
+7225.40.11.80	80  	Other	
+kg
+7225.40.30	 	Other		Free 1/		28%
+7225.40.30.05	05  	Of high-nickel alloy steel	
+kg
+7225.40.30.50	50  	Other	
+kg
+ 	Of a thickness of less than 4.75 mm:				
+7225.40.51	 	Of tool steel		Free 1/		29%
+7225.40.51.10	10  	Of high-speed steel	
+kg
+7225.40.51.30	30  	Of ball-bearing steel	
+kg
+7225.40.51.60	60  	Other	
+kg
+7225.40.70	00  	Other	
+kg
+Free 1/		28%
+7225.50	 	Other, not further worked than cold-rolled (cold-reduced):				
+7225.50.11	 	Of tool steel		Free 1/		29%
+7225.50.11.10	10  	Of high-speed steel	
+kg
+7225.50.11.30	30  	Of ball-bearing steel	
+kg
+7225.50.11.60	60  	Other	
+kg
+ 	Other:				
+7225.50.60	00  	Of a thickness of 4.75 mm or more	
+kg
+Free 1/		28%
+ 	Of a thickness of less than 4.75 mm:				
+7225.50.70	00  	Heat-resisting steel	
+kg
+Free 1/		29%
+7225.50.80	 	Other		Free 1/		28%
+7225.50.80.10	10  	Of high-nickel alloy steel	
+kg
+7225.50.80.80	80  	Other	
+kg
+ 	Other:				
+7225.91.00	00  	Electrolytically plated or coated with zinc	
+kg
+Free 1/		28%
+7225.92.00	00  	Otherwise plated or coated with zinc	
+kg
+Free 1/		28%
+7225.99.00	 	Other		Free 1/		28%
+7225.99.00.10	10  	Of high-nickel alloy steel	
+kg
+7225.99.00.90	90  	Other	
+kg
+7226	 	Flat-rolled products of other alloy steel, of a width of less than 600 mm:				
+ 	Of silicon electrical steel:				
+7226.11	 	Grain-oriented:				
+7226.11.10	00  	Of a width of 300 mm or more	
+kg
+Free 1/		28% 1/
+7226.11.90	 	Of a width of less than 300 mm		Free 1/		33% 1/
+7226.11.90.30	30  	Of thickness not exceeding 0.25 mm	
+kg
+7226.11.90.60	60  	Other	
+kg
+7226.19	 	Other:				
+7226.19.10	00  	Of a width of 300 mm or more	
+kg
+Free 1/		28%
+7226.19.90	00  	Of a width of less than 300 mm	
+kg
+Free 1/		33% 1/
+7226.20.00	00  	Of high-speed steel	
+kg
+Free 1/		37%
+ 	Other:				
+7226.91	 	Not further worked than hot-rolled:				
+ 	Of tool steel (other than high-speed steel):				
+7226.91.05	00  	Of chipper knife steel	
+kg
+Free 1/		34%
+ 	Other:				
+7226.91.15	 	Of a width of 300 mm or more		Free 1/		29%
+7226.91.15.30	30  	Of ball-bearing steel	
+kg
+7226.91.15.60	60  	Other	
+kg
+7226.91.25	 	Of a width of less than 300 mm		Free 1/		34%
+7226.91.25.30	30  	Of ball-bearing steel	
+kg
+7226.91.25.60	60  	Other	
+kg
+ 	Other:				
+7226.91.50	00  	Of a thickness of 4.75 mm or more	
+kg
+Free 1/		28%
+ 	Of a thickness of less than 4.75 mm:				
+7226.91.70	00  	Of a width of 300 mm or more	
+kg
+Free 1/		28%
+7226.91.80	00  	Of a width of less than 300 mm	
+kg
+Free 1/		33%
+7226.92	 	Not further worked than cold-rolled (cold-reduced):				
+ 	Of tool steel (other than high-speed steel):				
+7226.92.10	 	Of a width of 300 mm or more		Free 1/		0.4¢/kg + 29%
+7226.92.10.30	30  	Of ball-bearing steel	
+kg
+7226.92.10.60	60  	Other	
+kg
+7226.92.30	 	Of a width of less than 300 mm		Free 1/		34%
+7226.92.30.30	30  	Of ball-bearing steel	
+kg
+7226.92.30.60	60  	Other	
+kg
+ 	Other:				
+7226.92.50	00  	Of a width of 300 mm or more	
+kg
+Free 1/		0.4¢/kg + 28%
+ 	Of a width of less than 300 mm:				
+7226.92.70	 	Of a thickness not exceeding 0.25 mm		Free 1/		33%
+7226.92.70.05	05  	Of high-nickel alloy steel	
+kg
+7226.92.70.50	50  	Other	
+kg
+7226.92.80	 	Of a thickness exceeding 0.25 mm		Free 1/		33%
+7226.92.80.05	05  	Of high-nickel alloy steel	
+kg
+7226.92.80.50	50  	Other	
+kg
+7226.99.01	 	Other		Free 1/		33%
+7226.99.01.10	10  	Electrolytically plated or coated with zinc	
+kg
+7226.99.01.30	30  	Otherwise plated or coated with zinc	
+kg
+7226.99.01.80	80  	Other	
+kg
+7227	 	Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel:				
+7227.10.00	00  	Of high-speed steel	
+kg
+Free 1/		14%
+7227.20.00	 	Of silico-manganese steel		Free 1/		10%
+7227.20.00.30	30  	Of welding quality wire rods of a kind described in statistical note 7 to this chapter	
+kg
+7227.20.00.80	80  	Other	
+kg
+7227.90	 	Other:				
+ 	Of tool steel (other than high-speed steel):				
+7227.90.10	 	Not tempered, not treated, and not partly manufactured		Free 1/		12%
+7227.90.10.30	30  	Of ball-bearing steel	
+kg
+7227.90.10.60	60  	Other	
+kg
+7227.90.20	 	Other		Free 1/		11%
+7227.90.20.30	30  	Of ball-bearing steel	
+kg
+7227.90.20.60	60  	Other	
+kg
+7227.90.60	 	Other		Free 1/		10%
+7227.90.60.05	05  	Of high-nickel alloy steel	
+kg
+7227.90.60.10	10  	Of Cold Heading Quality (CHQ) steel of a kind described in statistical note 6 to this chapter	
+kg
+7227.90.60.20	20  	Of welding quality wire rods of a kind described in statistical note 7 to this chapter	
+kg
+ 	Of a circular cross section:				
+7227.90.60.30	30  	With a diameter of less than 14 mm	
+kg
+7227.90.60.35	35  	With a diameter of 14 mm or more but less than 19 mm	
+kg
+7227.90.60.40	40  	With a diameter of 19 mm or more	
+kg
+7227.90.60.90	90  	Other	
+kg
+7228	 	Other bars and rods of other alloy steel; angles, shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or nonalloy steel:				
+7228.10.00	 	Bars and rods, of high-speed steel		Free 1/		32%
+7228.10.00.10	10  	Not cold-formed	
+kg
+ 	Cold-formed:				
+7228.10.00.30	30  	With a maximum cross-sectional dimension of less than 18 mm	
+kg
+7228.10.00.60	60  	With a maximum cross-sectional dimension of 18 mm or more	
+kg
+7228.20	 	Bars and rods, of silico-manganese steel:				
+7228.20.10	00  	Not cold-formed	
+kg
+Free 1/		28%
+7228.20.50	00  	Cold-formed	
+kg
+Free 1/		28%
+ 	Other bars and rods, not further worked than hot-rolled, hot-drawn or extruded:				
+7228.30	 	Of tool steel (other than high-speed steel):				
+7228.30.20	00  	Of ball-bearing steel	
+kg
+Free 1/		29%
+7228.30.40	00  	Of chipper knife steel, not cold-formed	
+kg
+Free 1/		28%
+7228.30.60	00  	Other	
+kg
+Free 1/		29%
+7228.30.80	 	Other		Free 1/		28%
+7228.30.80.05	05  	Of high-nickel alloy steel	
+kg
+7228.30.80.10	10  	Concrete reinforcing bars and rods	
+kg
+ 	Other:				
+7228.30.80.15	15  	With a diameter or cross section measuring less than 76 mm	
+kg
+7228.30.80.41	41  	With a diameter or cross section measuring 76 mm or more but not exceeding 152 mm	
+kg
+7228.30.80.45	45  	With a diameter or cross section measuring 152 mm or more but not exceeding 228 mm	
+kg
+7228.30.80.70	70  	With a diameter or cross section exceeding 228 mm	
+kg
+7228.40.00	00  	Other bars and rods, not further worked than forged	
+kg
+Free 1/		28% 1/
+7228.50	 	Other bars and rods, not further worked than cold-formed or cold-finished:				
+7228.50.10	 	Of tool steel (other than high-speed steel)		Free 1/		29% 1/
+7228.50.10.10	10  	Of ball-bearing steel	
+kg
+ 	Other:				
+ 	With a maximum cross-sectional dimension of less than 18 mm:				
+7228.50.10.20	20  	Of round or rectangular cross section with surfaces ground, milled or polished	
+kg
+7228.50.10.40	40  	Other	
+kg
+ 	With a maximum cross-sectional dimension of 18 mm or more:				
+7228.50.10.60	60  	Of round or rectangular cross section with surfaces ground, milled or polished	
+kg
+7228.50.10.80	80  	Other	
+kg
+7228.50.50	 	Other		Free 1/		28% 1/
+7228.50.50.05	05  	Of high-nickel alloy steel	
+kg
+ 	Other:				
+7228.50.50.15	15  	With a diameter or cross section measuring less than 76 mm	
+kg
+7228.50.50.40	40  	With a diameter or cross section measuring 76 mm or more but not exceeding 228 mm	
+kg
+7228.50.50.70	70  	With a diameter or cross section exceeding 228 mm	
+kg
+7228.60	 	Other bars and rods:				
+7228.60.10	 	Of tool steel (other than high-speed steel)		Free 1/		29%
+7228.60.10.30	30  	Of ball-bearing steel	
+kg
+7228.60.10.60	60  	Other	
+kg
+ 	Other:				
+7228.60.60	00  	Not cold-formed	
+kg
+Free 1/		28%
+7228.60.80	00  	Cold-formed	
+kg
+Free 1/		28% 1/
+7228.70	 	Angles, shapes and sections:				
+7228.70.30	 	Hot-rolled, not drilled, not punched and not otherwise advanced		Free 1/		10%
+7228.70.30.10	10  	U, I, H and T sections	
+kg
+ 	Other:				
+ 	With a maximum cross-sectional dimension of 76 mm or more:				
+7228.70.30.20	20  	Angles	
+kg
+7228.70.30.41	41  	Other	
+kg
+ 	With a maximum cross-sectional dimension of less than 76 mm:				
+7228.70.30.60	60  	Angles	
+kg
+7228.70.30.81	81  	Other	
+kg
+7228.70.60	00  	Other	
+kg
+Free 1/		28%
+7228.80.00	00  	Hollow drill bars and rods	
+kg
+Free 1/		30%
+7229	 	Wire of other alloy steel:				
+7229.20.00	 	Of silico-manganese steel		Free 1/		33%
+ 	Round, with a diameter of less than or equal to 1.6 mm, containing by weight less than 0.20 percent of carbon, more than 0.9 percent of manganese, and more than 0.6 percent of silicon, and suitable for electric arc welding:				
+7229.20.00.10	10  	Plated or coated with copper	
+kg
+7229.20.00.15	15  	Other	
+kg
+7229.20.00.90	90  	Other	
+kg
+7229.90	 	Other:				
+7229.90.05	00  	Of high-speed steel	
+kg
+Free 1/		37%
+ 	Other:				
+7229.90.10	00  	Flat wire	
+kg
+Free 1/		33%
+7229.90.50	 	Round wire		Free 1/		33%
+ 	With a diameter of less than or equal to 1.6 mm, containing by weight less than 0.20 percent of carbon and more than 0.3 percent of nickel or more than 0.08 percent of molybdenum, and suitable for electric arc welding:				
+7229.90.50.06	06  	Plated or coated with copper	
+kg
+7229.90.50.08	08  	Other	
+kg
+ 	Other:				
+7229.90.50.16	16  	With a diameter of less than 1.0 mm	
+kg
+7229.90.50.31	31  	With a diameter of 1.0 mm or more but less than 1.5 mm	
+kg
+7229.90.50.51	51  	With a diameter of 1.5 mm or more	
+kg
+7229.90.90	00  	Other wire	
+kg
+Free 1/		33%

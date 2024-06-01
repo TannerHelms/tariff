@@ -1,0 +1,421 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+2701	 	Coal; briquettes, ovoids and similar solid fuels manufactured from coal:				
+ 	Coal, whether or not pulverized, but not agglomerated:				
+2701.11.00	00  	Anthracite	
+t
+Free 1/		Free
+2701.12.00	 	Bituminous coal		Free 1/		Free
+2701.12.00.10	10  	Metallurgical coal	
+t
+2701.12.00.50	50  	Other	
+t
+2701.19.00	 	Other coal		Free 1/		Free
+2701.19.00.10	10  	Sub-bituminous coal	
+t
+2701.19.00.50	50  	Other	
+t
+2701.20.00	00  	Briquettes, ovoids and similar solid fuels manufactured from coal	
+t
+Free 1/		Free
+2702	 	Lignite, whether or not agglomerated, excluding jet:				
+2702.10.00	00  	Lignite, whether or not pulverized, but not agglomerated	
+t
+Free 1/		Free
+2702.20.00	00  	Agglomerated lignite	
+t
+Free 1/		Free
+2703.00.00	00  	Peat (including peat litter), whether or not agglomerated	
+t
+Free 1/		Free 1/
+2704.00.00	 	Coke and semicoke of coal, of lignite or of peat, whether or not agglomerated; retort carbon		Free		Free
+ 	Coke and semicoke of coal:				
+2704.00.00.11	11  	Coke larger than 100 mm (4 inches) in maximum diameter and at least 50 percent of which is retained on a 100-mm (4-inch) sieve after drop shatter testing pursuant to ASTM D 3038, of a kind used in foundries	
+t
+2704.00.00.25	25  	Other	
+t
+2704.00.00.50	50  	Other	
+t
+2705.00.00	00  	Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons	
+thousand m3
+kg
+Free 1/		Free
+2706.00.00	00  	Tar distilled from coal, from lignite or from peat, and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars	
+liters
+Free 1/		Free
+2707	 	Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the nonaromatic constituents:				
+2707.10.00	00  	Benzene	
+liters
+Free 1/		Free
+2707.20.00	00  	Toluene	
+liters
+Free 1/		Free
+2707.30.00	 	Xylenes		Free 1/		Free
+2707.30.00.10	10  	m-Xylene	
+liters
+2707.30.00.20	20  	o-Xylene	
+liters
+2707.30.00.30	30  	p-Xylene	
+liters
+2707.30.00.40	40  	Other	
+liters
+2707.40.00	00  	Naphthalene	
+kg
+liters
+Free 1/		Free
+2707.50.00	00  	Other aromatic hydrocarbon mixtures of which 65 percent or more by volume (including losses) distills at 250˚C by the ISO 3405 method (equivalent to the ASTM D 86 method)	
+kg
+liters
+Free 1/		Free
+ 	Other:				
+2707.91.00	00  	Creosote oils	
+liters
+Free 1/		Free
+2707.99	 	Other:				
+2707.99.10	00  	Light oil	
+liters
+Free 1/		Free
+2707.99.20	00  	Picolines	
+kg
+Free 1/		Free
+2707.99.40	00  	Carbazole having a purity of 65 percent or more by weight	
+kg
+0.9¢/kg + 3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, L, MA, OM, P, PA, PE, S, SG)	15.4¢/kg +40%
+ 	Phenols:				
+2707.99.51	00  	Containing more than 50 percent by weight of hydroxybenzene	
+kg
+2.9¢/kg + 12.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.7¢/kg + 29.5%
+2707.99.55	00  	Metacresol, orthocresol, paracresol and metaparacresol, all the foregoing having a purity of 75 percent or more by weight	
+kg
+0.9¢/kg + 3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 42.5%
+2707.99.59	00  	Other	
+kg
+Free 1/		Free
+2707.99.90	 	Other		Free 1/		Free
+2707.99.90.10	10  	Carbon black feedstocks	
+bbl
+2707.99.90.90	90  	Other	
+kg
+2708	 	Pitch and pitch coke, obtained from coal tar or from other mineral tars:				
+2708.10.00	00  	Pitch	
+kg
+Free 1/		Free
+2708.20.00	00  	Pitch coke	
+kg
+Free 1/		Free
+2709.00	 	Petroleum oils and oils obtained from bituminous minerals, crude:				
+2709.00.10	00  	Testing under 25 degrees A.P.I.	
+bbl
+5.25¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+2709.00.20	 	Testing 25 degrees A.P.I. or more		10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+2709.00.20.10	10  	Condensate derived wholly from natural gas	
+bbl
+2709.00.20.90	90  	Other	
+bbl
+2710	 	Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils:				
+ 	Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, other than those containing biodiesel and other than waste oils:				
+2710.12	 	Light oils and preparations:				
+2710.12.15	 	Motor fuel		52.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.05/bbl
+ 	Gasoline:				
+2710.12.15.10	10  	Leaded	
+bbl
+ 	Unleaded:				
+2710.12.15.14	14  	Reformulated	
+bbl
+2710.12.15.19	19  	Other	
+bbl
+2710.12.15.20	20  	Jet fuel, naphtha-type	
+bbl
+2710.12.15.50	50  	Other	
+bbl
+2710.12.18	 	Motor fuel blending stock		52.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.05/bbl
+2710.12.18.05	05  	Reformulated blendstock for oxygenate blending (RBOB)	
+bbl
+2710.12.18.90	90  	Other	
+bbl
+2710.12.25	00  	Naphthas (except motor fuel or motor fuel blending stock)	
+bbl
+10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+ 	Other:				
+2710.12.45	 	Mixtures of hydrocarbons not elsewhere specified or included, which contain by weight not over 50 percent of any single hydrocarbon compound		10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+2710.12.45.45	45  	Insulating or transformer oils	
+bbl
+2710.12.45.90	90  	Other	
+bbl
+2710.12.90	00  	Other	
+kg
+liters
+7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2710.19	 	Other:				
+ 	Distillate and residual fuel oils (including blended fuel oils):				
+2710.19.06	 	Testing under 25 degrees A.P.I.		5.25¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+ 	Having a Saybolt Universal viscosity at 37.8˚C of 45 seconds or more but not more than 125 seconds (No. 4-type fuel oils):				
+2710.19.06.05	05  	Containing not more than 500 ppm of sulfur	
+bbl
+2710.19.06.15	15  	Containing more than 500 ppm of sulfur	
+bbl
+ 	Having a Saybolt Universal viscosity at 37.8˚C of more than 125 seconds (heavy fuel oils):				
+2710.19.06.25	25  	Fuel oil No. 5	
+bbl
+2710.19.06.30	30  	Fuel oil No. 6	
+bbl
+2710.19.06.35	35  	Other	
+bbl
+2710.19.06.50	50  	Other	
+bbl
+2710.19.11	 	Testing 25 degrees A.P.I. or more		10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+ 	Having a Saybolt Universal viscosity at 37.8˚C of less than 45 seconds (light fuel oils):				
+ 	Fuel oils Nos. 2 and 3:				
+ 	Diesel oil:				
+2710.19.11.02	02  	Containing not more than 15 ppm of sulfur	
+bbl
+2710.19.11.03	03  	Containing more than 15 ppm but not more than 500 ppm of sulfur	
+bbl
+2710.19.11.04	04  	Containing more than 500 ppm of sulfur	
+bbl
+ 	Other:				
+2710.19.11.05	05  	Containing not more than 15 ppm of sulfur	
+bbl
+2710.19.11.07	07  	Containing more than 15 ppm but not more than 500 ppm of sulfur	
+bbl
+2710.19.11.08	08  	Containing more than 500 ppm of sulfur	
+bbl
+ 	Other:				
+2710.19.11.11	11  	Containing not more than 15 ppm of sulfur	
+bbl
+2710.19.11.13	13  	Containing more than 15 ppm but not more than 500 ppm of sulfur	
+bbl
+2710.19.11.14	14  	Containing more than 500 ppm of sulfur	
+bbl
+ 	Having a Saybolt Universal viscosity at 37.8˚C of 45 seconds or more but not more than 125 seconds (No. 4-type fuel oils):				
+2710.19.11.15	15  	Containing not more than 500 ppm of sulfur	
+bbl
+2710.19.11.25	25  	Containing more than 500 ppm of sulfur	
+bbl
+2710.19.11.50	50  	Having a Saybolt Universal viscosity at 37.8˚C of more than 125 seconds (heavy fuel oils)	
+bbl
+2710.19.16	00  	Kerosene-type jet fuel	
+bbl
+52.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.05/bbl
+ 	Kerosene (except kerosene-type jet fuel):				
+2710.19.24	00  	Motor fuel	
+bbl
+52.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.05/bbl
+2710.19.25	00  	Motor fuel blending stock	
+bbl
+52.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.05/bbl
+2710.19.26	00  	Kerosene (except kerosene-type jet fuel	
+bbl
+10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+ 	Lubricating oils and greases, with or without additives:				
+2710.19.30	 	Oils		84¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.68/bbl
+2710.19.30.10	10  	Aviation engine lubricating oils	
+bbl
+2710.19.30.20	20  	Automotive, diesel or marine engine lubricating oils	
+bbl
+2710.19.30.30	30  	Turbine lubricating oil, including marine	
+bbl
+2710.19.30.40	40  	Automotive gear oils	
+bbl
+2710.19.30.50	50  	Steam cylinder oils	
+bbl
+2710.19.30.70	70  	Quenching or cutting oils	
+bbl
+2710.19.30.80	80  	Other	
+bbl
+ 	Greases:				
+2710.19.35	00  	Containing not over 10 percent by weight of salts of fatty acids of animal (including marine animal) or vegetable origin	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+2710.19.40	00  	Other	
+kg
+1.3¢/kg + 5.7% 1/	Free (A, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	4.4¢/kg + 20%
+ 	Other:				
+2710.19.45	 	Mixtures of hydrocarbons not elsewhere specified or included, which contain by weight not over 50 percent of any single hydrocarbon compound		10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+ 	White mineral oil:				
+2710.19.45.30	30  	Medicinal grade	
+bbl
+2710.19.45.40	40  	Other	
+bbl
+2710.19.45.45	45  	Insulating or transformer oils	
+bbl
+2710.19.45.90	90  	Other	
+bbl
+2710.19.90	00  	Other	
+kg
+liters
+7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2710.20	 	Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, containing biodiesel, other than waste oils:				
+ 	Distillate and residual fuel oils (including blended fuel oils):				
+2710.20.05	 	Testing under 25 degrees A.P.I.		5.25¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+2710.20.05.10	10  	Having a Saybolt Universal viscosity at 37.8˚C of 45 seconds or more but not more than 125 seconds (No. 4-type fuel oils)	
+bbl
+2710.20.05.20	20  	Having a Saybolt Universal viscosity at 37.8˚C of more than 125 seconds (heavy fuel oils)	
+bbl
+2710.20.05.50	50  	Other	
+bbl
+2710.20.10	 	Testing 25 degrees A.P.I. or more		10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+ 	Having a Saybolt Universal viscosity at 37.8˚C of less than 45 seconds (light fuel oils):				
+ 	Fuel oils Nos. 2 and 3:				
+ 	Diesel oil:				
+2710.20.10.02	02  	Containing not more than 15 ppm of sulfur	
+bbl
+2710.20.10.03	03  	Containing more than 15 ppm but not more than 500 ppm of sulfur	
+bbl
+2710.20.10.04	04  	Containing more than 500 ppm of sulfur	
+bbl
+ 	Other:				
+2710.20.10.05	05  	Containing not more than 15 ppm of sulfur	
+bbl
+2710.20.10.07	07  	Containing more than 15 ppm but not more than 500 ppm of sulfur	
+bbl
+2710.20.10.08	08  	Containing more than 500 ppm of sulfur	
+bbl
+ 	Other:				
+2710.20.10.11	11  	Containing not more than 15 ppm of sulfur	
+bbl
+2710.20.10.13	13  	Containing more than 15 ppm but not more than 500 ppm of sulfur	
+bbl
+2710.20.10.14	14  	Containing more than 500 ppm of sulfur	
+bbl
+ 	Having a Saybolt Universal viscosity at 37.8˚C of 45 seconds or more but not more than 125 seconds (No. 4-type fuel oils):				
+2710.20.10.15	15  	Containing not more than 500 ppm of sulfur	
+bbl
+2710.20.10.25	25  	Containing more than 500 ppm of sulfur	
+bbl
+2710.20.10.50	50  	Having a Saybolt Universal viscosity at 37.8˚C of more than 125 seconds (heavy fuel oils)	
+bbl
+2710.20.15	00  	Kerosene-type jet fuel, motor fuel or motor fuel blending stock	
+bbl
+52.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.05/bbl
+2710.20.25	00  	Kerosene (except kerosene-type jet fuel, motor fuel or motor fuel blending stock)	
+bbl
+10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+ 	Waste oils:				
+2710.91.00	 	Containing polychlorinated biphenyls (PCBs), polychlorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs)		10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+2710.91.00.10	10  	Containing polychlorinated biphenyls (PCBs) at a concentration level of 50 mg/kg or more	
+bbl
+2710.91.00.50	50  	Other, containing polychlorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs), whether or not also containing polychlorinated biphenyls (PCBs) at a concentration level of less than 50 mg/kg	
+bbl
+2710.99	 	Other:				
+ 	Wastes of distillate and residual fuel oils (whether or not blended):				
+2710.99.05	00  	Testing under 25 degrees A.P.I.	
+bbl
+5.25¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+2710.99.10	00  	Testing 25 degrees A.P.I. or more	
+bbl
+10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+2710.99.16	00  	Wastes of motor fuel or of motor fuel blending stock	
+bbl
+52.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.05/bbl
+2710.99.21	00  	Wastes of kerosene or naphthas	
+bbl
+10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+ 	Wastes of lubricating oils and greases (whether or not containing additives):				
+2710.99.31	00  	Of oils	
+bbl
+84¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	$1.68/bbl
+ 	Of greases:				
+2710.99.32	00  	Containing not over 10 percent by weight of salts of fatty acids of animal (including marine animal) or vegetable origin	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	20%
+2710.99.39	00  	Other	
+kg
+1.3¢/kg + 5.7% 1/	Free (A, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	4.4¢/kg + 20%
+ 	Other:				
+2710.99.45	00  	Mixtures of hydrocarbons not elsewhere specified or included, which contain not over 50 percent of any single hydrocarbon compound	
+bbl
+10.5¢/bbl 1/	Free (A+, AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	21¢/bbl
+2710.99.90	00  	Other	
+kg
+liters
+7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2711	 	Petroleum gases and other gaseous hydrocarbons:				
+ 	Liquefied:				
+2711.11.00	00  	Natural gas	
+m3
+Free 1/		Free
+2711.12.00	 	Propane		Free 1/		Free
+2711.12.00.10	10  	Propane with a minimum purity of 90 liquid volume percent	
+m3
+2711.12.00.20	20  	Other	
+m3
+2711.13.00	 	Butanes		Free 1/		Free
+2711.13.00.10	10  	Butanes with a purity of 90 liquid volume percent or more, but less than 95 liquid volume percent	
+m3
+2711.13.00.20	20  	Other	
+m3
+2711.14.00	 	Ethylene, propylene, butylene and butadiene		Free 1/		Free
+2711.14.00.10	10  	Ethylene	
+kg
+2711.14.00.20	20  	Propylene	
+kg
+2711.14.00.30	30  	Butylene	
+kg
+2711.14.00.40	40  	Butadiene	
+kg
+2711.19.00	 	Other		Free 1/		Free
+2711.19.00.10	10  	Ethane	
+kg
+2711.19.00.20	20  	Other	
+kg
+ 	In gaseous state:				
+2711.21.00	00  	Natural gas	
+m3
+Free 1/		Free
+2711.29.00	 	Other		Free 1/		Free
+ 	Propane:				
+2711.29.00.10	10  	Propane with a minimum purity of 90 liquid volume percent	
+kg
+2711.29.00.15	15  	Other	
+kg
+ 	Butanes:				
+2711.29.00.20	20  	Butanes with a purity of 90 liquid volume percent or more, but less than 95 liquid volume percent	
+kg
+2711.29.00.25	25  	Other	
+kg
+2711.29.00.60	60  	Other	
+kg
+2712	 	Petroleum jelly; paraffin wax, microcrystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes and similar products obtained by synthesis or by other processes, whether or not colored:				
+2712.10.00	00  	Petroleum jelly	
+kg
+Free 1/		Free
+2712.20.00	00  	Paraffin wax containing by weight less than 0.75 percent of oil	
+kg
+Free 1/		2.2¢/kg
+2712.90	 	Other:				
+2712.90.10	00  	Montan wax	
+kg
+Free 1/		Free
+2712.90.20	00  	Other	
+kg
+Free 1/		2.2¢/kg
+2713	 	Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals:				
+ 	Petroleum coke:				
+2713.11.00	00  	Not calcined	
+t
+Free 1/		Free
+2713.12.00	00  	Calcined	
+t
+Free 1/		45%
+2713.20.00	00  	Petroleum bitumen	
+t
+Free 1/		Free
+2713.90.00	00  	Other residues of petroleum oils or of oils obtained from bituminous materials	
+t
+Free 1/		Free
+2714	 	Bitumen and asphalt, natural; bituminous or oil shale and tar sands; asphaltites and asphaltic rocks:				
+2714.10.00	00  	Bituminous or oil shale and tar sands	
+t
+Free 1/		Free
+2714.90.00	00  	Other	
+t
+Free 1/		Free
+2715.00.00	00  	Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs)	
+t
+Free 1/		Free
+2716.00.00	00  	Electrical energy	
+MWh
+Free		Free

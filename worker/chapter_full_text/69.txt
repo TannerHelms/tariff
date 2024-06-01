@@ -1,0 +1,396 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+ 	I. GOODS OF SILICEOUS FOSSIL MEALS OR OF SIMILAR SILICEOUS EARTHS, AND REFRACTORY GOODS				
+6901.00.00	00  	Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (for example, kieselguhr, tripolite or diatomite) or of similar siliceous earths	
+t
+Free 1/		30%
+6902	 	Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods, other than those of siliceous fossil meals or similar siliceous earths:				
+6902.10	 	Containing by weight, singly or together, more than 50 percent of the elements magnesium, calcium or chromium, expressed as MgO, CaO or Cr2O3:				
+6902.10.10	00  	Magnesite bricks	
+thousands
+t
+Free 1/		13%
+6902.10.50	00  	Other	
+t
+Free 1/		30%
+6902.20	 	Containing by weight more than 50 percent of alumina (Al2O3), of silica (SiO2) or of a mixture or compound of these products:				
+6902.20.10	 	Bricks		Free 1/		25%
+6902.20.10.10	10  	Alumina	
+thousands
+t
+6902.20.10.20	20  	Other	
+thousands
+t
+6902.20.50	 	Other		Free 1/		30%
+6902.20.50.10	10  	Alumina	
+t
+6902.20.50.20	20  	Other	
+t
+6902.90	 	Other:				
+6902.90.10	 	Bricks		Free 1/		25%
+6902.90.10.10	10  	Clay	
+thousands
+t
+6902.90.10.20	20  	Other	
+thousands
+t
+6902.90.50	 	Other		Free 1/		30%
+6902.90.50.10	10  	Clay	
+t
+6902.90.50.20	20  	Other	
+t
+6903	 	Other refractory ceramic goods (for example, retorts, crucibles, muffles, nozzles, plugs, supports, cupels, tubes, pipes, sheaths, rods and slide gates), other than those of siliceous fossil meals or of similar siliceous earths:				
+6903.10.00	00  	Containing by weight more than 50 percent of free carbon	
+kg
+Free 1/		45%
+6903.20.00	00  	Containing by weight more than 50 percent of alumina (Al2O3) or of a mixture or compound of alumina and of silica (SiO2)	
+kg
+Free 1/		30% 1/
+6903.90.00	 	Other		Free 1/		30% 1/
+6903.90.00.10	10  	Of clay	
+kg
+6903.90.00.50	50  	Other	
+kg
+ 	II. OTHER CERAMIC PRODUCTS:				
+6904	 	Ceramic building bricks, flooring blocks, support or filler tiles and the like:				
+6904.10.00	 	Building bricks		Free 1/		Free
+ 	Solid bricks:				
+6904.10.00.10	10  	Heat insulating	
+thousands
+6904.10.00.20	20  	Other	
+thousands
+ 	Hollow bricks:				
+6904.10.00.30	30  	Heat insulating	
+thousands
+6904.10.00.40	40  	Other	
+thousands
+6904.90.00	00  	Other	
+thousands
+Free 1/		30%
+6905	 	Roofing tiles, chimney pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods:				
+6905.10.00	00  	Roofing tiles	
+m2
+13.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6905.90.00	 	Other		3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+6905.90.00.10	10  	Heat insulating	
+No.
+6905.90.00.50	50  	Other	
+No.
+6906.00.00	00  	Ceramic pipes, conduits, guttering and pipe fittings	
+kg
+Free 1/		30%
+6907	 	Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics:				
+ 	Flags and paving, hearth or wall tiles, other than those of subheading 6907.30 and 6907.40:				
+6907.21	 	Of a water absorption coefficient by weight not exceeding 0.5%:				
+6907.21.10	 	Unglazed		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.21.10.05	05  	Tiles, whether or not rectangular, the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm	
+m2
+ 	Other:				
+6907.21.10.11	11  	Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less	
+m2
+6907.21.10.51	51  	Other	
+m2
+ 	Glazed:				
+ 	The largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:				
+6907.21.20	00  	Having not over 3229 tiles per square meter, most of which have faces bounded entirely by straight lines	
+m2
+10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+ 	Other:				
+6907.21.30	00  	The largest surface area of which is less than 38.7 cm2	
+m2
+10% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.21.40	00  	Other	
+m2
+8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.21.90	 	Other		8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.21.90.11	11  	Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less	
+m2
+6907.21.90.51	51  	Other	
+m2
+6907.22	 	Of water absorption coefficient by weight exceeding 0.5 percent but not exceeding 10 percent:				
+6907.22.10	 	Unglazed		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.22.10.05	05  	Tiles, whether or not rectangular, the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm	
+m2
+ 	Other:				
+6907.22.10.11	11  	Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less	
+m2
+6907.22.10.51	51  	Other	
+m2
+ 	Glazed:				
+ 	The largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:				
+6907.22.20	00  	Having not over 3229 tiles per square meter, most of which have faces bounded entirely by straight lines	
+m2
+10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+ 	Other:				
+6907.22.30	00  	The largest surface area of which is less than 38.7 cm2	
+m2
+10% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.22.40	00  	Other	
+m2
+8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.22.90	 	Other		8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.22.90.11	11  	Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less	
+m2
+6907.22.90.51	51  	Other	
+m2
+6907.23	 	Of a water absorption coefficient by weight exceeding 10 percent:				
+6907.23.10	 	Unglazed		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.23.10.05	05  	Tiles, whether or not rectangular, the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm	
+m2
+ 	Other:				
+6907.23.10.11	11  	Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less	
+m2
+6907.23.10.51	51  	Other	
+m2
+ 	Glazed:				
+ 	The largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:				
+6907.23.20	00  	Having not over 3229 tiles per square meter, most of which have faces bounded entirely by straight lines	
+m2
+10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+ 	Other:				
+6907.23.30	00  	The largest surface area of which is less than 38.7 cm2	
+m2
+10% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.23.40	00  	Other	
+m2
+8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.23.90	 	Other		8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.23.90.11	11  	Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less	
+m2
+6907.23.90.51	51  	Other	
+m2
+6907.30	 	Mosaic cubes and the like, other than those of subheading 6907.40:				
+6907.30.10	 	Unglazed		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.30.10.05	05  	Cubes and the like, whether or not rectangular, the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm	
+m2
+ 	Other:				
+6907.30.10.11	11  	Cubes and the like, the largest surface area of which is capable of being enclosed in a square the side of which is 30cm or less	
+m2
+6907.30.10.51	51  	Other	
+m2
+ 	Glazed:				
+ 	The largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:				
+6907.30.20	00  	Having not over 3229 cubes per square meter, most of which have straight lines	
+m2
+10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+ 	Other:				
+6907.30.30	00  	The largest surface area of which is less than 38.7 cm2	
+m2
+10% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.30.40	00  	Other	
+m2
+8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.30.90	 	Other		8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.30.90.11	11  	Cubes and the like, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less	
+m2
+6907.30.90.51	51  	Other	
+m2
+6907.40	 	Finishing ceramics:				
+6907.40.10	 	Unglazed		10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.40.10.05	05  	Finishing ceramics, whether or not rectangular, the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:	
+m2
+ 	Other:				
+6907.40.10.11	11  	Finishing ceramics, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less	
+m2
+6907.40.10.51	51  	Other	
+m2
+ 	Glazed:				
+ 	The largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:				
+6907.40.20	00  	Having not over 3229 finishing ceramics per square meter, most of which have faces bounded entirely by straight lines	
+m2
+10% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+ 	Other:				
+6907.40.30	00  	The largest surface area of which is less than 38.7 cm2	
+m2
+10% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.40.40	00  	Other	
+m2
+8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.40.90	 	Other		8.5% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6907.40.90.11	11  	Finishing ceramics, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less	
+m2
+6907.40.90.51	51  	Other	
+m2
+6909	 	Ceramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in agriculture; ceramic pots, jars and similar articles of a kind used for the conveyance or packing of goods:				
+ 	Ceramic wares for laboratory, chemical or other technical uses:				
+6909.11	 	Of porcelain or china:				
+6909.11.20	00  	Machinery parts 1/	
+No.
+Free 1/		40%
+6909.11.40	00  	Other	
+No.
+4.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6909.12.00	00  	Articles having a hardness equivalent to 9 or more on the Mohs scale	
+No.
+4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6909.19	 	Other:				
+6909.19.10	00  	Ferrite core memories	
+No.
+Free 1/		35%
+6909.19.50	 	Other		4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	45%
+6909.19.50.10	10  	Ceramic bearings	
+No.
+6909.19.50.95	95  	Other	
+No.
+6909.90.00	00  	Other	
+No.
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+6910	 	Ceramic sinks, washbasins, washbasin pedestals, baths, bidets, water closet bowls, flush tanks, urinals and similar sanitary fixtures:				
+6910.10.00	 	Of porcelain or china		5.8%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6910.10.00.05	05  	Water closet bowls, flushometer type	
+No.
+6910.10.00.10	10  	Water closet bowls with tanks, in one piece	
+No.
+6910.10.00.15	15  	Flush tanks	
+No.
+6910.10.00.20	20  	Other water closet bowls	
+No.
+6910.10.00.30	30  	Sinks and lavatories	
+No.
+6910.10.00.50	50  	Other	
+No.
+6910.90.00	00  	Other	
+No.
+5.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6911	 	Tableware, kitchenware, other household articles and toilet articles, of porcelain or china:				
+6911.10	 	Tableware and kitchenware:				
+6911.10.10	00  	Hotel or restaurant ware and other ware not household ware	
+Dz Pcs
+25% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+ 	Other:				
+ 	Of bone chinaware:				
+6911.10.15	00  	Valued not over $31.50 per dozen pieces	
+Dz Pcs
+8%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+6911.10.25	00  	Other	
+Dz Pcs
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+ 	Other:				
+ 	Available in specified sets:				
+6911.10.35	 	In any pattern for which the aggregate value of the articles listed in additional U.S. note 6(b) of this chapter is not over $56		26% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+6911.10.35.10	10  	Plates not over 27.9 cm in maximum dimension; teacups and saucers; mugs; soups, fruits and cereals, the foregoing not over 22.9 cm in maximum dimension	
+Dz Pcs
+6911.10.35.50	50  	Other	
+Dz Pcs
+ 	In any pattern for which the aggregate value of the articles listed in additional U.S. note 6(b) of this chapter is over $56:				
+6911.10.37	 	Aggregate value not over $200		8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+6911.10.37.10	10  	Plates not over 27.9 cm in maximum dimension, teacups and saucers; mugs; soups, fruits and cereals, the foregoing not over 22.9 cm in maximum dimension	
+Dz Pcs
+6911.10.37.50	50  	Other	
+Dz Pcs
+6911.10.38	 	Aggregate value over $200		6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+6911.10.38.10	10  	Plates not over 27.9 cm in maximum dimension; teacups and saucers; mugs; soups, fruits and cereals, the foregoing not over 22.9 cm in maximum dimension	
+Dz Pcs
+6911.10.38.50	50  	Other	
+Dz Pcs
+ 	Other:				
+6911.10.41	00  	Steins with permanently attached pewter lids, candy boxes, decanters, punch bowls, pretzel dishes, tidbit dishes, tiered servers, bonbon dishes, egg cups, spoons and spoon rests, oil and vinegar sets, tumblers and salt and pepper shaker sets	
+Dz Pcs
+6.3%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	70%
+6911.10.45	00  	Mugs and other steins	
+Dz Pcs
+14%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	70%
+6911.10.52	00  	Cups valued over $8 but not over $29 per dozen; saucers valued over $5.25 but not over $18.75 per dozen; soups, oatmeals and cereals valued over $9.30 but not over $33 per dozen; plates not over 22.9 cm in maximum diameter and valued over $8.50 but not over $31 per dozen; plates over 22.9 but not over 27.9 cm in maximum diameter and valued over $11.50 but not over $41 per dozen; platters or chop dishes valued over $40 but not over $143 per dozen; sugars valued over $23 but not over $85 per dozen; creamers valued over $20 but not over $75 per dozen; and beverage servers valued over $50 but not over $180 per dozen	
+Dz Pcs
+8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+6911.10.58	00  	Cups valued over $29 per dozen; saucers valued over $18.75 per dozen; soups, oatmeals and cereals valued over $33 per dozen; plates not over 22.9 cm in maximum diameter and valued over $31 per dozen; plates over 22.9 but not over 27.9 cm in maximum diameter and valued over $41 per dozen; platters or chop dishes valued over $143 per dozen; sugars valued over $85 per dozen; creamers valued over $75 per dozen; and beverage servers valued over $180 per dozen	
+Dz Pcs
+6% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+6911.10.60	00  	Serviette rings	
+Dz Pcs
+20.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+6911.10.80	 	Other		20.8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+6911.10.80.10	10  	Suitable for food or drink contact	
+Dz Pcs
+6911.10.80.90	90  	Other	
+Dz Pcs
+6911.90.00	 	Other		5.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	70%
+6911.90.00.10	10  	Toilet articles	
+No.
+6911.90.00.50	50  	Other	
+No.
+6912.00	 	Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china:				
+ 	Tableware and kitchenware:				
+6912.00.10	00  	Of coarse-grained earthenware, or of coarse- grained stoneware; of fine-grained earthenware, whether or not decorated, having a reddish-colored body and a lustrous glaze which, on teapots, may be any color, but which, on other articles, must be mottled, streaked or solidly colored brown to black with metallic oxide or salt	
+Dz Pcs
+0.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Other:				
+6912.00.20	00  	Hotel or restaurant ware and other ware not household ware	
+Dz Pcs
+28%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+ 	Other:				
+ 	Available in specified sets:				
+6912.00.35	 	In any pattern for which the aggregate value of the articles listed in additional U.S. note 6(b) of this chapter is not over $38		9.8%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6912.00.35.10	10  	Plates not over 27.9 cm in maximum dimension; teacups and saucers; mugs; soups, fruits and cereals, the foregoing not over 22.9 cm in maximum dimension	
+Dz Pcs
+6912.00.35.50	50  	Other	
+Dz Pcs
+6912.00.39	 	In any pattern for which the aggregate value of the articles listed in additional U.S. note 6(b) of this chapter is over $38		4.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6912.00.39.10	10  	Plates not over 27.9 cm in maximum dimension; teacups and saucers; mugs; soups, fruits and cereals, the foregoing not over 22.9 cm in maximum dimension	
+Dz Pcs
+6912.00.39.50	50  	Other	
+Dz Pcs
+ 	Other:				
+6912.00.41	00  	Steins with permanently attached pewter lids; candy boxes, decanters, punch bowls, pretzel dishes, tidbit dishes, tiered servers, bonbon dishes, egg cups, spoons and spoon rests, oil and vinegar sets, tumblers and salt and pepper shaker sets	
+Dz Pcs
+3.9%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6912.00.44	00  	Mugs and other steins	
+Dz Pcs
+10%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6912.00.45	00  	Cups valued over $5.25 per dozen; saucers valued over $3 per dozen; soups, oatmeals and cereals valued over $6 per dozen; plates not over 22.9 cm in maximum diameter and valued over $6 per dozen; plates over 22.9 but not over 27.9 cm in maximum diameter and valued over $8.50 per dozen; platters or chop dishes valued over $35 per dozen; sugars valued over $21 per dozen; creamers valued over $15 per dozen; and beverage servers valued over $42 per dozen	
+Dz Pcs
+4.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6912.00.46	00  	Serviette rings	
+Dz Pcs
+9.8%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6912.00.48	 	Other		9.8%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+6912.00.48.10	10  	Suitable for food or drink contact	
+Dz Pcs
+6912.00.48.90	90  	Other	
+Dz Pcs
+6912.00.50	00  	Other	
+Dz Pcs
+6%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50.5%
+6913	 	Statuettes and other ornamental ceramic articles:				
+6913.10	 	Of porcelain or china:				
+6913.10.10	00  	Statues, statuettes and handmade flowers, valued over $2.50 each and produced by professional sculptors or directly from molds made from original models produced by professional sculptors	
+Dz Pcs
+Free 1/		20% 1/
+ 	Other:				
+6913.10.20	00  	Of bone chinaware	
+Dz Pcs
+3.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	70%
+6913.10.50	00  	Other	
+Dz Pcs
+Free 1/		70%
+6913.90	 	Other:				
+6913.90.10	00  	Statues, statuettes and handmade flowers, valued over $2.50 each and produced by professional sculptors or directly from molds made from original models produced by professional sculptors	
+Dz Pcs
+Free 1/		20%
+ 	Other:				
+6913.90.20	00  	Of ceramic tile	
+Dz Pcs
+Free 1/		50%
+6913.90.30	00  	Of earthenware, whether or not decorated, having a reddish-colored body and a lustrous glaze, and mottled, streaked or solidly colored brown to black with metallic oxide or salt	
+Dz Pcs
+Free 1/		25%
+6913.90.50	00  	Other	
+Dz Pcs
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	51.5%
+6914	 	Other ceramic articles:				
+6914.10	 	Of porcelain or china:				
+6914.10.40	00  	Ceramic ferrules of porcelain or china, not exceeding 3 mm in diameter or 25 mm in length, having a fiber channel opening and/or ceramic mating sleeves of alumina or zirconia	
+Dz Pcs
+Free 1/		60%
+6914.10.80	00  	Other	
+Dz Pcs
+9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6914.90	 	Other:				
+6914.90.41	00  	Ceramic ferrules of alumina or zirconia, not exceeding 3 mm in diameter or 25 mm in length, having a fiber channel opening and/or ceramic mating sleeves of alumina or zirconia	
+Dz Pcs
+Free 1/		45%
+6914.90.80	00  	Other	
+Dz Pcs
+5.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%

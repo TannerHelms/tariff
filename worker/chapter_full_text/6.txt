@@ -1,0 +1,206 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+0601	 	Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 1212:				
+0601.10	 	Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant:				
+0601.10.15	00  	Tulip bulbs	
+No.
+89.6¢/1000 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$6/1000
+0601.10.30	00  	Hyacinth bulbs	
+No.
+38.4¢/1000 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$4/1000
+0601.10.45	00  	Lily bulbs	
+No.
+55.7¢/1000 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$6/1000
+0601.10.60	00  	Narcissus bulbs	
+No.
+$1.34/1000 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$6/1000
+0601.10.75	00  	Crocus corms	
+No.
+19.2¢/1000 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$2/1000
+0601.10.85	00  	Lily of the valley pips	
+No.
+$1.44/1000 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$6/1000
+0601.10.90	 	Other		3.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+0601.10.90.20	20  	Iris bulbs	
+No.
+0601.10.90.40	40  	Gladiolus corms	
+No.
+0601.10.90.60	60  	Begonia (tuberous) tubers	
+No.
+0601.10.90.80	80  	Other	
+No.
+0601.20	 	Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower; chicory plants and roots:				
+0601.20.10	00  	Hyacinth bulbs, without soil attached	
+No.
+38.4¢/1000 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$4/1000
+0601.20.90	00  	Other	
+No.
+1.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+0602	 	Other live plants (including their roots), cuttings and slips; mushroom spawn:				
+0602.10.00	00  	Unrooted cuttings and slips	
+No.
+4.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0602.20.00	00  	Trees, shrubs and bushes, grafted or not, of kinds which bear edible fruit or nuts	
+No.
+Free 1/		25%
+0602.30.00	00  	Rhododendrons and azaleas, grafted or not	
+No.
+1.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	25%
+0602.40.00	00  	Roses, grafted or not	
+No.
+Free 1/		4¢ each
+0602.90	 	Other:				
+ 	Herbaceous perennials:				
+0602.90.20	00  	Orchid plants	
+kg
+Free 1/		25%
+ 	Other:				
+0602.90.30	 	With soil attached to roots		1.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30%
+0602.90.30.10	10  	Chrysanthemums	
+No.
+0602.90.30.90	90  	Other	
+No.
+0602.90.40	00  	Other	
+kg
+3.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other:				
+0602.90.50	00  	Mushroom spawn	
+kg
+1.4¢/kg	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+ 	Other:				
+0602.90.60	 	With soil attached to roots		1.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	25%
+0602.90.60.10	10  	Trees and shrubs	
+No.
+0602.90.60.20	20  	Poinsettias	
+No.
+0602.90.60.90	90  	Other	
+No.
+0602.90.90	 	Other		4.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	25%
+0602.90.90.10	10  	Trees and shrubs	
+No.
+0602.90.90.90	90  	Other	
+No.
+0603	 	Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared:				
+ 	Fresh:				
+0603.11.00	 	Roses		6.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+0603.11.00.30	30  	Spray	
+No. 1/
+0603.11.00.50	50  	Other	
+No. 1/
+0603.12	 	Carnations:				
+0603.12.30	00  	Miniature (spray) carnations	
+No. 1/
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	40%
+0603.12.70	00  	Other	
+No. 1/
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.2% (JP)	40%
+0603.13.00	 	Orchids		6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.2% (JP)	40%
+0603.13.00.50	50  	Dendrobium	
+No. 1/
+0603.13.00.60	60  	Other	
+No. 1/
+0603.14.00	 	Chrysanthemums		6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.2% (JP)	40%
+ 	Chrysanthemums:				
+0603.14.00.10	10  	Pom Pom	
+No. 1/
+0603.14.00.20	20  	Other	
+No. 1/
+0603.15.00	00  	Lilies (Lillium spp.)	
+No. 1/
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.2% (JP)	40%
+0603.19.01	 	Other		6.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.2% (JP)	40%
+0603.19.01.05	05  	Anthuriums	
+No. 1/
+0603.19.01.07	07  	Alstroemeria	
+No. 1/
+0603.19.01.09	09  	Aster	
+No. 1/
+0603.19.01.11	11  	Bells of Ireland	
+No. 1/
+0603.19.01.13	13  	Bird of Paradise	
+No. 1/
+0603.19.01.14	14  	Calla lilies	
+No. 1/
+0603.19.01.15	15  	Daffodils	
+No. 1/
+0603.19.01.16	16  	Delphinium	
+No. 1/
+0603.19.01.17	17  	Freesia	
+No. 1/
+0603.19.01.18	18  	Gerbera	
+No. 1/
+0603.19.01.19	19  	Gladiolus	
+No. 1/
+0603.19.01.20	20  	Gypsophila	
+No. 1/
+0603.19.01.25	25  	Hydrangea	
+No. 1/
+0603.19.01.27	27  	Hypericum	
+No. 1/
+0603.19.01.29	29  	Lisianthus	
+No. 1/
+0603.19.01.31	31  	Peony	
+No. 1/
+0603.19.01.35	35  	Ranunculus	
+No. 1/
+0603.19.01.40	40  	Snapdragons	
+No. 1/
+0603.19.01.41	41  	Statice	
+No. 1/
+0603.19.01.42	42  	Stock	
+No. 1/
+0603.19.01.43	43  	Sunflowers	
+No. 1/
+0603.19.01.45	45  	Tulips	
+No. 1/
+0603.19.01.95	95  	Other	
+No. 1/
+0603.90.00	00  	Other	
+No.
+4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	40%
+0604	 	Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared:				
+0604.20.00	 	Fresh		Free 1/		Free
+0604.20.00.05	05  	Aralia	
+No.
+0604.20.00.11	11  	Aspidistra	
+No.
+0604.20.00.15	15  	Eucalyptus	
+No.
+ 	Evergreen Christmas trees:				
+0604.20.00.20	20  	Douglas fir	
+No.
+0604.20.00.40	40  	Fir except Douglas fir	
+No.
+0604.20.00.60	60  	Other	
+No.
+ 	Ferns:				
+0604.20.00.65	65  	Leather leaf	
+No.
+0604.20.00.70	70  	Other	
+No.
+0604.20.00.72	72  	Mosses and lichens	
+No.
+ 	Palms:				
+0604.20.00.74	74  	Chamadorea	
+No.
+0604.20.00.78	78  	Other	
+No.
+0604.20.00.82	82  	Pittosporum	
+No.
+0604.20.00.84	84  	Ruscus	
+No.
+0604.20.00.86	86  	Other	
+No.
+0604.90	 	Other:				
+0604.90.10	00  	Mosses and lichens	
+No.
+Free 1/		Free
+ 	Other:				
+0604.90.30	00  	Dried or bleached	
+No.
+Free 1/		Free
+0604.90.60	00  	Other	
+No.
+7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%

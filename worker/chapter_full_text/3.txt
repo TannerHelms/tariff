@@ -1,0 +1,1563 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+0301	 	Live fish:				
+ 	Ornamental fish:				
+0301.11.00	 	Freshwater		Free 1/		Free
+0301.11.00.10	10  	Koi (common) carp (Cyprinus carpio)	
+kg
+0301.11.00.20	20  	Goldfish( Carassius auratus), Crucian carp (Carassius carassius)	
+kg
+0301.11.00.90	90  	Other	
+kg
+0301.19.00	00  	Other	
+kg
+Free 1/		Free
+ 	Other live fish:				
+0301.91.00	00  	Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)	
+kg
+Free 1/		Free
+0301.92.00	00  	Eels (Anguilla spp.)	
+kg
+Free 1/		Free
+0301.93.02	 	Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)		Free 1/		Free
+0301.93.02.10	10  	Grass carp (Ctenopharyngodon idellus), silver carp (Hypophthalmichthys molitrix) and bighead carp (Aristichthys nobilis)	
+kg
+0301.93.02.90	90  	Other	
+kg
+0301.94.01	00  	Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)	
+kg
+Free 1/		Free
+0301.95.00	00  	Southern Bluefin tunas (Thunnus maccoyii)	
+kg
+Free 1/		Free
+0301.99.03	 	Other		Free 1/		Free
+0301.99.03.10	10  	Tench (Tinca tinca), sheatfish (Silurus glanis)	
+kg
+0301.99.03.15	15  	Bighead carp (Aristichthys nobilis)	
+kg
+0301.99.03.90	90  	Other	
+kg
+0302	 	Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 0304:				
+ 	Salmonidae, excluding edible fish offal of subheadings 0302.91 to 0302.99:				
+0302.11.00	 	Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)		Free 1/		2.2¢/kg
+0302.11.00.10	10  	Rainbow trout (Salmo gairdneri), farmed	
+kg
+0302.11.00.90	90  	Other	
+kg
+0302.13.00	 	Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)		Free 1/		4.4¢/kg
+ 	Chinook (king):				
+0302.13.00.13	13  	Farmed	
+kg
+0302.13.00.14	14  	Not farmed	
+kg
+0302.13.00.22	22  	Chum (dog)	
+kg
+0302.13.00.32	32  	Pink (humpie)	
+kg
+0302.13.00.42	42  	Sockeye (red)	
+kg
+ 	Coho (silver):				
+0302.13.00.53	53  	Farmed	
+kg
+0302.13.00.54	54  	Not farmed	
+kg
+0302.13.00.62	62  	Other	
+kg
+0302.14.00	 	Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)		Free 1/		4.4¢/kg
+ 	Atlantic:				
+0302.14.00.03	03  	Farmed	
+kg
+0302.14.00.04	04  	Not farmed	
+kg
+0302.14.00.62	62  	Other	
+kg
+0302.19.00	00  	Other	
+kg
+Free 1/		2.2¢/kg
+ 	Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae), excluding edible fish offal of subheadings 0302.91 to 0302.99:				
+0302.21.00	 	Halibut and Greenland turbot (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)		Free 1/		4.4¢/kg
+0302.21.00.10	10  	Atlantic	
+kg
+0302.21.00.20	20  	Pacific	
+kg
+0302.21.00.90	90  	Other (including Greenland)	
+kg
+0302.22.00	00  	Plaice (Pleuronectes platessa)	
+kg
+Free 1/		2.2¢/kg
+0302.23.00	00  	Sole (Solea spp.)	
+kg
+1.1¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0302.24.00	00  	Turbots (Psetta maxima)	
+kg
+Free 1/		2.2¢/kg
+0302.29.01	 	Other		Free 1/		2.2¢/kg
+0302.29.01.10	10  	Flounder	
+kg
+0302.29.01.90	90  	Other	
+kg
+ 	Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito)(Katsuwonus pelamis), excluding edible fish offal of subheadings 0302.91 to 0302.99:				
+0302.31.00	00  	Albacore or longfinned tunas (Thunnus alalunga)	
+kg
+Free 1/		Free
+0302.32.00	00  	Yellowfin tunas (Thunnus albacares)	
+kg
+Free 1/		Free
+0302.33.00	00  	Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)	
+kg
+Free 1/		Free
+0302.34.00	00  	Bigeye tunas (Thunnus obesus)	
+kg
+Free 1/		Free
+0302.35.01	00  	Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)	
+kg
+Free 1/		Free
+0302.36.00	00  	Southern bluefin tunas (Thunnus maccoyii)	
+kg
+Free 1/		Free
+0302.39.02	00  	Other	
+kg
+Free 1/		Free
+ 	Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.), sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), Indian mackerels (Rastrelliger spp.), seerfishes (Scomberomorus spp.), jack and horse mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia (Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury (Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus), swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae), excluding edible fish offal of subheadings 0302.91 to 0302.99:				
+0302.41.00	00  	Herrings (Clupea harengus, Clupea pallasii)	
+kg
+Free 1/		Free
+0302.42.00	00  	Anchovies (Engraulis spp.)	
+kg
+Free 1/		Free
+0302.43.00	00  	Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)	
+kg
+Free 1/		2.2¢/kg
+0302.44.00	00  	Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)	
+kg
+Free 1/		4.4¢/kg
+0302.45	 	Jack and horse mackerel (Trachurus spp):				
+0302.45.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.45.50	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0302.46	 	Cobia (Rachycentron canadum) :				
+0302.46.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.46.50	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0302.47.00	 	Swordfish (Xiphias gladius)		Free 1/		2.2¢/kg
+0302.47.00.10	10  	Steaks	
+kg
+0302.47.00.90	90  	Other	
+kg
+0302.49.00	00  	Other	
+kg
+Free 1/		2.2¢/kg
+ 	Fish of the families Bregmacerotidae, Euclichthyidae Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, excluding edible fish offal of subheadings 0302.91 to 0302.99:				
+0302.51.00	 	Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)		Free 1/		2.2¢/kg
+0302.51.00.10	10  	Atlantic	
+kg
+0302.51.00.90	90  	Other	
+kg
+0302.52.00	00  	Haddock (Melanogrammus aeglefinus)	
+kg
+Free 1/		2.2¢/kg
+0302.53.00	00  	Coalfish (Pollachius virens)	
+kg
+Free 1/		2.2¢/kg
+0302.54	 	Hake (Merluccius spp., Urophycis spp.):				
+0302.54.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.54.50	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0302.55	 	Alaska pollock (Theragra chalcogramma):				
+0302.55.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.55.50	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0302.56	 	Blue whitings (Micromesistius poutassou, Micromesistius australis):				
+0302.56.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.56.50	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0302.59	 	Other:				
+0302.59.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.59.50	 	Other		Free 1/		2.2¢/kg
+0302.59.50.10	10  	Pollock	
+kg
+0302.59.50.90	90  	Other	
+kg
+ 	Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.), excluding edible fish offal of subheadings 0302.91 to 0302.99:				
+0302.71	 	Tilapias (Oreochromis spp.):				
+0302.71.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.71.50	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0302.72	 	Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.):				
+0302.72.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.72.50	 	Other		Free 1/		2.2¢/kg
+0302.72.50.01	01  	Ictalurus spp.	
+kg
+0302.72.50.04	04  	Pangasius spp. including basa and tra	
+kg
+0302.72.50.34	34  	Other	
+kg
+0302.73	 	Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.):				
+0302.73.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.73.50	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0302.74.00	00  	Eels (Anguilla spp.)	
+kg
+Free 1/		2.2¢/kg
+0302.79	 	Other:				
+0302.79.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.79.50	 	Other		Free 1/		2.2¢/kg
+0302.79.50.25	25  	Nile perch	
+kg
+0302.79.50.76	76  	Other	
+kg
+ 	Other fish, excluding edible fish offal of subheadings 0302.91 to 0302.99:				
+0302.81.00	 	Dogfish and other sharks		Free 1/		2.2¢/kg
+0302.81.00.11	11  	Dogfish (Squalus spp.)	
+kg
+0302.81.00.91	91  	Other	
+kg
+0302.82.00	00  	Rays and skates (Rajidae)	
+kg
+Free 1/		2.2¢/kg
+0302.83.00	00  	Toothfish (Dissostichus spp.)	
+kg
+Free 1/		2.2¢/kg
+0302.84	 	Seabass (Dicentrarchus spp.):				
+0302.84.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.84.50	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0302.85	 	Seabream (Sparidae):				
+0302.85.11	00  	Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less	
+kg
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.85.50	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0302.89	 	Other :				
+0302.89.11	 	Scaled (whether or not heads, viscera and/or fins have been processed), in immediate containers weighing with their contents 6.8 kg or less		3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0302.89.11.20	20  	Sable fish (Anoplopoma fimbria)	
+kg
+0302.89.11.40	40  	Other	
+kg
+0302.89.50	 	Other		Free 1/		2.2¢/kg
+ 	Fresh-water fish:				
+0302.89.50.07	07  	Pike	
+kg
+0302.89.50.10	10  	Pickerel	
+kg
+ 	Perch:				
+0302.89.50.13	13  	Pike perch (including yellow pike)	
+kg
+0302.89.50.25	25  	Other	
+kg
+0302.89.50.28	28  	Bass	
+kg
+0302.89.50.31	31  	Whitefish	
+kg
+0302.89.50.34	34  	Other	
+kg
+0302.89.50.37	37  	Smelts	
+kg
+0302.89.50.40	40  	Cusk	
+kg
+0302.89.50.49	49  	Shad and sturgeon	
+kg
+0302.89.50.52	52  	Sable fish (Anoplopoma fimbria)	
+kg
+0302.89.50.55	55  	Ocean perch	
+kg
+0302.89.50.58	58  	Snapper (Lutjanidae)	
+kg
+0302.89.50.61	61  	Grouper	
+kg
+0302.89.50.64	64  	Lingcod (Ophiodon elongatus)	
+kg
+0302.89.50.67	67  	Monkfish (Lophius spp.)	
+kg
+0302.89.50.70	70  	Atka mackerel (Atkafish) (Pleurogrammus monopterygius)	
+kg
+0302.89.50.72	72  	Dolphin fish (mahi mahi) (Coryphaena spp.)	
+kg
+0302.89.50.77	77  	Other	
+kg
+ 	Livers, roes, milt, fish fins, heads, tails, maws and other edible fish offal:				
+0302.91	 	Livers, roes and milt:				
+0302.91.20	00  	Sturgeon roe	
+kg
+15% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+0302.91.40	 	Other		Free 1/		44¢/kg
+0302.91.40.10	10  	Mullet roe	
+kg
+0302.91.40.90	90  	Other	
+kg
+0302.92.00	00  	Shark fins	
+kg
+Free 1/		2.2¢/kg
+0302.99.00	00  	Other	
+kg
+Free 1/		44¢/kg
+0303	 	Fish, frozen, excluding fish fillets and other fish meat of heading 0304:				
+ 	Salmonidae, excluding edible fish offal of subheadings 0303.91 to 0303.99:				
+0303.11.00	00  	Sockeye salmon (red salmon) (Oncorhynchus nerka)	
+kg
+Free 1/		4.4¢/kg
+0303.12.00	 	Other Pacific salmon (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)		Free 1/		4.4¢/kg
+0303.12.00.12	12  	Chinook (king)	
+kg
+0303.12.00.22	22  	Chum (dog)	
+kg
+0303.12.00.32	32  	Pink (humpie)	
+kg
+0303.12.00.52	52  	Coho (silver)	
+kg
+0303.12.00.62	62  	Other	
+kg
+0303.13.00	00  	Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)	
+kg
+Free 1/		4.4¢/kg
+0303.14.00	00  	Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)	
+kg
+Free 1/		2.2¢/kg
+0303.19.01	00  	Other	
+kg
+Free 1/		2.2¢/kg
+ 	Tilapias(Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp.,Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodonidellus, Hypophthalmichthys spp.,Cirrhinus spp., Mylopharyngodon piceus, Catlacatla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.), excluding edible fishoffal of subheadings 0303.91 to 0303.99:				
+0303.23.00	00  	Tilapias (Oreochromis spp.)	
+kg
+Free 1/		2.2¢/kg
+0303.24.00	 	Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)		Free 1/		2.2¢/kg
+0303.24.00.10	10  	Ictalurus spp.	
+kg
+0303.24.00.20	20  	Pangasius spp. including basa and tra	
+kg
+0303.24.00.50	50  	Other	
+kg
+0303.25.01	00  	Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)	
+kg
+Free 1/		2.2¢/kg
+0303.26.00	00  	Eels (Anguilla spp.)	
+kg
+Free 1/		2.2¢/kg
+0303.29.01	 	Other		Free 1/		2.2¢/kg
+0303.29.01.10	10  	Nile perch	
+kg
+0303.29.01.50	50  	Other	
+kg
+ 	Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae), excluding edible fish offal of subheadings 0303.91 to 0303.99:				
+0303.31.00	 	Halibut and Greenland turbot (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)		Free 1/		4.4¢/kg
+0303.31.00.10	10  	Atlantic halibut (Hippoglossus hippoglossus)	
+kg
+0303.31.00.20	20  	Pacific halibut (Hippoglossus stenolepis)	
+kg
+0303.31.00.30	30  	Greenland turbot (Greenland halibut) (Reinhardtius hippoglossoides)	
+kg
+0303.32.00	00  	Plaice (Pleuronectes platessa)	
+kg
+Free 1/		2.2¢/kg
+0303.33.00	00  	Sole (Solea spp.)	
+kg
+1.1¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0303.34.00	00  	Turbots (Psetta maxima)	
+kg
+1.1¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0303.39.01	 	Other		1.1¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0303.39.01.10	10  	Flounder	
+kg
+0303.39.01.20	20  	Rock sole (Pleuronectes bilineatus)	
+kg
+0303.39.01.30	30  	Yellowfin sole (Pleuronectes asper)	
+kg
+0303.39.01.95	95  	Other	
+kg
+ 	Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis), excluding edible fish offal of subheadings 0303.91 to 0303.99:				
+0303.41.00	00  	Albacore or longfinned tunas (Thunnus alalunga)	
+kg
+Free 1/		Free
+0303.42.00	 	Yellowfin tunas (Thunnus albacares)		Free 1/		Free
+0303.42.00.20	20  	Whole fish	
+kg
+ 	Other:				
+0303.42.00.40	40  	Head-on	
+kg
+0303.42.00.60	60  	Other	
+kg
+0303.43.00	00  	Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)	
+kg
+Free 1/		Free
+0303.44.00	00  	Bigeye tunas (Thunnus obesus)	
+kg
+Free 1/		Free
+0303.45.01	 	Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)		Free 1/		Free
+0303.45.01.10	10  	Thunnus thynnus	
+kg
+0303.45.01.50	50  	Thunnus orientalis	
+kg
+0303.46.00	00  	Southern bluefin tunas (Thunnus maccoyii)	
+kg
+Free 1/		Free
+0303.49.02	00  	Other	
+kg
+Free 1/		Free
+ 	Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.), sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), Indian mackerels (Rastrelliger spp.), seerfishes (Scomberomorus spp.), jack and horse mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia (Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury (Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus), swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae), excluding edible fish offal of subheadings 0303.91 to 0303.99:				
+0303.51.00	00  	Herrings (Clupea harengus, Clupea pallasii)	
+kg
+Free 1/		Free
+0303.53.00	00  	Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)	
+kg
+1.1¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0303.54.00	00  	Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)	
+kg
+Free 1/		4.4¢/kg
+0303.55.00	00  	Jack and horse mackerel (Trachurus spp.)	
+kg
+Free 1/		2.2¢/kg
+0303.56.00	00  	Cobia (Rachycentron canadum)	
+kg
+Free 1/		2.2¢/kg
+0303.57.00	 	Swordfish (Xiphias gladius)		Free 1/		2.2¢/kg
+0303.57.00.10	10  	Steaks	
+kg
+0303.57.00.90	90  	Other	
+kg
+0303.59.00	00  	Other	
+kg
+Free 1/		2.2¢/kg
+ 	Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, excluding edible fish offal of subheadings 0303.91 to 0303.99:				
+0303.63.00	 	Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)		Free 1/		2.2¢/kg
+0303.63.00.10	10  	Atlantic	
+kg
+0303.63.00.90	90  	Other	
+kg
+0303.64.00	00  	Haddock (Melanogrammus aeglefinus)	
+kg
+Free 1/		2.2¢/kg
+0303.65.00	00  	Coalfish (Pollachius virens)	
+kg
+Free 1/		2.2¢/kg
+0303.66.00	00  	Hake (Merluccius spp., Urophycis spp.)	
+kg
+Free 1/		2.2¢/kg
+0303.67.00	00  	Alaska pollock (Theragra chalcogramma)	
+kg
+Free 1/		2.2¢/kg
+0303.68.00	00  	Blue whitings (Micromesistius poutassou, Micromesistius australis)	
+kg
+Free 1/		2.2¢/kg
+0303.69.00	00  	Other	
+kg
+Free		2.2¢/kg
+ 	Other fish, excluding edible fish offal of subheadings 0303.91 to 0303.99:				
+0303.81.00	 	Dogfish and other sharks		1.1¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0303.81.00.11	11  	Dogfish (Squalus spp.)	
+kg
+0303.81.00.91	91  	Other	
+kg
+0303.82.00	00  	Rays and skates (Rajidae)	
+kg
+Free 1/		2.2¢/kg
+0303.83.00	00  	Toothfish (Dissostichus spp.)	
+kg
+Free 1/		2.2¢/kg
+0303.84.00	00  	Sea Bass (Dicentrachus spp.)	
+kg
+Free 1/		2.2¢/kg
+0303.89.00	 	Other		Free 1/		2.2¢/kg
+ 	Smelts:				
+0303.89.00.01	01  	Sea smelts	
+kg
+0303.89.00.04	04  	Other smelts	
+kg
+0303.89.00.10	10  	Cusk	
+kg
+0303.89.00.13	13  	Shad and sturgeon	
+kg
+ 	Fresh-water fish:				
+0303.89.00.28	28  	Pike and pickerel	
+kg
+0303.89.00.31	31  	Perch and pike perch (including yellow pike)	
+kg
+0303.89.00.34	34  	Sauger	
+kg
+0303.89.00.37	37  	Whitefish	
+kg
+0303.89.00.40	40  	Tilapias, other than Oreochromis spp.	
+kg
+0303.89.00.43	43  	Other	
+kg
+0303.89.00.46	46  	Atka mackeral (Atkafish) (Pleurogrammus monopterygius)	
+kg
+0303.89.00.49	49  	Mullet	
+kg
+0303.89.00.52	52  	Monkfish (Lophius spp.)	
+kg
+0303.89.00.55	55  	Butterfish	
+kg
+0303.89.00.58	58  	Capelin	
+kg
+0303.89.00.61	61  	Sable fish (Anoplopoma fimbria)	
+kg
+0303.89.00.64	64  	Ocean perch	
+kg
+0303.89.00.67	67  	Snapper (Lutjanidae spp.)	
+kg
+0303.89.00.70	70  	Grouper	
+kg
+0303.89.00.80	80  	Other	
+kg
+ 	Livers, roes, milt, fish fins, heads, tails, maws and other edible fish offal:				
+0303.91	 	Livers, roes and milt:				
+0303.91.20	00  	Sturgeon roe	
+kg
+15% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+0303.91.40	 	Other		Free 1/		44¢/kg
+0303.91.40.20	20  	Herring roe	
+kg
+0303.91.40.40	40  	Salmon roe	
+kg
+0303.91.40.50	50  	Alaska pollock (Theragra chalcogramma) roe	
+kg
+0303.91.40.60	60  	Mullet roe	
+kg
+0303.91.40.95	95  	Other	
+kg
+0303.92.00	00  	Shark fins	
+kg
+1.1¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0303.99.00	00  	Other	
+kg
+Free 1/		44¢/kg
+0304	 	Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen:				
+ 	Fresh or chilled fillets of tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.):				
+0304.31.00	00  	Tilapias (Oreochromis spp.)	
+kg
+Free 1/		5.5¢/kg
+0304.32.00	 	Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)		Free 1/		5.5¢/kg
+0304.32.00.10	10  	Ictalurus spp.	
+kg
+0304.32.00.20	20  	Pangasius spp. including basa and tra	
+kg
+0304.32.00.90	90  	Other	
+kg
+0304.33.00	00  	Nile perch (Lates niloticus)	
+kg
+Free 1/		5.5¢/kg
+0304.39.00	00  	Other	
+kg
+Free 1/		5.5¢/kg
+ 	Fresh or chilled fillets of other fish:				
+0304.41.00	 	Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus) Atlantic Salmon (Salmo salar) and Danube salmon (Hucho hucho)		Free 1/		5.5¢/kg
+ 	Atlantic Salmon (Salmo salar):				
+0304.41.00.10	10  	Farmed	
+kg
+0304.41.00.20	20  	Not Farmed	
+kg
+0304.41.00.90	90  	Other	
+kg
+0304.42.00	00  	Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae Oncorhynchus apache, and Oncorhynchus chrysogaster)	
+kg
+Free 1/		5.5¢/kg
+0304.43.00	 	Flat Fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae, and Citharidae)		Free 1/		5.5¢/kg
+0304.43.00.10	10  	Sole	
+kg
+0304.43.00.15	15  	Paice	
+kg
+0304.43.00.20	20  	Flounder	
+kg
+0304.43.00.25	25  	Greenland turbot (Greenland halibut), (Reinhardtius hippoglossoides)	
+kg
+0304.43.00.90	90  	Other	
+kg
+0304.44.00	 	Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae		Free 1/		5.5¢/kg
+ 	Cod:				
+0304.44.00.10	10  	Atlantic Cod	
+kg
+0304.44.00.15	15  	Other	
+kg
+0304.44.00.20	20  	Haddock	
+kg
+0304.44.00.25	25  	Pollock	
+kg
+0304.44.00.30	30  	Hake	
+kg
+0304.44.00.90	90  	Other	
+kg
+0304.45.00	00  	Swordfish (Xiphias gladius)	
+kg
+Free 1/		5.5¢/kg
+0304.46.00	00  	Toothfish (Dissostichus spp.)	
+kg
+Free 1/		5.5¢/kg
+0304.47.00	00  	Dogfish and other sharks	
+kg
+Free 1/		5.5¢/kg
+0304.48.00	00  	Rays and skates (Rajidae)	
+kg
+Free 1/		5.5¢/kg
+0304.49.01	 	Other		Free 1/		5.5¢/kg
+ 	Fresh-water fish:				
+0304.49.01.03	03  	Pike	
+kg
+0304.49.01.06	06  	Pickerel	
+kg
+0304.49.01.09	09  	Whitefish	
+kg
+0304.49.01.12	12  	Tilapia, other than Oreochromis spp.	
+kg
+0304.49.01.15	15  	Other	
+kg
+0304.49.01.20	20  	Atlantic ocean perch	
+kg
+0304.49.01.25	25  	Cusk	
+kg
+0304.49.01.90	90  	Other	
+kg
+ 	Other, fresh or chilled:				
+0304.51.01	 	Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)		Free 1/		5.5¢/kg
+0304.51.01.10	10  	Ictalurus spp.	
+kg
+0304.51.01.15	15  	Pangasius spp., including basa and tra	
+kg
+0304.51.01.20	20  	Nile Perch	
+kg
+0304.51.01.25	25  	Tilapias (Oreochromis spp.)	
+kg
+0304.51.01.90	90  	Other	
+kg
+0304.52.00	 	Salmonidae		Free 1/		5.5¢/kg
+ 	Atlantic salmon (Salmo salar):				
+0304.52.00.10	10  	Farmed	
+kg
+0304.52.00.15	15  	Not farmed	
+kg
+0304.52.00.20	20  	Other salmon	
+kg
+0304.52.00.90	90  	Other	
+kg
+0304.53.00	 	Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae		Free 1/		5.5¢/kg
+ 	Cod:				
+0304.53.00.10	10  	Atlantic Cod	
+kg
+0304.53.00.15	15  	Other	
+kg
+0304.53.00.20	20  	Haddock	
+kg
+0304.53.00.25	25  	Pollock	
+kg
+0304.53.00.30	30  	Hake	
+kg
+0304.53.00.90	90  	Other	
+kg
+0304.54.00	00  	Swordfish (Xiphias gladius)	
+kg
+Free 1/		5.5¢/kg
+0304.55.00	00  	Toothfish (Dissostichus spp.)	
+kg
+Free 1/		5.5¢/kg
+0304.56.00	00  	Dogfish and other sharks	
+kg
+Free 1/		5.5¢/kg
+0304.57.00	00  	Rays and skates (Rajidae)	
+kg
+Free 1/		5.5¢/kg
+0304.59.00	 	Other		Free 1/		5.5¢/kg
+ 	Fresh-water fish:				
+ 	Perch:				
+0304.59.00.03	03  	Yellow perch	
+kg
+0304.59.00.06	06  	Pike perch (including yellow pike)	
+kg
+0304.59.00.09	09  	Other	
+kg
+0304.59.00.15	15  	Pike	
+kg
+0304.59.00.20	20  	Pickerel	
+kg
+0304.59.00.25	25  	Whitefish	
+kg
+0304.59.00.30	30  	Tilapia other than Oreochromis spp.	
+kg
+0304.59.00.36	36  	Other	
+kg
+ 	Flat Fish:				
+0304.59.00.40	40  	Sole	
+kg
+0304.59.00.45	45  	Plaice	
+kg
+0304.59.00.50	50  	Flounder	
+kg
+0304.59.00.55	55  	Greenland turbot (Greenland halibut), (Reinhardtius hippoglossoides)	
+kg
+0304.59.00.61	61  	Other	
+kg
+0304.59.00.65	65  	Atlantic ocean perch	
+kg
+0304.59.00.70	70  	Cusk	
+kg
+0304.59.00.91	91  	Other	
+kg
+ 	Frozen fillets of tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbushoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.):				
+0304.61.00	00  	Tilapias (Oreochromis spp.)	
+kg
+Free 1/		5.5¢/kg
+0304.62.00	 	Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)		Free 1/		5.5¢/kg
+0304.62.00.10	10  	Ictalurus spp.	
+kg
+0304.62.00.20	20  	Pangasius spp. (including basa and tra)	
+kg
+0304.62.00.30	30  	Other Siluriformes	
+kg
+0304.62.00.90	90  	Other	
+kg
+0304.63.00	00  	Nile perch (Lates niloticus)	
+kg
+Free 1/		5.5¢/kg
+0304.69.00	00  	Other	
+kg
+Free 1/		5.5¢/kg
+ 	Frozen fillets of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae:				
+0304.71	 	Cod (Gadus morhua, Gadus ogac,Gadus macrocephalus):				
+0304.71.10	00  	Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions	
+kg
+Free		2.8¢/kg
+0304.71.50	00  	Other	
+kg
+Free		5.5¢/kg
+0304.72	 	Haddock (Melanogrammus aeglefinus):				
+0304.72.10	00  	Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions	
+kg
+Free		2.8¢/kg
+0304.72.50	00  	Other 1/	
+kg
+Free 1/		5.5¢/kg
+0304.73	 	Coalfish (Pollachius virens):				
+0304.73.10	00  	Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions	
+kg
+Free 1/		2.8¢/kg
+0304.73.50	00  	Other	
+kg
+Free 1/		5.5¢/kg
+0304.74	 	Hake (Merluccius spp., Urophycis spp.):				
+0304.74.10	00  	Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions	
+kg
+Free 1/		2.8¢/kg
+0304.74.50	00  	Other	
+kg
+Free 1/		5.5¢/kg
+0304.75	 	Alaska pollock (Theragra chalcogramma):				
+0304.75.10	00  	Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions	
+kg
+Free		2.8¢/kg
+0304.75.50	00  	Other	
+kg
+Free		5.5¢/kg
+0304.79	 	Other:				
+0304.79.10	 	Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions		Free 1/		2.8¢/kg
+0304.79.10.10	10  	Pollock other than Alaska pollock	
+kg
+0304.79.10.15	15  	Whiting (Merluccius spp.)	
+kg
+0304.79.10.90	90  	Other	
+kg
+0304.79.50	00  	Other	
+kg
+Free 1/		5.5¢/kg
+ 	Frozen fillets of other fish:				
+0304.81	 	Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus) Atlantic Salmon (Salmo salar) and Danube salmon (Hucho hucho):				
+0304.81.10	00  	Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions	
+kg
+Free		2.8¢/kg
+0304.81.50	 	Other		Free		5.5¢/kg
+0304.81.50.10	10  	Atlantic salmon (Salmo salar)	
+kg
+0304.81.50.90	90  	Other	
+kg
+0304.82	 	Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae Oncorhynchus apache and Oncorhynchus chrysogaster):				
+0304.82.10	00  	Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions	
+kg
+Free 1/		2.8¢/kg
+0304.82.50	00  	Other	
+kg
+Free 1/		5.5¢/kg
+0304.83	 	Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae, and Citharidae):				
+0304.83.10	 	Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions		Free 1/		2.8¢/kg
+0304.83.10.10	10  	Greenland turbot (Greenland halibut) (Reinhardtius hippoglossoides)	
+kg
+0304.83.10.15	15  	Sole 1/	
+kg
+0304.83.10.20	20  	Flounder 1/	
+kg
+ 	Other:				
+0304.83.10.25	25  	Halibut	
+kg
+0304.83.10.30	30  	Turbot	
+kg
+0304.83.10.90	90  	Other	
+kg
+0304.83.50	 	Other		Free 1/		5.5¢/kg
+0304.83.50.10	10  	Greenland turbot (Greenland halibut) (Reinhardtius hippoglossoides)	
+kg
+0304.83.50.15	15  	Sole 1/	
+kg
+0304.83.50.20	20  	Flounder 1/	
+kg
+ 	Other:				
+0304.83.50.25	25  	Halibut	
+kg
+0304.83.50.30	30  	Turbot	
+kg
+0304.83.50.90	90  	Other 1/	
+kg
+0304.84.00	00  	Swordfish (Xiphias gladius)	
+kg
+Free 1/		5.5¢/kg
+0304.85.00	00  	Toothfish (Dissostichus spp.)	
+kg
+Free 1/		5.5¢/kg
+0304.86.00	00  	Herrings (Clupea harengus, Clupea pallasii)	
+kg
+Free 1/		5.5¢/kg
+0304.87.00	00  	Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)	
+kg
+Free 1/		5.5¢/kg
+0304.88.00	00  	Dogfish, other sharks, rays and skates (Rajidae)	
+kg
+Free 1/		5.5¢/kg
+0304.89	 	Other:				
+0304.89.10	 	Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions		Free 1/		2.8¢/kg
+0304.89.10.10	10  	Ocean catfish (wolf fish)	
+kg
+0304.89.10.15	15  	Pickerel	
+kg
+0304.89.10.20	20  	Sauger	
+kg
+ 	Perch:				
+0304.89.10.25	25  	Atlantic ocean perch	
+kg
+0304.89.10.30	30  	Other ocean perch	
+kg
+0304.89.10.35	35  	Other	
+kg
+0304.89.10.90	90  	Other	
+kg
+0304.89.50	 	Other		Free 1/		5.5¢/kg
+ 	Fresh-water fish:				
+ 	Perch:				
+0304.89.50.03	03  	Yellow perch	
+kg
+0304.89.50.06	06  	Pike perch (including yellow pike)	
+kg
+0304.89.50.09	09  	Other	
+kg
+0304.89.50.15	15  	Pickerel	
+kg
+0304.89.50.20	20  	Pike	
+kg
+0304.89.50.25	25  	Sauger	
+kg
+0304.89.50.30	30  	Other	
+kg
+0304.89.50.35	35  	Atlantic ocean perch	
+kg
+0304.89.50.40	40  	Other ocean perch	
+kg
+0304.89.50.45	45  	Ocean catfish (wolf fish)	
+kg
+0304.89.50.50	50  	Orange roughy (Hoplostethus atlanticus)	
+kg
+0304.89.50.55	55  	Dolphin (Mahi mahi) (Coryphaena spp.)	
+kg
+0304.89.50.60	60  	Cusk	
+kg
+0304.89.50.91	91  	Other	
+kg
+ 	Other, frozen:				
+0304.91	 	Swordfish (Xiphias gladius):				
+0304.91.10	00  	In bulk or in immediate containers weighing with their contents over 6.8 kg each	
+kg
+Free 1/		2.8¢/kg
+0304.91.90	00  	Other	
+kg
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0304.92	 	Toothfish (Dissostichus spp.):				
+0304.92.10	00  	In bulk or in immediate containers weighing with their contents over 6.8 kg each	
+kg
+Free 1/		2.8¢/kg
+0304.92.90	00  	Other	
+kg
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0304.93	 	Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.):				
+0304.93.10	 	In bulk or in immediate containers weighing with their contents over 6.8 kg each		Free 1/		2.8¢/kg
+ 	Minced:				
+0304.93.10.05	05  	Surimi	
+kg
+0304.93.10.10	10  	Other	
+kg
+0304.93.10.90	90  	Other	
+kg
+0304.93.90	00  	Other	
+kg
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0304.94	 	Alaska pollock (Theragra chalcogramma):				
+0304.94.10	 	In bulk or in immediate containers weighing with their contents over 6.8 kg each		Free		2.8¢/kg
+ 	Minced:				
+0304.94.10.05	05  	Surimi	
+kg
+0304.94.10.10	10  	Other	
+kg
+0304.94.10.90	90  	Other	
+kg
+0304.94.90	00  	Other	
+kg
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0304.95	 	Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than Alaska Pollock (Theragra chalcogramma):				
+0304.95.10	 	In bulk or in immediate containers weighing with their contents over 6.8 kg each		Free 1/		2.8¢/kg
+ 	Minced:				
+0304.95.10.05	05  	Surimi	
+kg
+ 	Other:				
+0304.95.10.10	10  	Cod	
+kg
+0304.95.10.15	15  	Other	
+kg
+ 	Other:				
+0304.95.10.20	20  	Cod	
+kg
+0304.95.10.25	25  	Haddock	
+kg
+0304.95.10.30	30  	Pollock	
+kg
+0304.95.10.90	90  	Other	
+kg
+0304.95.90	00  	Other	
+kg
+6%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0304.96.00	00  	Dogfish and other sharks	
+kg
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0304.97.00	00  	Rays and skates (Rajidae)	
+kg
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0304.99	 	Other:				
+0304.99.11	 	In bulk or in immediate containers weighing with their contents over 6.8 kg each		Free 1/		2.8¢/kg
+ 	Minced:				
+0304.99.11.04	04  	Surimi	
+kg
+0304.99.11.09	09  	Other	
+kg
+ 	Other:				
+0304.99.11.50	50  	Sole	
+kg
+0304.99.11.60	60  	Greenland turbot (Greenland halibut) (Reinhardtius hippoglossoides)	
+kg
+0304.99.11.70	70  	Ocean perch	
+kg
+0304.99.11.82	82  	Pike	
+kg
+0304.99.11.83	83  	Whitefish	
+kg
+ 	Other:				
+0304.99.11.84	84  	Fresh-water	
+kg
+0304.99.11.90	90  	Tuna [of genus Thunnus and of fish of the genus Euthynnus(Katsuwonus) pelamis]	
+kg
+0304.99.11.94	94  	Other	
+kg
+0304.99.91	 	Other		6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0304.99.91.90	90  	Ocean	
+kg
+0304.99.91.92	92  	Other	
+kg
+0305	 	Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process:				
+0305.20	 	Livers, roes and milt of fish, dried, smoked, salted or in brine:				
+0305.20.20	00  	Sturgeon roe	
+kg
+7.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+0305.20.40	 	Other		Free 1/		44¢/kg
+0305.20.40.20	20  	Salmon roe	
+kg
+0305.20.40.40	40  	Herring roe	
+kg
+0305.20.40.65	65  	Other	
+kg
+ 	Fish fillets, dried, salted or in brine, but not smoked:				
+0305.31.01	00  	Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)	
+kg
+Free 1/		2.2¢/kg
+0305.32.00	 	Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae		Free 1/		2.2¢/kg
+0305.32.00.10	10  	Cod	
+kg
+0305.32.00.90	90  	Other	
+kg
+0305.39	 	Other:				
+0305.39.20	00  	Herrings, in immediate containers weighing with their contents 6.8 kg or less each	
+kg
+4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0305.39.40	00  	Mackerel, in immediate containers weighing with their contents 6.8 kg or less each	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0305.39.61	 	Other		Free 1/		2.2¢/kg
+0305.39.61.10	10  	Herring	
+kg
+0305.39.61.80	80  	Other	
+kg
+ 	Smoked fish, including fillets, other than edible fish offal:				
+0305.41.00	00  	Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus),Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0305.42.00	 	Herrings (Clupea harengus, Clupea pallasii)		Free 1/		6.6¢/kg
+0305.42.00.20	20  	Whole or beheaded but not otherwise processed	
+kg
+ 	Other:				
+0305.42.00.50	50  	Boneless	
+kg
+0305.42.00.60	60  	Other	
+kg
+0305.43.00	00  	Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)	
+kg
+Free 1/		6.6¢/kg
+0305.44.01	00  	Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)	
+kg
+Free 1/		6.6¢/kg
+0305.49	 	Other:				
+0305.49.20	00  	Mackerel	
+kg
+Free 1/		25%
+0305.49.40	 	Other		Free 1/		6.6¢/kg
+0305.49.40.20	20  	Cod, cusk, haddock, hake (Urophycis spp.) and pollock	
+kg
+0305.49.40.45	45  	Other	
+kg
+ 	Dried fish, other than edible fish offal, whether or not salted but not smoked:				
+0305.51.00	00  	Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)	
+kg
+Free 1/		5.5¢/kg
+0305.52.00	00  	Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)	
+kg
+Free 1/		2.8¢/kg
+0305.53.00	00  	Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae,Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than cod (Gadus morhua, Gadus ogac, Gadus macrocephalus).	
+kg
+Free 1/		2.8¢/kg
+0305.54.00	00  	Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.), sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), Indian mackerels (Rastrelliger spp.), seerfishes (Scomberomorus spp.), jack and horse mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia (Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury (Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus), swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae)	
+kg
+Free 1/		2.8¢/kg
+0305.59.00	01  	Other	
+kg
+Free 1/		2.8¢/kg
+ 	Fish, salted but not dried or smoked and fish in brine, other than edible fish offal:				
+0305.61	 	Herrings (Clupea harengus, Clupea pallasii):				
+0305.61.20	00  	In immediate containers weighing with their contents 6.8 kg or less each	
+kg
+4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0305.61.40	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0305.62.00	 	Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)		Free 1/		2.8¢/kg
+ 	Whole; or processed by removal of heads, fins, viscera, scales, vertebral columns or any combination thereof, but not otherwise processed:				
+0305.62.00.10	10  	Having a moisture content by weight over 50 percent	
+kg
+0305.62.00.25	25  	Having a moisture content by weight over 45 percent but not over 50 percent	
+kg
+0305.62.00.30	30  	Having a moisture content by weight over 43 percent but not over 45 percent	
+kg
+0305.62.00.45	45  	Having a moisture content by weight not over 43 percent	
+kg
+ 	Other:				
+0305.62.00.50	50  	Having a moisture content by weight over 50 percent	
+kg
+0305.62.00.60	60  	Having a moisture content by weight over 45 percent but not over 50 percent	
+kg
+0305.62.00.70	70  	Having a moisture content by weight over 43 percent but not over 45 percent	
+kg
+0305.62.00.80	80  	Having a moisture content by weight not over 43 percent	
+kg
+0305.63	 	Anchovies (Engraulis spp.):				
+ 	In immediate containers weighing with their contents 6.8 kg or less each:				
+0305.63.20	00  	In airtight containers	
+kg
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0305.63.40	00  	Other	
+kg
+Free 1/		1%
+0305.63.60	00  	Other	
+kg
+Free 1/		2.5%
+0305.64	 	Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.):				
+0305.64.10	00  	In immediate containers weighing with their contents 6.8 kg or less each	
+kg
+Free 1/		25%
+0305.64.50	00  	Other	
+kg
+0.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1%
+0305.69	 	Other:				
+0305.69.10	 	Cusk, haddock, hake (Urophycis spp.) and pollock		Free 1/		2.8¢/kg
+ 	Whole; or processed by removal of heads, fins, viscera, scales, vertebral columns or any combination thereof, but not otherwise processed:				
+0305.69.10.21	21  	Hake	
+kg
+0305.69.10.22	22  	Pollock	
+kg
+0305.69.10.29	29  	Haddock and cusk	
+kg
+ 	Other:				
+0305.69.10.41	41  	Hake	
+kg
+0305.69.10.42	42  	Pollock	
+kg
+0305.69.10.49	49  	Haddock and cusk	
+kg
+ 	Mackerel:				
+0305.69.20	00  	In immediate containers weighing with their contents 6.8 kg or less each	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0305.69.30	00  	Other	
+kg
+Free 1/		2.2¢/kg
+0305.69.40	00  	Salmon	
+kg
+3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+0305.69.50	01  	In immediate containers weighing with their contents 6.8 kg or less each	
+kg
+Free 1/		25%
+0305.69.60	01  	Other	
+kg
+0.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1%
+ 	Fish fins, heads, tails, maws and other edible fish offal:				
+0305.71.00	00  	Shark fins	
+kg
+Free 1/		2.8¢/kg
+0305.72.00	00  	Fish heads, tails and maws	
+kg
+Free 1/		2.8¢/kg
+0305.79.00	00  	Other	
+kg
+Free 1/		2.8¢/kg
+0306	 	Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine:				
+ 	Frozen:				
+0306.11.00	 	Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)		Free 1/		Free
+0306.11.00.10	10  	Carribbean spiny lobster (Panulirus argus)	
+kg
+0306.11.00.20	20  	Other	
+kg
+0306.12.00	 	Lobsters (Homarus spp.)		Free 1/		Free
+ 	In airtight containers:				
+0306.12.00.10	10  	In brine	
+kg
+0306.12.00.30	30  	Other	
+kg
+ 	Other:				
+0306.12.00.50	50  	In brine	
+kg
+0306.12.00.70	70  	Other	
+kg
+0306.14	 	Crabs:				
+0306.14.20	00  	Crabmeat	
+kg
+7.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+0306.14.40	 	Other		Free 1/		Free
+ 	King crab:				
+0306.14.40.03	03  	Red king crab (Paralithodes camtschaticus)	
+kg
+0306.14.40.06	06  	Blue king crab (Paralithodes platypus)	
+kg
+0306.14.40.09	09  	Golden/brown king crab (Lithodes aequispinus)	
+kg
+0306.14.40.12	12  	Southern red santolla king crab (Lithodes santolla formerly L. antarcticus)	
+kg
+0306.14.40.15	15  	Other	
+kg
+0306.14.40.20	20  	Snow crab	
+kg
+0306.14.40.30	30  	Dungeness crab	
+kg
+0306.14.40.90	90  	Other	
+kg
+0306.15.00	00  	Norway lobsters (Nephrops norvegicus)	
+kg
+Free 1/		Free
+0306.16.00	 	Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)		Free 1/		Free
+ 	Shell-on, imported in accordance with statistical note 1 to this chapter:				
+0306.16.00.03	03  	Count size (headless weight) less than 33 per kg (15s)	
+kg
+0306.16.00.06	06  	Count size (headless weight) 33-45 per kg (15-20s)	
+kg
+0306.16.00.09	09  	Count size (headless weight) 46-55 per kg (21-25s)	
+kg
+0306.16.00.12	12  	Count size (headless weight) 56-66 per kg (26-30s)	
+kg
+0306.16.00.15	15  	Count size (headless weight) 67-88 per kg (31-40s)	
+kg
+0306.16.00.18	18  	Count size (headless weight) 89-110 per kg (41-50s)	
+kg
+0306.16.00.21	21  	Count size (headless weight) 111-132 per kg (51-60s)	
+kg
+0306.16.00.24	24  	Count size (headless weight) 133-154 per kg (61-70s)	
+kg
+0306.16.00.27	27  	Count size (headless weight) more than 154 per kg (70s)	
+kg
+0306.16.00.40	40  	Peeled, imported in accordance with statistical note 1 to this chapter	
+kg
+0306.17.00	 	Other shrimps and prawns		Free 1/		Free
+ 	Shell-on, imported in accordance with statistical note 1 to this chapter:				
+ 	Farmed:				
+0306.17.00.04	04  	Count size (headless weight) less than 33 per kg (15s)	
+kg
+0306.17.00.05	05  	Count size (headless weight) 33-45 per kg (15-20s)	
+kg
+0306.17.00.07	07  	Count size (headless weight) 46-55 per kg (21-25s)	
+kg
+0306.17.00.08	08  	Count size (headless weight) 56-66 per kg (26-30s)	
+kg
+0306.17.00.10	10  	Count size (headless weight) 67-88 per kg (31-40s)	
+kg
+0306.17.00.11	11  	Count size (headless weight) 89-110 per kg (41-50s)	
+kg
+0306.17.00.13	13  	Count size (headless weight) 111-132 per kg (51-60s)	
+kg
+0306.17.00.14	14  	Count size (headless weight) 133-154 per kg (61-70s)	
+kg
+0306.17.00.16	16  	Count size (headless weight) more than 154 per kg (70s)	
+kg
+ 	Not farmed:				
+0306.17.00.17	17  	Count size (headless weight) less than 33 per kg (15s)	
+kg
+0306.17.00.19	19  	Count size (headless weight) 33-45 per kg (15-20s)	
+kg
+0306.17.00.20	20  	Count size (headless weight) 46-55 per kg (21-25s)	
+kg
+0306.17.00.22	22  	Count size (headless weight) 56-66 per kg (26-30s)	
+kg
+0306.17.00.23	23  	Count size (headless weight) 67-88 per kg (31-40s)	
+kg
+0306.17.00.25	25  	Count size (headless weight) 89-110 per kg (41-50s)	
+kg
+0306.17.00.26	26  	Count size (headless weight) 111-132 per kg (51-60s)	
+kg
+0306.17.00.28	28  	Count size (headless weight) 133-154 per kg (61-70s)	
+kg
+0306.17.00.29	29  	Count size (headless weight) more than 154 per kg (70s)	
+kg
+ 	Peeled, imported in accordance with statistical note 1 to this chapter:				
+0306.17.00.41	41  	Farmed	
+kg
+0306.17.00.42	42  	Not farmed	
+kg
+0306.19.01	 	Other		Free 1/		Free
+0306.19.01.10	10  	Freshwater crawfish	
+kg
+0306.19.01.30	30  	Antarctic krill (Euphausia superba)	
+kg
+0306.19.01.61	61  	Other	
+kg
+ 	Live, fresh or chilled:				
+0306.31.00	00  	Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)	
+kg
+Free 1/		Free
+0306.32.00	 	Lobsters (Homarus spp.)		Free 1/		Free
+0306.32.00.10	10  	Live	
+kg
+0306.32.00.90	90  	Other	
+kg
+0306.33	 	Crabs:				
+0306.33.20	00  	Crabmeat	
+kg
+7.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+0306.33.40	00  	Other	
+kg
+Free 1/		Free
+0306.34.00	00  	Norway lobsters (Nephrops norvegicus)	
+kg
+Free 1/		Free
+0306.35.00	 	Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)		Free 1/		Free
+0306.35.00.20	20  	Shell-on, imported in accordance with statistical note 1 to this chapter	
+kg
+0306.35.00.40	40  	Peeled, imported in accordance with statistical note 1 to this chapter	
+kg
+0306.36.00	 	Other shrimps and prawns		Free 1/		Free
+0306.36.00.20	20  	Shell-on, imported in accordance with statistical note 1 to this chapter	
+kg
+0306.36.00.40	40  	Peeled, imported in accordance with statistical note 1 to this chapter	
+kg
+0306.39.01	00  	Other	
+kg
+Free 1/		Free
+ 	Other:				
+0306.91.00	00  	Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)	
+kg
+Free 1/		Free
+0306.92.00	00  	Lobsters (Homarus spp.)	
+kg
+Free 1/		Free
+0306.93	 	Crabs:				
+0306.93.20	00  	Crabmeat	
+kg
+7.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15%
+0306.93.40	00  	Other	
+kg
+Free 1/		Free
+0306.94.00	00  	Norway lobsters (Nephrops norvegicus)	
+kg
+Free 1/		Free
+0306.95.00	 	Shrimps and prawns		Free 1/		Free
+0306.95.00.20	20  	Shell-on, imported in accordance with statistical note 1 to this chapter	
+kg
+0306.95.00.40	40  	Peeled, imported in accordance with statistical note 1 to this chapter	
+kg
+0306.99.01	00  	Other	
+kg
+Free 1/		Free
+0307	 	Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process:				
+ 	Oysters:				
+0307.11.00	 	Live, fresh or chilled		Free 1/		Free
+0307.11.00.20	20  	Seed oysters	
+liters
+kg
+ 	Other:				
+0307.11.00.60	60  	Farmed	
+kg
+0307.11.00.80	80  	Other	
+kg
+0307.12.00	 	Frozen		Free 1/		Free
+0307.12.00.60	60  	Farmed	
+kg
+0307.12.00.80	80  	Other	
+kg
+0307.19.01	 	Other		Free 1/		Free
+0307.19.01.60	60  	Farmed	
+kg
+0307.19.01.80	80  	Other	
+kg
+ 	Scallops and other molluscs of the family Pectinidae:				
+0307.21.00	00  	Live, fresh or chilled	
+kg
+Free 1/		Free
+0307.22.00	00  	Frozen	
+kg
+Free 1/		Free
+0307.29.01	00  	Other	
+kg
+Free 1/		Free
+ 	Mussels (Mytilus spp., Perna spp.):				
+0307.31.00	 	Live, fresh or chilled		Free 1/		Free
+0307.31.00.10	10  	Farmed	
+kg
+0307.31.00.90	90  	Other	
+kg
+0307.32.00	00  	Frozen	
+kg
+Free 1/		Free
+0307.39.01	00  	Other	
+kg
+Free 1/		Free
+ 	Cuttle fish and squid:				
+0307.42.00	 	Live, fresh or chilled		Free 1/		Free
+ 	Squid:				
+0307.42.00.20	20  	Loligo	
+kg
+0307.42.00.40	40  	Other	
+kg
+0307.42.00.60	60  	Other	
+kg
+0307.43.00	 	Frozen		Free 1/		Free
+ 	Squid:				
+0307.43.00.10	10  	Fillets	
+kg
+ 	Other:				
+ 	Loligo:				
+0307.43.00.22	22  	Loligo opalescens	
+kg
+0307.43.00.24	24  	Loligo pealei	
+kg
+0307.43.00.29	29  	Other	
+kg
+0307.43.00.50	50  	Other	
+kg
+0307.43.00.60	60  	Other	
+kg
+0307.49.01	 	Other		Free 1/		Free
+ 	Squid:				
+ 	Loligo:				
+0307.49.01.22	22  	Loligo opalescens	
+kg
+0307.49.01.24	24  	Loligo pealei	
+kg
+0307.49.01.29	29  	Other	
+kg
+0307.49.01.50	50  	Other	
+kg
+0307.49.01.60	60  	Other	
+kg
+ 	Octopus (Octopus spp.):				
+0307.51.00	00  	Live, fresh or chilled	
+kg
+Free 1/		Free
+0307.52.00	00  	Frozen	
+kg
+Free 1/		Free
+0307.59.01	00  	Other	
+kg
+Free 1/		Free
+0307.60.00	00  	Snails, other than sea snails	
+kg
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae):				
+0307.71.00	 	Live, fresh or chilled		Free 1/		Free
+ 	Clams:				
+0307.71.00.50	50  	Geoduck	
+kg
+0307.71.00.70	70  	Other	
+kg
+0307.71.00.90	90  	Other	
+kg
+0307.72.00	 	Frozen		Free 1/		Free
+ 	Clams:				
+0307.72.00.30	30  	Geoduck	
+kg
+0307.72.00.51	51  	Stimsonʼs	
+kg
+0307.72.00.55	55  	Other	
+kg
+0307.72.00.60	60  	Other	
+kg
+0307.79.01	 	Other		Free 1/		Free
+ 	Clams:				
+0307.79.01.30	30  	Geoduck	
+kg
+0307.79.01.51	51  	Stimsonʼs	
+kg
+0307.79.01.55	55  	Other	
+kg
+0307.79.01.60	60  	Other	
+kg
+ 	Abalone (Haliotis spp.) and stromboid conchs (Strombus spp.):				
+0307.81.00	00  	Live, fresh or chilled abalone (Haliotis spp.)	
+kg
+Free 1/		Free
+0307.82.00	00  	Live, fresh or chilled stromboid conchs (Strombus spp.)	
+kg
+Free 1/		Free
+0307.83.00	00  	Frozen abalone (Haliotis spp.)	
+kg
+Free 1/		Free
+0307.84.00	00  	Frozen stromboid conchs (Strombus spp.)	
+kg
+Free 1/		Free
+0307.87.00	00  	Other abalone (Haliotis spp.)	
+kg
+Free 1/		Free
+0307.88.00	00  	Other stromboid conchs (Strombus spp.)	
+kg
+Free 1/		Free
+ 	Other:				
+0307.91.03	 	Live, fresh or chilled		Free 1/		Free
+0307.91.03.30	30  	Conch	
+kg
+0307.91.03.90	90  	Other	
+kg
+0307.92.01	 	Frozen		Free 1/		Free
+0307.92.01.30	30  	Conch	
+kg
+0307.92.01.90	90  	Other	
+kg
+0307.99.03	00  	Other	
+kg
+Free 1/		Free
+0308	 	Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process:				
+ 	Sea cucumbers (Stichopus japonicus, Holothuroidea):				
+0308.11.00	00  	Live, fresh or chilled	
+kg
+Free 1/		Free
+0308.12.00	00  	Frozen	
+kg
+Free 1/		Free
+0308.19.01	00  	Other	
+kg
+Free 1/		Free
+ 	Sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus):				
+0308.21.00	 	Live, fresh or chilled		Free 1/		Free
+0308.21.00.21	21  	Roe	
+kg
+0308.21.00.29	29  	Other	
+kg
+0308.22.00	00  	Frozen	
+kg
+Free 1/		Free
+0308.29.01	00  	Other	
+kg
+Free 1/		Free
+0308.30.00	00  	Jellyfish (Rhopilema spp.)	
+kg
+Free 1/		Free
+0308.90.01	00  	Other	
+kg
+Free 1/		Free
+0309	 	Flours, meals and pellets of fish, crustaceans, molluscs and other aquatic invertebrates, fit for human consumption:				
+0309.10	 	Of fish:				
+0309.10.05	00  	In bulk or in immediate containers weighing with their contents over 6.8 kg each	
+kg
+Free 1/		2.8¢/kg
+0309.10.90	00  	Other	
+kg
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0309.90	 	Other:				
+ 	Of crustaceans:				
+0309.90.10	 	Frozen	
+Free 1/		Free
+0309.90.10.10	10  	Freshwater crawfish	
+kg
+0309.90.10.30	30  	Antarctic Krill	
+kg
+0309.90.10.61	61  	Other	
+kg
+0309.90.20	00  	Live, fresh, or chilled	
+kg
+Free 1/		Free
+0309.90.30	00  	Other	
+kg
+Free 1/		Free
+ 	Of molluscs:				
+0309.90.40	 	Live, fresh or chilled	
+Free 1/		Free
+0309.90.40.30	30  	Conch	
+kg
+0309.90.40.90	90  	Other	
+kg
+0309.90.50	 	Frozen	
+Free 1/		Free
+0309.90.50.30	30  	Conch	
+kg
+0309.90.50.90	90  	Other	
+kg
+0309.90.60	00  	Other	
+kg
+Free 1/		Free
+0309.90.90	00  	Other	
+kg
+Free 1/		Free

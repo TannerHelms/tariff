@@ -1,0 +1,718 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+0801	 	Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled:				
+ 	Coconuts:				
+0801.11.00	00  	Desiccated	
+kg
+Free 1/		7.7¢/kg
+0801.12.00	00  	In the inner shell (endocarp)	
+kg
+Free 1/		7.7¢/kg
+0801.19.01	 	Other		Free 1/		7.7¢/kg
+0801.19.01.20	20  	In shell	
+kg
+0801.19.01.40	40  	Shelled	
+kg
+ 	Brazil nuts:				
+0801.21.00	00  	In shell	
+kg
+Free 1/		9.9¢/kg
+0801.22.00	00  	Shelled	
+kg
+Free 1/		9.9¢/kg
+ 	Cashew nuts:				
+0801.31.00	00  	In shell	
+kg
+Free 1/		4.4¢/kg
+0801.32.00	00  	Shelled	
+kg
+Free 1/		4.4¢/kg
+0802	 	Other nuts, fresh or dried, whether or not shelled or peeled:				
+ 	Almonds:				
+0802.11.00	00  	In shell	
+kg
+7.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12.1¢/kg
+0802.12.00	 	Shelled		24¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40.8¢/kg
+0802.12.00.05	05  	Certified organic	
+kg
+0802.12.00.15	15  	Other	
+kg
+ 	Hazelnuts or filberts (Corylus spp.):				
+0802.21.00	00  	In shell	
+kg
+7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0802.22.00	00  	Shelled	
+kg
+14.1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22¢/kg
+ 	Walnuts:				
+0802.31.00	00  	In shell	
+kg
+7¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0802.32.00	00  	Shelled	
+kg
+26.5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33.1¢/kg
+ 	Chestnuts (Castanea spp.):				
+0802.41.00	00  	In shell	
+kg
+Free 1/		Free
+0802.42.00	00  	Shelled	
+kg
+Free 1/		Free
+ 	Pistachios:				
+0802.51.00	00  	In shell	
+kg
+0.9¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0802.52.00	00  	Shelled	
+kg
+1.9¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+ 	Macadamia nuts:				
+0802.61.00	00  	In shell	
+kg
+1.3¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0802.62.00	00  	Shelled	
+kg
+5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+ 	Kola nuts (Cola spp.):				
+0802.70.10	00  	In shell	
+kg
+1.3¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0802.70.20	00  	Shelled	
+kg
+5¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+ 	Areca nuts:				
+0802.80.10	00  	In shell	
+kg
+1.3¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0802.80.20	00  	Shelled	
+kg
+5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+ 	Other:				
+0802.91	 	Pine nuts, in shell:				
+0802.91.10	00  	Pignolia	
+kg
+0.7¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0802.91.90	00  	Other	
+kg
+1.3¢/kg	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0802.92	 	Pine nuts, shelled:				
+0802.92.10	00  	Pignolia	
+kg
+1¢/kg	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0802.92.90	00  	Other	
+kg
+5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0802.99	 	Other:				
+ 	Pecans:				
+0802.99.10	00  	In shell	
+kg
+8.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0802.99.15	00  	Shelled	
+kg
+17.6¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	22¢/kg
+ 	Other:				
+0802.99.82	00  	In shell	
+kg
+1.3¢/kg	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0802.99.98	00  	Shelled	
+kg
+5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0803	 	Bananas and plantains, fresh or dried:				
+0803.10	 	Plantains:				
+0803.10.10	00  	Fresh	
+kg
+Free 1/		Free
+0803.10.20	00  	Dried	
+kg
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0803.90.00	 	Other		Free 1/		Free
+0803.90.00.25	25  	Certified organic	
+kg
+ 	Other:				
+0803.90.00.35	35  	Fresh	
+kg
+0803.90.00.45	45  	Dried	
+kg
+0804	 	Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried:				
+0804.10	 	Dates:				
+ 	Whole, with or without pits:				
+0804.10.20	 	Packed in units weighing (with the immediate container, if any) not more than 4.6 kg		13.2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	16.5¢/kg
+0804.10.20.10	10  	Certified organic	
+kg
+0804.10.20.90	90  	Other	
+kg
+ 	Other:				
+0804.10.40	00  	With pits	
+kg
+1¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0804.10.60	00  	With pits removed	
+kg
+2.8¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0804.10.80	00  	Other	
+kg
+29.8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0804.20	 	Figs:				
+ 	Whole:				
+0804.20.40	00  	In immediate containers weighing with their contents over 0.5 kg each	
+kg
+7.9¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0804.20.60	00  	Other	
+kg
+6.2¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0804.20.80	00  	Other	
+kg
+8.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0804.30	 	Pineapples:				
+ 	Not reduced in size:				
+0804.30.20	00  	In bulk	
+kg
+0.51¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.64¢/kg
+0804.30.40	00  	In crates or other packages	
+kg
+1.1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.11¢/kg
+0804.30.60	00  	Reduced in size	
+kg
+0.44¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0804.40.00	 	Avocados		11.2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33.1¢/kg
+ 	Hass avocados and avocados determined by the Secretary of Agriculture to be Hass-like:				
+0804.40.00.20	20  	Certified organic	
+kg
+0804.40.00.40	40  	Other	
+kg
+0804.40.00.90	90  	Other	
+kg
+0804.50	 	Guavas, mangoes and mangosteens:				
+ 	Fresh:				
+0804.50.40	 	If entered during the period from September 1, in any year, to the following May 31, inclusive		6.6¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33.1¢/kg
+ 	Mangoes:				
+0804.50.40.45	45  	Certified organic	
+kg
+0804.50.40.55	55  	Other	
+kg
+0804.50.40.65	65  	Mangosteens	
+kg
+0804.50.40.75	75  	Other	
+kg
+0804.50.60	 	If entered at any other time		6.6¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33.1¢/kg
+ 	Mangoes:				
+0804.50.60.45	45  	Certified organic	
+kg
+0804.50.60.55	55  	Other	
+kg
+0804.50.60.65	65  	Mangosteens	
+kg
+0804.50.60.75	75  	Other	
+kg
+0804.50.80	 	Dried		1.5¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	33.1¢/kg
+0804.50.80.10	10  	Mangoes	
+kg
+0804.50.80.90	90  	Other	
+kg
+0805	 	Citrus fruit, fresh or dried:				
+0805.10.00	 	Oranges		1.9¢/kg 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0805.10.00.20	20  	Temple oranges	
+kg
+ 	Other:				
+0805.10.00.50	50  	Certified organic	
+kg
+0805.10.00.60	60  	Other	
+kg
+ 	Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids:				
+0805.21.00	 	Mandarins (including tangerines and satsumas)		1.9¢/kg 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0805.21.00.10	10  	Tangerines	
+kg
+0805.21.00.90	90  	Other	
+kg
+0805.22.00	00  	Clementines	
+kg
+1.9¢/kg 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0805.29.00	00  	Other	
+kg
+1.9¢/kg 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+0805.40	 	Grapefruit and pomelos:				
+0805.40.40	00  	If entered during the period from August 1 to September 30, inclusive, in any year	
+kg
+1.9¢/kg 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.3¢/kg
+0805.40.60	00  	If entered during the month of October	
+kg
+1.5¢/kg 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.3¢/kg
+0805.40.80	00  	If entered at any other time	
+kg
+2.5¢/kg 1/	Free (AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.3¢/kg
+0805.50	 	Lemons (Citrus limon, Citrus limonum) and limes (Citrus aurantifolia, Citrus latifolia):				
+0805.50.20	 	Lemons		2.2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0805.50.20.10	10  	Certified organic	
+kg
+0805.50.20.50	50  	Other	
+kg
+ 	Limes:				
+0805.50.30	 	Tahitian limes, Persian limes and other limes of the Citrus latifolia variety	
+kg
+0.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0805.50.30.20	20  	Certified organic	
+kg
+0805.50.30.40	40  	Other	
+kg
+0805.50.40	00  	Other	
+kg
+1.8¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0805.90.01	00  	Other, including kumquats, citrons and bergamots	
+kg
+0.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0806	 	Grapes, fresh or dried:				
+0806.10	 	Fresh:				
+0806.10.20	 	If entered during the period from February 15 to March 31, inclusive, in any year		$1.13/m3 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$8.83/m3
+0806.10.20.05	05  	Certified organic	
+m3
+kg
+ 	Other:				
+0806.10.20.15	15  	Red varieties	
+m3
+kg
+0806.10.20.25	25  	White varieties	
+m3
+kg
+0806.10.20.35	35  	Black varieties	
+m3
+kg
+0806.10.20.45	45  	Other	
+m3
+kg
+0806.10.40	 	If entered during the period from April 1 to June 30, inclusive, in any year		Free 1/		$8.83/m3
+0806.10.40.05	05  	Certified organic	
+m3
+kg
+ 	Other:				
+0806.10.40.15	15  	Red varieties	
+m3
+kg
+0806.10.40.25	25  	White varieties	
+m3
+kg
+0806.10.40.35	35  	Black varieties	
+m3
+kg
+0806.10.40.45	45  	Other	
+m3
+kg
+0806.10.60	 	If entered at any other time		$1.80/m3 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$8.83/m3
+0806.10.60.05	05  	Certified organic	
+m3
+kg
+ 	Other:				
+0806.10.60.15	15  	Red varieties	
+m3
+kg
+0806.10.60.25	25  	White varieties	
+m3
+kg
+0806.10.60.35	35  	Black varieties	
+m3
+kg
+0806.10.60.45	45  	Other	
+m3
+kg
+0806.20	 	Dried:				
+ 	Raisins:				
+0806.20.10	 	Made from seedless grapes		1.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0806.20.10.10	10  	Currants	
+kg
+0806.20.10.20	20  	Sultanas	
+kg
+0806.20.10.90	90  	Other	
+kg
+0806.20.20	00  	Other raisins	
+kg
+2.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0806.20.90	00  	Other dried grapes	
+kg
+3.5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0807	 	Melons (including watermelons) and papayas (papaws), fresh:				
+ 	Melons (including watermelons):				
+0807.11	 	Watermelons:				
+0807.11.30	 	If entered during the period from December 1, in any year, to the following March 31, inclusive		9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 4.5% (JP)	35%
+ 	Seedless:				
+ 	Certified organic:				
+0807.11.30.20	20  	Miniature type of a kind described in statistical note 2 to this chapter	
+kg
+0807.11.30.40	40  	Other	
+kg
+ 	Other:				
+0807.11.30.60	60  	Miniature type of a kind described in statistical note 2 to this chapter	
+kg
+0807.11.30.80	80  	Other	
+kg
+0807.11.30.90	90  	Other	
+kg
+0807.11.40	 	If entered at any other time		17% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Seedless:				
+ 	Certified organic:				
+0807.11.40.20	20  	Miniature type of a kind described in statistical note 2 to this chapter	
+kg
+0807.11.40.40	40  	Other	
+kg
+ 	Other:				
+0807.11.40.60	60  	Miniature type of a kind described in statistical note 2 to this chapter	
+kg
+0807.11.40.80	80  	Other	
+kg
+0807.11.40.90	90  	Other	
+kg
+0807.19	 	Other:				
+ 	Cantaloupes:				
+0807.19.10	00  	If entered during the period from August 1 to September 15, inclusive, in any year	
+kg
+12.8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 6.4% (JP)	35%
+0807.19.20	00  	If entered at any other time	
+kg
+29.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Ogen and Galia melons:				
+0807.19.50	00  	If entered during the period from December 1, in any year, to the following May 31, inclusive	
+kg
+1.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+0807.19.60	00  	If entered at any other time	
+kg
+6.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.15% (JP)	35%
+ 	Other:				
+0807.19.70	 	If entered during the period from December 1, in any year, to the following May 31, inclusive	
+kg
+5.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)2.7% (JP)	35%
+0807.19.70.20	20  	Honeydew melons	
+kg
+0807.19.70.40	40  	Other	
+kg
+0807.19.80	 	If entered at any other time	
+kg
+28% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 14% (JP)	35%
+0807.19.80.20	20  	Honeydew melons	
+kg
+0807.19.80.40	40  	Other	
+kg
+0807.20.00	00  	Papayas (papaws)	
+kg
+5.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0808	 	Apples, pears and quinces, fresh:				
+0808.10.00	 	Apples		Free 1/		1.1¢/kg
+0808.10.00.30	30  	Valued not over 22¢ per kg	
+kg
+ 	Valued over 22¢ per kg:				
+0808.10.00.45	45  	Certified organic	
+kg
+0808.10.00.65	65  	Other	
+kg
+0808.30	 	Pears:				
+0808.30.20	 	If entered during the period from April 1 to June 30, inclusive, in any year		Free 1/		1.1¢/kg
+0808.30.20.15	15  	Certified organic	
+kg
+ 	Other:				
+0808.30.20.35	35  	Asian pears (Pyrus pyrifolia)	
+kg
+0808.30.20.45	45  	Other	
+kg
+0808.30.40	 	If entered at any other time		0.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.1¢/kg
+0808.30.40.15	15  	Certified organic	
+kg
+ 	Other:				
+0808.30.40.35	35  	Asian pears (Pyrus pyrifolia)	
+kg
+0808.30.40.45	45  	Other	
+kg
+0808.40	 	Quinces:				
+0808.40.20	 	If entered during the period from April 1 to June 30, inclusive, in any year		Free 1/		1.1¢/kg
+0808.40.20.15	15  	Certified organic	
+kg
+0808.40.20.25	25  	Other	
+kg
+0808.40.40	 	If entered at any other time		0.3¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.1¢/kg
+0808.40.40.15	15  	Certified organic	
+kg
+0808.40.40.25	25  	Other	
+kg
+0809	 	Apricots, cherries, peaches (including nectarines), plums (including prune plums) and sloes, fresh:				
+0809.10.00	00  	Apricots	
+kg
+0.2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.1¢/kg
+ 	Cherries:				
+0809.21.00	00  	Sour cherries (Prunus cerasus)	
+kg
+Free 1/		4.4¢/kg
+0809.29.00	00  	Other	
+kg
+Free 1/		4.4¢/kg
+0809.30	 	Peaches, including nectarines:				
+0809.30.20	00  	If entered during the period from June 1 to November 30, inclusive, in any year	
+kg
+0.2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.1¢/kg
+0809.30.40	 	If entered at any other time		Free 1/		1.1¢/kg
+0809.30.40.10	10  	Peaches	
+kg
+0809.30.40.90	90  	Nectarines	
+kg
+0809.40	 	Plums (including prune plums) and sloes:				
+0809.40.20	00  	If entered during the period from January 1 to May 31, inclusive, in any year	
+kg
+Free 1/		1.1¢/kg
+0809.40.40	00  	If entered at any other time	
+kg
+0.5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.1¢/kg
+0810	 	Other fruit, fresh:				
+0810.10	 	Strawberries:				
+0810.10.20	 	If entered during the period from June 15 to September 15, inclusive, in any year		0.2¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.8¢/kg
+ 	Certified organic:				
+0810.10.20.20	20  	Of a kind for processing as described in statistical note 3 to this chapter	
+kg
+0810.10.20.40	40  	Other	
+kg
+ 	Other:				
+0810.10.20.60	60  	Of a kind for processing as described in statistical note 3 to this chapter	
+kg
+0810.10.20.80	80  	Other	
+kg
+0810.10.40	 	If entered at any other time		1.1¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.8¢/kg
+ 	Certified organic:				
+0810.10.40.20	20  	Of a kind for processing as described in statistical note 3 to this chapter	
+kg
+0810.10.40.40	40  	Other	
+kg
+ 	Other:				
+0810.10.40.60	60  	Of a kind for processing as described in statistical note 3 to this chapter	
+kg
+0810.10.40.80	80  	Other	
+kg
+0810.20	 	Raspberries, blackberries, mulberries and loganberries:				
+0810.20.10	 	Raspberries and loganberries entered during the period from September 1 in any year to June 30 of the following year		0.18¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.8¢/kg
+ 	Raspberries:				
+ 	Raspberries packed in units weighing (with the immediate container, if any) not more than 5.0 kg:				
+0810.20.10.23	23  	Certified organic	
+kg
+0810.20.10.28	28  	Other	
+kg
+ 	Other:				
+0810.20.10.30	30  	Certified organic	
+kg
+0810.20.10.35	35  	Other	
+kg
+0810.20.10.40	40  	Other	
+kg
+0810.20.90	 	Other		Free 1/		2.8¢/kg
+ 	Raspberries:				
+0810.20.90.22	22  	Raspberries packed in units weighing (with the immediate container, if any) not more than 5.0 kg	
+kg
+0810.20.90.24	24  	Other	
+kg
+ 	Blackberries:				
+0810.20.90.45	45  	Certified organic	
+kg
+0810.20.90.60	60  	Other	
+kg
+0810.20.90.90	90  	Other	
+kg
+0810.30.00	00  	Black, white or red currants and gooseberries (other than kiwifruit)	
+kg
+Free 1/		2.8¢/kg
+0810.40.00	 	Cranberries, blueberries and other fruits of the genus Vaccinium		Free 1/		2.8¢/kg
+ 	Blueberries:				
+0810.40.00.24	24  	Wild	
+kg
+ 	Cultivated (including highbush):				
+0810.40.00.26	26  	Certified organic	
+kg
+0810.40.00.29	29  	Other	
+kg
+0810.40.00.30	30  	Cranberries	
+kg
+0810.40.00.40	40  	Other	
+kg
+0810.50.00	 	Kiwifruit		Free 1/		2.8¢/kg
+0810.50.00.10	10  	Certified organic	
+kg
+0810.50.00.90	90  	Other	
+kg
+0810.60.00	00  	Durians	
+kg
+2.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0810.70.00	00  	Persimmons	
+kg
+2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+0810.90	 	Other:				
+0810.90.27	 	Other berries; tamarinds		Free 1/		2.8¢/kg
+0810.90.27.30	30  	Tamarinds	
+kg
+0810.90.27.60	60  	Berries	
+kg
+0810.90.46	 	Other		2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0810.90.46.10	10  	Tomatillos	
+kg
+0810.90.46.20	20  	Cactus pears	
+kg
+0810.90.46.30	30  	Dragon fruit	
+kg
+0810.90.46.40	40  	Jackfruit	
+kg
+0810.90.46.50	50  	Lychee	
+kg
+0810.90.46.60	60  	Pomegranates	
+kg
+0810.90.46.70	70  	Rambutan	
+kg
+0810.90.46.80	80  	Other	
+kg
+0811	 	Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter:				
+0811.10.00	 	Strawberries		11.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0811.10.00.20	20  	In immediate containers each holding not more than 1.2 liters	
+kg
+ 	In immediate containers each holding more than 1.2 liters:				
+ 	Containing cane and/or beet sugar:				
+0811.10.00.50	50  	Not more than 25 percent by weight	
+kg
+0811.10.00.60	60  	More than 25 percent by weight	
+kg
+0811.10.00.70	70  	Other	
+kg
+0811.20	 	Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries (other than kiwi fruit):				
+0811.20.20	 	Raspberries, loganberries, black currants and gooseberries (other than kiwi fruit)		4.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Raspberries:				
+0811.20.20.25	25  	Red Raspberries	
+kg
+0811.20.20.35	35  	Other	
+kg
+0811.20.20.40	40  	Other	
+kg
+0811.20.40	 	Other		9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0811.20.40.30	30  	Blackberries	
+kg
+0811.20.40.90	90  	Other	
+kg
+0811.90	 	Other:				
+0811.90.10	00  	Bananas and plantains	
+kg
+3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0811.90.20	 	Blueberries		Free 1/		35%
+0811.90.20.24	24  	Wild	
+kg
+ 	Cultivated (Including highbush):				
+0811.90.20.30	30  	Certified organic	
+kg
+0811.90.20.40	40  	Other	
+kg
+0811.90.22	00  	Boysenberries	
+kg
+11.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0811.90.25	00  	Cashew apples, mameyes colorados, sapodillas, soursops and sweetsops	
+kg
+3.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0811.90.30	00  	Coconut meat	
+kg
+Free 1/		4.9¢/kg
+0811.90.35	00  	Cranberries (Vaccinium macrocarpum)	
+kg
+Free 1/		35%
+0811.90.40	00  	Papayas	
+kg
+11.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0811.90.50	00  	Pineapples	
+kg
+0.25¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0811.90.52	00  	Mangoes	
+kg
+10.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0811.90.55	00  	Melons	
+kg
+11.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0811.90.80	 	Other		14.5% 1/	Free (A+, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Cherries:				
+0811.90.80.40	40  	Sweet varieties	
+kg
+0811.90.80.60	60  	Tart varieties	
+kg
+0811.90.80.85	85  	Frozen mixes only of combinations of strawberries, blueberries, red raspberries or blackberries	
+kg
+0811.90.80.95	95  	Other	
+kg
+0812	 	Fruit and nuts provisionally preserved, but unsuitable in that state for immediate consumption:				
+0812.10.00	00  	Cherries	
+kg
+13.4¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20.9¢/kg
+0812.90	 	Other:				
+0812.90.10	00  	Mixtures of two or more fruits	
+kg
+11.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+0812.90.20	00  	Citrus	
+kg
+1.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0812.90.30	00  	Figs	
+kg
+2.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0812.90.40	00  	Pineapples	
+kg
+0.25¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0812.90.50	00  	Strawberries	
+kg
+0.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.8¢/kg
+0812.90.90	00  	Other	
+kg
+0.1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.1¢/kg
+0813	 	Fruit, dried, other than that of headings 0801 to 0806; mixtures of nuts or dried fruits of this chapter:				
+0813.10.00	00  	Apricots	
+kg
+1.8¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0813.20	 	Prunes:				
+0813.20.10	00  	Soaked in brine and dried	
+kg
+2¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0813.20.20	 	Other		14% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0813.20.20.10	10  	Dried, whether or not pitted	
+kg
+0813.20.20.90	90  	Other	
+kg
+0813.30.00	00  	Apples	
+kg
+0.74¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0813.40	 	Other fruit:				
+0813.40.10	00  	Papayas	
+kg
+1.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Berries:				
+0813.40.15	00  	Barberries	
+kg
+3.5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0813.40.20	 	Other		1.4¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+0813.40.20.10	10  	Wild blueberries	
+kg
+0813.40.20.20	20  	Cultivated (including highbush) blueberries	
+kg
+0813.40.20.60	60  	Other	
+kg
+0813.40.30	 	Cherries		10.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	13.2¢/kg
+0813.40.30.10	10  	Tart varieties(Prunus cerasus)	
+kg
+0813.40.30.90	90  	Other	
+kg
+0813.40.40	00  	Peaches	
+kg
+1.4¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0813.40.80	00  	Tamarinds	
+kg
+6.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0813.40.90	00  	Other	
+kg
+2.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0813.50.00	 	Mixtures of nuts or dried fruits of this chapter		14% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+0813.50.00.20	20  	Containing only fruit	
+kg
+0813.50.00.40	40  	Containing only nuts	
+kg
+0813.50.00.60	60  	Other	
+kg
+0814.00	 	Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulfur water or in other preservative solutions:				
+0814.00.10	00  	Orange or citron	
+kg
+Free 1/		4.4¢/kg
+0814.00.40	00  	Lime	
+kg
+1.6¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+0814.00.80	00  	Other	
+kg
+1.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg

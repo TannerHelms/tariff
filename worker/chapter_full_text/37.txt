@@ -1,0 +1,184 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+3701	 	Photographic plates and film in the flat, sensitized, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitized, unexposed, whether or not in packs:				
+3701.10.00	 	For X-ray		3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3701.10.00.30	30  	Medical, other than dental	
+m2
+3701.10.00.60	60  	Other	
+m2
+3701.20.00	 	Instant print film		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	25%
+3701.20.00.30	30  	For color photography (polychrome)	
+No.
+3701.20.00.60	60  	Other	
+No.
+3701.30.00	00  	Other plates and film, with any side exceeding 255 mm	
+m2
+Free 1/		25% 1/
+ 	Other:				
+3701.91.00	 	For color photography (polychrome)		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3701.91.00.30	30  	Disc film	
+No.
+3701.91.00.60	60  	Other	
+m2
+3701.99	 	Other:				
+3701.99.30	00  	Dry plates	
+m2
+Free 1/		20%
+3701.99.60	 	Other		Free 1/		25%
+3701.99.60.30	30  	Graphic arts film	
+m2
+3701.99.60.60	60  	Other	
+m2
+3702	 	Photographic film in rolls, sensitized, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitized, unexposed:				
+3702.10.00	 	For X-ray		3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3702.10.00.30	30  	Medical, other than dental	
+m2
+3702.10.00.60	60  	Other	
+m2
+ 	Other film, without perforations, of a width not exceeding 105 mm:				
+3702.31.01	00  	For color photography (polychrome)	
+No.
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+3702.32.01	 	Other, with silver halide emulsion		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3702.32.01.30	30  	Microfilm	
+m2
+3702.32.01.60	60  	Other	
+m2
+3702.39.01	00  	Other	
+m2
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other film, without perforations, of a width exceeding 105 mm:				
+3702.41.01	00  	Of a width exceeding 610 mm and of a length exceeding 200 m, for color photography (polychrome)	
+m2
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3702.42.01	00  	Of a width exceeding 610 mm and of a length exceeding 200 m, other than for color photography	
+m2
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3702.43.01	00  	Of a width exceeding 610 mm and of a length not exceeding 200 m	
+m2
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3702.44.01	 	Of a width exceeding 105 mm but not exceeding 610 mm		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3702.44.01.30	30  	Graphic arts film	
+m2
+3702.44.01.60	60  	Other	
+m2
+ 	Other film, for color photography (polychrome):				
+3702.52.01	 	Of a width not exceeding 16 mm		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3702.52.01.30	30  	Reversal color film	
+m2
+3702.52.01.60	60  	Other	
+m2
+3702.53.00	 	Of a width exceeding 16 mm but not exceeding 35 mm and of a length not exceeding 30 m, for slides		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3702.53.00.30	30  	35 mm	
+No.
+3702.53.00.60	60  	Other	
+No.
+3702.54.00	 	Of a width exceeding 16 mm but not exceeding 35 mm and of a length not exceeding 30 m, other than for slides		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3702.54.00.30	30  	35 mm	
+No.
+3702.54.00.60	60  	Other	
+No.
+3702.55.00	 	Of a width exceeding 16 mm but not exceeding 35 mm and of a length exceeding 30 m		Free 1/		38¢/m2
+3702.55.00.30	30  	Reversal color film	
+m2
+3702.55.00.60	60  	Other	
+m2
+3702.56.00	 	Of a width exceeding 35 mm		Free 1/		38¢/m2
+3702.56.00.30	30  	Motion-picture film	
+m
+m2
+3702.56.00.60	60  	Other	
+m2
+ 	Other:				
+3702.96.00	00  	Of a width not exceeding 35 mm and of a length not exceeding 30 m	
+m2
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3702.97.00	00  	Of a width not exceeding 35 mm and of a length exceeding 30 m	
+m2
+Free 1/		38¢/m2
+3702.98.00	00  	Of a width exceeding 35 mm	
+m2
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+3703	 	Photographic paper, paperboard and textiles, sensitized, unexposed:				
+3703.10	 	In rolls of a width exceeding 610 mm:				
+3703.10.30	 	Silver halide papers		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	For pictorial use (continuous tone):				
+3703.10.30.30	30  	For color photography (polychrome)	
+m2
+3703.10.30.60	60  	Other	
+m2
+3703.10.30.90	90  	Other (line reproduction)	
+m2
+3703.10.60	00  	Other	
+m2
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3703.20	 	Other, for color photography (polychrome):				
+3703.20.30	 	Silver halide papers		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3703.20.30.30	30  	For pictorial use (continuous tone)	
+m2
+3703.20.30.60	60  	Other (line reproduction)	
+m2
+3703.20.60	00  	Other	
+m2
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3703.90	 	Other:				
+3703.90.30	 	Silver halide papers		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+ 	For pictorial use (continuous tone):				
+3703.90.30.30	30  	In sheets	
+m2
+3703.90.30.60	60  	Other	
+m2
+3703.90.30.90	90  	Other (line reproduction)	
+m2
+3703.90.60	00  	Other	
+m2
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+3704.00.00	00  	Photographic plates, film, paper, paperboard and textiles, exposed but not developed	
+m2
+Free 1/		$3.88/m2
+3705.00.00	00  	Photographic plates and film, exposed and developed, other than cinematographic film	
+m²
+Free 1/		25%
+3706	 	Motion-picture film, exposed and developed, whether or not incorporating sound track or consisting only of sound track:				
+3706.10	 	Of a width of 35 mm or more:				
+3706.10.30	00  	Sound recordings on motion-picture film suitable for use in connection with motion-picture exhibits	
+m
+1.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7%
+3706.10.60	 	Other		Free 1/		10¢/m
+ 	Feature films:				
+3706.10.60.30	30  	Positive release prints	
+m
+3706.10.60.60	60  	Other	
+m
+3706.10.60.90	90  	Other	
+m
+3706.90.00	 	Other		Free 1/		10¢/m
+3706.90.00.30	30  	Positive release prints	
+m
+3706.90.00.60	60  	Other	
+m
+3707	 	Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for use:				
+3707.10.00	 	Sensitizing emulsions		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+3707.10.00.05	05  	For use in color negative photographic paper	
+kg
+3707.10.00.90	90  	Other	
+kg
+3707.90	 	Other:				
+ 	Chemical preparations for photographic uses:				
+3707.90.31	00  	Acid violet 19	
+kg
+Free 1/ 1/		15.4¢/kg + 50%
+3707.90.32	 	Other		Free 1/ 1/		15.4¢/kg +50%
+3707.90.32.10	10  	Unsensitized emulsions, for use in color negative photographic paper	
+kg
+3707.90.32.20	20  	Couplers, for use in color negative photographic paper	
+kg
+3707.90.32.30	30  	Coupler dispersions, for use in color negative photographic paper	
+kg
+3707.90.32.90	90  	Other	
+kg
+3707.90.60	00  	Unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for use	
+kg
+Free 1/ 1/		4.5%

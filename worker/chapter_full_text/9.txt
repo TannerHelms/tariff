@@ -1,0 +1,252 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+0901	 	Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion:				
+ 	Coffee, not roasted:				
+0901.11.00	 	Not decaffeinated		Free 1/		Free
+ 	Arabica:				
+0901.11.00.15	15  	Certified organic	
+kg
+0901.11.00.25	25  	Other	
+kg
+ 	Other:				
+0901.11.00.45	45  	Certified organic	
+kg
+0901.11.00.55	55  	Other	
+kg
+0901.12.00	 	Decaffeinated		Free 1/		Free
+0901.12.00.15	15  	Certified organic	
+kg
+0901.12.00.25	25  	Other	
+kg
+ 	Coffee, roasted:				
+0901.21.00	 	Not decaffeinated		Free 1/		Free
+ 	In retail containers weighing 2 kg or less:				
+0901.21.00.35	35  	Certified organic	
+kg
+0901.21.00.45	45  	Other	
+kg
+ 	Other:				
+0901.21.00.55	55  	Certified organic	
+kg
+0901.21.00.65	65  	Other	
+kg
+0901.22.00	 	Decaffeinated		Free 1/		Free
+ 	In retail containers weighing 2 kg or less:				
+0901.22.00.35	35  	Certified organic	
+kg
+0901.22.00.45	45  	Other	
+kg
+0901.22.00.60	60  	Other	
+kg
+0901.90	 	Other:				
+0901.90.10	00  	Coffee husks and skins	
+kg
+Free 1/		10%
+0901.90.20	00  	Coffee substitutes containing coffee	
+kg
+1.5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+0902	 	Tea, whether or not flavored:				
+0902.10	 	Green tea (not fermented) in immediate packings of a content not exceeding 3 kg:				
+0902.10.10	 	Flavored		6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.2% (JP)	20%
+0902.10.10.15	15  	Certified organic	
+kg
+0902.10.10.50	50  	Other	
+kg
+0902.10.90	 	Other		Free 1/		Free
+0902.10.90.15	15  	Certified organic	
+kg
+0902.10.90.50	50  	Other	
+kg
+0902.20	 	Other green tea (not fermented):				
+0902.20.10	00  	Flavored	
+kg
+6.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 3.2% (JP)	20%
+0902.20.90	 	Other		Free 1/		Free
+0902.20.90.15	15  	Certified organic	
+kg
+0902.20.90.50	50  	Other	
+kg
+0902.30.00	 	Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg		Free 1/		Free
+ 	In tea bags:				
+0902.30.00.15	15  	Certified organic	
+kg
+0902.30.00.50	50  	Other	
+kg
+0902.30.00.90	90  	Other	
+kg
+0902.40.00	00  	Other black tea (fermented) and other partly fermented tea	
+kg
+Free 1/		Free
+0903.00.00	00  	Maté	
+kg
+Free 1/		10%
+0904	 	Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum (peppers) or of the genus Pimenta (e.g., allspice):				
+ 	Pepper of the genus Piper:				
+0904.11.00	 	Neither crushed nor ground		Free 1/		Free
+0904.11.00.20	20  	Black	
+kg
+0904.11.00.40	40  	White	
+kg
+0904.12.00	00  	Crushed or ground	
+kg
+Free 1/		2¢/kg
+ 	Fruits of the genus Capsicum or of the genus Pimenta:				
+0904.21	 	Dried, neither crushed nor ground:				
+ 	Of the genusCapsicum(including cayenne pepper, paprika and red pepper):				
+0904.21.20	00  	Paprika	
+kg
+3¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0904.21.40	00  	Anaheim and ancho pepper	
+kg
+5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0904.21.60	 	Other		2.5¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0904.21.60.10	10  	Bell peppers	
+kg
+0904.21.60.20	20  	Jalapeno peppers	
+kg
+0904.21.60.90	90  	Other	
+kg
+0904.21.80	00  	Of the genus Pimenta (including allspice)	
+kg
+Free 1/		Free
+0904.22	 	Crushed or ground:				
+ 	Of the genus Capsicum (including cayenne Pepper, paprika and red pepper):				
+0904.22.20	00  	Paprika	
+kg
+3¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0904.22.40	00  	Anaheim and ancho pepper	
+kg
+5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0904.22.73	00  	Mixtures of mashed or macerated hot red peppers and salt	
+kg
+Free 1/		17.6¢/kg
+0904.22.76	00  	Other	
+kg
+5¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg
+0904.22.80	00  	Of the genus Pimenta (including allspice)	
+kg
+Free 1/		Free
+0905	 	Vanilla:				
+0905.10.00	00  	Neither crushed nor ground	
+kg
+Free 1/		66¢/kg
+0905.20.00	00  	Crushed or ground	
+kg
+Free 1/		66¢/kg
+0906	 	Cinnamon and cinnamon-tree flowers:				
+ 	Neither crushed nor ground:				
+0906.11.00	00  	Cinnamon (Cinnamomum zeylanicum Blume)	
+kg
+Free 1/		Free
+0906.19.00	00  	Other	
+kg
+Free 1/		Free
+0906.20.00	00  	Crushed or ground	
+kg
+Free 1/		11¢/kg
+0907	 	Cloves (whole fruit, cloves and stems):				
+0907.10.00	00  	Neither crushed nor ground	
+kg
+Free 1/		Free
+0907.20.00	00  	Crushed or ground	
+kg
+Free 1/		Free
+0908	 	Nutmeg, mace and cardamoms:				
+ 	Nutmeg:				
+0908.11.00	00  	Neither crushed nor ground	
+kg
+Free 1/		Free
+0908.12.00	00  	Crushed or ground	
+kg
+Free 1/		Free
+ 	Mace:				
+0908.21.00	00  	Neither crushed nor ground	
+kg
+Free 1/		Free
+0908.22	 	Crushed or ground:				
+0908.22.20	00  	Bombay or wild mace, ground	
+kg
+7.4¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49¢/kg
+0908.22.40	00  	Other	
+kg
+Free 1/		Free
+ 	Cardamoms:				
+0908.31.00	00  	Neither crushed nor ground	
+kg
+Free 1/		Free
+0908.32.00	00  	Crushed or ground	
+kg
+Free 1/		Free
+0909	 	Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries:				
+ 	Seeds of coriander:				
+0909.21.00	00  	Neither crushed nor ground	
+kg
+Free 1/		Free
+0909.22.00	00  	Crushed or ground	
+kg
+Free 1/		Free
+ 	Seeds of cumin:				
+0909.31.00	00  	Neither crushed nor ground	
+kg
+Free 1/		Free
+0909.32.00	00  	Crushed or ground	
+kg
+Free 1/		Free
+ 	Seeds of anise, badian, caraway or fennel; juniper berries:				
+0909.61.00	00  	Neither crushed nor ground	
+kg
+Free 1/		Free
+0909.62.00	00  	Crushed or ground	
+kg
+Free 1/		Free
+0910	 	Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices:				
+ 	Ginger:				
+0910.11.00	 	Neither crushed nor ground		Free 1/		Free
+0910.11.00.10	10  	Certified organic	
+kg
+0910.11.00.15	15  	Other	
+kg
+0910.12.00	00  	Crushed or ground	
+kg
+1¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11¢/kg
+0910.20.00	00  	Saffron	
+kg
+Free 1/		Free
+0910.30.00	00  	Turmeric (curcuma)	
+kg
+Free 1/		Free
+ 	Other spices:				
+0910.91.00	00  	Mixtures referred to in note 1(b) to this chapter	
+kg
+1.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0910.99	 	Other:				
+ 	Thyme; bay leaves:				
+0910.99.05	00  	Crude or not manufactured	
+kg
+Free 1/		Free
+ 	Other:				
+0910.99.06	00  	Thyme	
+kg
+4.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0910.99.07	00  	Bay leaves	
+kg
+3.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+0910.99.10	00  	Curry	
+kg
+Free 1/		11¢/kg
+ 	Origanum (Lippia spp.):				
+0910.99.20	00  	Crude or not manufactured	
+kg
+Free 1/		Free
+0910.99.40	00  	Other	
+kg
+3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+0910.99.50	00  	Dill	
+kg
+Free 1/		25%
+0910.99.60	00  	Other	
+kg
+1.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%

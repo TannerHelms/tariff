@@ -1,0 +1,296 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+2601	 	Iron ores and concentrates, including roasted iron pyrites:				
+ 	Iron ores and concentrates, other than roasted iron pyrites:				
+2601.11.00	 	Non-agglomerated		Free 1/		Free
+2601.11.00.30	30  	Concentrates	
+t
+ 	Ores:				
+2601.11.00.60	60  	Coarse	
+t
+2601.11.00.90	90  	Other	
+t
+2601.12.00	 	Agglomerated		Free 1/		Free 1/
+2601.12.00.30	30  	Pellets	
+t
+2601.12.00.60	60  	Briquettes	
+t
+2601.12.00.90	90  	Other	
+t
+2601.20.00	00  	Roasted iron pyrites	
+t
+Free 1/		Free
+2602.00.00	 	Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20 percent or more, calculated on the dry weight		Free		2.2¢/kg on manganese content
+2602.00.00.40	40  	Containing less than 47 percent by weight of manganese	
+kg
+Mn kg
+2602.00.00.60	60  	Containing 47 percent or more by weight of manganese	
+kg
+Mn kg
+2603.00.00	 	Copper ores and concentrates		1.7¢/kg on lead content	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content
+2603.00.00.10	10  	Copper content	
+Cu kg 1/
+2603.00.00.20	20  	Lead content	
+Pb kg 1/
+2603.00.00.30	30  	Zinc content	
+Zn kg 1/
+2603.00.00.40	40  	Silver content	
+Ag g 1/
+2603.00.00.50	50  	Gold content	
+Au g 1/
+2604.00.00	 	Nickel ores and concentrates		Free 1/		Free
+2604.00.00.40	40  	Nickel content	
+Ni kg 1/
+2604.00.00.80	80  	Other metal content	
+kg 1/
+2605.00.00	00  	Cobalt ores and concentrates	
+kg
+Co kg
+Free		Free
+2606.00.00	 	Aluminum ores and concentrates		Free		$1/t
+ 	Bauxite, calcined:				
+2606.00.00.30	30  	Refractory grade	
+t
+2606.00.00.60	60  	Other	
+t
+2606.00.00.90	90  	Other	
+t
+2607.00.00	 	Lead ores and concentrates		1.1¢/kg on lead content 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content
+2607.00.00.10	10  	Copper content	
+Cu kg 1/
+2607.00.00.20	20  	Lead content	
+Pb kg 1/
+2607.00.00.30	30  	Zinc content	
+Zn kg 1/
+2607.00.00.40	40  	Silver content	
+Ag g 1/
+2607.00.00.50	50  	Gold content	
+Au g 1/
+2608.00.00	 	Zinc ores and concentrates		Free		8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content
+2608.00.00.10	10  	Copper content	
+Cu kg 1/
+2608.00.00.20	20  	Lead content	
+Pb kg 1/
+2608.00.00.30	30  	Zinc content	
+Zn kg 1/
+2608.00.00.40	40  	Silver content	
+Ag g 1/
+2608.00.00.50	50  	Gold content	
+Au g 1/
+2609.00.00	00  	Tin ores and concentrates	
+t
+Sn t
+Free		Free
+2610.00.00	 	Chromium ores and concentrates		Free		Free
+2610.00.00.20	20  	Having a chromium content equivalent to not more than 40 percent chromic oxide (Cr2O3)	
+t
+Cr2O3 t
+2610.00.00.40	40  	Having a chromium content equivalent to more than 40 percent but less than 46 percent chromic oxide (Cr2O3)	
+t
+Cr2O3 t
+2610.00.00.60	60  	Having a chromium content equivalent to 46 percent or more chromic oxide (Cr2O3)	
+t
+Cr2O3 t
+2611.00	 	Tungsten ores and concentrates:				
+2611.00.30	00  	Ores	
+kg
+W kg
+Free		$1.10/kg on tungsten content
+2611.00.60	00  	Concentrates	
+kg
+W kg
+37.5¢/kg on tungsten content	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg on tungsten content
+2612	 	Uranium or thorium ores and concentrates:				
+2612.10.00	00  	Uranium ores and concentrates	
+kg
+Free 1/		Free
+2612.20.00	00  	Thorium ores and concentrates	
+t
+Free		Free
+2613	 	Molybdenum ores and concentrates:				
+2613.10.00	00  	Roasted	
+kg
+Mo kg
+12.8¢/kg on molybdenum content + 1.8%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg on molybdenum content + 15%
+2613.90.00	00  	Other	
+kg
+Mo kg
+17.8¢/kg on molybdenum content	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg on molybdenum content
+2614.00	 	Titanium ores and concentrates:				
+2614.00.30	00  	Synthetic rutile	
+kg
+Free 1/		30%
+2614.00.60	 	Other		Free 1/		Free
+2614.00.60.20	20  	Ilmenite and ilmenite sand	
+kg
+2614.00.60.40	40  	Other (including rutile and rutile sand)	
+kg
+2615	 	Niobium (columbium), tantalum, vanadium or zirconium ores and concentrates:				
+2615.10.00	00  	Zirconium ores and concentrates	
+kg
+Free 1/		Free 1/
+2615.90	 	Other:				
+2615.90.30	00  	Synthetic tantalum-niobium (columbium) concentrates	
+kg
+Free 1/		30%
+2615.90.60	 	Other		Free 1/		Free
+2615.90.60.30	30  	Niobium (columbium) ores and concentrates	
+kg
+2615.90.60.60	60  	Tantalum ores and concentrates	
+kg
+2615.90.60.90	90  	Vanadium ores and concentrates	
+kg
+V2O5 kg
+2616	 	Precious metal ores and concentrates:				
+2616.10.00	 	Silver ores and concentrates		0.8¢/kg on lead content 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content
+2616.10.00.10	10  	Copper content	
+Cu kg 1/
+2616.10.00.20	20  	Lead content	
+Pb kg 1/
+2616.10.00.30	30  	Zinc content	
+Zn kg 1/
+2616.10.00.40	40  	Silver content	
+Ag g 1/
+2616.10.00.80	80  	Gold content	
+Au g 1/
+2616.90.00	 	Other		1.7¢/kg on lead content 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content
+2616.90.00.10	10  	Copper content	
+Cu kg 1/
+2616.90.00.20	20  	Lead content	
+Pb kg 1/
+2616.90.00.30	30  	Zinc content	
+Zn kg 1/
+2616.90.00.40	40  	Gold content	
+Au g 1/
+2616.90.00.50	50  	Other precious metal content	
+g 1/
+2617	 	Other ores and concentrates:				
+2617.10.00	00  	Antimony ores and concentrates	
+kg
+Sb kg
+Free		Free
+2617.90.00	 	Other		Free 1/		Free
+2617.90.00.30	30  	Beryllium ores and concentrates	
+kg
+2617.90.00.60	60  	Other	
+kg
+2618.00.00	00  	Granulated slag (slag sand) from the manufacture of iron or steel	
+t
+Free 1/		10%
+2619.00	 	Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel:				
+2619.00.30	00  	Ferrous scale	
+t
+Free 1/		73.8¢/t
+2619.00.90	00  	Other	
+kg
+Free 1/		Free
+2620	 	Slag, ash and residues (other than from the manufacture of iron or steel), containing arsenic, metals or their compounds:				
+ 	Containing mainly zinc:				
+2620.11.00	00  	Hard zinc spelter	
+kg
+Free 1/		5%
+2620.19	 	Other:				
+2620.19.30	00  	Zinc dross and zinc skimmings	
+kg
+Zn kg
+Free 1/		3.3¢/kg
+2620.19.60	 	Other		0.7¢/kg on copper content + 0.7¢/kg on lead content 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content
+2620.19.60.10	10  	Copper content	
+Cu kg 1/
+2620.19.60.20	20  	Lead content	
+Pb kg 1/
+2620.19.60.30	30  	Zinc content	
+Zn kg 1/
+2620.19.60.40	40  	Silver content	
+Ag g 1/
+2620.19.60.50	50  	Gold content	
+Au g 1/
+ 	Containing mainly lead:				
+2620.21.00	 	Leaded gasoline sludges and leaded anti-knock compound sludges		Free 1/		8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content
+2620.21.00.10	10  	Copper content	
+Cu kg 1/
+2620.21.00.20	20  	Lead content	
+Pb kg 1/
+2620.21.00.30	30  	Zinc content	
+Zn kg 1/
+2620.21.00.40	40  	Silver content	
+Ag g 1/
+2620.21.00.50	50  	Gold content	
+Au g 1/
+2620.29.00	 	Other		Free 1/		8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content
+2620.29.00.10	10  	Copper content	
+Cu kg 1/
+2620.29.00.20	20  	Lead content	
+Pb kg 1/
+2620.29.00.30	30  	Zinc content	
+Zn kg 1/
+2620.29.00.40	40  	Silver content	
+Ag g 1/
+2620.29.00.50	50  	Gold content	
+Au g 1/
+2620.30.00	 	Containing mainly copper		Free 1/		8.8¢/kg on copper content + 3.3¢/kg on lead content + 3.7¢/kg on zinc content
+2620.30.00.10	10  	Copper content	
+Cu kg 1/
+2620.30.00.20	20  	Lead content	
+Pb kg 1/
+2620.30.00.30	30  	Zinc content	
+Zn kg 1/
+2620.30.00.40	40  	Silver content	
+Ag g 1/
+2620.30.00.50	50  	Gold content	
+Au g 1/
+2620.40.00	 	Containing mainly aluminum		Free		Free
+2620.40.00.30	30  	Vanadium bearing materials	
+kg
+V2O5 kg
+2620.40.00.60	60  	Other	
+kg
+2620.60	 	Containing arsenic, mercury, thallium or their mixtures, of a kind used for the extraction of arsenic or those metalsor for the manufacture of their chemical compounds:				
+2620.60.10	00  	Of a kind used only for the extraction of arsenic or the manufacture of its chemical compounds	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2620.60.90	00  	Other	
+kg
+Free 1/		30%
+ 	Other:				
+2620.91.00	00  	Containing antimony, beryllium, cadmium, chromium or their mixtures	
+kg
+Free 1/		30%
+2620.99	 	Other:				
+2620.99.10	00  	Containing mainly vanadium	
+kg
+V2O5 kg
+Free 1/		Free
+2620.99.20	00  	Containing mainly tungsten	
+kg
+W kg
+17.6¢/kg on tungsten content + 3.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$1.32/kg on tungsten content + 40%
+2620.99.30	00  	Materials not provided for elsewhere in this heading containing by weight over 10 percent nickel	
+kg
+Ni kg
+Free 1/		Free
+2620.99.50	00  	Slag containing by weight over 40 percent titanium, and which if containing over 2 percent by weight of copper, lead, or zinc is not to be treated for the recovery thereof	
+kg
+Free 1/		Free
+2620.99.75	 	Other materials which are residues not advanced in value or condition by any means, and which if containing over 2 percent by weight of copper, lead or zinc are not to be treated for the recovery thereof		Free 1/		Free
+2620.99.75.20	20  	Vanadium bearing materials	
+kg
+V2O5 kg
+2620.99.75.60	60  	Other materials containing silver	
+Au g 1/
+2620.99.75.80	80  	Other materials containing gold	
+Au g 1/
+2620.99.75.90	90  	Other materials that do not contain vanadium, silver or gold	
+kg
+2620.99.85	00  	Other	
+kg
+Free 1/		30%
+2621	 	Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste:				
+2621.10.00	00  	Ash and residues from the incineration of municipal waste	
+t
+Free 1/		Free
+2621.90.00	00  	Other	
+t
+Free 1/		Free

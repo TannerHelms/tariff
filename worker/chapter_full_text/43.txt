@@ -1,0 +1,114 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+4301	 	Raw furskins (including heads, tails, paws and other pieces or cuttings, suitable for furriers' use), other than raw hides and skins of heading 4101, 4102 or 4103:				
+4301.10.00	 	Of mink, whole, with or without head, tail or paws		Free 1/		Free
+4301.10.00.10	10  	Wild	
+No.
+4301.10.00.20	20  	Other	
+No.
+4301.30.00	00  	Of lamb, the following: Astrakhan, Broadtail, Caracul, Persian and similar lamb, Indian, Chinese, Mongolian or Tibetan lamb, whole, with or without head, tail or paws	
+No.
+Free		Free
+4301.60	 	Of fox, whole, with or without head, tail or paws:				
+4301.60.30	00  	Of silver, black or platinum fox (including those of any fox which is a mutation, or type developed, from silver, black or platinum foxes)	
+No.
+5.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+4301.60.60	00  	Other	
+No.
+Free 1/		Free
+4301.80.02	 	Other furskins, whole, with or without head, tail or paws		Free 1/		Free
+4301.80.02.01	01  	Of hare	
+No.
+4301.80.02.02	02  	Of rabbit	
+No.
+4301.80.02.03	03  	Of beaver	
+No.
+4301.80.02.04	04  	Of muskrat	
+No.
+4301.80.02.10	10  	Of nutria	
+No.
+4301.80.02.20	20  	Of lynx	
+No.
+4301.80.02.40	40  	Of marten	
+No.
+4301.80.02.60	60  	Of sable	
+No.
+4301.80.02.70	70  	Of fisher	
+No.
+4301.80.02.75	75  	Of racoon	
+No.
+4301.80.02.80	80  	Of seal	
+No.
+4301.80.02.90	90  	Other	
+No.
+4301.90.00	00  	Heads, tails, paws and other pieces or cuttings, suitable for furriers' use	
+kg
+Free		Free
+4302	 	Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings), unassembled, or assembled (without the addition of other materials) other than those of heading 4303:				
+ 	Whole skins, with or without head, tail or paws, not assembled:				
+4302.11.00	 	Of mink		2.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4302.11.00.10	10  	Kolinsky	
+No.
+4302.11.00.20	20  	Other	
+No.
+4302.19	 	Other:				
+4302.19.13	00  	Of lamb, the following: Astrakhan, Broadtail, Caracul, Persian and similar lamb, Indian, Chinese, Mongolian or Tibetan lamb	
+No.
+2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Of beaver, chinchilla, ermine, fisher, fitch, fox, leopard, lynx, marten, nutria, ocelot, otter, pony, racoon, sable or wolf:				
+4302.19.15	00  	Of silver, black or platinum fox (including those of any fox which is a mutation, or type developed, from silver, black or platinum foxes)	
+No.
+5.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Other:				
+4302.19.30	 	Not dyed		1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4302.19.30.30	30  	Fox	
+No.
+4302.19.30.40	40  	Racoon	
+No.
+4302.19.30.70	70  	Other	
+No.
+4302.19.45	 	Dyed		2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4302.19.45.30	30  	Fox	
+No.
+4302.19.45.40	40  	Racoon	
+No.
+4302.19.45.70	70  	Other	
+No.
+4302.19.55	00  	Of rabbit or hare	
+No.
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4302.19.60	00  	Not dyed	
+No.
+3.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4302.19.75	00  	Dyed	
+No.
+1.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4302.20	 	Heads, tails, paws and other pieces or cuttings, not assembled:				
+4302.20.30	00  	Of beaver, Caracul or Persian lamb, chinchilla, ermine, fisher, fitch, fox, Kolinsky, leopard, lynx, marten, mink, nutria, ocelot, otter, pony, racoon, sable or wolf	
+kg
+2.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+4302.20.60	00  	Not dyed	
+kg
+3.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4302.20.90	00  	Dyed	
+kg
+1.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4302.30.00	00  	Whole skins and pieces or cuttings thereof, assembled	
+kg
+5.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+4303	 	Articles of apparel, clothing accessories and other articles of furskin:				
+4303.10.00	 	Articles of apparel and clothing accessories		4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+4303.10.00.30	30  	Of mink	
+No.
+4303.10.00.60	60  	Other	
+No.
+4303.90.00	00  	Other	
+No.
+Free 1/		50%
+4304.00.00	00  	Artificial fur and articles thereof	
+No.
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%

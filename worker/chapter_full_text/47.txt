@@ -1,0 +1,86 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+4701.00.00	00  	Mechanical woodpulp	
+t adw
+Free 1/		Free
+4702.00.00	 	Chemical woodpulp, dissolving grades		Free 1/		Free
+4702.00.00.20	20  	Sulfite	
+t adw
+4702.00.00.40	40  	Sulfate or soda	
+t adw
+4703	 	Chemical woodpulp, soda or sulfate, other than dissolving grades:				
+ 	Unbleached:				
+4703.11.00	00  	Coniferous	
+t adw
+Free 1/		Free
+4703.19.00	00  	Nonconiferous	
+t adw
+Free 1/		Free
+ 	Semibleached or bleached:				
+4703.21.00	 	Coniferous		Free 1/		Free
+4703.21.00.20	20  	Semibleached	
+t adw
+4703.21.00.40	40  	Bleached	
+t adw
+4703.29.00	 	Nonconiferous		Free 1/		Free
+4703.29.00.20	20  	Semibleached	
+t adw
+4703.29.00.40	40  	Bleached	
+t adw
+4704	 	Chemical woodpulp, sulfite, other than dissolving grades:				
+ 	Unbleached:				
+4704.11.00	00  	Coniferous	
+t adw
+Free 1/		Free
+4704.19.00	00  	Nonconiferous	
+t adw
+Free 1/		Free
+ 	Semibleached or bleached:				
+4704.21.00	00  	Coniferous	
+t adw
+Free 1/		Free
+4704.29.00	00  	Nonconiferous	
+t adw
+Free 1/		Free
+4705.00.00	00  	Wood pulp obtained by a combination of mechanical and chemical pulping processes	
+t adw
+Free 1/		Free
+4706	 	Pulps of fibers derived from recovered (waste and scrap) paper or paperboard or of other fibrous cellulosic material:				
+4706.10.00	00  	Cotton linters pulp	
+t adw
+Free 1/		Free
+4706.20.00	00  	Pulps of fibers derived from recovered (waste and scrap) paper or paperboard	
+t adw
+Free 1/		Free
+4706.30.00	00  	Other, of bamboo	
+t adw
+Free 1/		Free
+ 	Other:				
+4706.91.00	00  	Mechanical	
+t adw
+Free 1/		Free
+4706.92.01	00  	Chemical	
+t adw
+Free 1/		Free
+4706.93.01	00  	Obtained by a combination of mechanical and chemical processes	
+t adw
+Free 1/		Free
+4707	 	Recovered (waste and scrap) paper and paperboard:				
+4707.10.00	00  	Unbleached kraft paper or paperboard or corrugated paper or paperboard	
+t
+Free 1/		Free
+4707.20.00	 	Other paper or paperboard, made mainly of bleached chemical pulp, not colored in the mass		Free 1/		Free
+4707.20.00.20	20  	High-grade deinking paper and paperboard	
+t
+4707.20.00.40	40  	Other	
+t
+4707.30.00	 	Paper or paperboard made mainly of mechanical pulp (for example, newspapers, journals and similar printed matter)		Free 1/		Free
+4707.30.00.20	20  	Newsprint	
+t
+4707.30.00.40	40  	Other	
+t
+4707.90.00	00  	Other, including unsorted waste and scrap	
+t
+Free 1/		Free

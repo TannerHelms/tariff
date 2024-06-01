@@ -1,0 +1,1714 @@
+Heading/ Subheading Stat Suffix Article Description Unit of Quantity RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.1	2
+General	
+Special Click to view agreements information8501 Electric motors and generators (excluding generating sets):8501.10 Motors of an output not exceeding 37.5 W:Of under 18.65 W:8501.10.20 00 Synchronous, valued not over $4 eachNo.
+8501.10.40 Other 4.4% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8501.10.40.20 20 AC 1/No.
+ 	DC:				
+8501.10.40.40	40  	Brushless	
+No.
+8501.10.40.60 60 Other 1/No.
+8501.10.40.80	80  	Other	
+No.
+8501.10.60 Of 18.65 W or more but not exceeding 37.5 W 2.8% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8501.10.60.20 20 AC 1/No.
+ 	DC:				
+8501.10.60.40	40  	Brushless	
+No.
+8501.10.60.60	60  	Other	
+No.
+8501.10.60.80 80 Other 1/No.
+8501.20 Universal AC/DC motors of an output exceeding 37.5 W:8501.20.20 00 Exceeding 37.5 W but not exceeding 74.6 WNo.
+8501.20.40 00 Exceeding 74.6 W but not exceeding 735 WNo.
+8501.20.50 00 Exceeding 735 W but under 746 WNo.
+8501.20.60	00  	Other	
+No.
+Other DC motors; DC generators, other than photovoltaic generators:8501.31 Of an output not exceeding 750 W: 	Motors:				
+8501.31.20 00 Exceeding 37.5 W but not exceeding 74.6 W 1/No.
+8501.31.40 00 Exceeding 74.6 W but not exceeding 735 W 1/No.
+8501.31.50 00 Exceeding 735 W but under 746 WNo.
+8501.31.60 00 Other 1/No.
+8501.31.81	00  	Generators	
+No.
+8501.32 Of an output exceeding 750 W but not exceeding 75 kW: 	Motors:				
+8501.32.20 00 Exceeding 750 W but not exceeding 14.92 kWNo.
+ 	Other:				
+8501.32.45 00 Electric motors of a kind used as the primary source of mechanical power for electrically powered vehicles of subheadings 8703.40, 8703.50, 8703.60, 8703.70 or 8703.80No.
+Free 1/		35%
+8501.32.55 Other Free 1/ 35%8501.32.55.20 20 For use in civil aircraft 1/No.
+8501.32.55.40	40  	Other	
+No.
+8501.32.61	00  	Generators	
+No.
+8501.33 Of an output exceeding 75 kW but not exceeding 375 kW: 	Motors:				
+8501.33.20 Exceeding 75 kW but under 149.2 kW Free 1/ 35%8501.33.20.40 40 For use in civil aircraft 1/No.
+8501.33.20.80	80  	Other	
+No.
+8501.33.30 00 149.2 kW or more but not exceeding 150 kWNo.
+8501.33.40 Other 2.8% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8501.33.40.40 40 Not exceeding 373 kWNo.
+8501.33.40.60	60  	Other	
+No.
+8501.33.61	00  	Generators	
+No.
+8501.34 Of an output exceeding 375 kW:8501.34.30	00  	Motors	
+No.
+8501.34.61	00  	Generators	
+No.
+8501.40 Other AC motors, single-phase:8501.40.20 Of an output exceeding 37.5 W but not exceeding 74.6 W 3.3% 1/ Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8501.40.20.20 20 Gear motorsNo.
+8501.40.20.40 40 Other 1/No.
+8501.40.40 Of an output exceeding 74.6 W but not exceeding 735 W 4% 1/ Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8501.40.40.20 20 Gear motors 1/No.
+8501.40.40.40 40 Other 1/No.
+8501.40.50 Of an output exceeding 735 W but under 746 W 3.3% 1/ Free (A*, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8501.40.50.20 20 Gear motorsNo.
+8501.40.50.40	40  	Other	
+No.
+8501.40.60 Other 3.7% 1/ Free (A*, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8501.40.60.20 20 Gear motorsNo.
+8501.40.60.40 40 Other 1/No.
+Other AC motors, multi-phase:8501.51 Of an output not exceeding 750 W:8501.51.20 Exceeding 37.5 W but not exceeding 74.6 W 2.5% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%8501.51.20.20 20 Gear motorsNo.
+8501.51.20.40	40  	Other	
+No.
+8501.51.40 Exceeding 74.6 W but not exceeding 735 W 2.5% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%8501.51.40.20 20 Gear motorsNo.
+8501.51.40.40 40 Other 1/No.
+8501.51.50 Exceeding 735 W but under 746 W 3.3% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%8501.51.50.20 20 Gear motorsNo.
+8501.51.50.40	40  	Other	
+No.
+8501.51.60 Other 2.5% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%8501.51.60.20 20 Gear motorsNo.
+8501.51.60.40	40  	Other	
+No.
+8501.52 Of an output exceeding 750 W but not exceeding 75 kW:8501.52.40 00 Exceeding 750 W but not exceeding 14.92 kWNo.
+8501.52.80 Other Free 1/ 35%8501.52.80.20 20 For use in civil aircraft 1/No.
+8501.52.80.40	40  	Other	
+No.
+8501.53 Of an output exceeding 75 kW:8501.53.40 Exceeding 75 kW but under 149.2 kW Free 1/ 35%8501.53.40.40 40 For use in civil aircraft 1/No.
+8501.53.40.80	80  	Other	
+No.
+8501.53.60 00 149.2 kW or more but not exceeding 150 kWNo.
+8501.53.80 Other 2.8% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8501.53.80.40 40 Not exceeding 373 kW 1/No.
+8501.53.80.60	60  	Other	
+No.
+AC generators (alternators), other than photovoltaic generators:8501.61.01 00 Of an output not exceeding 75 kVANo.
+8501.62.01 00 Of an output exceeding 75 kVA but not exceeding 375 kVANo.
+8501.63.01 00 Of an output exceeding 375 kVA but not exceeding 750 kVANo.
+8501.64.01 Of an output exceeding 750 kVA 2.4% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%Exceeding 750 kVA but not exceeding 10,000 kVA:8501.64.01.21 21 For wind-powered generating sets classified within 8502.31.00No.
+8501.64.01.25	25  	Other	
+No.
+8501.64.01.30 30 Exceeding 10,000 kVA but not exceeding 40,000 kVANo.
+8501.64.01.50	50  	Other	
+No.
+ 	Photovoltaic DC generators:				
+8501.71.00 00 Of an output not exceeding 50 WNo.
+W
+8501.72 Of an output exceeding 50 W:8501.72.10 00 Of an output not exceeding 750 WNo.
+W
+8501.72.20 00 Of an output exceeding 750 W but not exceeding 75 kWNo.
+W
+8501.72.30 00 Of an output exceeding 75 kW but not exceeding 375 kWNo.
+W
+8501.72.90	00  	Other	
+No.
+W
+8501.80 Photovoltaic AC generators:8501.80.10 00 Of an output not exceeding 75 kVANo.
+W
+8501.80.20 00 Of an output exceeding 75 kVA but not exceeding 375 kVANo.
+W
+8501.80.30 00 Of an output exceeding 375 kVA but not exceeding 750 kVANo.
+W
+8501.80.90	00  	Other	
+No.
+W
+8502 Electric generating sets and rotary converters:Generating sets with compression-ignition internal combustion piston engines (diesel or semi-diesel engines):8502.11.00 00 Of an output not exceeding 75 kVANo.
+8502.12.00 00 Of an output exceeding 75 kVA but not exceeding 375 kVANo.
+8502.13.00 Of an output exceeding 375 kVA 2% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8502.13.00.20 20 Exceeding 375 kVA but not exceeding 1,000 kVANo.
+8502.13.00.40 40 Exceeding 1,000 kVANo.
+8502.20.00 Generating sets with spark-ignition internal combustion piston engines 2% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%8502.20.00.30 30 Of an output not exceeding 1.875 kVANo.
+8502.20.00.60 60 Of an output exceeding 1.875 kVA but not exceeding 6.25 kVANo.
+8502.20.00.70 70 Of an output exceeding 6.25 kVA but not exceeding 75 kVANo.
+8502.20.00.85 85 Of an output exceeding 75 kVANo.
+ 	Other generating sets:				
+8502.31.00	00  	Wind-powered	
+No.
+8502.39.00 Other 2.5% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%8502.39.00.40 40 Powered by steam turbineNo.
+8502.39.00.80	80  	Other	
+No.
+8502.40.00 00 Electric rotary convertersNo.
+8503.00 Parts suitable for use solely or principally with the machines of heading 8501 or 8502:8503.00.20	00  	Commutators	
+No.
+Stators and rotors for the goods of heading 8501:8503.00.35 00 For motors of under 18.65 WNo.
+8503.00.45 00 For generators suitable for use on aircraftNo.
+Free 1/		35%
+8503.00.65	00  	Other	
+No.
+ 	Other:				
+8503.00.75 00 For motors of under 18.65 WNo.
+8503.00.90 00 For generators suitable for use on aircraftNo.
+Free 1/		35%
+8503.00.95 Other 3% 1/ Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8503.00.95.20 20 Parts of motors 	Parts of generators:				
+8503.00.95.46 46 For AC generators (alternators) classified in subheading 8501.64.018503.00.95.50	50  	Other 	Other:				
+8503.00.95.70 70 Parts of wind-powered generating sets classified in subheading 8502.31.008503.00.95.80	80  	Other	
+8504 Electrical transformers, static converters (for example, rectifiers) and inductors; parts thereof:8504.10.00 00 Ballasts for discharge lamps or tubesNo.
+ 	Liquid dielectric transformers:				
+8504.21.00 Having a power handling capacity not exceeding 650 kVA Free 1/ 35%8504.21.00.20 20 Having a power handling capacity not exceeding 50 kVANo.
+8504.21.00.40 40 Having a power handling capacity exceeding 50 kVA but not exceeding 100 kVANo.
+8504.21.00.60 60 Having a power handling capacity exceeding 100 kVA but not exceeding 500 kVANo.
+8504.21.00.80 80 Having a power handling capacity exceeding 500 kVA but not exceeding 650 kVANo.
+8504.22.00 Having a power handling capacity exceeding 650 kVA but not exceeding 10,000 kVA Free 1/ 35%8504.22.00.40 40 Having a power handling capacity exceeding 650 kVA but not exceeding 2,500 kVANo.
+8504.22.00.80 80 Having a power handling capacity exceeding 2,500 kVA but not exceeding 10,000 kVANo.
+8504.23.00 Having a power handling capacity exceeding 10,000 kVA 1.6% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8504.23.00.41 41 Having a power handling capacity exceeding 10,000 kVA but not exceeding 59,999 kVANo.
+8504.23.00.45 45 Having a power handling capacity exceeding 59,999 kVA but not exceeding 100,000 kVANo.
+8504.23.00.80 80 Having a power handling capacity exceeding 100,000 kVANo.
+ 	Other transformers:				
+8504.31 Having a power handling capacity not exceeding 1 kVA:8504.31.20	00  	Unrated	
+No.
+Free 1/		35%
+ 	Other:				
+8504.31.40 Having a power handling capacity less than 1 kVA 6.6% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8504.31.40.35 35 Having a power handling capacity less than 40 VANo.
+8504.31.40.65 65 Having a power handling capacity 40 VA or greaterNo.
+8504.31.60 00 Having a power handling capacity of 1 kVANo.
+8504.32.00 00 Having a power handling capacity exceeding 1 kVA but not exceeding 16 kVANo.
+8504.33.00 Having a power handling capacity exceeding 16 kVA but not exceeding 500 kVA 1.6% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%8504.33.00.20 20 Having a power handling capacity exceeding 16 kVA but not exceeding 50 kVANo.
+8504.33.00.40 40 Having a power handling capacity exceeding 50 kVA but not exceeding 500 kVANo.
+8504.34.00 00 Having a power handling capacity exceeding 500 kVANo.
+8504.40	 	Static converters:				
+8504.40.40 00 Speed drive controllers for electric motors 1/No.
+Free 1/		35%
+Power supplies for automatic data processing machines or units thereof of heading 8471; power supplies for goods of subheading 8443.31 or 8443.32; power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62:8504.40.60 Suitable for physical incorporation into automatic data processing machines or units thereof of heading 8471 Free 1/ 35%8504.40.60.01 01 With a power output not exceeding 50 WNo.
+8504.40.60.07 07 With a power output exceeding 50 W but not exceeding 150 WNo.
+8504.40.60.12 12 With a power output exceeding 150 W but not exceeding 500 WNo.
+8504.40.60.18	18  	Other	
+No.
+8504.40.70 Other Free 1/ 35%8504.40.70.01 01 With a power output not exceeding 50 WNo.
+8504.40.70.07 07 With a power output exceeding 50 W but not exceeding 150 WNo.
+8504.40.70.12 12 With a power output exceeding 150 W but not exceeding 500 WNo.
+8504.40.70.18	18  	Other	
+No.
+8504.40.85 00 For telecommunication apparatus 1/No.
+Free 1/		35%
+8504.40.95 Other Free 1/ 35%Rectifiers and rectifying apparatus: 	Power supplies:				
+8504.40.95.10 10 With a power output not exceeding 50 WNo.
+8504.40.95.20 20 With a power output exceeding 50 W but not exceeding 150 WNo.
+8504.40.95.30 30 With a power output exceeding 150 W but not exceeding 500 WNo.
+8504.40.95.40	40  	Other	
+No.
+8504.40.95.50	50  	Other	
+No.
+8504.40.95.70	70  	Inverters	
+No.
+8504.40.95.80 80 Other 1/No.
+8504.50	 	Other inductors:				
+8504.50.40 00 For power supplies for automatic data processing machines or units thereof of heading 8471; power supplies for goods of subheading 8443.31 or 8443.32; power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62; for telecommunication apparatusNo.
+Free 1/		35%
+8504.50.80	00  	Other	
+No.
+Free 1/		35%
+8504.90	 	Parts:				
+Of power supplies for automatic data processing machines or units thereof of heading 8471; of power supplies for goods of subheading 8443.31 or 8443.32; of power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62:8504.90.20 00 Printed circuit assembliesNo.
+Free 1/		35%
+8504.90.41	00  	Other	
+No.
+Free 1/		35%
+ 	Other:			 	Printed circuit assemblies:				
+8504.90.65 00 Of the goods of subheading 8504.40 or 8504.50 for telecommunication apparatusNo.
+Free 1/		35%
+8504.90.75 00 Other 1/No.
+Free 1/		35%
+8504.90.96 Other: Free 1/ 35% 	Ferrites:				
+8504.90.96.10 10 For transformersNo.
+8504.90.96.30	30  	Other	
+No.
+ 	Other parts:			 	Of transformers:				
+8504.90.96.34 34 Laminations for incorporation into stacked coresNo.
+8504.90.96.38 38 Stacked cores for incorporation into transformersNo.
+8504.90.96.42 42 Wound cores for incorporation into transformersNo.
+8504.90.96.46	46  	Other	
+No.
+8504.90.96.50 50 Of static convertersNo.
+8504.90.96.90	90  	Other	
+No.
+8505 Electromagnets; permanent magnets and articles intended to become permanent magnets after magnetization; electromagnetic or permanent magnet chucks, clamps and similar holding devices; electromagnetic couplings, clutches and brakes; electromagnetic lifting heads; parts thereof:Permanent magnets and articles intended to become permanent magnets after magnetization:8505.11.00 Of metal 2.1% Free (A, AU, B, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 45%8505.11.00.10	10  	Alnico	
+No.
+8505.11.00.30	30  	Ceramic	
+No.
+8505.11.00.50 50 Sintered samarium-cobaltNo.
+8505.11.00.70 70 Sintered neodymium-iron-boronNo.
+8505.11.00.90	90  	Other	
+No.
+8505.19	 	Other:				
+8505.19.10 00 Flexible magnetsNo.
+8505.19.20 00 Composite good containing flexible magnetsNo.
+8505.19.30	00  	Other	
+No.
+8505.20.00 00 Electromagnetic couplings, clutches and brakesNo.
+8505.90 Other, including parts:8505.90.30 00 Electromagnetic lifting headsNo.
+Free 1/		35%
+8505.90.40 00 Work holders and parts thereofFree 1/		30%
+8505.90.70 00 Electromagnets of a kind used solely or principally for magnetic resonance imaging apparatus, other than apparatus of heading 9018No.
+Free 1/		35%
+8505.90.75	01  	Other	
+8506 Primary cells and primary batteries; parts thereof:8506.10.00 Manganese dioxide 2.7% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8506.10.00.10 10 Button and coin cell batteriesNo.
+8506.10.00.90	90  	Other	
+No.
+8506.30	 	Mercuric oxide:				
+8506.30.10 00 Having an external volume not exceeding 300 cm3No.
+8506.30.50	00  	Other	
+No.
+8506.40	 	Silver oxide:				
+8506.40.10 Having an external volume not exceeding 300 cm3 2.7% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8506.40.10.10 10 Button and coin cell batteriesNo.
+8506.40.10.90	90  	Other	
+No.
+8506.40.50	00  	Other	
+No.
+8506.50.00 Lithium 2.7% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8506.50.00.10 10 Button and coin cell batteriesNo.
+8506.50.00.90	90  	Other	
+No.
+8506.60.00 Air-zinc 2.7% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8506.60.00.10 10 Button and coin cell batteriesNo.
+8506.60.00.90	90  	Other	
+No.
+8506.80.00 Other primary cells and primary batteries 2.7% 1/ Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%8506.80.00.10 10 Button and coin cell batteriesNo.
+8506.80.00.90	90  	Other	
+No.
+8506.90.00	00  	Parts	
+8507 Electric storage batteries, including separators therefor, whether or not rectangular (including square); parts thereof:8507.10.00 Lead-acid storage batteries, of a kind used for starting piston engines 3.5% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 40% 	12 V batteries:				
+8507.10.00.30 30 Not exceeding 6 kg in weightNo.
+8507.10.00.60 60 Exceeding 6 kg in weightNo.
+8507.10.00.90	90  	Other	
+No.
+8507.20 Other lead-acid storage batteries:8507.20.40 00 Of a kind used as the primary source of electrical power for electrically powered vehicles of subheadings 8703.40, 8703.50, 8703.60, 8703.70 or 8703.80No.
+8507.20.80 Other 3.5% 1/ Free (A*, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 40%8507.20.80.10 10 Of a kind described in subheading 9903.45.25No.
+W
+ 	Other:				
+8507.20.80.31 31 6 V batteriesNo.
+8507.20.80.41 41 12 V batteriesNo.
+8507.20.80.61 61 36 V batteriesNo.
+8507.20.80.91	91  	Other	
+No.
+8507.30 Nickel-cadmium storage batteries:8507.30.40 00 Of a kind used as the primary source of electrical power for electrically powered vehicles of subheadings 8703.40, 8703.50, 8703.60, 8703.70 or 8703.80No.
+8507.30.80 Other 2.5% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 40%8507.30.80.10	10  	Sealed	
+No.
+8507.30.80.90	90  	Other	
+No.
+8507.50.00 00 Nickel-metal hydride batteriesNo.
+8507.60.00 Lithium-ion batteries 3.4% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 40%8507.60.00.10 10 Of a kind used as the primary source of electrical power for electrically powered vehicles of subheadings 8703.40, 8703.50, 8703.60, 8703.70 or 8703.80No.
+8507.60.00.20	20  	Other	
+No.
+8507.80 Other storage batteries:8507.80.41 00 Of a kind used as the primary source of electrical power for electrically powered vehicles of subheadings 8703.40, 8703.50, 8703.60, 8703.70 or 8703.80No.
+8507.80.82	00  	Other:	
+No.
+8507.90	 	Parts:				
+8507.90.40 00 Of lead-acid storage batteries8507.90.80	00  	Other	
+8508 Vacuum cleaners; parts thereof:With self-contained electric motor:8508.11.00 00 Of a power not exceeding 1,500 W and having a dust bag or other receptacle capacity not exceeding 20 l 1/No.
+Free 1/		35%
+8508.19.00	00  	Other	
+No.
+Free 1/		35%
+8508.60.00 00 Other vacuum cleanersNo.
+Free 1/		35%
+8508.70.00	00  	Parts	
+Free 1/		35%
+8509 Electromechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 8508; parts thereof:8509.40.00 Food grinders, processors and mixers; fruit or vegetable juice extractors 4.2% Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 40%8509.40.00.15	15  	Blenders	
+No.
+8509.40.00.25 25 Other food mixersNo.
+8509.40.00.30 30 Juice extractorsNo.
+8509.40.00.40 40 Food grinders and processorsNo.
+8509.80	 	Other appliances:				
+8509.80.10 00 Floor polishersNo.
+Free		35%
+8509.80.20 00 Kitchen waste disposers (disposals)No.
+Free 1/		40%
+8509.80.50 Other: 4.2% Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 40%8509.80.50.40 40 Can openers (including combination units)No.
+8509.80.50.45 45 Electric toothbrushesNo.
+ 	Humidifiers:				
+8509.80.50.50	50  	Evaporative	
+No.
+ 	Other:				
+8509.80.50.70	70  	Ultrasonic	
+No.
+8509.80.50.80	80  	Other	
+No.
+8509.80.50.95	95  	Other	
+No.
+8509.90	 	Parts:				
+Parts of floor polishers:8509.90.25	00  	Housings	
+No.
+8509.90.35	00  	Other 	Other:				
+8509.90.45	00  	Housings	
+No.
+8509.90.55	00  	Other	
+8510 Shavers, hair clippers and hair-removing appliances, with self-contained electric motor; parts thereof:8510.10.00	00  	Shavers	
+No.
+Free 1/		35%
+8510.20	 	Hair clippers:				
+8510.20.10 00 Hair clippers to be used for agricultural or horticultural purposesNo.
+8510.20.90	00  	Other	
+No.
+8510.30.00 00 Hair-removing appliancesNo.
+8510.90	 	Parts:			 	Parts of shavers:				
+8510.90.10 00 Blades and cutting headsNo.
+Free 1/		27.5%
+8510.90.20 00 Other parts of shaversFree 1/		35%
+Parts of hair clippers:8510.90.30 01 Parts of hair clippers to be used for agricultural or horticultural purposes8510.90.40 00 Other parts of hair clippers8510.90.55	00  	Other	
+8511 Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition magnetos, magneto-dynamos, ignition coils, spark plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cut-outs of a kind used in conjunction with such engines; parts thereof:8511.10.00 00 Spark plugshundreds
+8511.20.00 00 Ignition magnetos; magneto-dynamos; magnetic flywheelsNo.
+8511.30.00 Distributors; ignition coils 2.5% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8511.30.00.40	40  	Distributors	
+No.
+8511.30.00.80 80 Ignition coilsNo.
+8511.40.00 00 Starter motors and dual purpose starter-generators 1/No.
+8511.50.00 00 Other generatorsNo.
+8511.80	 	Other equipment:				
+Voltage and voltage-current regulators with cut-out relays:8511.80.20 00 Designed for use on 6, 12 or 24 V systemsNo.
+8511.80.40	00  	Other	
+No.
+Free 1/		35%
+8511.80.60	00  	Other	
+8511.90	 	Parts:				
+Of voltage and voltage-current regulators with cut-out relays:8511.90.20 00 Designed for use on 6, 12 or 24 V systems8511.90.40	00  	Other	
+Free 1/		35%
+8511.90.60 Other parts 2.5% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8511.90.60.20 20 Distributor contact (breaker point) setsNo.
+8511.90.60.40	40  	Other	
+8512 Electrical lighting or signaling equipment (excluding articles of heading 8539), windshield wipers, defrosters and demisters, of a kind used for cycles or motor vehicles; parts thereof:8512.10 Lighting or visual signaling equipment of a kind used on bicycles:8512.10.20 00 Lighting equipmentNo.
+Free 1/		45%
+8512.10.40 00 Visual signaling equipmentNo.
+8512.20 Other lighting or visual signaling equipment:8512.20.20 Lighting equipment Free 1/ 25% 1/8512.20.20.40 40 For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or heading 8702, 8703, 8704, 8705 or 8711No.
+8512.20.20.80	80  	Other	
+No.
+8512.20.40 Visual signaling equipment 2.5% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8512.20.40.40 40 For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or heading 8702, 8703, 8704, 8705 or 8711No.
+8512.20.40.80	80  	Other	
+No.
+8512.30.00 Sound signaling equipment 2.5% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8512.30.00.20	20  	Horns	
+No.
+8512.30.00.30 30 Radar detectors of a kind used in motor vehiclesNo.
+8512.30.00.40	40  	Other	
+No.
+8512.40 Windshield wipers, defrosters and demisters:8512.40.20 00 Defrosters and demistersNo.
+8512.40.40 00 Windshield wipersNo.
+8512.90	 	Parts:				
+8512.90.20 00 Of signaling equipment 1/ 	Of lighting equipment:				
+8512.90.40 00 Of a kind used on bicyclesFree 1/		45%
+8512.90.60	00  	Other	
+Free 1/		25%
+8512.90.70 00 Of defrosters and demisters8512.90.90	00  	Other	
+8513 Portable electric lamps designed to function by their own source of energy (for example, dry batteries, storage batteries, magnetos), other than lighting equipment of heading 8512; parts thereof:8513.10	 	Lamps:				
+8513.10.20	00  	Flashlights	
+No.
+8513.10.40	00  	Other	
+No.
+8513.90	 	Parts:				
+8513.90.20 00 Of flashlights8513.90.40	00  	Other	
+8514 Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss; parts thereof:Resistance heated furnaces and ovens:8514.11.00 00 Hot isostatic pressesNo.
+Free 1/		35%
+8514.19.00	00  	Other	
+No.
+Free 1/		35%
+8514.20 Furnaces and ovens functioning by induction or dielectric loss: 	Microwave ovens:				
+8514.20.40 00 For making hot drinks, or for cooking or heating foodNo.
+8514.20.60	00  	Other	
+No.
+8514.20.80	00  	Other	
+No.
+Free 1/		35%
+Other furnaces and ovens:8514.31 Electron beam furnaces:8514.31.10 00 Of a kind used solely or principally for the manufacture of printed circuits or printed circuit assembliesNo.
+Free 1/		35%
+8514.31.90	00  	Other	
+No.
+8514.32 Plasma and vacuum arc furnaces:8514.32.10 00 Of a kind used solely or principally for the manufacture of printed circuits or printed circuit assembliesNo.
+Free 1/		35%
+8514.32.90	00  	Other	
+No.
+8514.39	 	Other:				
+8514.39.10 00 Of a kind used solely or principally for the manufacture of printed circuits or printed circuit assembliesNo.
+Free 1/		35%
+8514.39.90	00  	Other	
+No.
+8514.40.00 00 Other equipment for the heat treatment of materials by induction or dielectric lossFree 1/		35%
+8514.90	 	Parts:				
+8514.90.40 00 Of microwave ovens8514.90.80 00 Other 1/Free 1/		35%
+8515 Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets; parts thereof:Brazing or soldering machines and apparatus:8515.11.00 00 Soldering irons and gunsNo.
+8515.19.00	00  	Other	
+No.
+Free 1/		35%
+Machines and apparatus for resistance welding of metal:8515.21.00 00 Fully or partly automaticNo.
+Free 1/		35%
+8515.29.00	00  	Other	
+No.
+Free 1/		35%
+Machines and apparatus for arc (including plasma arc) welding of metals:8515.31.00 00 Fully or partly automaticNo.
+8515.39.00 Other 1.6% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35% 	Non-rotating type:				
+8515.39.00.20 20 AC transformer typeNo.
+8515.39.00.40	40  	Other	
+No.
+8515.39.00.60 60 Rotating typeNo.
+8515.80.00 Other machines and apparatus Free 1/ 35%8515.80.00.40 40 Ultrasonic welding machinesNo.
+8515.80.00.80	80  	Other	
+No.
+8515.90	 	Parts:				
+8515.90.20 00 Of welding machines and apparatusNo.
+8515.90.40 00 Other partsNo.
+Free 1/		35%
+8516 Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electrothermic hairdressing apparatus (for example, hair dryers, hair curlers, curling tong heaters) and hand dryers; electric flatirons; other electrothermic appliances of a kind used for domestic purposes; electric heating resistors, other than those of heading 8545; parts thereof:8516.10.00 Electric instantaneous or storage water heaters and immersion heaters Free 1/ 35%8516.10.00.40 40 Storage water heatersNo.
+8516.10.00.80 80 Other water heaters and immersion heatersNo.
+Electric space heating apparatus and electric soil heating apparatus:8516.21.00 00 Storage heating radiatorsNo.
+Free 1/		35%
+8516.29.00 Other 3.7% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35% 	Portable space heaters:				
+8516.29.00.30 30 Fan-forced 1/No.
+8516.29.00.60	60  	Other	
+No.
+8516.29.00.90 90 Other 1/No.
+Electrothermic hairdressing or hand-drying apparatus:8516.31.00 00 Hair dryersNo.
+8516.32.00 Other hairdressing apparatus 3.9% Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8516.32.00.20	20  	Curlers	
+No.
+8516.32.00.40	40  	Other	
+No.
+8516.33.00 00 Hand-drying apparatusNo.
+Free 1/		35%
+8516.40	 	Electric flatirons:				
+8516.40.20 00 Travel typeNo.
+Free		35%
+8516.40.40	00  	Other	
+No.
+8516.50.00 Microwave ovens 2% Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8516.50.00.30 30 Having a capacity not exceeding 22.5 litersNo.
+8516.50.00.60 60 Having a capacity exceeding 22.5 liters but not exceeding 31.0 litersNo.
+8516.50.00.90 90 Having a capacity exceeding 31.0 litersNo.
+8516.60 Other ovens; cooking stoves, ranges, cooking plates, boiling rings, grillers and roasters:8516.60.40 Cooking stoves, ranges and ovens Free 1/ 35%8516.60.40.60 60 Microwave oven combinationsNo.
+ 	Other:				
+8516.60.40.70 70 Portable 1/No.
+ 	Other:				
+8516.60.40.74 74 Of a maximum width not exceeding 70 centimetersNo.
+Of a maximum width exceeding 70 centimeters:8516.60.40.78 78 Containing a gas fueled cooktopNo.
+8516.60.40.82 82 Containing a radiant heated cooktopNo.
+8516.60.40.86	86  	Other	
+No.
+8516.60.60	00  	Other	
+No.
+ 	Other electrothermic appliances:				
+8516.71.00 Coffee or tea makers 3.7% 1/ Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 40% 	Coffee makers:				
+8516.71.00.20 20 Automatic drip and pump typeNo.
+8516.71.00.40	40  	Percolator	
+No.
+8516.71.00.60	60  	Other	
+No.
+8516.71.00.80	80  	Other	
+No.
+8516.72.00	00  	Toasters	
+No.
+8516.79.00	00  	Other	
+No.
+8516.80 Electric heating resistors:8516.80.40 00 Assembled only with simple insulated former and electrical connections, used for anti-icing or deicingNo.
+Free 1/		35%
+8516.80.80 00 Other 1/No.
+Free 1/		35%
+8516.90	 	Parts:				
+8516.90.05 00 Of heaters or heating apparatus of subheading 8516.10, 8516.21 or 8516.29No.
+8516.90.15 00 Housings for the hand-drying apparatus of subheading 8516.33No.
+8516.90.25 00 Housings and steel bases for the electric flatirons of subheading 8516.40No.
+Parts for the microwave ovens of subheading 8516.50:8516.90.35 00 Assemblies, incorporating more than one of the following: cooking chamber; structural supporting chassis; door; outer caseNo.
+Free 1/		35%
+8516.90.45 00 Printed circuit assembliesNo.
+Free 1/		35%
+8516.90.50	00  	Other	
+No.
+Free 1/		35%
+Parts for the cooking stoves, ranges and ovens of subheading 8516.60.40:8516.90.55 00 Cooking chambers, whether or not assembledNo.
+Free 1/		35%
+8516.90.65 00 Top surface panels with or without heating elements or controlsNo.
+Free 1/		35%
+8516.90.75 00 Door assemblies, incorporating more than one of the following: inner panel; outer panel; window; insulationNo.
+Free 1/		35%
+8516.90.80 Other: Free 1/ 35%8516.90.80.10 10 Shelving and racks for cooking stoves and rangesNo.
+8516.90.80.50	50  	Other	
+No.
+8516.90.85 00 Housings for toastersNo.
+8516.90.90	00  	Other	
+No.
+8517 Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527 or 8528; parts thereof:Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks :8517.11.00 00 Line telephone sets with cordless handsetsNo.
+Free 1/		35%
+8517.13.00	00  	Smartphones	
+No.
+Free		35%
+8517.14.00 Other telephones for cellular networks or for other wireless networks Free 35%8517.14.00.20 20 Radio telephones designed for installation in motor vehicles for the Public Cellular Radiotelecommunication ServiceNo.
+8517.14.00.50 50 Other radio telephones designed for the Public Cellular Radiotelecommunication ServiceNo.
+8517.14.00.80	80  	Other	
+No.
+8517.18.00 Other: Free 35%8517.18.00.10	10  	Videophones	
+No.
+8517.18.00.20 20 Multiline telephones (including key, call director and consoles)No.
+8517.18.00.50	50  	Other	
+No.
+Other apparatus for transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network):8517.61.00 00 Base stationsNo.
+Free 1/		35%
+8517.62.00 Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus: Free 1/ 35%8517.62.00.10 10 Modems, of a kind used with data processing machines of heading 8471No.
+8517.62.00.20 20 Switching and routing apparatusNo.
+8517.62.00.90 90 Other 1/8517.69.00	00  	Other	
+No.
+Free 1/		35%
+ 	Parts:				
+8517.71.00 00 Aerials and aerial reflectors of all kinds; parts suitable for use therewithNo.
+Free 1/		35%
+8517.79.00	00  	Other	
+No.
+Free 1/		35%
+8518 Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets; parts thereof:8518.10 Microphones and stands therefor:8518.10.40 00 Microphones having a frequency range of 300 Hz to 3.4 kHz with a diameter of not exceeding 10 mm and a height not exceeding 3 mm, for telecommunication useNo.
+Free 1/		35%
+8518.10.80 Other Free 1/ 35%8518.10.80.30	30  	Microphones	
+No.
+8518.10.80.40	40  	Other	
+No.
+Loudspeakers, whether or not mounted in their enclosures:8518.21.00 00 Single loudspeakers, mounted in their enclosuresNo.
+Free 1/		35%
+8518.22.00 00 Multiple loudspeakers, mounted in the same enclosure 1/No.
+Free 1/		35%
+8518.29	 	Other:				
+8518.29.40 00 Without housing, having a frequency range of 300 Hz to 3.4 kHz with a diameter of not exceeding 50 mm, for telecommunication useNo.
+Free		35%
+8518.29.80	00  	Other	
+No.
+Free 1/		35%
+8518.30 Headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers:8518.30.10 00 Line telephone handsetsNo.
+Free 1/		35%
+8518.30.20	00  	Other	
+No.
+Free		35%
+8518.40 Audio-frequency electric amplifiers:8518.40.10 00 For use as repeaters in line telephonyNo.
+Free 1/		35%
+8518.40.20	00  	Other	
+No.
+Free 1/		35%
+8518.50.00 00 Electric sound amplifier setsNo.
+Free 1/		35%
+8518.90	 	Parts:				
+Of line telephone handsets of subheading 8518.30.10; of repeaters of subheading 8518.40.10:8518.90.20 00 Printed circuit assemblies of line telephone handsets; parts of repeatersNo.
+Free 1/		35%
+8518.90.41	00  	Other	
+No.
+Free 1/		35%
+ 	Other:				
+8518.90.60 00 Printed circuit assemblies of the articles of subheading 8518.10.40 or 8518.29.40No.
+Free 1/		35%
+8518.90.81	00  	Other	
+No.
+Free 1/		35%
+8519 Sound recording or reproducing apparatus:8519.20.00 00 Apparatus operated by coins, banknotes, bank cards, tokens or by other means of paymentNo.
+Free 1/		35%
+8519.30	 	Turntables (record-decks):				
+8519.30.10 00 With automatic record changing mechanismNo.
+8519.30.20	00  	Other	
+No.
+Free		35%
+ 	Other apparatus:				
+8519.81 Using magnetic, optical or semiconductor media: 	Sound reproducing only:				
+8519.81.10 00 Transcribing machinesNo.
+Free 1/		35%
+ 	Cassette-type tape players:				
+8519.81.20 00 Designed exclusively for motor- vehicle installationNo.
+Free		35%
+8519.81.25	00  	Other	
+No.
+Free		35%
+8519.81.30 Other: Free 1/ 35%8519.81.30.10 10 Optical disc (including compact disc) playersNo.
+8519.81.30.20	20  	Other	
+No.
+8519.81.41 Other: Free 35%8519.81.41.05 05 Telephone answering machinesNo.
+8519.81.41.10 10 Magnetic tape recorders incorporating sound reproducing apparatusNo.
+8519.81.41.20 20 Optical disc recordersNo.
+8519.81.41.50	50  	Other	
+No.
+8519.89	 	Other:				
+Record players, other than those operated by coins, banknotes, bank cards, tokens or by other means of payment:8519.89.10 00 Without loudspeakerNo.
+Free 1/		35%
+8519.89.20	00  	Other	
+No.
+Free		35%
+8519.89.30	00  	Other	
+No.
+Free 1/		35%
+8521 Video recording or reproducing apparatus, whether or not incorporating a video tuner:8521.10	 	Magnetic tape-type:				
+Color, cartridge or cassette type:8521.10.30 00 Not capable of recordingNo.
+Free 1/		35%
+8521.10.60	00  	Other	
+No.
+Free 1/		35%
+8521.10.90	00  	Other	
+No.
+Free 1/		35%
+8521.90.00	00  	Other	
+No.
+Free 1/		35%
+8522 Parts and accessories suitable for use solely or principally with the apparatus of heading 8519 or 8521:8522.10.00 00 Pickup cartridgesNo.
+8522.90	 	Other:				
+Assemblies and subassemblies of articles provided for in subheading 8519.81.41, consisting of two or more pieces fastened or joined together:8522.90.25 00 Printed circuit assembliesNo.
+Free 1/		35%
+8522.90.36	00  	Other	
+No.
+Free 1/		35%
+Parts of telephone answering machines:8522.90.45 00 Printed circuit assembliesNo.
+Free 1/		35%
+8522.90.58 Other Free 1/ 35%8522.90.58.40 40 Magnetic recording and reproducing headsNo.
+8522.90.58.80	80  	Other	
+No.
+ 	Other:				
+8522.90.65 00 Printed circuit assembliesNo.
+Free 1/		35%
+8522.90.80 Other Free 1/ 35%8522.90.80.40 40 Magnetic recording and reproducing headsNo.
+8522.90.80.81	81  	Other	
+No.
+8523 Discs, tapes, solid-state non-volatile storage devices, "smart cards" and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37: 	Magnetic media:				
+8523.21.00 00 Cards incorporating a magnetic stripeNo.
+Free 1/		80%
+8523.29	 	Other:				
+8523.29.10 00 Unrecorded magnetic mediaNo.
+Free 1/		80%
+ 	Other:				
+8523.29.20 00 Magnetic tapes for reproducing phenomena other than sound or imagem2
+Free 1/ 86.1¢/m2 of recording surface 	Other magnetic tapes:				
+Of a width not exceeding 4 mm:8523.29.30 00 News sound recordings relating to current eventsNo.
+ 
+8523.29.40 Other Free 1/ 86.1¢/m2of recording surface8523.29.40.10 10 Sound recordings on cassette tapesNo.
+m2
+8523.29.40.20	20  	Other	
+No.
+m2
+Of a width exceeding 4 mm but not exceeding 6.5 mm:8523.29.50 Video tape recordings: Free 1/ 3.3¢/lin. m8523.29.50.10 10 In cassetteslin. m
+No.
+8523.29.50.20	20  	Other	
+lin. m
+8523.29.60	00  	Other	
+m2
+Free 1/ 86.1¢/m2 of recording surfaceOf a width exceeding 6.5 mm:8523.29.70 Video tape recordings: Free 1/ 3.3¢/lin. m8523.29.70.10 10 Of a width not exceeding 16 mm, in cassetteslin. m
+No.
+8523.29.70.20	20  	Other	
+lin. m
+8523.29.80	00  	Other	
+m2
+Free 1/ 86.1¢/m2 of recording surface8523.29.90	00  	Other	
+m2
+Free 1/ 86.1¢/m2 of recording surface 	Optical media:				
+8523.41.00	00  	Unrecorded	
+No.
+Free 1/		80%
+8523.49	 	Other:				
+8523.49.20 For reproducing phenomena other than sound or image Free 1/ 86.1¢/m2 of recording surface 1/8523.49.20.10 10 Prepackaged software for automatic data processing machines, of a kind sold at retailNo.
+m2
+8523.49.20.20	20  	Other	
+No.
+m2
+8523.49.30 00 For reproducing sound onlyNo.
+m2
+Free 1/ 86.1¢/m2 of recording surface 	Other:				
+8523.49.40 00 For reproducing representations of instructions, data, sound, and image, recorded in a machine readable binary form, and capable of being manipulated or providing interactivity to a user, by means of an automatic data processing machine; proprietary format recorded discsNo.
+Free 1/		80%
+8523.49.50	00  	Other	
+No.
+Free 1/		80%
+ 	Semiconductor media:				
+8523.51.00 00 Solid-state non-volatile storage devices 1/No.
+Free 1/		80%
+8523.52.00 "Smart cards" Free 1/ 35%8523.52.00.10	10  	Unrecorded	
+No.
+8523.52.00.90	90  	Other	
+No.
+8523.59.00	00  	Other	
+No.
+Free 1/		35%
+8523.80	 	Other:				
+8523.80.10 00 Phonograph recordsNo.
+Free 1/		30%
+8523.80.20	00  	Other	
+No.
+Free 1/		80%
+8524 Flat panel display modules, whether or not incorporating touch-sensitive screens:Without drivers or controls circuits8524.11 Of liquid crystals:8524.11.10 00 Flat panel display modules, other than flat panel display modules for articles of subheadings 8528.59, 8528.69, 8528.72 and 8528.73No.
+Free 1/		45%
+8524.11.90 00 Other 1/No.
+8524.12.00 00 Of organic light-emitting diodes (OLED)No.
+Free 1/		45%
+8524.19.00	00  	Other	
+No.
+Free 1/		45%
+ 	Other:				
+8524.91 Of liquid crystals:8524.91.10 00 Flat panel display modules, other than flat panel display modules for articles of subheadings 8528.59, 8528.69, 8528.72 and 8528.73No.
+Free 1/		45%
+8524.91.90	00  	Other	
+No.
+8524.92.00 00 Of organic light-emitting diodes (OLED)No.
+Free 1/		45%
+8524.99.00	00  	Other	
+No.
+Free 1/		45%
+8525 Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders:8525.50	 	Transmission apparatus:			 	Television:				
+8525.50.10 00 Set top boxes which have a communication functionNo.
+Free		35%
+8525.50.30 Other Free 1/ 35%8525.50.30.15 15 Apparatus for the reception of television signals relayed by television satelliteNo.
+ 	Other:				
+8525.50.30.35 35 Converters, decoders, preamplifiers, line amplifiers, distribution amplifiers and other amplifiers; directional couplers and other couplers; all the foregoing designed for cable or closed-circuit television applicationsNo.
+8525.50.30.40	40  	Other	
+No.
+8525.50.70 For radiobroadcasting Free 1/ 35%8525.50.70.10	10  	Transmitters	
+No.
+8525.50.70.50	50  	Other	
+No.
+8525.60 Transmission apparatus incorporating reception apparatus:8525.60.10 Transceivers: Free 1/ 35%8525.60.10.10 10 Citizens Band (CB) 1/No.
+8525.60.10.20 20 Low-power radiotelephonic transceivers operating on frequencies from 49.82 to 49.90 MHzNo.
+ 	Other:				
+8525.60.10.30	30  	Hand-held	
+No.
+ 	Other:				
+8525.60.10.40 40 Marine VHF-FMNo.
+8525.60.10.50	50  	Other	
+No.
+8525.60.20	00  	Other	
+No.
+Free 1/		35%
+Television cameras, digital cameras and video camera recorders:8525.81.00 00 High-speed goods as specified in subheading note 1 to this chapter 1/No.
+Free 1/		35%
+8525.82.00 00 Other, radiation-hardened or radiation-tolerant goods as specified in subheading note 2 to this chapter 1/No.
+Free 1/		35%
+8525.83.00 00 Other, night vision goods as specified in subheading note 3 to this chapter 1/No.
+Free 1/		35%
+8525.89	 	Other:			 	Television cameras:				
+8525.89.10 00 Gyrostabilized television camerasNo.
+Free 1/		35%
+8525.89.20 00 Studio television cameras excluding shoulder-carried and other portable camerasNo.
+Free 1/		35%
+8525.89.30 00 Other 1/No.
+Free 1/		35%
+8525.89.40 00 Digital still image video camerasNo.
+Free 1/		35%
+8525.89.50 Other Free 1/ 35%8525.89.50.30	30  	Camcorders	
+No.
+8525.89.50.50	50  	Other	
+No.
+8526 Radar apparatus, radio navigational aid apparatus and radio remote control apparatus:8526.10.00 Radar apparatus Free 1/ 35%8526.10.00.20 20 Designed for boat or ship installationNo.
+8526.10.00.40	40  	Other	
+No.
+ 	Other:				
+8526.91.00 Radio navigational aid apparatus Free 1/ 35%8526.91.00.20 20 Reception only apparatusNo.
+8526.91.00.40	40  	Other	
+No.
+8526.92 Radio remote control apparatus:8526.92.10 00 Radio remote control apparatus for video game consolesNo.
+Free		35%
+8526.92.50	00  	Other	
+No.
+Free 1/		35%
+8527 Reception apparatus for radiobroadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock:Radiobroadcast receivers capable of operating without an external source of power:8527.12.00 00 Pocket-size radio cassette playersNo.
+Free		35%
+8527.13 Other apparatus combined with sound recording or reproducing apparatus:8527.13.11 00 Combinations incorporating tape players which are incapable of recordingNo.
+Free		35%
+ 	Other:				
+8527.13.20 Radio-tape recorder combinations Free 35%8527.13.20.15 15 Cassette typeNo.
+8527.13.20.25	25  	Other	
+No.
+8527.13.40 00 Radio-phonograph combinationsNo.
+Free		35%
+8527.13.60 Other Free 35%8527.13.60.40 40 Incorporating optical disc (including compact disc) players or recordersNo.
+8527.13.60.80	80  	Other	
+No.
+8527.19	 	Other:				
+8527.19.10 00 Valued not over $40 each, incorporating a clock or clock-timer, not in combination with any other article, and not designed for motor vehicle installationNo.
+Free		35%
+8527.19.50 Other Free 35%8527.19.50.10 10 FM only or AM/FM onlyNo.
+8527.19.50.25	25  	Other	
+No.
+Radiobroadcast receivers not capable of operating without an external source of power, of a kind used in motor vehicles:8527.21 Combined with sound recording or reproducing apparatus: 	Radio-tape player combinations:				
+8527.21.15 00 Combined with sound recording or reproducing apparatus capable of receiving and decoding digital radio data system signalsNo.
+Free 1/		35%
+8527.21.25 Other: 2% 1/ Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8527.21.25.10 10 Incorporating optical disc (including compact disc) players or recordersNo.
+8527.21.25.25	25  	Other	
+No.
+8527.21.40 Other Free 1/ 35%8527.21.40.40 40 Incorporating optical disc (including compact disc) players or recordersNo.
+8527.21.40.80	80  	Other	
+No.
+8527.29	 	Other:				
+8527.29.40 00 FM only or AM/FM onlyNo.
+Free 1/		35%
+8527.29.80	00  	Other	
+No.
+Free 1/		35%
+ 	Other:				
+8527.91 Combined with sound recording or reproducing apparatus:8527.91.05 00 Articles designed for connection to telegraphic or telephonic apparatus or instruments or to telegraphic or telephonic networksNo.
+Free		35%
+ 	Other:				
+8527.91.40 00 Combinations incorporating tape players which are incapable of recordingNo.
+Free		35%
+8527.91.50 00 Other combinations incorporating tape recordersNo.
+Free 1/		35%
+8527.91.60 Other Free 1/ 35%8527.91.60.40 40 Incorporating optical disc (including compact disc) players or recordersNo.
+8527.91.60.80	80  	Other	
+No.
+8527.92 Not combined with sound recording or reproducing apparatus but combined with a clock:8527.92.10 00 Valued not over $40 eachNo.
+Free		35%
+8527.92.50	00  	Other	
+No.
+Free		35%
+8527.99	 	Other:				
+8527.99.10 00 Infant nursery monitor systems, each consisting in the same package of a radio transmitter, an electrical adapter, and a radio receiverNo.
+Free		35%
+8527.99.15 00 Other radio receiversNo.
+Free 1/		35%
+8527.99.40	00  	Other:	
+No.
+Free 1/		35%
+8528 Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus: 	Cathode-ray tube monitors:				
+8528.42.00 00 Capable of directly connecting to and designed for use with an automatic data processing machine of heading 8471No.
+Free 1/		35%
+8528.49	 	Other:			 	Color:				
+Incomplete or unfinished (including assemblies consisting of the parts specified in subdivisions (a), (b), (c) and (e) in additional U.S. note 9 to this chapter plus a power supply), presented without a display device:8528.49.05 00 Incorporating video recording or reproducing apparatusNo.
+Free 1/		25%
+8528.49.10	00  	Other	
+No.
+Free 1/		35%
+Non-high definition, having a single picture tube intended for direct viewing (non-projection type), with a video display diagonal not exceeding 35.56 cm:Incorporating video recording or reproducing apparatus:8528.49.15 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		25%
+8528.49.20	00  	Other	
+No.
+Free 1/		25%
+ 	Other:				
+8528.49.25 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		35%
+8528.49.30	00  	Other	
+No.
+Free 1/		35%
+Non-high definition, having a single picture tube intended for direct viewing (non-projection type), with a video display diagonal exceeding 35.56 cm:8528.49.35 00 Incorporating video recording or reproducing apparatusNo.
+Free 1/		25%
+8528.49.40	00  	Other	
+No.
+Free 1/		35%
+Non-high definition, projection type, with a cathode-ray tube:8528.49.45 00 Incorporating video recording or reproducing apparatusNo.
+Free 1/		25%
+8528.49.50	00  	Other	
+No.
+Free 1/		35%
+High definition, non-projection type, with a cathode-ray tube:8528.49.60 00 Incorporating video recording or reproducing apparatusNo.
+Free 1/		25%
+8528.49.65	00  	Other	
+No.
+Free 1/		35%
+High definition, projection type, with a cathode-ray tube:8528.49.70 00 Incorporating video recording or reproducing apparatusNo.
+Free 1/		25%
+8528.49.75	00  	Other	
+No.
+Free 1/		35%
+8528.49.80 00 Black and white or other monochromeNo.
+Free 1/		35%
+ 	Other monitors:				
+8528.52.00 00 Capable of directly connecting to and designed for use with an automatic data processing machine of heading 8471No.
+Free		35%
+8528.59	 	Other:			 	Color:				
+Incomplete or unfinished (including assemblies consisting of the parts specified in subdivisions (a), (b), (c) and (e) in additional U.S. note 9 to this chapter plus a power supply), presented without a display device:8528.59.05 00 Incorporating video recording or reproducing apparatusNo.
+Free 1/		25%
+8528.59.10	00  	Other	
+No.
+Free 1/		35%
+With a flat panel screen:Incorporating video recording or reproducing apparatus:8528.59.15 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		25%
+8528.59.23	00  	Other	
+No.
+ 	Other:				
+8528.59.25 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		35%
+8528.59.33 Other 5% 1/ Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8528.59.33.10	10  	Plasma-type	
+No.
+8528.59.33.50 50 LCD-type (direct view)No.
+8528.59.33.70	70  	Other	
+No.
+ 	Other:				
+Incorporating video recording or reproducing apparatus:8528.59.35 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		25%
+8528.59.40	00  	Other	
+No.
+ 	Other:				
+8528.59.45 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free		35%
+8528.59.50	00  	Other	
+No.
+8528.59.60 00 Black and white or other monochromeNo.
+ 	Projectors:				
+8528.62.00 00 Capable of directly connecting to and designed for use with an automatic data processing machine of heading 8471No.
+Free 1/		35%
+8528.69	 	Other:			 	Color:				
+Incomplete or unfinished (including assemblies consisting of the parts specified in subdivisions (a), (b), (c) and (e) in additional U.S. note 9 to this chapter plus a power supply), presented without a display device:8528.69.05 00 Incorporating video recording or reproducing apparatusNo.
+Free 1/		25%
+8528.69.10	00  	Other	
+No.
+Free 1/		35%
+Non-high definition, with a cathode-ray tube:8528.69.15 00 Incorporating video recording or reproducing apparatusNo.
+8528.69.20	00  	Other	
+No.
+High definition, with a cathode-ray tube:8528.69.25 00 Incorporating video recording or reproducing apparatusNo.
+8528.69.30	00  	Other	
+No.
+With a flat panel screen:Incorporating video recording or reproducing apparatus:8528.69.35 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free		25%
+8528.69.40	00  	Other	
+No.
+ 	Other:				
+8528.69.45 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		35%
+8528.69.50	00  	Other	
+No.
+ 	Other:				
+8528.69.55 00 Incorporating video recording or reproducing apparatusNo.
+8528.69.60	00  	Other	
+No.
+8528.69.70 00 Black and white or other monochromeNo.
+Reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus:8528.71 Not designed to incorporate a video display or screen:8528.71.10 00 Incorporating video recording or reproducing apparatusNo.
+Free 1/		25%
+ 	Other:				
+8528.71.20 00 Set top boxes which have a communications functionNo.
+Free 1/		35%
+8528.71.30 00 Printed circuit assemblies incorporating a tuner, of a kind used with data processing machines of heading 8471No.
+Free 1/		35%
+ 	Other:				
+8528.71.40	00  	Color	
+No.
+Free 1/		35%
+8528.71.45 00 Black and white or other monochromeNo.
+Free 1/		35%
+8528.72	 	Other, color:				
+Incomplete or unfinished (including assemblies for television receivers consisting of all the parts specified in additional U.S. note 9 to this chapter plus a power supply), presented without a display device:8528.72.04 00 Incorporating video recording or reproducing apparatusNo.
+Free 1/		25%
+8528.72.08	00  	Other	
+No.
+Free 1/		35%
+Non-high definition, having a single picture tube intended for direct viewing (non-projection type), with a video display diagonal not exceeding 35.56 cm:Incorporating video recording or reproducing apparatus:8528.72.12 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		25%
+8528.72.16	00  	Other	
+No.
+ 	Other:				
+8528.72.20 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		35%
+8528.72.24	00  	Other	
+No.
+Non-high definition, having a single picture tube intended for direct viewing (non-projection type), with a video display diagonal exceeding 35.56 cm:8528.72.28 00 Incorporating video recording or reproducing apparatusNo.
+8528.72.32	00  	Other	
+No.
+Non-high definition, projection type, with a cathode-ray tube:8528.72.36 00 Incorporating video recording or reproducing apparatusNo.
+8528.72.40	00  	Other	
+No.
+High definition, non-projection type, with a cathode-ray tube:8528.72.44 00 Incorporating video recording or reproducing apparatusNo.
+8528.72.48	00  	Other	
+No.
+High definition, projection type, with a cathode-ray tube:8528.72.52 00 Incorporating video recording or reproducing apparatusNo.
+8528.72.56	00  	Other	
+No.
+With a flat panel screen:Incorporating video recording or reproducing apparatus:8528.72.62 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		25%
+8528.72.64 Other: 3.9% 1/ Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 25%With a video display diagonal:8528.72.64.20 20 Not exceeding 75 cmNo.
+8528.72.64.30 30 Exceeding 75 cm but not exceeding 88 cmNo.
+8528.72.64.40 40 Exceeding 88 cm but not exceeding 113 cmNo.
+8528.72.64.60 60 Exceeding 113 cmNo.
+ 	Other:				
+8528.72.68 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		35%
+8528.72.72 Other 5% 1/ Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%LCD-type (direct-view), with a video display diagonal:8528.72.72.20 20 Not exceeding 75 cmNo.
+8528.72.72.30 30 Exceeding 75 cm but not exceeding 88 cmNo.
+8528.72.72.40 40 Exceeding 88 cm but not exceeding 113 cmNo.
+8528.72.72.60 60 Exceeding 113 cmNo.
+8528.72.72.90 90 Other, including plasma-typeNo.
+ 	Other:				
+Incorporating video recording or reproducing apparatus:8528.72.76 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		25%
+8528.72.80	00  	Other	
+No.
+ 	Other:				
+8528.72.84 00 With a video display diagonal not exceeding 34.29 cmNo.
+Free 1/		35%
+8528.72.97	00  	Other	
+No.
+8528.73.00 00 Other, monochromeNo.
+8529 Parts suitable for use solely or principally with the apparatus of headings 8524 to 8528:8529.10 Antennas and antenna reflectors of all kinds; parts suitable for use therewith:8529.10.21 Television Free 1/ 35% 	Antennas:				
+8529.10.21.20 20 Receiving onlyNo.
+8529.10.21.50	50  	Other	
+No.
+8529.10.21.90	90  	Other	
+No.
+8529.10.40 Radar, radio navigational aid and radio remote control Free 1/ 35%8529.10.40.40	40  	Antennas	
+No.
+8529.10.40.80	80  	Other	
+No.
+8529.10.91	00  	Other	
+No.
+Free 1/		35%
+8529.90	 	Other:			 	Printed circuit assemblies:			 	Of television apparatus:				
+8529.90.04	00  	Tuners	
+No.
+Free 1/		35%
+Other, comprising printed circuit boards and ceramic substrates with components assembled thereon, for color television receivers; subassemblies containing one or more of such boards or substrates, except tuners or convergence assemblies:8529.90.05 00 Entered with components enumerated in additional U.S. note 4 to this chapterNo. 1/
+Free 1/		35%
+8529.90.06	00  	Other	
+No. 1/
+Free 1/		35%
+ 	Other:				
+8529.90.09 00 For television camerasNo.
+Free 1/		35%
+8529.90.13 00 Other 1/No.
+Free 1/		35%
+Of radar, radio navigational aid or radio remote control apparatus:8529.90.16 Assemblies and subassemblies, consisting of 2 or more parts or pieces fastened or joined together Free 1/ 35%8529.90.16.20 20 Of radar apparatusNo.
+8529.90.16.40 40 Of radio navigational aid apparatus (except radar)No.
+8529.90.16.60	60  	Other	
+No.
+8529.90.19 Other Free 1/ 35%8529.90.19.20 20 Of radar apparatusNo.
+8529.90.19.40 40 Of radio navigational aid apparatus (except radar)No.
+8529.90.19.60	60  	Other	
+No.
+8529.90.21	00  	Other	
+No.
+Free 1/		35%
+8529.90.24 01 Transceiver assemblies for the apparatus of subheading 8526.10, other than printed circuit assembliesNo.
+Free 1/		35%
+Parts of television receivers specified in additional U.S. note 9 to this chapter, other than printed circuit assemblies:8529.90.29	00  	Tuners	
+No.
+Free 1/		35%
+Subassemblies, for color television receivers, containing two or more printed circuit boards or ceramic substrates with components assembled thereon, except tuners or convergence assemblies:8529.90.33 00 Entered with components enumerated in additional U.S. note 4 to this chapterNo. 1/
+Free 1/		35%
+8529.90.36	00  	Other	
+No. 1/
+Free 1/		35%
+8529.90.39	00  	Other	
+No.
+Free 1/		35%
+Combinations of parts specified in additional U.S. note 9 to this chapter:Subassemblies, for color television receivers, containing two or more printed circuit boards or ceramic substrates with components assembled thereon, except tuners or convergence assemblies:8529.90.43 00 Entered with components enumerated in additional U.S. note 4 to this chapterNo. 1/
+Free 1/		35%
+8529.90.46	00  	Other	
+No. 1/
+Free 1/		35%
+8529.90.49	00  	Other	
+No.
+Free 1/		35%
+8529.90.55 00 Flat panel screen assemblies for the apparatus of subheadings 8528.59.15, 8528.59.23, 8528.59.25, 8528.59.33, 8528.69.35, 8525.69.40, 8528.69.45, 8528.69.50, 8528.72.62, 8528.72.64, 8528.72.68 and 8528.72.72No.
+Free 1/		35%
+Other, parts of printed circuit assemblies, including face plates and lock latches: 	Of television apparatus:				
+8529.90.63 00 For television camerasNo.
+Free 1/		35%
+8529.90.68	00  	Other	
+No.
+Free 1/		35%
+8529.90.73 00 Of radar, radio navigational aid or radio remote control apparatusNo.
+Free 1/		35%
+8529.90.77	00  	Other	
+No.
+Free 1/		35%
+Other parts of articles of headings 8525 and 8527: 	Of television apparatus:			 	For television cameras:				
+8529.90.78 00 Mounted lenses suitable for use in, and entered separately from, closed-circuit television cameras, with or without attached electrical or non-electrical closed-circuit television camera connectors, and with or without attached motorsNo.
+Free 1/		35%
+8529.90.81	00  	Other	
+No.
+Free 1/		35%
+8529.90.83	00  	Other	
+No.
+Free 1/		35%
+8529.90.87	00  	Other	
+No.
+Free 1/		35%
+ 	Other:			 	Of television receivers:				
+Subassemblies, for color television receivers, containing two or more printed circuit boards or ceramic substrates with components assembled thereon, except tuners or convergence assemblies:8529.90.88 00 Entered with components enumerated in additional U.S. note 4 to this chapterNo. 1/
+Free 1/		35%
+8529.90.89	00  	Other	
+No. 1/
+Free 1/		35%
+8529.90.93 Other Free 1/ 35%8529.90.93.45 45 Convergence assemblies, focus coils and degaussing coilsNo.
+8529.90.93.80	80  	Other	
+No.
+Of radar, radio navigational aid or radio remote control apparatus:8529.90.95 Assemblies and subassemblies, consisting of 2 or more parts or pieces fastened or joined together Free 1/ 35%8529.90.95.20 20 Of radar apparatusNo.
+8529.90.95.40 40 Of radio navigational aid apparatus (except radar)No.
+8529.90.95.60	60  	Other	
+No.
+8529.90.97 Other Free 1/ 35%8529.90.97.20 20 Of radar apparatusNo.
+8529.90.97.40 40 Of radio navigational aid apparatus (except radar)No.
+8529.90.97.60	60  	Other	
+No.
+8529.90.98	00  	Other	
+No.
+Free 1/		35%
+8530 Electrical signaling, safety or traffic control equipment for railways, streetcar lines, subways, roads, inland waterways, parking facilities, port installations or airfields (other than those of heading 8608); parts thereof:8530.10.00 00 Equipment for railways, streetcar lines or subwaysNo.
+Free 1/		35%
+8530.80.00 00 Other equipmentNo.
+Free 1/		35%
+8530.90.00	00  	Parts	
+No.
+Free 1/		35%
+8531 Electric sound or visual signaling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 8512 or 8530; parts thereof:8531.10.00 Burglar or fire alarms and similar apparatus 1.3% 1/ Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35% 	Smoke detectors:				
+8531.10.00.15 15 Battery poweredNo.
+8531.10.00.25	25  	Other	
+No.
+ 	Other:				
+8531.10.00.35 35 Burglar alarmsNo.
+8531.10.00.45	45  	Other	
+No.
+8531.20.00 Indicator panels incorporating liquid crystal devices (LCD's) or light emitting diodes (LED) Free 1/ 35%8531.20.00.20 20 Incorporating LCD'sNo.
+8531.20.00.40 40 Other 1/No.
+8531.80	 	Other apparatus:				
+8531.80.15 00 Doorbells, chimes, buzzers and similar apparatus8531.80.90 Other Free 1/ 35% 	Indicator panels:				
+8531.80.90.05 05 Incorporating electric discharge (fluorescent) devicesNo.
+8531.80.90.26	26  	Other	
+No.
+8531.80.90.31	31  	Horns	
+No.
+8531.80.90.41 41 Other sound signaling apparatusNo.
+8531.80.90.51	51  	Other	
+No.
+8531.90	 	Parts:			 	Printed circuit assemblies:				
+8531.90.15 00 Of the panels of subheading 8531.20No.
+Free 1/		35%
+8531.90.30	00  	Other	
+No.
+Free 1/		35%
+ 	Other:				
+8531.90.75 00 Of the panels of subheading 8531.20No.
+Free 1/		35%
+8531.90.90	01  	Other	
+No.
+Free 1/		35%
+8532 Electrical capacitors, fixed, variable or adjustable (pre-set); parts thereof:8532.10.00 00 Fixed capacitors designed for use in 50/60 Hz circuits and having a reactive power handling capacity of not less than 0.5 kvar (power capacitors)No.
+Free 1/		35%
+ 	Other fixed capacitors:				
+8532.21.00 Tantalum Free 1/ 35%8532.21.00.20 20 Metal caseNo.
+ 	Other:				
+8532.21.00.40	40  	Dipped	
+No.
+8532.21.00.50 50 Designed for surface mounting (SMD) by contactNo.
+8532.21.00.80	80  	Other	
+No.
+8532.22.00 Aluminum electrolytic Free 1/ 35%8532.22.00.20 20 Not exceeding 18 mm in diameter 1/No.
+8532.22.00.40 40 Exceeding 18 mm but not exceeding 35 mm in diameter 1/No.
+8532.22.00.55 55 Exceeding 35 mm but not exceeding 51 mm in diameter 1/No.
+8532.22.00.85 85 Exceeding 51 mm in diameter 1/No.
+8532.23.00 Ceramic dielectric, single layer Free 1/ 35%8532.23.00.20	20  	Chips	
+No.
+ 	Other:				
+8532.23.00.40 40 Axial leadsNo.
+8532.23.00.60 60 Radial leadsNo.
+8532.24.00 Ceramic dielectric, multilayer Free 1/ 35%8532.24.00.20	20  	Chips	
+No.
+ 	Other:				
+8532.24.00.40 40 Axial leadsNo.
+8532.24.00.60 60 Radial leadsNo.
+8532.25.00 Dielectric of paper or plastics Free 1/ 35%Alternating current (AC) service:8532.25.00.10 10 Less than 300 VNo.
+8532.25.00.20 20 300 V or greater, but less than 600 VNo.
+8532.25.00.30 30 600 V or greater, but less than 1,000 VNo.
+8532.25.00.40 40 1,000 V or greaterNo.
+ 	Other:			 	Leadless:				
+8532.25.00.45 45 Designed for surface mounting (SMD) by contactNo.
+8532.25.00.55	55  	Other	
+No.
+8532.25.00.60 60 Axial leadsNo.
+8532.25.00.70 70 Radial leadsNo.
+8532.25.00.80	80  	Other	
+No.
+8532.29.00 Other Free 1/ 35%8532.29.00.20 20 Mica dielectricNo.
+8532.29.00.40	40  	Other	
+No.
+8532.30.00 Variable or adjustable (pre-set) capacitors Free 1/ 35%8532.30.00.10 10 Mica, ceramic or glass dielectricNo.
+8532.30.00.90	90  	Other	
+No.
+8532.90.00	00  	Parts	
+No.
+Free 1/		35%
+8533 Electrical resistors (including rheostats and potentiometers), other than heating resistors; parts thereof:8533.10.00 Fixed carbon resistors, composition or film types Free 1/ 35%Designed for surface mounting (SMD) by contact:8533.10.00.20 20 Having more than two terminals (resistor networks)No.
+8533.10.00.42 42 Having two terminalsNo.
+8533.10.00.57 57 Having more than two leads (resistor networks)No.
+ 	Other:				
+8533.10.00.60 60 Carbon compositionNo.
+8533.10.00.65 65 Carbon filmNo.
+ 	Other fixed resistors:				
+8533.21.00 For a power handling capacity not exceeding 20 W Free 1/ 35%Designed for surface mounting (SMD) by contact:Having more than two terminals (resistor networks):8533.21.00.10 10 Dual-in-line packageNo.
+8533.21.00.20 20 Other (including flat packs)No.
+ 	Having two terminals:				
+8533.21.00.30 30 Flat resistor chipsNo.
+8533.21.00.40 40 Cylindrical leadless resistors (including metal film, metal oxide and thick cement film)No.
+Having more than two leads (resistor networks):8533.21.00.50	50  	Single-in-line	
+No.
+8533.21.00.60	60  	Dual-in-line	
+No.
+8533.21.00.70	70  	Other	
+No.
+ 	Other:				
+8533.21.00.80	80  	Wirewound	
+No.
+8533.21.00.90 90 Other (including metal film, metal oxide and thick cement film)No.
+8533.29.00	00  	Other	
+No.
+Free 1/		35%
+Wirewound variable resistors, including rheostats and potentiometers:8533.31.00 00 For a power handling capacity not exceeding 20 WNo.
+Free 1/		35%
+8533.39.00 Other Free 1/ 35%8533.39.00.40	40  	Dimmers	
+No.
+8533.39.00.80	80  	Other	
+No.
+8533.40 Other variable resistors, including rheostats and potentiometers:8533.40.40 00 Metal oxide varistorsNo.
+Free 1/		35%
+8533.40.80 Other Free 1/ 35%8533.40.80.40 40 Rheostat and resistor type motor starters and controllersNo.
+ 	Other:				
+8533.40.80.50	50  	Cermet	
+No.
+8533.40.80.60 60 Metal glazeNo.
+8533.40.80.70	70  	Other	
+No.
+8533.90	 	Parts:				
+8533.90.40 00 For the goods of subheading 8533.40, of ceramic or metallic materials, electrically or mechanically reactive to changes in temperatureNo.
+Free 1/		35%
+8533.90.80	00  	Other	
+No.
+Free 1/		35%
+8534.00.00 Printed circuits Free 1/ 35%Plastics impregnated, not flexible type:Having a base wholly of impregnated glass:8534.00.00.20 20 With 3 or more layers of conducting materials 1/No.
+8534.00.00.40 40 Other 1/No.
+8534.00.00.50 50 Having a base wholly of impregnated paperNo.
+8534.00.00.70	70  	Other	
+No.
+ 	Other:				
+8534.00.00.80 80 Flexible typeNo.
+8534.00.00.85 85 Other, having a ceramic baseNo.
+8534.00.00.95	95  	Other	
+No.
+8535 Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes), for a voltage exceeding 1,000 V:8535.10.00 Fuses 2.7% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8535.10.00.20 20 In circuits of 2,300 V or moreNo.
+8535.10.00.40	40  	Other	
+No.
+ 	Automatic circuit breakers:				
+8535.21.00 00 For a voltage of less than 72.5 kVNo.
+8535.29.00 Other 2% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%8535.29.00.20 20 In circuits of 345 kV or moreNo.
+8535.29.00.40	40  	Other	
+No.
+8535.30.00 Isolating switches and make-and-break switches 2.7% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8535.30.00.40	40  	Knife	
+No.
+8535.30.00.80	80  	Other	
+No.
+8535.40.00 00 Lightning arresters, voltage limiters and surge suppressorsNo.
+8535.90	 	Other:				
+8535.90.40 00 Motor starters and motor overload protectorsNo.
+8535.90.80 Other 2.7% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8535.90.80.20 20 Terminals, electrical splices and electrical couplingsNo.
+8535.90.80.40 40 Other connectorsNo.
+8535.90.80.60	60  	Other	
+No.
+8536 Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 V; connectors for optical fibers, optical fiber bundles or cables:8536.10.00 Fuses 2.7% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8536.10.00.20 20 Glass cartridgeNo.
+8536.10.00.40	40  	Other	
+No.
+8536.20.00 Automatic circuit breakers 2.7% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8536.20.00.20 20 Molded caseNo.
+8536.20.00.40	40  	Other	
+No.
+8536.30 Other apparatus for protecting electrical circuits:8536.30.40 00 Motor overload protectorsNo.
+Free 1/		35%
+8536.30.80 00 Other 1/No.
+Free 1/		35%
+ 	Relays:				
+8536.41.00 For a voltage not exceeding 60 V 2.7% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8536.41.00.05 05 Automotive signaling flashersNo.
+ 	Other:				
+With contacts rated at less than 10 A:8536.41.00.20	20  	Electromechanical	
+No.
+8536.41.00.30	30  	Other	
+No.
+ 	Other:				
+8536.41.00.45	45  	Contactors	
+No.
+ 	Other:				
+8536.41.00.50	50  	Electromechanical	
+No.
+8536.41.00.60	60  	Other	
+No.
+8536.49.00 Other 2.7% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%With contacts rated at less than 10 A:8536.49.00.50	50  	Electromechanical	
+No.
+8536.49.00.55	55  	Other	
+No.
+ 	Other:				
+8536.49.00.65	65  	Contactors	
+No.
+ 	Other:				
+8536.49.00.75	75  	Electromechanical	
+No.
+8536.49.00.80	80  	Other	
+No.
+8536.50	 	Other switches:				
+8536.50.40 00 Motor startersNo.
+Free 1/		35%
+ 	Other:				
+8536.50.70 00 Electronic AC switches consisting of optically coupled input and output circuits (insulated thyristor AC switches); electronic switches, including temperature protected switches, consisting of a transistor and a logic chip (chip-on-chip technology); electromechanical snap-action switches for a current not exceeding 11 amps 1/No.
+Free 1/		35%
+8536.50.90 Other Free 1/ 35% 	Rotary:				
+8536.50.90.20 20 Rated at not over 5 ANo.
+8536.50.90.25 25 Rated at over 5 A 1/No.
+ 	Push-button:				
+Rated at not over 5 A8536.50.90.31 31 Momentary contactNo.
+8536.50.90.32 32 Other, gang switchesNo.
+8536.50.90.33	33  	Other	
+No.
+8536.50.90.35 35 Rated at over 5 ANo.
+8536.50.90.40 40 Snap-action, other than limitNo.
+8536.50.90.45	45  	Knife	
+No.
+8536.50.90.50	50  	Slide	
+No.
+8536.50.90.55	55  	Limit	
+No.
+8536.50.90.65 65 Other 1/No.
+Lamp-holders, plugs and sockets:8536.61.00	00  	Lamp-holders	
+No.
+8536.69	 	Other:				
+8536.69.40 Coaxial connectors; cylindrical multicontact connectors; rack and panel connectors; printed circuit connectors; ribbon or flat cable connectors Free 1/ 35%8536.69.40.10 10 Coaxial connectors 1/No.
+8536.69.40.20 20 Cylindrical multicontact connectorsNo.
+8536.69.40.30 30 Rack and panel connectorsNo.
+8536.69.40.40 40 Printed circuit connectorsNo.
+8536.69.40.51 51 Ribbon or flat cable connectorsNo.
+8536.69.80	00  	Other	
+No.
+8536.70.00 00 Connectors for optical fibers, optical fiber bundles or cablesNo.
+Free 1/		45%
+8536.90	 	Other apparatus:				
+8536.90.40 00 Terminals, electrical splices and electrical couplings; wafer probers 1/No.
+Free 1/		35%
+8536.90.60 00 Battery clamps of a kind used in motor vehicles of heading 8702, 8703, 8704 or 8711No.
+8536.90.85 Other Free 1/ 35%8536.90.85.10 10 Electrical distribution ducts8536.90.85.30 30 Junction boxesNo.
+8536.90.85.85	85  	Other	
+No.
+8537 Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535 or 8536, for electric control or the distribution of electricity, including those incorporating instruments or apparatus of chapter 90, and numerical control apparatus, other than switching apparatus of heading 8517:8537.10 For a voltage not exceeding 1,000 V:8537.10.30 00 Assembled with outer housing or supports, for the goods of headings 8421, 8422, 8450 or 8516No.
+8537.10.60 00 Motor control centersNo.
+ 	Other:				
+8537.10.80 00 Touch-sensitive data input devices (so-called "touch screens") without display capabilities, for incorporation into apparatus having a display, which function by detecting the presence and location of a touch within the display area (such sensing may be obtained by means of resistance, electrostatic capacity, acoustic pulse recognition, infra-red lights or other touch-sensitive technology)No.
+Free 1/		35%
+8537.10.91 Other 2.7% 1/ Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8537.10.91.20 20 Switchgear assemblies and switchboardsNo.
+8537.10.91.30 30 Numerical controls for controlling machine toolsNo.
+ 	Other:				
+8537.10.91.50 50 Panel boards and distribution boardsNo.
+8537.10.91.60 60 Programmable controllersNo.
+8537.10.91.70 70 Other 1/No.
+8537.20.00 For a voltage exceeding 1,000 V 2.7% 1/ Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8537.20.00.20 20 Switchgear assemblies and switchboardsNo.
+8537.20.00.40	40  	Other	
+No.
+8538 Parts suitable for use solely or principally with the apparatus of heading 8535, 8536 or 8537:8538.10.00 00 Boards, panels, consoles, desks, cabinets and other bases for the goods of heading 8537, not equipped with their apparatusNo.
+Free 1/		35%
+8538.90	 	Other:			 	Printed circuit assemblies:				
+8538.90.10 00 Of an article of heading 8537 for one of the articles described in additional U.S. note 11 to chapter 85No.
+Free 1/		35%
+8538.90.30	00  	Other	
+No.
+8538.90.40 00 Other, for the articles of subheading 8535.90.40, 8536.30.40 or 8536.50.40, of ceramic or metallic materials, electrically or mechanically reactive to changes in temperatureNo.
+ 	Other:				
+8538.90.60 00 Molded parts8538.90.81 Other 3.5% 1/ Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 35%8538.90.81.20 20 Of automatic circuit breakersNo.
+ 	Other:				
+8538.90.81.40 40 Metal contacts8538.90.81.60 60 Other parts of switchgear, switchboards, panel boards and distribution boardsNo.
+8538.90.81.80	80  	Other	
+No.
+8539 Electrical filament or discharge lamps, including sealed beam lamp units and ultraviolet or infrared lamps; arc lamps; light-emitting diode (LED) light sources; parts thereof:8539.10.00 Sealed beam lamp units 2% 1/ Free (A*, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 20% 1/ 	Under 15.24 cm:				
+8539.10.00.10 10 For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or heading 8702, 8703, 8704, 8705 or 8711No.
+8539.10.00.30	30  	Other	
+No.
+15.24 cm or over:8539.10.00.50 50 For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or heading 8702, 8703, 8704, 8705 or 8711No.
+8539.10.00.60	60  	Other	
+No.
+Other filament lamps, excluding ultraviolet or infrared lamps:8539.21	 	Tungsten halogen:				
+8539.21.20 Designed for a voltage not exceeding 100 V Free 1/ 20%8539.21.20.40 40 For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or heading 8702, 8703, 8704, 8705 or 8711No.
+8539.21.20.80	80  	Other	
+No.
+8539.21.40 Other 2.6% 1/ Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 20%8539.21.40.40 40 Of a power less than 500 WNo.
+8539.21.40.80 80 Of a power 500 W or moreNo.
+8539.22 Other, of a power not exceeding 200 W and for a voltage exceeding 100 V:8539.22.40 00 Christmas-tree lampsNo.
+8539.22.80 Other 2.6% Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 20%Of a power not exceeding 150 W:8539.22.80.10	10  	3-way	
+No.
+8539.22.80.30	30  	Decorative	
+No.
+Other, including standard household:8539.22.80.40 40 Of a power 15 W or more but not exceeding 150 WNo.
+8539.22.80.60	60  	Other	
+No.
+8539.22.80.70 70 Of a power exceeding 150 WNo.
+8539.29	 	Other:				
+Designed for a voltage not exceeding 100 V:8539.29.10 00 Christmas-tree lampsNo.
+8539.29.20 00 Lamps having glass envelopes not over 6.35 mm in maximum diameter and suitable for use in cystoscopes and other surgical instrumentsNo.
+8539.29.30 Other Free 1/ 20%8539.29.30.20 20 Flashlight lampsNo.
+ 	Other:				
+8539.29.30.50 50 Designed for a voltage of 12 V or more but not exceeding 14 VNo.
+8539.29.30.60	60  	Other	
+No.
+8539.29.40 00 Designed for a voltage exceeding 100 VNo.
+Discharge lamps, other than ultraviolet lamps:8539.31.00 Fluorescent, hot cathode 2.4% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 20% 1/8539.31.00.40 40 1.2 m, straight tube, of a power 30 W or more but not exceeding 40 WNo.
+ 	Other:				
+8539.31.00.50 50 With a single plug-in baseNo.
+8539.31.00.60 60 With a single screw-in baseNo.
+8539.31.00.70	70  	Other	
+No.
+8539.32.00 Mercury or sodium vapor lamps; metal halide lamps 2.4% 1/ Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 20% 1/8539.32.00.20 20 Sodium vaporNo.
+8539.32.00.40 40 Mercury vaporNo.
+8539.32.00.90	90  	Other	
+No.
+8539.39	 	Other:				
+8539.39.10 00 Cold-cathode fluorescent lamps (CCFLs) for backlighting of flat panel displaysNo.
+Free 1/		20%
+8539.39.90	00  	Other	
+No.
+Ultraviolet or infrared lamps; arc lamps:8539.41.00 00 Arc lampsNo.
+8539.49.00 Other 2.4% 1/ Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8539.49.00.40 40 Ultraviolet lampsNo.
+8539.49.00.80	80  	Other	
+No.
+Light-emitting diode (LED) light sources:8539.51.00 00 Light-emitting diode (LED) modules Free 1/ 35%8539.52.00 Light-emitting diode (LED) lamps 2% Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 20%8539.52.00.10 10 Of a type specified in statistical note 7(a) to this chapterNo.
+8539.52.00.20 20 Of a type specified in statistical note 7(b) to this chapterNo.
+8539.52.00.30 30 Of a type specified in statistical note 7(c) to this chapterNo.
+8539.52.00.40 40 Of a type specified in statistical note 7(d) to this chapterNo.
+8539.52.00.51 51 Straight linear tubes or U-shaped tubesNo.
+8539.52.00.91	91  	Other	
+No.
+8539.90.00	00  	Parts	
+No.
+8540 Thermionic, cold cathode or photocathode tubes (for example, vacuum or vapor or gas filled tubes, mercury arc rectifying tubes, cathode-ray tubes, television camera tubes); parts thereof:Cathode-ray television picture tubes, including video monitor cathode-ray tubes:8540.11	 	Color:				
+8540.11.10 Non-high definition, non-projection, having a video display diagonal exceeding 35.56 cm 15% 1/ Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 60%Having a video display diagonal:8540.11.10.30 30 Not exceeding 39 cmNo.
+8540.11.10.40 40 Exceeding 39 cm but not exceeding 45 cmNo.
+8540.11.10.50 50 Exceeding 45 cm but not exceeding 50 cmNo.
+8540.11.10.55 55 Exceeding 50 cm but not exceeding 63 cmNo.
+8540.11.10.85 85 Exceeding 63 cmNo.
+Non-high definition, non-projection, having a video display diagonal not exceeding 35.56 cm:8540.11.24 01 Having a video display diagonal not exceeding 34.29 cmNo.
+8540.11.28	01  	Other	
+No.
+8540.11.30 00 High definition, having a video display diagonal exceeding 35.56 cmNo.
+High definition, having a video display diagonal not exceeding 35.56 cm:8540.11.44 01 Having a video display diagonal not exceeding 34.29 cmNo.
+8540.11.48	01  	Other	
+No.
+8540.11.50	00  	Other	
+No.
+8540.12	 	Monochrome:				
+Television picture tubes having a straight line dimension across the faceplate greater than 29 cm but having no straight line dimension across the faceplate that exceeds 42 cm:8540.12.10 00 Non-high definitionNo.
+8540.12.20 00 High definitionNo.
+ 	Other:				
+8540.12.50 Non-high definition 3.3% 1/ Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 60%8540.12.50.40	40  	Projection	
+No.
+8540.12.50.80	80  	Other	
+No.
+8540.12.70 00 High definitionNo.
+8540.20 Television camera tubes; image converters and intensifiers; other photocathode tubes:8540.20.20 Cathode-ray tubes 6% 1/ Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8540.20.20.40	40  	Color	
+No.
+8540.20.20.80	80  	Other	
+No.
+8540.20.40	00  	Other	
+No.
+8540.40.10 Data/graphic display tubes, monochrome; data/graphic display tubes, color, with a phosphor dot screen pitch smaller than 0.4 mm 3% 1/ Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8540.40.10.10	10  	Color	
+No.
+8540.40.10.50	50  	Other	
+No.
+8540.60.00 Other cathode-ray tubes 3% 1/ Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%Having a video display diagonal:8540.60.00.20 20 Not exceeding 30 cmNo.
+8540.60.00.65 65 Exceeding 30 cm but not exceeding 36 cmNo.
+8540.60.00.80 80 Exceeding 36 cmNo.
+Microwave tubes (for example, magnetrons, klystrons, traveling wave tubes, carcinotrons), excluding grid-controlled tubes:8540.71	 	Magnetrons:				
+8540.71.20 00 Modified for use as parts of microwave ovensNo.
+Free 1/		35%
+8540.71.40	00  	Other	
+No.
+8540.79	 	Other:				
+8540.79.10	00  	Klystrons	
+No.
+8540.79.20	00  	Other	
+No.
+ 	Other tubes:				
+8540.81.00 00 Receiver or amplifier tubesNo.
+8540.89.00 Other 3.7% 1/ Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8540.89.00.20 20 Gas and vapor electron tubesNo.
+8540.89.00.40 40 Diodes, triodes and tetrodesNo.
+8540.89.00.60 60 Light-sensing tubesNo.
+8540.89.00.80	80  	Other	
+No.
+ 	Parts:				
+8540.91 Of cathode-ray tubes:8540.91.15 00 Front panel assembliesNo.
+8540.91.20 00 Deflection coilsNo.
+Free 1/		35%
+8540.91.50	00  	Other	
+8540.99	 	Other:				
+8540.99.40 00 Electron guns; radio frequency (RF) interaction structures for microwave tubes of subheadings 8540.71 through 8540.79, inclusiveNo.
+Free 1/		35%
+8540.99.80	00  	Other	
+No.
+Free 1/		35%
+8541 Semiconductor devices (for example, diodes, transistors, semiconductor-based transducers); photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED), whether or not assembled with other light-emitting diodes (LED); mounted piezo-electric crystals; parts thereof:8541.10.00 Diodes, other than photosensitive or light-emitting diodes (LED) Free 1/ 35%8541.10.00.40 40 Unmounted chips, dice and wafersNo.
+ 	Other:				
+8541.10.00.50	50  	Zener	
+No.
+8541.10.00.60	60  	Microwave	
+No.
+ 	Other:				
+8541.10.00.70 70 With a maximum current of 0.5 A or lessNo.
+8541.10.00.80	80  	Other	
+No.
+Transistors, other than photosensitive transistors:8541.21.00 With a dissipation rate of less than 1 W Free 1/ 35%8541.21.00.40 40 Unmounted chips, dice and wafersNo.
+ 	Other:				
+8541.21.00.75 75 With an operating frequency not less than 100 MHzNo.
+8541.21.00.95	95  	Other	
+No.
+8541.29.00 Other Free 1/ 35%8541.29.00.40 40 Unmounted chips, dice and wafersNo.
+ 	Other:				
+8541.29.00.75 75 With an operating frequency not less than 30 MHzNo.
+8541.29.00.95	95  	Other	
+No.
+8541.30.00 Thyristors, diacs and triacs, other than photosensitive devices Free 1/ 35%8541.30.00.40 40 Unmounted chips, dice and wafersNo.
+8541.30.00.80	80  	Other	
+No.
+Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED):8541.41.00 00 Light-emitting diodes (LED)No.
+Free 1/ 20% 1/8541.42.00 Photovoltaic cells not assembled in modules or made up into panels Free 1/ 35%8541.42.00.10 10 Crystalline silicon photovoltaic cells of a kind described in statistical note 10 to this chapterNo.
+W
+8541.42.00.80	80  	Other	
+No.
+W
+8541.43.00 Photovoltaic cells assembled in modules or made up into panels Free 1/ 35%8541.43.00.10 10 Crystalline silicon photovoltaic cells of a kind described in statistical note 10 to this chapterNo.
+W
+8541.43.00.80	80  	Other	
+No.
+W
+8541.49	 	Other:				
+8541.49.10 Other diodes Free 1/ 35%8541.49.10.10 10 Unmounted chips, dice and wafersNo.
+8541.49.10.50	50  	Other	
+No.
+8541.49.70 Transistors Free 1/ 35%8541.49.70.40 40 Unmounted chips, dice and wafersNo.
+8541.49.70.80	80  	Other	
+No.
+ 	Other:				
+8541.49.80 00 Optical coupled isolators Free 1/ 35%8541.49.95 00 Other Free 1/ 35% 	Other semiconductor devices:				
+8541.51.00 00 Semiconductor-based transducersNo.
+Free 1/		35%
+8541.59.00 Other Free 1/ 35%8541.59.00.40 40 Unmounted chips, dice and wafersNo.
+8541.59.00.80	80  	Other	
+No.
+8541.60.00 Mounted piezoelectric crystals Free 1/ 35%Quartz designed for operating frequencies of:8541.60.00.10 10 32.768 kHzNo.
+8541.60.00.20 20 Not exceeding 1 MHz, except 32.768 kHzNo.
+8541.60.00.30 30 Exceeding 1 MHz, but not exceeding 5 MHZNo.
+8541.60.00.50 50 Exceeding 5 MHZ, but not exceeding 20 MHzNo.
+8541.60.00.60 60 Exceeding 20 MHZNo.
+8541.60.00.80	80  	Other	
+No.
+8541.90.00	00  	Parts	
+No.
+Free 1/		35%
+8542 Electronic integrated circuits; parts thereof: 	Electronic integrated circuits:				
+8542.31.00 01 Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuitsNo.
+Free 1/		35%
+8542.32.00 Memories Free 1/ 35%Dynamic read-write random access (DRAM):8542.32.00.02 02 Not over 128 megabitsNo.
+8542.32.00.24 24 Over 128 megabits but not over 256 megabitsNo.
+8542.32.00.28 28 Over 256 megabits but not over 512 megabitsNo.
+8542.32.00.32 32 Over 512 megabits but not over 1 gigabitNo.
+8542.32.00.36 36 Over 1 gigabitNo.
+8542.32.00.41 41 Static read-write random access (SRAM)No.
+8542.32.00.51 51 Electrically erasable programmable read-only memory (EEPROM)No.
+8542.32.00.61 61 Erasable (except electrically) programmable read-only memory (EPROM)No.
+8542.32.00.71	71  	Other	
+No.
+8542.33.00	01  	Amplifiers	
+No.
+Free 1/		35%
+8542.39.00	01  	Other	
+No.
+Free 1/		35%
+8542.90.00	00  	Parts	
+No.
+Free 1/		35%
+8543 Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter; parts thereof:8543.10.00 00 Particle accelerators 1/No.
+8543.20.00 00 Signal generatorsNo.
+Free 1/		35%
+8543.30 Machines and apparatus for electroplating, electrolysis or electrophoresis:8543.30.20 00 Of a kind used solely or principally for the manufacture of printed circuitsNo.
+Free 1/		35%
+8543.30.90	 	Other	
+8543.30.90.40 40 Magnesium anodesNo.
+8543.30.90.80 80 Other 1/No.
+8543.40.00 Electronic cigarettes and similar personal electric vaporizing devices8543.40.00.30 30 With substances containing nicotineNo.
+8543.40.00.40	40  	Other	
+No.
+8543.70 Other machines and apparatus:8543.70.20 00 Physical vapor deposition apparatusNo.
+Electric synchros and transducers; flight data recorders; defrosters and demisters with electric resistors for aircraft:8543.70.42 00 Flight data recordersNo.
+Free 1/		35%
+8543.70.45 00 Other 1/No.
+8543.70.60 00 Articles designed for connection to telegraphic or telephonic apparatus or instruments or to telegraphic or telephonic networksNo.
+Free 1/		35%
+8543.70.71 00 Electric luminescent lampsNo.
+ 	Other:				
+8543.70.80 00 Microwave amplifiersNo.
+Free 1/		35%
+ 	Other:				
+8543.70.85 00 For electrical nerve stimulationNo.
+Free 1/		35%
+8543.70.88 00 Electrical machines with translation or dictionary functions; video game console controllers which use infrared transmissions to operate or access the various functions and capabilities of the consoleNo.
+Free		35%
+8543.70.89 00 Other portable battery operated electronic readers for recording and reproducing text, still images or audio filesNo.
+Free 1/		35%
+8543.70.91 00 Digital signal processing apparatus capable of connecting to a wired or wireless network for the mixing of sound 1/No.
+Free 1/		35%
+8543.70.93 01 Portable interactive electronic education devices primarily designed for childrenNo.
+Free		35%
+8543.70.95 00 Touch-sensitive data input devices (so-called "touch screens") without display capabilities, for incorporation into apparatus having a display, which function by detecting the presence and location of a touch within the display area (such sensing may be obtained by means of resistance, electrostatic capacity, acoustic pulse recognition, infra-red lights or other touch-sensitive technology)No.
+Free 1/		35%
+8543.70.97 00 Plasma cleaner machines that remove organic contaminants from electron microscopy specimens and specimen holdersNo.
+Free 1/		35%
+8543.70.98 Other: 2.6% 1/ Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 35%8543.70.98.10	10  	Amplifiers	
+No.
+8543.70.98.20 20 Special effects pedals for use with musical instrumentsNo.
+8543.70.98.60 60 Other 1/No.
+8543.90	 	Parts:				
+8543.90.12 00 Of physical vapor deposition apparatus of subheading 8543.70No.
+Free 1/		35%
+Assemblies and subassemblies for flight data recorders, consisting of two or more parts or pieces fastened or joined together:8543.90.15 00 Printed circuit assembliesNo.
+Free 1/		35%
+8543.90.35	00  	Other	
+No.
+Free 1/		35%
+ 	Other:			 	Printed circuit assemblies:				
+8543.90.65 00 Of flat panel displays other than for articles of heading 8528, except for subheadings 8528.52 or 8528.62No.
+Free 1/		35%
+8543.90.68	00  	Other	
+No.
+Free 1/		35%
+ 	Other:				
+8543.90.85 00 Of flat panel displays other than for articles of heading 8528, except for subheadings 8528.52 or 8528.62No.
+Free 1/		35%
+8543.90.88 Other Free 1/ 35%8543.90.88.45 45 Of particle acceleratorsNo.
+8543.90.88.65 65 Of electronic cigarettes and similar personal electric vaporizing devicesNo.
+8543.90.88.85	85  	Other	
+No.
+8544 Insulated (including enameled or anodized) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fiber cables, made up of individually sheathed fibers, whether or not assembled with electric conductors or fitted with connectors: 	Winding wire:				
+8544.11.00 Of copper 3.5% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 40%8544.11.00.20 20 33 AWG (0.18 mm in diameter) and finer8544.11.00.30 30 22 AWG (0.643 mm in diameter) and finer but larger than 33 AWG (0.18 mm in diameter)8544.11.00.50	50  	Other	
+8544.19.00	00  	Other	
+8544.20.00 00 Coaxial cable and other coaxial electric conductors8544.30.00 00 Ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or shipsNo.
+Other electric conductors, for a voltage not exceeding 1,000 V:8544.42 Fitted with connectors:8544.42.10 00 Fitted with modular telephone connectorsNo.
+Free 1/		35%
+ 	Other:				
+8544.42.20 00 Of a kind used for telecommunications 1/No.
+Free 1/		35%
+8544.42.90	 	Other	
+8544.42.90.10 10 Extension cords as defined in statistical note 6 to this chapter 1/No.
+8544.42.90.90 90 Other 1/No.
+8544.49	 	Other:				
+For a voltage not exceeding 80 V:8544.49.10 00 Of a kind used for telecommunicationsFree 1/		40%
+8544.49.20	00  	Other 	Other:				
+8544.49.30 Of copper 5.3% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 40%8544.49.30.40 40 For a voltage exceeding 600 V8544.49.30.80	80  	Other	
+8544.49.90	00  	Other	
+8544.60 Other electric conductors, for a voltage exceeding 1,000 V:8544.60.20 00 Fitted with connectorsNo.
+ 	Other:				
+8544.60.40 00 Of copper8544.60.60 00 Other 1/8544.70.00 00 Optical fiber cablesFiber m
+Free 1/		65%
+8545 Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes: 	Electrodes:				
+8545.11.00 Of a kind used for furnaces Free 1/ 45% 	Graphite:				
+8545.11.00.10 10 Not exceeding 425 mm in diameter8545.11.00.20 20 Exceeding 425 mm in diameter8545.11.00.50	50  	Other	
+8545.19	 	Other:				
+8545.19.20 00 Of a kind used for electrolytic purposesFree 1/		45%
+8545.19.40	00  	Other	
+Free 1/		45%
+8545.20.00	00  	Brushes	
+Free 1/		45%
+8545.90	 	Other:				
+8545.90.20 00 Arc light carbonsFree 1/		60%
+8545.90.40	00  	Other	
+Free 1/		45%
+8546 Electrical insulators of any material:8546.10.00 00 Of glassNo.
+8546.20.00 Of ceramics 3% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG) 60%Used in high-voltage, low-frequency electrical systems:8546.20.00.30 30 Commonly known as suspension, pin-type or line post insulatorsNo.
+8546.20.00.60	60  	Other	
+No.
+8546.20.00.90	90  	Other	
+No.
+8546.90.00 00 Other 1/No.
+Free 1/ 30% 1/8547 Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal (for example, threaded sockets) incorporated during molding solely for the purposes of assembly, other than insulators of heading 8546; electrical conduit tubing and joints therefor, of base metal lined with insulating material:8547.10 Insulating fittings of ceramics:8547.10.40 00 Ceramic insulators to be used in the production of spark plugs for natural gas-fueled, stationary, internal combustion enginesNo.
+8547.10.80	00  	Other	
+No.
+8547.20.00 00 Insulating fittings of plasticsNo.
+Free 1/		30%
+8547.90.00 Other 4.6% 1/ Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG) 45%8547.90.00.10 10 Other insulating fittingsNo.
+Electrical conduit tubing and joints therefor, of base metal lined with insulating material:8547.90.00.20 20 Conduit tubing 	Joints:				
+8547.90.00.30	30  	Threaded	
+8547.90.00.40	40  	Other	
+8548.00.00 00 Electrical parts of machinery or apparatus, not specified or included elsewhere in this chapterNo.
+Free 1/		35%
+8549 Electrical and electronic waste and scrap:Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators:8549.11 Waste and scrap of lead-acid accumulators; spent lead-acid accumulators:8549.11.10 For recovery of lead Free 1/ 11.5%8549.11.10.40 40 Lead-acid storage batteries, of a kind used for starting enginesNo.
+8549.11.10.80	80  	Other	
+No.
+8549.11.90	00  	Other 
+8549.12 Other, containing lead, cadmium or mercury:8549.12.40 00 For recovery of leadNo.
+Free 1/		11.5%
+8549.12.80	00  	Other 
+8549.13.00 00 Sorted by chemical type and not containing lead, cadmium or mercury 
+8549.14.00 00 Unsorted and not containing lead, cadmium or mercury 
+8549.19.00	00  	Other 
+Of a kind used principally for the recovery of precious metal:8549.21.00 00 Containing primary cells, primary batteries, electric accumulators, mercury-switches, glass from cathode-ray tubes or other activated glass, or electrical or electronic components containing cadmium, mercury, lead or polychlorinated biphenyls (PCBs) 
+8549.29.00	00  	Other 
+Other electrical and electronic assemblies and printed circuit boards:8549.31.00 00 Containing primary cells, primary batteries, electric accumulators, mercury-switches, glass from cathode-ray tubes or other activated glass, or electrical or electronic components containing cadmium, mercury, lead or polychlorinated biphenyls (PCBs) 
+8549.39.00	00  	Other 
+ 	Other:				
+8549.91.00 00 Containing primary cells, primary batteries, electric accumulators, mercury-switches, glass from cathode-ray tubes or other activated glass, or electrical or electronic components containing cadmium, mercury, lead or polychlorinated biphenyls (PCBs) 
+8549.99.00	00  	Other 

@@ -1,0 +1,94 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+9701	 	Painting, drawings and pastels, executed entirely by hand, other than drawings of heading 4906 and other than hand-painted or hand-decorated manufacture articles; collages, mosaics and similar decorative plaques:				
+ 	Of an age exceeding 100 years:				
+9701.21.00	00  	Paintings, drawings, and pastels	
+No.
+Free 1/		Free 1/
+9701.22.00	00  	Mosaics	
+No.
+Free 1/		Free 1/
+9701.29.00	00  	Other	
+No.
+Free 1/		Free 1/
+ 	Other:				
+9701.91.00	00  	Paintings, drawings, and pastels	
+No.
+Free 1/		Free 1/
+9701.92.00	00  	Mosaics	
+No.
+Free 1/		Free 1/
+9701.99.00	00  	Other	
+No.
+Free 1/		Free 1/
+9702	 	Original engravings, prints and lithographs:				
+9702.10.00	00  	Of an age exceeding 100 years	
+No.
+Free 1/		Free 1/
+9702.90.00	00  	Other	
+No.
+Free 1/		Free 1/
+9703	 	Original sculptures and statuary, in any material:				
+9703.10.00	00  	Of an age exceeding 100 years	
+No.
+Free 1/		Free 1/
+9703.90.00	00  	Other	
+No.
+Free 1/		Free 1/
+9704.00.00	00  	Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper) and the like, used or unused, other than those of heading 4907	
+No.
+Free 1/		Free 1/
+9705	 	Collections and collectors’ pieces of archaeological, ethnographic, historical, zoological, botanical, mineralogical, anatomical, paleontological or numismatic interest:				
+9705.10.00	 	Collections and collectors’ pieces of archaeological, ethnographic or historical interest		Free 1/		Free 1/
+9705.10.00.10	10  	Archaeological pieces of a kind described in statistical note 1 to this chapter	
+kg
+9705.10.00.20	20  	Ethnographic pieces of a kind described in statistical note 1 to this chapter	
+kg
+9705.10.00.90	90  	Other	
+kg
+ 	Collections and collectors’ pieces of zoological, botanical, mineralogical, anatomical or paleontological interest:				
+9705.21.00	00  	Human specimens and parts thereof	
+g
+Free 1/		Free 1/
+9705.22.00	00  	Extinct or endangered species and parts thereof	
+g
+Free 1/		Free 1/
+9705.29.00	00  	Other	
+g
+Free 1/		Free 1/
+ 	Collections and collectors’ pieces of numismatic interest:				
+9705.31.00	 	Of an age exceeding 100 years		Free 1/		Free 1/
+9705.31.00.01	01  	Coins made prior to the 14th century and not known to be the direct products of excavations, finds or archaeological sites	
+g
+ 	Other:				
+ 	Of an age equal to or exceeding 250 years:				
+9705.31.00.10	10  	Gold	
+g
+9705.31.00.40	40  	Other	
+g
+ 	Of an age exceeding 100 years but less than 250 years:				
+9705.31.00.50	50  	Gold	
+g
+9705.31.00.65	65  	Other	
+g
+9705.39.00	 	Other		Free 1/		Free 1/
+9705.39.00.10	10  	Gold	
+g
+9705.39.00.40	40  	Other	
+g
+9706	 	Antiques of an age exceeding 100 years:				
+9706.10.00	 	Of an age exceeding 250 years		Free 1/		Free 1/
+9706.10.00.20	20  	Silverware	
+kg
+9706.10.00.40	40  	Furniture	
+kg
+9706.10.00.60	60  	Other	
+kg
+9706.90.00	 	Other		Free 1/		Free 1/
+9706.90.00.20	20  	Silverware	
+kg
+9706.90.00.40	40  	Furniture	
+kg
+9706.90.00.60	60  	Other	

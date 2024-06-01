@@ -1,0 +1,1077 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+ 	I. CHEMICAL ELEMENTS				
+2801	 	Fluorine, chlorine, bromine and iodine:				
+2801.10.00	00  	Chlorine	
+kg
+Free 1/		25%
+2801.20.00	00  	Iodine	
+kg
+Free 1/		Free
+2801.30	 	Fluorine; bromine:				
+2801.30.10	00  	Fluorine	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2801.30.20	00  	Bromine	
+kg
+5.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	37%
+2802.00.00	00  	Sulfur, sublimed or precipitated; colloidal sulfur	
+t
+Free 1/		Free
+2803.00.00	 	Carbon (carbon blacks and other forms of carbon not elsewhere specified or included)		Free 1/		20% 1/
+2803.00.00.10	10  	Carbon black	
+kg
+2803.00.00.50	50  	Other	
+kg
+2804	 	Hydrogen, rare gases and other nonmetals:				
+2804.10.00	00  	Hydrogen	
+thousand m3
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Rare gases:				
+2804.21.00	00  	Argon	
+thousand m3
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2804.29.00	 	Other		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2804.29.00.10	10  	Helium	
+thousand m3
+2804.29.00.50	50  	Other	
+thousand m3
+2804.30.00	00  	Nitrogen	
+thousand m3
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2804.40.00	00  	Oxygen	
+thousand m3
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2804.50.00	 	Boron; tellurium		Free 1/		25%
+2804.50.00.10	10  	Boron	
+kg
+2804.50.00.20	20  	Tellurium	
+kg
+ 	Silicon:				
+2804.61.00	00  	Containing by weight not less than 99.99 percent of silicon	
+kg
+Free 1/		25%
+2804.69	 	Other:				
+2804.69.10	00  	Containing by weight less than 99.99 percent but not less than 99 percent of silicon	
+kg
+Si kg
+5.3%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	21%
+2804.69.50	00  	Other	
+kg
+Si kg
+5.5%	Free (A+, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+2804.70.00	00  	Phosphorus	
+kg
+Free		17.6¢/kg
+2804.80.00	00  	Arsenic	
+kg
+Free 1/		13.2¢/kg
+2804.90.00	00  	Selenium	
+kg
+Free 1/		Free 1/
+2805	 	Alkali or alkaline-earth metals; rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed; mercury:				
+ 	Alkali or alkaline-earth metals:				
+2805.11.00	00  	Sodium 1/	
+kg
+5.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2805.12.00	00  	Calcium	
+kg
+3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2805.19	 	Other:				
+2805.19.10	00  	Strontium	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2805.19.20	00  	Barium	
+kg
+Free 1/		25%
+2805.19.90	00  	Other	
+kg
+5.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2805.30.00	 	Rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed		5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31.3%
+ 	Not intermixed or interalloyed:				
+2805.30.00.05	05  	Lanthanum	
+kg
+2805.30.00.10	10  	Cerium	
+kg
+2805.30.00.15	15  	Praseodymium	
+kg
+2805.30.00.20	20  	Neodymium	
+kg
+2805.30.00.50	50  	Other	
+kg
+2805.30.00.90	90  	Other	
+kg
+2805.40.00	00  	Mercury	
+kg
+1.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.7%
+ 	II. INORGANIC ACIDS AND INORGANIC OXYGEN COMPOUNDS OF NONMETALS				
+2806	 	Hydrogen chloride (Hydrochloric acid); chlorosulfuric acid:				
+2806.10.00	00  	Hydrogen chloride (Hydrochloric acid)	
+t
+Free 1/		Free
+2806.20.00	00  	Chlorosulfuric acid	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2807.00.00	00  	Sulfuric acid; oleum	
+t
+Free 1/		Free 1/
+2808.00.00	 	Nitric acid; sulfonitric acids		Free 1/		Free
+2808.00.00.10	10  	Nitric acid	
+kg
+2808.00.00.20	20  	Sulfonitric acids	
+kg
+2809	 	Diphosphorus pentaoxide; phosphoric acid;polyphosphoric acids, whether or not chemically defined:				
+2809.10.00	00  	Diphosphorus pentaoxide	
+kg
+Free 1/		25%
+2809.20.00	 	Phosphoric acid and polyphosphoric acids		Free 1/		Free
+ 	Phosphoric acid:				
+ 	Fertilizer grade:				
+2809.20.00.10	10  	Containing less than 65 percent available diphosphorus pentaoxide (P2O5) equivalents	
+t
+2809.20.00.20	20  	Other	
+t
+2809.20.00.30	30  	Other	
+t
+2809.20.00.40	40  	Polyphosphoric acids	
+t
+2810.00.00	00  	Oxides of boron; boric acids	
+t
+1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.5%
+2811	 	Other inorganic acids and other inorganic oxygen compounds of nonmetals:				
+ 	Other inorganic acids:				
+2811.11.00	00  	Hydrogen fluoride (Hydrofluoric acid)	
+kg
+Free 1/		Free
+2811.12.00	00  	Hydrogen cyanide (hydrocyanic acid)	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2811.19	 	Other:				
+2811.19.10	00  	Arsenic acid	
+kg
+2.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.9%
+2811.19.30	00  	Hydrobromic acid	
+kg
+Free 1/		25%
+2811.19.61	 	Other		4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2811.19.61.10	10  	Sulfamic acid	
+kg
+2811.19.61.90	90  	Other	
+kg
+ 	Other inorganic oxygen compounds of nonmetals:				
+2811.21.00	00  	Carbon dioxide	
+t
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2811.22	 	Silicon dioxide:				
+2811.22.10	00  	Synthetic silica gel	
+kg
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2811.22.50	00  	Other	
+kg
+Free 1/		Free
+2811.29	 	Other:				
+2811.29.10	00  	Arsenic trioxide	
+kg
+Free 1/		Free 1/
+2811.29.20	00  	Selenium dioxide	
+kg
+Free 1/		Free
+2811.29.30	00  	Sulfur dioxide	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2811.29.50	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	III. HALOGEN OR SULFUR COMPOUNDS OF NONMETALS				
+2812	 	Halides and halide oxides of nonmetals:				
+ 	Chlorides and chloride oxides:				
+2812.11.00	00  	Carbonyl dichloride (phosgene)	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2812.12.00	00  	Phosphorous oxychloride	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2812.13.00	00  	Phosphorous trichloride	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2812.14.00	00  	Phosphorous pentachloride	
+kg
+Free 1/		25%
+2812.15.00	00  	Sulfur monochloride	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2812.16.00	00  	Sulfur dichloride	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2812.17.00	00  	Thionyl chloride	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2812.19.00	 	Other		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2812.19.00.10	10  	Arsenic trichloride	
+kg
+2812.19.00.90	90  	Other	
+kg
+2812.90.00	 	Other		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2812.90.00.10	10  	Sulfur hexafluoride	
+kg
+2812.90.00.90	90  	Other	
+kg
+2813	 	Sulfides of nonmetals; commercial phosphorus trisulfide:				
+2813.10.00	00  	Carbon disulfide	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2813.90	 	Other:				
+2813.90.10	00  	Of arsenic	
+kg
+Free 1/		Free
+2813.90.20	00  	Of phosphorus	
+kg
+Free 1/		25%
+2813.90.50	00  	Other	
+kg
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS				
+2814	 	Ammonia, anhydrous or in aqueous solution:				
+2814.10.00	00  	Anhydrous ammonia	
+t
+Free 1/		Free
+2814.20.00	00  	Ammonia in aqueous solution	
+t
+NH3 t
+Free 1/		Free
+2815	 	Sodium hydroxide (Caustic soda); potassium hydroxide (Caustic potash); peroxides of sodium or potassium:				
+ 	Sodium hydroxide (Caustic soda):				
+2815.11.00	00  	Solid	
+kg
+Free 1/		1.1¢/kg 1/
+2815.12.00	00  	In aqueous solution (Soda lye or liquid soda)	
+kg
+NaOH kg
+Free 1/		1.1¢/kg
+2815.20.00	 	Potassium hydroxide (Caustic potash)		Free 1/		2.2¢/kg
+2815.20.00.50	50  	In solid form	
+kg
+2815.20.00.90	90  	Other	
+kg
+2815.30.00	00  	Peroxides of sodium or potassium	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2816	 	Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium:				
+2816.10.00	00  	Hydroxide and peroxide of magnesium	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2816.40	 	Oxides, hydroxides and peroxides, of strontium or barium:				
+2816.40.10	00  	Of strontium	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2816.40.20	00  	Of barium	
+kg
+2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10.5%
+2817.00.00	00  	Zinc oxide; zinc peroxide	
+kg
+Free 1/		5.5% 1/
+2818	 	Artificial corundum, whether or not chemically defined; aluminum oxide; aluminum hydroxide:				
+2818.10	 	Artificial corundum, whether or not chemically defined:				
+2818.10.10	00  	Crude	
+t
+Free 1/		Free 1/
+2818.10.20	 	In grains, or ground, pulverized or refined		1.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.1% 1/
+2818.10.20.10	10  	White, pink or ruby, containing more than 97.5 percent by weight of aluminum oxide	
+kg
+2818.10.20.90	90  	Other	
+kg
+2818.20.00	00  	Aluminum oxide, other than artificial corundum	
+kg
+Free		1.1¢/kg
+2818.30.00	00  	Aluminum hydroxide	
+kg
+Free 1/		1.1¢/kg
+2819	 	Chromium oxides and hydroxides:				
+2819.10.00	00  	Chromium trioxide	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2819.90.00	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2820	 	Manganese oxides:				
+2820.10.00	00  	Manganese dioxide	
+kg
+4.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2820.90.00	00  	Other	
+kg
+4.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2821	 	Iron oxides and hydroxides; earth colors containing 70 percent or more by weight of combined iron evaluated as Fe2O3:				
+2821.10.00	 	Iron oxides and hydroxides		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Synthetic pigments:				
+2821.10.00.10	10  	Black	
+kg
+2821.10.00.20	20  	Red	
+kg
+2821.10.00.30	30  	Yellow	
+kg
+2821.10.00.40	40  	Other	
+kg
+2821.10.00.50	50  	Other	
+kg
+2821.20.00	00  	Earth colors	
+kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2822.00.00	00  	Cobalt oxides and hydroxides; commercial cobalt oxides	
+kg
+0.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.7%
+2823.00.00	00  	Titanium oxides	
+kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+2824	 	Lead oxides; red lead and orange lead:				
+2824.10.00	00  	Lead monoxide (litharge, massicot)	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12%
+2824.90	 	Other:				
+2824.90.10	00  	Lead suboxide (leady litharge)	
+kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+2824.90.20	00  	Red lead and orange lead	
+kg
+3.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12.5%
+2824.90.50	00  	Other	
+kg
+4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+2825	 	Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides:				
+2825.10.00	00  	Hydrazine and hydroxylamine and their inorganic salts	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2825.20.00	00  	Lithium oxide and hydroxide	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2825.30.00	 	Vanadium oxides and hydroxides		5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+2825.30.00.10	10  	Vanadium pentoxide (anhydride)	
+kg
+V kg
+2825.30.00.50	50  	Other	
+kg
+V kg
+2825.40.00	00  	Nickel oxides and hydroxides	
+kg
+Free 1/		Free
+2825.50	 	Copper oxides and hydroxides:				
+2825.50.10	00  	Cupric oxide	
+kg
+4.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	31%
+2825.50.20	00  	Cuprous oxide	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	39.5%
+2825.50.30	00  	Copper hydroxides	
+kg
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	32.5%
+2825.60.00	00  	Germanium oxides and zirconium dioxide	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2825.70.00	00  	Molybdenum oxides and hydroxides	
+kg
+3.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20.5% 1/
+2825.80.00	00  	Antimony oxides	
+kg
+Free		4.4¢/kg
+2825.90	 	Other:				
+2825.90.10	00  	Beryllium oxide and hydroxide	
+kg
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2825.90.15	00  	Niobium oxide	
+kg
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2825.90.20	00  	Tin oxides	
+kg
+4.2%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2825.90.30	00  	Tungsten oxides	
+kg
+W kg
+5.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+2825.90.75	00  	Cadmium oxide	
+kg
+Free 1/		25%
+2825.90.90	00  	Other	
+kg
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS				
+2826	 	Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts:				
+ 	Fluorides:				
+2826.12.00	00  	Of aluminum	
+kg
+Free 1/		25%
+2826.19	 	Other:				
+2826.19.10	00  	Of ammonium	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2826.19.20	00  	Of sodium	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2826.19.90	00  	Other	
+kg
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2826.30.00	00  	Sodium hexafluoroaluminate (Synthetic cryolite)	
+t
+Free 1/		Free
+2826.90	 	Other:				
+2826.90.10	00  	Fluorosilicates of sodium or of potassium	
+kg
+4.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	62.5%
+2826.90.90	00  	Other	
+kg
+3.1%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2827	 	Chlorides, chloride oxides and chloride hydroxides; bromides and bromide oxides; iodides and iodide oxides:				
+2827.10.00	00  	Ammonium chloride	
+kg
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	18%
+2827.20.00	00  	Calcium chloride	
+kg
+Free 1/		Free 1/
+ 	Other chlorides:				
+2827.31.00	00  	Of magnesium	
+kg
+1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5% 1/
+2827.32.00	00  	Of aluminum	
+kg
+Free 1/		25% 1/
+2827.35.00	00  	Of nickel	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2827.39	 	Other:				
+2827.39.10	00  	Of vanadium	
+kg
+V kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+2827.39.25	00  	Of tin	
+kg
+4.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2827.39.30	00  	Of titanium	
+kg
+4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+2827.39.40	00  	Of tungsten	
+kg
+W kg
+5.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+2827.39.45	00  	Of barium	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	28.5% 1/
+2827.39.55	00  	Of iron	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2827.39.60	00  	Of cobalt	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+2827.39.65	00  	Of zinc	
+kg
+1.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5% 1/
+2827.39.90	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Chloride oxides and chloride hydroxides:				
+2827.41.00	00  	Of copper	
+kg
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	32.5%
+2827.49	 	Other:				
+2827.49.10	00  	Of vanadium	
+kg
+V kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+2827.49.50	00  	Other	
+kg
+5.5%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Bromides and bromide oxides:				
+2827.51.00	00  	Bromides of sodium or of potassium	
+kg
+Free 1/		22¢/kg
+2827.59	 	Other:				
+2827.59.25	00  	Of ammonium, of calcium or of zinc	
+kg
+Free 1/		25% 1/
+2827.59.51	00  	Other	
+kg
+3.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2827.60	 	Iodides and iodide oxides:				
+2827.60.10	00  	Of calcium or of copper	
+kg
+Free 1/		25% 1/
+2827.60.20	00  	Of potassium	
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	7.5%
+2827.60.51	00  	Other	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2828	 	Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites:				
+2828.10.00	00  	Commercial calcium hypochlorite and other calcium hypochlorites	
+kg
+2.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2828.90.00	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2829	 	Chlorates and perchlorates; bromates and perbromates; iodates and periodates:				
+ 	Chlorates:				
+2829.11.00	00  	Of sodium	
+kg
+Free 1/		13%
+2829.19.01	00  	Other	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2829.90	 	Other:				
+2829.90.05	00  	Potassium bromate	
+kg
+Free 1/		25%
+2829.90.25	00  	Sodium bromate	
+kg
+Free		25%
+ 	Other:				
+2829.90.40	00  	Of potassium	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2829.90.61	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2830	 	Sulfides; polysulfides, whether or not chemically defined:				
+2830.10.00	00  	Sodium sulfides	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2830.90	 	Other:				
+2830.90.10	00  	Zinc sulfide, luminescent grade having a purity of 99.99 percent or more by weight	
+kg
+Free 1/		11%
+2830.90.15	00  	Other zinc sulfide	
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11%
+2830.90.20	00  	Cadmium sulfide	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2830.90.90	00  	Other	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2831	 	Dithionites and sulfoxylates:				
+2831.10	 	Of sodium:				
+2831.10.10	00  	Sodium formaldehyde sulfoxylate	
+kg
+Free 1/		35%
+2831.10.50	00  	Other	
+kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2831.90.00	00  	Other	
+kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2832	 	Sulfites; thiosulfates:				
+2832.10.00	00  	Sodium sulfites	
+kg
+1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.5%
+2832.20.00	00  	Other sulfites	
+kg
+3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2832.30	 	Thiosulfates:				
+2832.30.10	00  	Sodium thiosulfate	
+kg
+1.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.5%
+2832.30.50	00  	Other	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.5%
+2833	 	Sulfates; alums; peroxosulfates (persulfates):				
+ 	Sodium sulfates:				
+2833.11	 	Disodium sulfate:				
+2833.11.10	00  	Salt cake	
+t
+Free 1/		Free
+2833.11.50	 	Other		0.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.6%
+2833.11.50.10	10  	Anhydrous	
+t
+2833.11.50.50	50  	Other	
+t
+2833.19.00	00  	Other	
+kg
+Free 1/		Free
+ 	Other sulfates:				
+2833.21.00	00  	Of magnesium	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2833.22.00	00  	Of aluminum	
+kg
+Free 1/		10%
+2833.24.00	00  	Of nickel	
+kg
+3.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2833.25.00	00  	Of copper	
+kg
+Cu kg
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5%
+2833.27.00	00  	Of barium	
+kg
+0.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.2%
+2833.29	 	Other:				
+2833.29.10	00  	Of cobalt	
+kg
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.5%
+2833.29.20	00  	Of iron	
+kg
+Free 1/		Free
+2833.29.30	00  	Of vanadium	
+kg
+V kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+2833.29.40	00  	Of chromium	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2833.29.45	00  	Of zinc	
+kg
+1.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8%
+2833.29.51	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+2833.30.00	00  	Alums	
+kg
+1.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2833.40	 	Peroxosulfates (persulfates):				
+2833.40.20	00  	Of sodium	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2833.40.60	 	Other		3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2833.40.60.10	10  	Of potassium	
+kg
+2833.40.60.20	20  	Of ammonium	
+kg
+2833.40.60.50	50  	Other	
+kg
+2834	 	Nitrites; nitrates:				
+2834.10	 	Nitrites:				
+2834.10.10	00  	Of sodium	
+kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	54%
+2834.10.50	00  	Other	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Nitrates:				
+2834.21.00	00  	Of potassium	
+t
+Free 1/		Free
+2834.29	 	Other:				
+2834.29.05	00  	Of bismuth	
+kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2834.29.10	00  	Of calcium	
+t
+Free 1/		Free 1/
+2834.29.20	00  	Of strontium	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2834.29.51	00  	Other	
+kg
+3.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+2835	 	Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined:				
+2835.10.00	00  	Phosphinates (hypophosphites) and phosphonates (phosphites)	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Phosphates:				
+2835.22.00	00  	Of mono- or disodium	
+kg
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6% 1/
+2835.24.00	00  	Of potassium	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2835.25.00	00  	Calcium hydrogenorthophosphate ("Dicalcium phosphate")	
+kg
+Free 1/		25%
+2835.26.00	00  	Other phosphates of calcium	
+kg
+Free 1/		25%
+2835.29	 	Other:				
+2835.29.10	00  	Of aluminum	
+kg
+Free 1/		25%
+2835.29.20	00  	Of triammonium	
+kg
+1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.5%
+2835.29.30	00  	Of trisodium	
+kg
+2.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	11.5%
+2835.29.51	00  	Other	
+kg
+4.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Polyphosphates:				
+2835.31.00	00  	Sodium triphosphate (Sodium tripolyphosphate)	
+kg
+1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6% 1/
+2835.39	 	Other:				
+2835.39.10	00  	Of potassium	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2835.39.50	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2836	 	Carbonates; peroxocarbonates (percarbonates); commercial ammonium carbonate containing ammonium carbamate:				
+2836.20.00	00  	Disodium carbonate	
+kg
+1.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.5% 1/
+2836.30.00	00  	Sodium hydrogencarbonate (Sodium bicarbonate)	
+kg
+Free 1/		Free
+2836.40	 	Potassium carbonates:				
+2836.40.10	00  	Dipotassium carbonate	
+kg
+1.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6%
+2836.40.20	00  	Potassium hydrogencarbonate (Potassium bicarbonate)	
+kg
+1.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.8%
+2836.50.00	00  	Calcium carbonate	
+kg
+Free 1/		25%
+2836.60.00	00  	Barium carbonate	
+kg
+2.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.4% 1/
+ 	Other:				
+2836.91.00	 	Lithium carbonates		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2836.91.00.10	10  	U.S.P. grade	
+kg
+2836.91.00.50	50  	Other	
+kg
+2836.92.00	00  	Strontium carbonate	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2836.99	 	Other:				
+2836.99.10	00  	Cobalt carbonates	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+2836.99.20	00  	Bismuth carbonate	
+kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2836.99.30	00  	Commercial ammonium carbonate and other ammonium carbonates	
+kg
+1.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	16%
+2836.99.40	00  	Lead carbonates	
+kg
+0.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.5%
+2836.99.50	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2837	 	Cyanides, cyanide oxides and complex cyanides:				
+ 	Cyanides and cyanide oxides:				
+2837.11.00	00  	Of sodium	
+kg
+Free 1/		Free
+2837.19.01	 	Other		Free 1/		Free 1/
+2837.19.01.10	10  	Potassium cyanide	
+kg
+2837.19.01.15	15  	Calcium cyanide	
+kg
+2837.19.01.25	25  	Other	
+kg
+2837.20	 	Complex cyanides:				
+2837.20.10	00  	Potassium ferricyanide	
+kg
+1.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.1%
+2837.20.51	00  	Other	
+kg
+1.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.5%
+2839	 	Silicates; commercial alkali metal silicates:				
+ 	Of sodium:				
+2839.11.00	00  	Sodium metasilicates	
+kg
+1.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3%
+2839.19.00	00  	Other	
+kg
+1.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3%
+2839.90	 	Other:				
+2839.90.10	00  	Of potassium	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2839.90.50	00  	Other	
+kg
+3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2840	 	Borates; peroxoborates (perborates):				
+ 	Disodium tetraborate (refined borax):				
+2840.11.00	00  	Anhydrous	
+kg
+0.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.2%
+2840.19.00	00  	Other	
+kg
+0.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.4%
+2840.20.00	00  	Other borates	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2840.30.00	 	Peroxoborates (perborates)		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2840.30.00.10	10  	Sodium perborate	
+kg
+2840.30.00.50	50  	Other	
+kg
+2841	 	Salts of oxometallic or peroxometallic acids:				
+2841.30.00	00  	Sodium dichromate	
+kg
+2.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.5%
+2841.50	 	Other chromates and dichromates; peroxochromates:				
+2841.50.10	00  	Potassium dichromate	
+kg
+1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.5%
+2841.50.91	00  	Other	
+kg
+3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Manganites, manganates and permanganates:				
+2841.61.00	00  	Potassium permanganate	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	23%
+2841.69.00	 	Other		5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	23%
+2841.69.00.10	10  	Sodium permanganate	
+kg
+2841.69.00.90	90  	Other	
+kg
+2841.70	 	Molybdates:				
+2841.70.10	00  	Of ammonium	
+kg
+Mo kg
+4.3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	29%
+2841.70.50	00  	Other	
+kg
+Mo kg
+3.7%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2841.80.00	 	Tungstates (wolframates)		5.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	49.5%
+2841.80.00.10	10  	Of ammonium	
+kg
+W kg
+2841.80.00.20	20  	Of calcium	
+kg
+W kg
+2841.80.00.50	50  	Other	
+kg
+W kg
+2841.90	 	Other:				
+2841.90.10	00  	Vanadates	
+kg
+V kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+2841.90.20	00  	Ammonium perrhenate	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2841.90.30	00  	Potassium stannate	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2841.90.40	00  	Aluminates	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+2841.90.45	00  	Chromates of zinc or of lead	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2841.90.50	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2842	 	Other salts of inorganic acids or peroxoacids (including aluminosilicates whether or not chemically defined), other than azides:				
+2842.10.00	00  	Double or complex silicates, including aluminosilicates whether or not chemically defined	
+kg
+3.7% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+2842.90	 	Other:				
+2842.90.10	00  	Fulminates, cyanates and thiocyanates	
+kg
+3.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2842.90.90	00  	Other	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	VI. MISCELLANEOUS				
+2843	 	Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals:				
+2843.10.00	00  	Colloidal precious metals	
+g
+5.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+ 	Silver compounds:				
+2843.21.00	00  	Silver nitrate	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2843.29.01	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+2843.30.00	00  	Gold compounds	
+kg
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25%
+2843.90.00	00  	Other compounds; amalgams	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2844	 	Radioactive chemical elements and radioactive isotopes (including the fissile or fertile chemical elements and isotopes) and their compounds; mixtures and residues containing these products:				
+2844.10	 	Natural uranium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing natural uranium or natural uranium compounds:				
+2844.10.10	00  	Uranium metal	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+2844.10.20	 	Uranium compounds		Free 1/		Free
+2844.10.20.10	10  	Oxide	
+kg
+2844.10.20.25	25  	Hexafluoride	
+kg
+2844.10.20.55	55  	Other	
+kg
+2844.10.50	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+2844.20.00	 	Uranium enriched in U235 and its compounds; plutonium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing uranium enriched in U235, plutonium or compounds of these products		Free 1/		Free
+ 	Uranium compounds:				
+2844.20.00.10	10  	Oxide	
+kg
+2844.20.00.20	20  	Fluorides	
+kg
+2844.20.00.30	30  	Other	
+kg
+2844.20.00.50	50  	Other	
+kg
+2844.30	 	Uranium depleted in U235 and its compounds; thorium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U235, thorium, or compounds of these products:				
+2844.30.10	00  	Thorium compounds	
+kg
+5.5%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2844.30.20	 	Uranium compounds		Free		Free
+2844.30.20.10	10  	Oxide	
+kg
+2844.30.20.20	20  	Fluorides	
+kg
+2844.30.20.50	50  	Other	
+kg
+2844.30.50	 	Other		5%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+2844.30.50.10	10  	Uranium metal	
+kg
+2844.30.50.50	50  	Other	
+kg
+ 	Radioactive elements and isotopes and compounds other than those of subheading 2844.10, 2844.20 or 2844.30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues:				
+2844.41.00	00  	Tritium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing tritium or its compounds	
+kg
+Free		Free
+2844.42.00	00  	Actinium-225, actinium-227, californium-253, curium-240, curium-241, curium-242, curium-243, curium-244, einsteinium-253, einsteinium-254, gadolinium-148, polonium-208, polonium-209, polonium-210, radium-223, uranium-230 or uranium-232, and their compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements or compounds	
+GBq
+Free		Free
+2844.43.00	 	Other radioactive elements and isotopes and compounds; other alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds		Free		Free
+2844.43.00.10	10  	Elements, isotopes and compounds with cobalt-60 radioactivity only	
+GBq
+ 	Other elements, isotopes and compounds:				
+2844.43.00.21	21  	Americium-241, californium-252, cesium-137, gadolinium-153, idium-192, promethium-147, radium-226, selenium-75, or ytterbium-169	
+GBq
+2844.43.00.28	28  	Other	
+GBq
+2844.43.00.50	50  	Other	
+kg
+2844.44.00	00  	Radioactive residues	
+kg
+Free		Free
+2844.50.00	00  	Spent (irradiated) fuel elements (cartridges) of nuclear reactors	
+kg
+Free 1/		Free
+2845	 	Isotopes other than those of heading 2844; compounds, inorganic or organic, of such isotopes, whether or not chemically defined:				
+2845.10.00	00  	Heavy water (Deuterium oxide)	
+kg
+Free 1/		25%
+2845.20.00	00  	Boron enriched in boron-10 and its compounds	
+kg
+Free 1/		25%
+2845.30.00	00  	Lithium enriched in lithium-6 and its compounds	
+kg
+Free 1/		25%
+2845.40.00	00  	Helium-3	
+kg
+Free 1/		25%
+2845.90.01	00  	Other	
+kg
+Free 1/		25%
+2846	 	Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium, or of mixtures of these metals:				
+2846.10.00	 	Cerium compounds		5.5%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+2846.10.00.10	10  	Cerium oxides	
+kg
+2846.10.00.50	50  	Other	
+kg
+2846.90	 	Other:				
+2846.90.20	 	Mixtures of rare-earth oxides or of rare-earth chlorides		Free		25% 1/
+ 	Rare-earth oxides except cerium oxides:				
+2846.90.20.05	05  	Containing lanthanum as the predominant metal	
+kg
+2846.90.20.15	15  	Containing yttrium or scandium as the predominant metal	
+kg
+2846.90.20.40	40  	Other	
+kg
+ 	Rare-earth chlorides except cerium chlorides:				
+2846.90.20.82	82  	Containing yttrium or scandium as the predominant metal	
+kg
+2846.90.20.84	84  	Other	
+kg
+ 	Other:				
+2846.90.40	00  	Yttrium bearing materials and compounds containing by weight more than 19 percent but less than 85 percent yttrium oxide equivalent	
+kg
+Free		25% 1/
+2846.90.80	 	Other		3.7%	Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+ 	Mixtures of rare-earth carbonates other than of cerium carbonate:				
+2846.90.80.70	70  	Containing lanthanum as the predominant metal	
+kg
+2846.90.80.75	75  	Other	
+kg
+2846.90.80.90	90  	Other	
+kg
+2847.00.00	00  	Hydrogen peroxide, whether or not solidified with urea	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2849	 	Carbides, whether or not chemically defined:				
+2849.10.00	00  	Of calcium	
+kg
+1.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+2849.20	 	Of silicon:				
+2849.20.10	00  	Crude	
+kg
+Free		Free
+2849.20.20	00  	In grains, or ground, pulverized or refined	
+kg
+0.5%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.6% 1/
+2849.90	 	Other:				
+2849.90.10	00  	Of boron	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2849.90.20	00  	Of chromium	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2849.90.30	00  	Of tungsten	
+kg
+W kg
+5.5%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55.5%
+2849.90.50	00  	Other	
+kg
+3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2850.00	 	Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 2849:				
+2850.00.05	00  	Of calcium	
+kg
+Free 1/		25%
+2850.00.07	00  	Of titanium	
+kg
+4.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+2850.00.10	00  	Of tungsten	
+kg
+W kg
+5.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45.5%
+2850.00.20	00  	Of vanadium	
+kg
+V kg
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+2850.00.50	00  	Other	
+kg
+3.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2852	 	Inorganic or organic compounds of mercury, whether or not chemically defined, excluding amalgams:				
+2852.10	 	Chemically defined:				
+2852.10.10	00  	Mercuric oxide, mercuric cyanide, mercuric oxycyanide and mercuric potassium cyanide	
+kg
+Free 1/		25%
+2852.10.90	00  	Other	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2852.90	 	Other:				
+2852.90.05	00  	Albuminates, tannates and phosphides of mercury	
+kg
+Free 1/		25%
+2852.90.90	00  	Other	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2853	 	Phosphides, whether or not chemically defined, excluding ferrophosphorous; other inorganic compounds (including distilled or conductivity water and water of similar purity); liquid air (whether or not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals:				
+2853.10.00	00  	Cyanogen chloride (chloorcyan)	
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2853.90	 	Other:				
+ 	Phosphides, whether or not chemically defined, excluding ferrophosphorous:				
+2853.90.10	00  	Of copper (phosphor copper), containing more than 15 percent by weight of phosphorous	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	32.5%
+2853.90.50	00  	Of other metals or nonmetals	
+kg
+Free 1/		25% 1/
+2853.90.90	 	Other		2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+2853.90.90.10	10  	Gallium arsenide wafers, undoped	
+kg
+2853.90.90.90	90  	Other	
+kg

@@ -1,0 +1,477 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+ 	I. NATURAL OR CULTURED PEARLS AND PRECIOUS OR SEMIPRECIOUS STONES				
+7101	 	Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or set; pearls, natural or cultured, temporarily strung for convenience of transport:				
+7101.10	 	Natural pearls:				
+7101.10.30	00  	Graded and temporarily strung for convenience of transport	
+g
+Free 1/		10%
+7101.10.60	00  	Other	
+g
+Free 1/		10%
+ 	Cultured pearls:				
+7101.21.00	00  	Unworked	
+g
+Free 1/		10%
+7101.22	 	Worked:				
+7101.22.30	00  	Graded and temporarily strung for convenience of transport	
+g
+Free 1/		10%
+7101.22.60	00  	Other	
+g
+Free 1/		10%
+7102	 	Diamonds, whether or not worked, but not mounted or set:				
+7102.10.00	00  	Unsorted	
+carat
+Free 1/		Free
+ 	Industrial:				
+7102.21	 	Unworked or simply sawn, cleaved or bruted:				
+7102.21.10	 	Miners' diamonds		Free 1/		Free 1/
+7102.21.10.10	10  	Carbonados	
+carat
+7102.21.10.20	20  	Other	
+carat
+ 	Other:				
+7102.21.30	00  	Simply sawn, cleaved or bruted	
+carat
+Free 1/		30% 1/
+7102.21.40	00  	Other	
+carat
+Free 1/		Free 1/
+7102.29.00	 	Other		Free 1/		Free 1/
+ 	Miners' diamonds:				
+7102.29.00.10	10  	Carbonados	
+carat
+7102.29.00.20	20  	Other	
+carat
+7102.29.00.50	50  	Other	
+carat
+ 	Nonindustrial:				
+7102.31.00	00  	Unworked or simply sawn, cleaved or bruted	
+carat
+Free 1/		Free
+7102.39.00	 	Other		Free 1/		10%
+7102.39.00.10	10  	Weighing not over 0.5 carat each	
+carat
+7102.39.00.50	50  	Weighing over 0.5 carat each	
+carat
+7103	 	Precious stones (other than diamonds) and semiprecious stones, whether or not worked or graded but not strung, mounted or set; ungraded precious stones (other than diamonds) and semiprecious stones, temporarily strung for convenience of transport:				
+7103.10	 	Unworked or simply sawn or roughly shaped:				
+7103.10.20	00  	Unworked	
+carat
+Free 1/		Free 1/
+7103.10.40	00  	Other	
+carat
+10.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Otherwise worked:				
+7103.91.00	 	Rubies, sapphires and emeralds		Free 1/		10% 1/
+7103.91.00.10	10  	Rubies	
+carat
+7103.91.00.20	20  	Sapphires	
+carat
+7103.91.00.30	30  	Emeralds	
+carat
+7103.99	 	Other:				
+7103.99.10	00  	Cut but not set, and suitable for use in the manufacture of jewelry	
+carat
+Free 1/		10% 1/
+7103.99.50	00  	Other	
+carat
+10.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+7104	 	Synthetic or reconstructed precious or semiprecious stones, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semiprecious stones, temporarily strung for convenience of transport:				
+7104.10.00	00  	Piezo-electric quartz	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Other, unworked or simply sawn or roughly shaped:				
+7104.21.00	00  	Diamonds	
+g
+3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+7104.29.00	00  	Other	
+g
+3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	Other:				
+7104.91	 	Diamonds:				
+7104.91.10	00  	Cut but not set, and suitable for use in the manufacture of jewelry	
+No.
+Free 1/		10% 1/
+7104.91.50	00  	Other	
+g
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+7104.99	 	Other:				
+7104.99.10	00  	Cut but not set, and suitable for use in the manufacture of jewelry	
+No.
+Free 1/		10% 1/
+7104.99.50	00  	Other	
+g
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+7105	 	Dust and powder of natural or synthetic precious or semi- precious stones:				
+7105.10.00	 	Of diamonds		Free 1/		Free 1/
+ 	Natural:				
+7105.10.00.11	11  	80 mesh or finer	
+carat
+7105.10.00.15	15  	Other	
+carat
+ 	Synthetic:				
+7105.10.00.20	20  	Coated with metal	
+carat
+ 	Other:				
+7105.10.00.30	30  	80 mesh or finer	
+carat
+7105.10.00.50	50  	Other	
+carat
+7105.90.00	00  	Other	
+kg
+Free 1/		2.2¢/kg 1/
+ 	II. PRECIOUS METALS AND METALS CLAD WITH PRECIOUS METAL				
+7106	 	Silver (including silver plated with gold or platinum), unwrought or in semimanufactured forms, or in powder form:				
+7106.10.00	00  	Powder	
+g
+Free 1/		Free
+ 	Other:				
+7106.91	 	Unwrought:				
+7106.91.10	 	Bullion and dore		Free 1/		Free 1/
+7106.91.10.10	10  	Bullion	
+Ag g
+7106.91.10.20	20  	Dore	
+Ag g
+7106.91.50	00  	Other	
+g
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7106.92	 	Semimanufactured:				
+7106.92.10	00  	Rectangular or near rectangular shapes, containing 99.5 percent or more by weight of silver and not otherwise marked or decorated than with weight, purity, or other identifying information	
+g
+Free 1/		Free 1/
+7106.92.50	00  	Other	
+g
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7107.00.00	00  	Base metals clad with silver, not further worked than semi- manufactured	
+g
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+7108	 	Gold (including gold plated with platinum) unwrought or in semimanufactured forms, or in powder form:				
+ 	Nonmonetary:				
+7108.11.00	00  	Powder	
+g
+Free 1/		Free
+7108.12	 	Other unwrought forms:				
+7108.12.10	 	Bullion and dore		Free 1/		Free
+ 	Bullion:				
+7108.12.10.13	13  	Containing by weight not less than 99.95 percent of gold	
+Au g
+7108.12.10.17	17  	Other	
+Au g
+7108.12.10.20	20  	Dore	
+Au g
+7108.12.50	 	Other		4.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7108.12.50.10	10  	Containing by weight not less than 99.95 percent of gold	
+Au g
+7108.12.50.50	50  	Other	
+Au g
+7108.13	 	Other semimanufactured forms:				
+7108.13.10	00  	Gold leaf	
+cm2
+Au g
+Free 1/		8%
+ 	Other:				
+7108.13.55	00  	Rectangular or near rectangular shapes, containing 99.5 percent or more by weight of gold and not otherwise marked or decorated than with weight, purity, or other identifying information	
+g
+Free 1/		Free 1/
+7108.13.70	00  	Other	
+g
+4.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7108.20.00	00  	Monetary	
+g
+Free 1/		Free
+7109.00.00	00  	Base metals or silver, clad with gold, not further worked than semimanufactured	
+g
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7110	 	Platinum, unwrought or in semimanufactured forms, or in powder form:				
+ 	Platinum:				
+7110.11.00	 	Unwrought or in powder form		Free 1/		Free 1/
+7110.11.00.10	10  	Grain and nuggets of the metal platinum	
+Pt g
+7110.11.00.20	20  	Sponge of the metal platinum	
+Pt g
+7110.11.00.50	50  	Other	
+Pt g
+7110.19.00	00  	Other	
+Pt g
+Free 1/		Free 1/
+ 	Palladium:				
+7110.21.00	00  	Unwrought or in powder	
+Pd g
+Free 1/		Free
+7110.29.00	00  	Other	
+Pd g
+Free 1/		Free 1/
+ 	Rhodium:				
+7110.31.00	00  	Unwrought or in powder form	
+Rh g
+Free 1/		Free 1/
+7110.39.00	00  	Other	
+Rh g
+Free 1/		Free 1/
+ 	Iridium, osmium and ruthenium:				
+7110.41.00	 	Unwrought or in powder form		Free 1/		Free 1/
+ 	Separately:				
+7110.41.00.10	10  	Iridium	
+Ir g
+7110.41.00.20	20  	Osmium	
+Os g
+7110.41.00.30	30  	Ruthenium	
+Ru g
+7110.41.00.50	50  	Other	
+g
+7110.49.00	 	Other		Free 1/		Free 1/
+7110.49.00.10	10  	Iridium separately	
+Ir g
+7110.49.00.50	50  	Other	
+g
+7111.00.00	00  	Base metals, silver or gold, clad with platinum, not further worked than semimanufactured	
+g
+10% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7112	 	Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious metal compounds, of a kind used principally for the recovery of precious metal other than goods of heading 8549:				
+7112.30.01	00  	Ash containing precious metal or precious metal compounds	
+kg
+Free 1/		Free
+ 	Other:				
+7112.91.01	00  	Of gold, including metal clad with gold but excluding sweepings containing other precious metals	
+g
+Au g
+Free 1/		Free
+7112.92.01	00  	Of platinum, including metal clad with platinum but excluding sweepings containing other precious metals	
+g
+Pt g
+Free 1/		Free
+7112.99.01	00  	Other	
+g
+Free 1/		Free
+ 	III. JEWELRY, GOLDSMITHS' AND SILVERSMITHS' WARES AND OTHER ARTICLES				
+7113	 	Articles of jewelry and parts thereof, of precious metal or of metal clad with precious metal:				
+ 	Of precious metal whether or not plated or clad with precious metal:				
+7113.11	 	Of silver, whether or not plated or clad with other precious metal:				
+7113.11.10	00  	Rope, curb, cable, chain and similar articles produced in continuous lengths, all the foregoing, whether or not cut to specific lengths and whether or not set with imitation pearls or imitation gemstones, suitable for use in the manufacture of articles provided for in this heading	
+g
+6.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Other:				
+7113.11.20	00  	Valued not over $18 per dozen pieces or parts	
+g
+13.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+7113.11.50	00  	Other	
+g
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7113.19	 	Of other precious metal, whether or not plated or clad with precious metal:				
+7113.19.10	00  	Rope, curb, cable, chain and similar articles produced in continuous lengths, all the foregoing, whether or not cut to specific lengths and whether or not set with imitation pearls or imitation gemstones, suitable for use in the manufacture of articles provided for in this heading	
+g
+7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Other:				
+ 	Necklaces and neck chains, of gold:				
+7113.19.21	00  	Rope	
+g
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7113.19.25	00  	Mixed link	
+g
+5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7113.19.29	00  	Other	
+g
+5.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7113.19.30	00  	Clasps and parts thereof	
+g
+5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7113.19.50	 	Other		5.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Of ISO standard platinum:				
+7113.19.50.21	21  	Necklaces and neck chains	
+pcs 1/
+7113.19.50.25	25  	Rings	
+pcs 1/
+7113.19.50.30	30  	Earrings	
+pcs 1/
+7113.19.50.45	45  	Other	
+pcs 1/
+7113.19.50.90	90  	Other	
+g
+7113.20	 	Of base metal clad with precious metal:				
+7113.20.10	00  	Rope, curb, cable, chain and similar articles produced in continuous lengths, all the foregoing, whether or not cut to specific lengths and whether or not set with imitation pearls or imitation gemstones, suitable for use in the manufacture of articles provided for in this heading	
+g
+7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Other:				
+ 	Necklaces and neck chains, clad with gold:				
+7113.20.21	00  	Rope	
+g
+5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7113.20.25	00  	Mixed link	
+g
+5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7113.20.29	00  	Other	
+g
+5.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7113.20.30	00  	Clasps and parts thereof	
+g
+5.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7113.20.50	00  	Other	
+g
+5.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7114	 	Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal or of metal clad with precious metal:				
+ 	Of precious metal whether or not plated or clad with precious metal:				
+7114.11	 	Of silver, whether or not plated or clad with other precious metal:				
+7114.11.10	00  	Knives with silver handles	
+No.
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	16¢ each + 45%
+7114.11.20	00  	Forks with silver handles	
+No.
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	16¢ each + 45%
+ 	Spoons and ladles:				
+7114.11.30	00  	With sterling silver handles	
+No.
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7114.11.40	00  	Other	
+No.
+3.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7114.11.45	00  	Sets of the foregoing which include two or more knives, forks, spoons or ladles	
+pcs
+3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+ 	Articles not elsewhere specified or included of a type used for household, table or kitchen use; toilet and sanitary wares; all the foregoing and parts thereof, of silver:				
+7114.11.50	00  	Sterling silver tableware	
+g
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7114.11.60	00  	Other	
+g
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7114.11.70	00  	Other	
+g
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7114.19.00	00  	Of other precious metal whether or not plated or clad with precious metal	
+g
+7.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7114.20.00	 	Of base metal clad with precious metal		3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7114.20.00.40	40  	Articles not elsewhere specified or included, of a type used for household, table or kitchen use; toilet or sanitary ware	
+g
+7114.20.00.60	60  	Other	
+g
+7115	 	Other articles of precious metal or of metal clad with precious metal:				
+7115.10.00	00  	Catalysts in the form of wire cloth or grill, of platinum	
+g
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7115.90	 	Other:				
+7115.90.05	 	Articles of precious metal, in rectangular or near rectangular shapes, containing 99.5 percent or more by weight of a precious metal and not otherwise marked or decorated than with weight, purity, or other identifying information		Free 1/		Free 1/
+7115.90.05.30	30  	Of gold	
+g
+7115.90.05.60	60  	Of silver	
+g
+7115.90.05.90	90  	Other	
+g
+ 	Other:				
+7115.90.30	00  	Of gold, including metal clad with gold	
+g
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+7115.90.40	00  	Of silver, including metal clad with silver	
+g
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7115.90.60	00  	Other	
+g
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	65%
+7116	 	Articles of natural or cultured pearls, precious or semiprecious stones (natural, synthetic or reconstructed):				
+7116.10	 	Of natural or cultured pearls:				
+7116.10.10	00  	Natural	
+g
+3.3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7116.10.25	00  	Cultured	
+g
+5.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+7116.20	 	Of precious or semiprecious stones (natural, synthetic or reconstructed):				
+ 	Articles of jewelry:				
+7116.20.05	00  	Valued not over $40 per piece	
+g
+3.3%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7116.20.15	00  	Other	
+g
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Other:				
+ 	Of semiprecious stones (except rock crystal):				
+7116.20.30	00  	Graded semiprecious stones strung temporarily for convenience of transport	
+g
+2.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+7116.20.35	00  	Figurines of semiprecious stone	
+No.
+4.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+7116.20.40	00  	Other	
+No.
+10.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+7116.20.50	00  	Other	
+No.
+Free 1/		50%
+7117	 	Imitation jewelry:				
+ 	Of base metal, whether or not plated with precious metal:				
+7117.11.00	00  	Cuff links and studs	
+No.
+8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+7117.19	 	Other:				
+ 	Rope, curb, cable, chain and similar articles produced in continuous lengths, all the foregoing, whether or not cut to specific lengths and whether or not set with imitation pearls or imitation gemstones, suitable for use in the manufacture of articles provided for in this heading:				
+ 	Valued not over 33 cents per meter:				
+7117.19.05	00  	Toy jewelry valued not over 8 cents per piece	
+kg
+Free		80%
+7117.19.15	00  	Other	
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+7117.19.20	00  	Valued over 33 cents per meter	
+kg
+11% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+7117.19.30	00  	Religious articles of a purely devotional charac- ter designed to be worn on apparel or carried on or about or attached to the person	
+kg
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+7117.19.60	00  	Toy jewelry valued not over 8 cents per piece	
+kg
+Free 1/		110%
+7117.19.90	00  	Other	
+kg
+11% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+7117.90	 	Other:				
+7117.90.10	00  	Necklaces, valued not over 30 cents per dozen, composed wholly of plastic shapes mounted on fiber string	
+doz.
+Free 1/		Free
+ 	Religious articles of a purely devotional character designed to be worn on apparel or carried on or about or attached to the person:				
+7117.90.20	00  	Rosaries and chaplets	
+kg
+3.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+7117.90.30	00  	Other	
+kg
+3.9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+ 	Valued not over 20 cents per dozen pieces or parts:				
+7117.90.45	00  	Toy jewelry (except parts)	
+kg
+Free		45%
+7117.90.55	00  	Other	
+kg
+7.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Valued over 20 cents per dozen pieces or parts:				
+7117.90.60	00  	Toy jewelry (except parts) valued not over 8 cents per piece	
+kg
+Free		110%
+ 	Other:				
+7117.90.75	00  	Of plastics	
+kg
+Free		110%
+7117.90.90	00  	Other	
+kg
+11% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	110%
+7118	 	Coin:				
+7118.10.00	00  	Coin (other than gold coin), not being legal tender	
+g
+Free 1/		Free 1/
+7118.90.00	 	Other		Free 1/		Free 1/
+ 	Gold:				
+7118.90.00.11	11  	Canadian maple leaf	
+g
+Au g
+7118.90.00.19	19  	Other	
+g
+Au g
+7118.90.00.20	20  	Platinum	
+g
+Pt g
+7118.90.00.55	55  	Other	
+g

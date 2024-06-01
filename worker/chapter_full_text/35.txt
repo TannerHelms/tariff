@@ -1,0 +1,109 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+3501	 	Casein, caseinates and other casein derivatives; casein glues:				
+3501.10	 	Casein:				
+3501.10.10	00  	Milk protein concentrate	
+kg
+kg msc
+0.37¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12¢/kg
+3501.10.50	00  	Other	
+kg
+kg msc
+Free 1/		Free
+3501.90	 	Other:				
+3501.90.20	00  	Casein glues	
+kg
+6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+3501.90.60	00  	Other	
+kg
+kg msc
+0.37¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12.1¢/kg
+3502	 	Albumins (including concentrates of two or more whey proteins, containing by weight more than 80 percent whey proteins, calculated on the dry matter), albuminates and other albumin derivatives:				
+ 	Egg albumin:				
+3502.11.00	00  	Dried	
+kg
+47.6¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	59.5¢/kg
+3502.19.00	00  	Other	
+kg
+9.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg
+3502.20.00	00  	Milk albumin, including concentrates of two or more whey proteins	
+kg
+kg msc
+Free 1/		Free
+3502.90.00	00  	Other	
+kg
+Free 1/		Free
+3503.00	 	Gelatin (including gelatin in rectangular (including square) sheets, whether or not surfaceworked or colored) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 3501:				
+3503.00.10	00  	Fish glue	
+kg
+1.2¢/kg + 1.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg + 25%
+ 	Inedible gelatin and animal glue:				
+3503.00.20	00  	Valued under 88 cents per kg	
+kg
+1.2¢/kg + 3.2% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg + 20%
+3503.00.40	00  	Valued 88 cents or more per kg	
+kg
+2.8¢/kg + 3.8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 20%
+3503.00.55	 	Other		2.8¢/kg + 3.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	15.4¢/kg + 20%
+3503.00.55.10	10  	Edible gelatin	
+kg
+3503.00.55.20	20  	Photographic gelatin	
+kg
+3503.00.55.50	50  	Other	
+kg
+3504.00	 	Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed:				
+3504.00.10	00  	Protein isolates	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+3504.00.50	00  	Other	
+kg
+4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30.5%
+3505	 	Dextrins and other modified starches (for example, pregelatinized or esterified starches); glues based on starches, or on dextrins or other modified starches:				
+3505.10.00	 	Dextrins and other modified starches		0.7¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	6.6¢/kg
+ 	Dextrin:				
+3505.10.00.15	15  	Derived from potato starch	
+kg
+3505.10.00.20	20  	Other	
+kg
+ 	Other:				
+3505.10.00.40	40  	Derived from corn (maize) starch	
+kg
+3505.10.00.45	45  	Derived from potato starch	
+kg
+3505.10.00.92	92  	Other	
+kg
+3505.20.00	00  	Glues	
+kg
+2.1¢/kg + 2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	17.6¢/kg + 25%
+3506	 	Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg:				
+3506.10	 	Products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg:				
+3506.10.10	00  	Animal glue, including casein glue, but not including fish glue	
+kg
+6.5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30.4%
+3506.10.50	00  	Other	
+kg
+2.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+3506.91	 	Adhesives based on polymers of headings 3901 to 3913 or on rubber:				
+3506.91.10	00  	Optically clear free-film adhesives and optically clear curable liquid adhesives of a kind used solely or principally for the manufacture of flat panel displays or touch-sensitive screen panels	
+kg
+Free 1/		20%
+3506.91.50	00  	Other	
+kg
+2.1% 1/	Free (A, AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20% 1/
+3506.99.00	00  	Other	
+kg
+2.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20% 1/
+3507	 	Enzymes; prepared enzymes not elsewhere specified or included:				
+3507.10.00	00  	Rennet and concentrates thereof	
+kg
+Free 1/		Free
+3507.90	 	Other:				
+3507.90.20	00  	Pencillin G amidase	
+kg
+Free 1/		25%
+3507.90.70	00  	Other	
+kg
+Free 1/		25% 1/

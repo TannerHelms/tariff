@@ -1,0 +1,541 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+2401	 	Unmanufactured tobacco (whether or not threshed or similarly processed); tobacco refuse:				
+2401.10	 	Tobacco, not stemmed/stripped:				
+ 	Containing over 35 percent wrapper tobacco:				
+2401.10.21	 	Wrapper tobacco		Free 1/		$5.02/kg
+2401.10.21.20	20  	Connecticut shade	
+kg
+2401.10.21.40	40  	Other	
+kg
+2401.10.29	 	Other		Free 1/		$5.02/kg
+2401.10.29.20	20  	Connecticut shade	
+kg
+2401.10.29.40	40  	Other	
+kg
+ 	Not containing wrapper tobacco, or not containing over 35 percent wrapper tobacco:				
+ 	Oriental or Turkish type:				
+2401.10.44	00  	Cigarette leaf	
+kg
+Free 1/		77.2¢/kg
+2401.10.48	00  	Other	
+kg
+Free 1/		85¢/kg
+2401.10.53	 	Cigar binder and filler		Free 1/		85¢/kg
+2401.10.53.40	40  	Binder	
+kg
+2401.10.53.50	50  	Filler	
+kg
+ 	Other:				
+ 	Flue-cured, burley and other light air-cured leaf:				
+2401.10.61	 	To be used in products other than cigarettes		23.9¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg
+2401.10.61.30	30  	Flue-cured	
+kg
+2401.10.61.60	60  	Burley	
+kg
+2401.10.61.80	80  	Maryland	
+kg
+2401.10.61.90	90  	Other	
+kg
+ 	Other:				
+2401.10.63	 	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions		23.9¢/kg 1/	Free (A+, BH, CL, CO, D, E, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg
+2401.10.63.30	30  	Flue-cured	
+kg
+2401.10.63.60	60  	Burley	
+kg
+2401.10.63.80	80  	Maryland	
+kg
+2401.10.63.90	90  	Other	
+kg
+2401.10.65	 	Other		350% 1/	Free (AU, BH, CL, IL, KR, MA, OM, P, PE, S, SG) 70% (PA) See 9918.24.10-9918.24.11 (CO)	350%
+2401.10.65.30	30  	Flue-cured	
+kg
+2401.10.65.60	60  	Burley	
+kg
+2401.10.65.80	80  	Maryland	
+kg
+2401.10.65.90	90  	Other	
+kg
+2401.10.95	 	Other		32.7¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	85¢/kg
+2401.10.95.10	10  	Fire-cured Kentucky and Tennessee	
+kg
+2401.10.95.15	15  	Dark-air cured Kentucky and Tennessee	
+kg
+2401.10.95.20	20  	Virginia fire-cured	
+kg
+2401.10.95.25	25  	Virginia sun-cured	
+kg
+2401.10.95.30	30  	Blackfat	
+kg
+2401.10.95.60	60  	Other	
+kg
+2401.20	 	Tobacco, partly or wholly stemmed/stripped:				
+ 	Not threshed or similarly processed:				
+2401.20.05	00  	Leaf tobacco, the product of two or more countries or dependencies, when mixed or packed together	
+kg
+$5.48/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$6.45/kg
+ 	Other:				
+ 	Containing over 35 percent wrapper tobacco:				
+2401.20.14	 	Wrapper tobacco		Free 1/		$6.45/kg
+2401.20.14.20	20  	Connecticut shade	
+kg
+2401.20.14.40	40  	Other	
+kg
+2401.20.18	00  	Other	
+kg
+Free 1/		$6.45/kg
+ 	Not containing wrapper tobacco, or not containing over 35 percent wrapper tobacco:				
+ 	Oriental or Turkish type:				
+2401.20.23	00  	Cigarette leaf	
+kg
+Free 1/		$1.21/kg
+2401.20.26	00  	Other	
+kg
+Free 1/		$1.15/kg
+2401.20.29	 	Cigar binder and filler		Free 1/		$1.15/kg
+2401.20.29.70	70  	Binder	
+kg
+2401.20.29.90	90  	Filler	
+kg
+ 	Other:				
+ 	Flue-cured, burley and other light air-cured leaf:				
+2401.20.31	 	To be used in products other than cigarettes		40.9¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2401.20.31.10	10  	Flue-cured	
+kg
+2401.20.31.20	20  	Burley	
+kg
+2401.20.31.30	30  	Maryland	
+kg
+2401.20.31.40	40  	Other	
+kg
+ 	Other:				
+2401.20.33	 	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions		40.9¢/kg 1/	Free (A+, BH, CL, CO, D, E, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2401.20.33.10	10  	Flue-cured	
+kg
+2401.20.33.20	20  	Burley	
+kg
+2401.20.33.30	30  	Maryland	
+kg
+2401.20.33.40	40  	Other	
+kg
+2401.20.35	 	Other		350% 1/	Free (AU, BH, CL, IL, KR, MA, OM, P, PE, S, SG) 70% (PA) See 9918.24.10-9918.24.11 (CO)	350%
+2401.20.35.10	10  	Flue-cured	
+kg
+2401.20.35.20	20  	Burley	
+kg
+2401.20.35.30	30  	Maryland	
+kg
+2401.20.35.40	40  	Other	
+kg
+2401.20.57	 	Other		39.7¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.15/kg
+2401.20.57.10	10  	Fire-cured Kentucky and Tennessee	
+kg
+2401.20.57.15	15  	Dark-air cured Kentucky and Tennessee	
+kg
+2401.20.57.20	20  	Virginia fire-cured	
+kg
+2401.20.57.25	25  	Virginia sun-cured	
+kg
+2401.20.57.30	30  	Blackfat	
+kg
+2401.20.57.40	40  	Other	
+kg
+ 	Threshed or similarly processed:				
+2401.20.60	 	From cigar leaf		Free 1/		77.2¢/kg
+2401.20.60.20	20  	Connecticut shade	
+kg
+2401.20.60.40	40  	Other	
+kg
+ 	Other:				
+2401.20.75	00  	Oriental or Turkish type	
+kg
+Free 1/		$1.10/kg
+ 	Other:				
+2401.20.83	 	To be used in products other than cigarettes		37.5¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg
+2401.20.83.10	10  	Flue-cured	
+kg
+2401.20.83.20	20  	Burley	
+kg
+2401.20.83.30	30  	Maryland	
+kg
+2401.20.83.35	35  	Fire-cured Kentucky and Tennessee	
+kg
+2401.20.83.40	40  	Dark-air cured Kentucky and Tennessee	
+kg
+2401.20.83.50	50  	Virginia fire-cured	
+kg
+2401.20.83.55	55  	Virginia sun-cured	
+kg
+2401.20.83.60	60  	Blackfat	
+kg
+2401.20.83.90	90  	Other	
+kg
+ 	Other:				
+2401.20.85	 	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions		37.5¢/kg 1/	Free (A+, BH, CL, CO, D, E, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg
+2401.20.85.10	10  	Flue-cured	
+kg
+2401.20.85.20	20  	Burley	
+kg
+2401.20.85.30	30  	Maryland	
+kg
+2401.20.85.35	35  	Fire-cured Kentucky and Tennessee	
+kg
+2401.20.85.40	40  	Dark-air cured Kentucky and Tennessee	
+kg
+2401.20.85.50	50  	Virginia fire-cured	
+kg
+2401.20.85.55	55  	Virginia sun-cured	
+kg
+2401.20.85.60	60  	Blackfat	
+kg
+2401.20.85.90	90  	Other	
+kg
+2401.20.87	 	Other		350% 1/	Free (AU, BH, CL, IL, KR, MA, OM, P, PE, S, SG) 70% (PA) See 9918.24.10-9918.24.11 (CO)	350%
+2401.20.87.10	10  	Flue-cured	
+kg
+2401.20.87.20	20  	Burley	
+kg
+2401.20.87.30	30  	Maryland	
+kg
+2401.20.87.35	35  	Fire-cured Kentucky and Tennessee	
+kg
+2401.20.87.40	40  	Dark-air cured Kentucky and Tennessee	
+kg
+2401.20.87.50	50  	Virginia fire-cured	
+kg
+2401.20.87.55	55  	Virginia sun-cured	
+kg
+2401.20.87.60	60  	Blackfat	
+kg
+2401.20.87.90	90  	Other	
+kg
+2401.30	 	Tobacco refuse:				
+ 	From cigar leaf:				
+ 	Tobacco stems:				
+2401.30.03	00  	Not cut, not ground and not pulverized	
+kg
+Free 1/		Free
+2401.30.06	00  	Cut, ground or pulverized	
+kg
+Free 1/		$1.21/kg
+2401.30.09	00  	Other	
+kg
+Free 1/		77.2¢/kg
+ 	From Oriental or Turkish type tobacco:				
+ 	Tobacco stems				
+2401.30.13	00  	Not cut, not ground and not pulverized	
+kg
+Free 1/		Free
+2401.30.16	00  	Cut, ground or pulverized	
+kg
+Free 1/		$1.21/kg
+2401.30.19	00  	Other	
+kg
+Free 1/		77.2¢/kg
+ 	Other:				
+ 	To be used in products other than cigarettes:				
+ 	Tobacco stems:				
+2401.30.23	 	Not cut, not ground and not pulverized		Free 1/		Free
+2401.30.23.10	10  	Flue-cured	
+kg
+2401.30.23.20	20  	Burley	
+kg
+2401.30.23.35	35  	Fire-cured Kentucky and Tennessee	
+kg
+2401.30.23.40	40  	Dark air-cured Kentucky and Tennessee	
+kg
+2401.30.23.50	50  	Virginia fire-cured	
+kg
+2401.30.23.60	60  	Virginia sun-cured	
+kg
+2401.30.23.90	90  	Other	
+kg
+2401.30.25	 	Cut, ground or pulverized		97¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2401.30.25.10	10  	Flue-cured	
+kg
+2401.30.25.20	20  	Burley	
+kg
+2401.30.25.35	35  	Fire-cured Kentucky and Tennessee	
+kg
+2401.30.25.40	40  	Dark air-cured Kentucky and Tennessee	
+kg
+2401.30.25.50	50  	Virginia fire-cured	
+kg
+2401.30.25.60	60  	Virginia sun-cured	
+kg
+2401.30.25.90	90  	Other	
+kg
+2401.30.27	 	Other		28.4¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg
+2401.30.27.10	10  	Flue-cured	
+kg
+2401.30.27.20	20  	Burley	
+kg
+2401.30.27.35	35  	Fire-cured Kentucky and Tennessee	
+kg
+2401.30.27.40	40  	Dark air-cured Kentucky and Tennessee	
+kg
+2401.30.27.50	50  	Virginia fire-cured	
+kg
+2401.30.27.60	60  	Virginia sun-cured	
+kg
+2401.30.27.90	90  	Other	
+kg
+ 	Other:				
+ 	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions:				
+ 	Tobacco stems:				
+2401.30.33	 	Not cut, not ground and not pulverized		Free 1/		Free
+2401.30.33.10	10  	Flue-cured	
+kg
+2401.30.33.20	20  	Burley	
+kg
+2401.30.33.35	35  	Fire-cured Kentucky and Tennessee	
+kg
+2401.30.33.40	40  	Dark air-cured Kentucky and Tennessee	
+kg
+2401.30.33.50	50  	Virginia fire-cured	
+kg
+2401.30.33.60	60  	Virginia sun-cured	
+kg
+2401.30.33.90	90  	Other	
+kg
+2401.30.35	 	Cut, ground or pulverized		97¢/kg 1/	Free (A+, BH, CL, CO, D, E, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2401.30.35.10	10  	Flue-cured	
+kg
+2401.30.35.20	20  	Burley	
+kg
+2401.30.35.35	35  	Fire-cured Kentucky and Tennessee	
+kg
+2401.30.35.40	40  	Dark air-cured Kentucky and Tennessee	
+kg
+2401.30.35.50	50  	Virginia fire-cured	
+kg
+2401.30.35.60	60  	Virginia sun-cured	
+kg
+2401.30.35.90	90  	Other	
+kg
+2401.30.37	 	Other		28.4¢/kg 1/	Free (A+, BH, CL, CO, D, E, KR, MA, OM, P, PA, PE, S, SG)	77.2¢/kg
+2401.30.37.10	10  	Flue-cured	
+kg
+2401.30.37.20	20  	Burley	
+kg
+2401.30.37.35	35  	Fire-cured Kentucky and Tennessee	
+kg
+2401.30.37.40	40  	Dark air-cured Kentucky and Tennessee	
+kg
+2401.30.37.50	50  	Virginia fire-cured	
+kg
+2401.30.37.60	60  	Virginia sun-cured	
+kg
+2401.30.37.90	90  	Other	
+kg
+2401.30.70	 	Other		350% 1/	Free (AU, BH, CL, IL, KR, MA, OM, P, PE, S, SG) 70% (PA) See 9918.24.10-9918.24.11 (CO)	350%
+2401.30.70.10	10  	Flue-cured	
+kg
+2401.30.70.20	20  	Burley	
+kg
+2401.30.70.35	35  	Fire-cured Kentucky and Tennessee	
+kg
+2401.30.70.40	40  	Dark air-cured Kentucky and Tennessee	
+kg
+2401.30.70.50	50  	Virginia fire-cured	
+kg
+2401.30.70.60	60  	Virginia sun-cured	
+kg
+2401.30.70.90	90  	Other	
+kg
+2402	 	Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes:				
+2402.10	 	Cigars, cheroots and cigarillos, containing tobacco:				
+2402.10.30	 	Each valued less than 15¢		$1.89/kg + 4.7% 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$9.92/kg + 25% 1/
+2402.10.30.30	30  	Small cigars, cheroots and cigarillos (weighing not more than 1.36 kg/1000)	
+thousands
+kg
+2402.10.30.70	70  	Other	
+thousands
+kg
+2402.10.60	00  	Each valued 15¢ or over but less than 23¢	
+thousands
+kg
+57¢/kg + 1.4% 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$9.92/kg + 25% 1/
+2402.10.80	 	Each valued 23¢ or over		57¢/kg + 1.4% 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$9.92/kg + 25% 1/
+2402.10.80.30	30  	Small cigars, cheroots and cigarillos (weighing not more than 1.36 kg/1000)	
+thousands
+kg
+2402.10.80.50	50  	Other, each valued 23¢ or more but not more than 76¢	
+thousands
+kg
+2402.10.80.80	80  	Other	
+thousands
+kg
+2402.20	 	Cigarettes containing tobacco:				
+2402.20.10	00  	Containing clove	
+thousands
+kg
+41.7¢/kg + 0.9% 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$9.92/kg + 25% 1/
+ 	Other:				
+2402.20.80	00  	Paper-wrapped	
+thousands
+kg
+$1.05/kg + 2.3% 1/ 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$9.92/kg + 25% 1/
+2402.20.90	00  	Other	
+thousands
+kg
+$1.50/kg + 3.2% 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$9.92/kg+ 25% 1/
+2402.90.00	00  	Other	
+thousands
+kg
+$1.05/kg + 2.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$9.92/kg + 25%
+2403	 	Other manufactured tobacco and manufactured tobacco substitutes; "homogenized" or "reconstituted" tobacco; tobacco extracts and essences:				
+ 	Smoking tobacco, whether or not containing tobacco substitutes in any proportion:				
+2403.11.00	00  	Water pipe tobacco, specified in subheading note 1 to this chapter 1/	
+kg
+32.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2403.19	 	Other:				
+2403.19.20	 	Prepared for marketing to the ultimate consumer in the identical form and package in which imported 1/		32.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2403.19.20.20	20  	Pipe tobacco	
+kg
+2403.19.20.50	50  	Roll-your-own tobacco for making cigarettes	
+kg
+2403.19.20.80	80  	Other	
+kg
+ 	Other:				
+2403.19.30	 	To be used in products other than cigarettes		32.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2403.19.30.50	50  	Flue-cured	
+kg
+2403.19.30.60	60  	Burley	
+kg
+2403.19.30.80	80  	Maryland	
+kg
+2403.19.30.90	90  	Other	
+kg
+ 	Other:				
+2403.19.60	 	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions		32.8¢/kg 1/	Free (A+, BH, CL, CO, D, E, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2403.19.60.50	50  	Flue-cured	
+kg
+2403.19.60.60	60  	Burley	
+kg
+2403.19.60.80	80  	Maryland	
+kg
+2403.19.60.90	90  	Other	
+kg
+2403.19.90	 	Other		350% 1/	Free (AU, BH, CL, IL, KR, MA, OM, P, PE, S, SG) 70% (PA) See 9918.24.10-9918.24.11 (CO)	350%
+2403.19.90.50	50  	Flue-cured	
+kg
+2403.19.90.60	60  	Burley	
+kg
+2403.19.90.80	80  	Maryland	
+kg
+2403.19.90.90	90  	Other	
+kg
+ 	Other:				
+2403.91	 	"Homogenized" or "reconstituted" tobacco:				
+2403.91.20	00  	Suitable for use as wrapper tobacco	
+kg
+62¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$6.45/kg
+ 	Other:				
+2403.91.43	 	To be used in products other than cigarettes		19.9¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg
+2403.91.43.50	50  	Flue-cured	
+kg
+2403.91.43.60	60  	Burley	
+kg
+2403.91.43.80	80  	Maryland	
+kg
+2403.91.43.90	90  	Other	
+kg
+ 	Other:				
+2403.91.45	 	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions		19.9¢/kg 1/	Free (A+, BH, CL, CO, D, E, KR, MA, OM, P, PA, PE, S, SG)	$1.10/kg
+2403.91.45.50	50  	Flue-cured	
+kg
+2403.91.45.60	60  	Burley	
+kg
+2403.91.45.80	80  	Maryland	
+kg
+2403.91.45.90	90  	Other	
+kg
+2403.91.47	 	Other		350% 1/	Free (AU, BH, CL, IL, KR, MA, OM, P, PE, S, SG) 70% (PA) See 9918.24.10-9918.24.11 (CO)	350%
+2403.91.47.50	50  	Flue-cured	
+kg
+2403.91.47.60	60  	Burley	
+kg
+2403.91.47.80	80  	Maryland	
+kg
+2403.91.47.90	90  	Other	
+kg
+2403.99	 	Other:				
+2403.99.21	 	Prepared for marketing to the ultimate consumer in the identical form and package in which imported		24.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2403.99.21.30	30  	Chewing tobacco 1/	
+kg
+2403.99.21.40	40  	Snuff and snuff flours of a kind described in statistical note 1 to this chapter 1/	
+kg
+2403.99.21.90	90  	Other	
+kg
+ 	Other:				
+2403.99.31	 	To be used in products other than cigarettes		24.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2403.99.31.50	50  	Flue-cured	
+kg
+2403.99.31.60	60  	Burley	
+kg
+ 	Other:				
+2403.99.31.65	65  	Partially manufactured, blended or mixed tobacco	
+kg
+2403.99.31.70	70  	Other	
+kg
+ 	Other:				
+2403.99.60	 	Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions		24.7¢/kg 1/	Free (A+, BH, CL, CO, D, E, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2403.99.60.50	50  	Flue-cured	
+kg
+2403.99.60.60	60  	Burley	
+kg
+ 	Other:				
+2403.99.60.65	65  	Partially manufactured, blended or mixed tobacco	
+kg
+2403.99.60.70	70  	Other	
+kg
+2403.99.90	 	Other		350% 1/	Free (AU, BH, CL, IL, KR, MA, OM, P, PE, S, SG) 70% (PA) See 9918.24.10-9918.24.11 (CO)	350%
+2403.99.90.50	50  	Flue-cured	
+kg
+2403.99.90.60	60  	Burley	
+kg
+ 	Other:				
+2403.99.90.65	65  	Partially manufactured, blended or mixed tobacco	
+kg
+2403.99.90.70	70  	Other	
+kg
+2404	 	Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body:				
+ 	Products intended for inhalation without combustion:				
+2404.11.00	00  	Containing tobacco or reconstituted tobacco	
+kg
+24.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+2404.12	 	Other, containing nicotine:				
+ 	Mixtures for personal electric or electronic vaporizing devices:				
+2404.12.05	00  	Mixtures containing 5 percent or more by weight of one or more aromatic or modified aromatic substances	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+2404.12.10	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2404.12.90	00  	Other	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+2404.19	 	Other:				
+ 	Mixtures for personal electric or electronic vaporizing devices:				
+2404.19.05	00  	Mixtures containing 5 percent or more by weight of one or more aromatic or modified aromatic substances	
+kg
+6.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.7¢/kg + 60%
+2404.19.10	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2404.19.90	00  	Other	
+kg
+24.7¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, KR, MA, OM, P, PA, PE, S, SG)	$1.21/kg
+ 	Other:				
+2404.91.00	00  	For oral application	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+2404.92.00	00  	For transdermal application	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+2404.99.00	00  	Other	
+kg
+5% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%

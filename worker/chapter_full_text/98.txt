@@ -1,0 +1,120 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+9801.00.10	 	Products of the United States when returned after having been exported, or any other products when returned within 3 years after having been exported, without having been advanced in value or improved in condition by any process of manufacture or other means while abroad		Free		
+9801.00.10.10	10  	Articles previously exported with intent to reimport after temporary use abroad	
+kg
+9801.00.10.12	12  	Articles returned temporarily for repair, alteration, processing or the like, the foregoing to be reexported	
+1/
+ 	Other:				
+9801.00.10.15	15  	Meat and poultry products provided for in chapter 2 or 16	
+kg
+9801.00.10.26	26  	Peanuts provided for in heading 1202	
+kg
+9801.00.10.27	27  	Articles provided for in chapter 28	
+kg
+9801.00.10.28	28  	Articles provided for in chapter 30	
+kg
+9801.00.10.29	29  	Articles provided for in chapter 37	
+1/
+9801.00.10.30	30  	Articles provided for in chapter 71	
+1/
+9801.00.10.31	31  	Articles provided for in chapter 82	
+1/
+ 	Articles provided for in chapter 84:				
+9801.00.10.35	35  	Articles provided for in headings 8407.10, 8409.10, 8411 or 8412.10	
+No. and kg
+9801.00.10.37	37  	Articles provided for in subheadings 8419.33.10, 8419.34.00, 8424.41, 8424.49, 8424.82, 8424.90, 8429.11, 8429.19 or 8431.42 or headings 8432, 8433, 8434 or 8436	
+No.
+9801.00.10.43	43  	Articles provided for in headings 8470, 8471, 8472 or 8473	
+No.
+9801.00.10.45	45  	Other	
+1/
+ 	Articles provided for in chapter 85:				
+9801.00.10.49	49  	Articles provided for in headings 8501, 8502 or 8503	
+No.
+9801.00.10.51	51  	Articles provided for in heading 8504	
+No.
+9801.00.10.53	53  	Articles provided for in headings 8517, 8519, 8525, 8527 or 8529	
+No.
+9801.00.10.55	55  	Other	
+1/
+9801.00.10.59	59  	Articles provided for in chapter 86	
+No.
+ 	Articles provided for in chapter 87:				
+9801.00.10.63	63  	Articles provided for in heading 8701	
+No.
+9801.00.10.64	64  	Articles provided for in heading 8702	
+No.
+9801.00.10.65	65  	Articles provided for in heading 8703	
+No.
+9801.00.10.66	66  	Articles provided for in heading 8704	
+No.
+9801.00.10.67	67  	Articles provided for in headings 8706, 8707 or 8708	
+No.
+9801.00.10.69	69  	Articles provided for in headings 8705 or 8709	
+No.
+9801.00.10.74	74  	Other	
+No.
+ 	Articles provided for in chapter 88:				
+9801.00.10.75	75  	Articles provided for in headings 8801 or 8802	
+No.
+9801.00.10.77	77  	Articles provided for in heading 8804	
+kg
+9801.00.10.79	79  	Articles provided for in headings 8805, 8806 or 8807	
+2/
+9801.00.10.89	89  	Articles provided for in chapter 89	
+No.
+9801.00.10.90	90  	Articles provided for in chapter 90	
+No.
+ 	Articles provided for in chapter 94:				
+9801.00.10.92	92  	Articles provided for in headings 9401, 9402 or 9403	
+No.
+9801.00.10.94	94  	Other	
+1/
+9801.00.10.97	97  	Articles provided for in chapter 97	
+1/
+9801.00.10.98	98  	Other	
+1/
+9801.00.11	00  	United States Government property, returned to the United States without having been advanced in value or improved in condition by any means while abroad, entered by the United States Government or a contractor to the United States Government, and certified by the importer as United States Government property	
+kg
+Free		
+9801.00.20	00  	Articles, previously imported, with respect to which the duty was paid upon such previous importation or which were previously free of duty pursuant to the Caribbean Basin Economic Recovery Act or Title V of the Trade Act of 1974, if (1) reimported, without having been advanced in value or improved in condition by any process of manufacture or other means while abroad, after having been exported under lease or similar use agreements, and (2) reimported by or for the account of the person who imported it into, and exported it from, the United States	
+kg
+Free		Free
+9801.00.25	00  	Articles, previously imported, with respect to which the duty was paid upon such previous importation if (1) exported within three years after the date of such previous importation, (2) reimported without having been advanced in value or improved in condition by any process of manufacture or other means while abroad, (3) reimported for the reason that such articles do not conform to sample or specifications, and (4) reimported by or for the account of the person who imported them into, and exported them from, the United States	
+kg
+Free		Free
+9801.00.26	00  	Articles, previously imported, with respect to which the duty was paid upon such previous importation, if: (1) exported within 3 years after the date of such previous importation; (2) sold for exportation and exported to individuals for personal use; (3) reimported without having been advanced in value or improved in condition by any process of manufacture or other means while abroad; (4) reimported as personal returns from those individuals, whether or not consolidated with other personal returns prior to reimportation; and (5) reimported by or for the account of the person who exported them from the United States within 1 year of such exportation	
+kg
+Free		Free
+9801.00.30	00  	Any aircraft engine or propeller, or any part or accessory of either, previously imported, with respect to which the duty was paid upon such previous importation, if (1) reimported without having been advanced in value or improved in condition by any process of manufacture or other means while abroad, after having been exported under loan, lease or rent to an aircraft owner or operator as a temporary replacement for an aircraft engine being overhauled, repaired, rebuilt or reconditioned in the United States, and (2) reimported by or for the account of the person who exported it from the United States	
+No.
+Free		Free
+ 	Articles, when returned after having been exported for use temporarily abroad solely for any of the following purposes, if imported by or for the account of the person who exported them:				
+9801.00.40	  1/	Exhibition, examination or experimentation, for scientific or educational purposes		Free		Free
+9801.00.50	  1/	Exhibition in connection with any circus or menagerie		Free		Free
+9801.00.60	  1/	Exhibition or use at any public exposition, fair or conference		Free		Free
+9801.00.65	  1/	Rendition of geophysical or contracting services in connection with the exploration for, or the extraction or development of, natural resources		Free		Free
+ 	Articles previously exported from the United States which-- except for U.S. note 1 of this subchapter--would qualify for free entry under one of the foregoing items and are not otherwise free of duty:				
+9801.00.70	00  	Aircraft exported from the United States with benefit of drawback or heading 9813.00.05	
+kg
+A duty equal to the duty upon the importation of like articles not previously exported, but in no case in excess of the sum of (a) any customs drawback proved to have been allowed upon such exportation, and (b) the duty which would have been payable on any articles used in the manufacture or production of such aircraft had they not been entered and exported under heading 9813.00.05	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	A duty equal to the duty upon the importation of like articles not previously exported, but in no case in excess of the sum of (a) any customs drawback proved to have been allowed upon such exportation, and (b) the duty which would have been payable on any articles used in the manufacture or production of such aircraft had they not been entered and exported under heading 9813.00.05
+9801.00.80	 	Other, except articles excluded by U.S. note 1(c) of this subchapter		A duty (in lieu of any other duty or tax) equal to the sum of any duty and internal- revenue tax imposed upon the importation of like articles not previously exported, but in no case in excess of the sum of (a) any customs drawback proved to have been allowed upon such exportation of the article, and (b) any internal- revenue tax imposed, at the time such article is entered, upon the importation of like articles not previously exported	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	A duty (in lieu of any other duty or tax) equal to the sum of any duty and internal- revenue tax imposed upon the importation of like articles not previously exported, but in no case in excess of the sum of (a) any customs drawback proved to have been allowed upon such exportation of the article, and (b) any internal- revenue tax imposed, at the time such article is entered, upon the importation of like articles not previously exported
+9801.00.80.10	10  	Nonalcoholic beer provided for in subheading 2202.91.00	
+liters
+9801.00.80.20	20  	Alcohol provided for in headings 2203, 2204, 2205, 2206, 2207, and 2208	
+liters
+9801.00.80.30	30  	Tobacco and tobacco products provided for in chapter 24	
+1/
+9801.00.80.40	40  	Cigarette paper provided for in heading 4813	
+1/
+9801.00.80.90	90  	Other	
+1/
+9801.00.85	00  	Professional books, implements, instruments, and tools of trade, occupation, or employment, when returned to the United States after having been exported for use temporarily abroad, if imported by or for the account of the person who exported such items	
+No.
+Free		Free
+9801.00.90	00  	Animals, domesticated, straying across the boundary line into any foreign country, or driven across such boundary line by the owner for temporary pasturage purpose only, together with their offspring; all the foregoing if brought back to the United States within 8 months	
+No.
+Free		Free

@@ -1,0 +1,183 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+4601	 	Plaits and similar products of plaiting materials, whether or not assembled into strips; plaiting materials, plaits and similar products of plaiting materials, bound together in parallel strands or woven, in sheet form, whether or not being finished articles (for example, mats, matting, screens):				
+ 	Mats, matting and screens of vegetable materials:				
+4601.21	 	Of bamboo:				
+4601.21.40	00  	Woven or partly assembled	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+4601.21.80	00  	Floor coverings	
+kg
+Free 1/		40%
+4601.21.90	00  	Other	
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+4601.22	 	Of rattan:				
+4601.22.40	00  	Woven or partly assembled	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+4601.22.80	00  	Floor coverings	
+kg
+Free 1/		40%
+4601.22.90	00  	Other	
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+4601.29	 	Other:				
+ 	Woven or partly assembled:				
+4601.29.40	00  	Of willow	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4601.29.60	00  	Other	
+kg
+4.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+4601.29.80	00  	Floor coverings	
+kg
+Free 1/		40%
+4601.29.90	00  	Other	
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Other:				
+4601.92	 	Of bamboo:				
+4601.92.05	00  	Plaits and similar products of plaiting materials, whether or not assembled into strips	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4601.92.20	00  	Other	
+kg
+6.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4601.93	 	Of rattan:				
+4601.93.01	00  	Webbing	
+m2
+Free 1/		20%
+4601.93.05	00  	Plaits and similar products of plaiting materials, whether or not assembled into strips	
+kg
+2.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4601.93.20	00  	Other	
+kg
+6.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4601.94	 	Of other vegetable materials:				
+4601.94.05	00  	Plaits and similar products of plaiting materials, whether or not assembled into strips	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Other:				
+4601.94.20	00  	Of willow or wood	
+kg
+6.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4601.94.40	00  	Other	
+kg
+Free 1/		25%
+4601.99	 	Other:				
+4601.99.05	00  	Plaits and similar products of plaiting materials, whether or not assembled into strips	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4601.99.90	00  	Other	
+kg
+3.3% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4602	 	Basketwork, wickerwork and other articles, made directly to shape from plaiting materials or made up from articles of heading 4601; articles of loofah:				
+ 	Of vegetable materials:				
+4602.11	 	Of bamboo:				
+4602.11.05	00  	Fishing baskets or creels	
+No.
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other baskets and bags, whether or not lined:				
+4602.11.07	00  	Wickerwork	
+No.
+Free 1/		50%
+4602.11.09	00  	Other	
+No.
+10% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+4602.11.21	00  	Luggage, handbags and flatgoods, whether or not lined	
+No.
+6.2% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG) 5.2% (E)	50%
+ 	Other:				
+4602.11.35	00  	Wickerwork	
+No.
+Free 1/		45%
+4602.11.45	00  	Other	
+No.
+6.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4602.12	 	Of rattan:				
+4602.12.05	00  	Fishing baskets or creels	
+No.
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other baskets and bags, whether or not lined:				
+4602.12.14	00  	Wickerwork	
+No.
+Free 1/		50%
+4602.12.16	00  	Other	
+No.
+5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Luggage, handbags and flatgoods, whether or not lined:				
+4602.12.23	00  	Articles of a kind normally carried in the pocket or in the handbag	
+No.
+9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+4602.12.25	00  	Other	
+No.
+18% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG) 15.5% (E)	50%
+ 	Other:				
+4602.12.35	00  	Wickerwork	
+No.
+Free 1/		45%
+4602.12.45	00  	Other	
+No.
+6.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+4602.19	 	Other:				
+4602.19.05	00  	Fishing baskets or creels	
+No.
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other baskets and bags, whether or not lined:				
+4602.19.12	00  	Of willow	
+No.
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG)	50%
+ 	Of palm leaf:				
+4602.19.14	00  	Wickerwork	
+No.
+Free 1/		50%
+4602.19.16	00  	Other	
+No.
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Other:				
+4602.19.17	00  	Wickerwork	
+No.
+Free 1/		50%
+4602.19.18	00  	Other	
+No.
+4.5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Luggage, handbags and flatgoods, whether or not lined:				
+4602.19.22	00  	Of willow	
+No.
+5.8% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG) 4.6% (E)	50%
+ 	Of palm leaf:				
+4602.19.23	00  	Articles of a kind normally carried in the pocket or in the handbag	
+No.
+9% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+4602.19.25	00  	Other	
+No.
+18% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG) 15.5% (E)	50%
+4602.19.29	 	Other		5.3% 1/	Free (AU, BH, CL, CO, D, IL, JO, KR, MA, OM, P, PA, PE, R, S, SG) 4.2% (E)	50%
+4602.19.29.20	20  	Handbags	
+No.
+4602.19.29.40	40  	Other	
+No.
+ 	Other:				
+ 	Of willow or wood:				
+4602.19.35	00  	Wickerwork	
+No.
+Free 1/		45%
+4602.19.45	00  	Other	
+No.
+6.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+4602.19.60	00  	Wickerwork	
+No.
+Free 1/		25%
+4602.19.80	00  	Other	
+No.
+2.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4602.90.00	00  	Other	
+kg
+3.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%

@@ -1,0 +1,229 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+5301	 	Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock):				
+5301.10.00	00  	Flax, raw or retted	
+kg
+Free 1/		0.3¢/kg
+ 	Flax, broken, scutched, hackled or otherwise processed, but not spun:				
+5301.21.00	00  	Broken or scutched	
+kg
+0.2¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.3¢/kg
+5301.29.00	00  	Other	
+kg
+3.8% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+5301.30.00	00  	Flax tow and waste	
+kg
+Free 1/		Free
+5302	 	True hemp (Cannabis sativa L.), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock):				
+5302.10.00	00  	True hemp, raw or retted	
+kg
+Free 1/		4.4¢/kg
+5302.90.00	00  	Other	
+kg
+Free 1/		Free
+5303	 	Jute and other textile bast fibers (excluding flax, true hemp and ramie), raw or processed but not spun; tow and waste of these fibers (including yarn waste and garnetted stock):				
+5303.10.00	00  	Jute and other textile bast fibers, raw or retted	
+kg
+Free 1/		Free
+5303.90.00	00  	Other	
+kg
+Free 1/		Free
+5305.00.00	00  	Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibers, not elsewhere specified or included, raw or processed but not spun; tow, noils and waste of these fibers (including yarn waste and garnetted stock)	
+kg
+Free 1/		Free
+5306	 	Flax yarn:				
+5306.10.00	00  	Single (800)	
+kg
+Free 1/		35%
+5306.20.00	00  	Multiple (folded) or cabled (800)	
+kg
+Free 1/		40%
+5307	 	Yarn of jute or of other textile bast fibers of heading 5303:				
+5307.10.00	00  	Single	
+kg
+Free 1/		15%
+5307.20.00	00  	Multiple (folded) or cabled	
+kg
+Free 1/		25%
+5308	 	Yarn of other vegetable textile fibers; paper yarn:				
+5308.10.00	00  	Coir yarn	
+kg
+Free 1/		Free
+5308.20.00	00  	True hemp yarn (800)	
+kg
+Free 1/		35%
+5308.90	 	Other:				
+5308.90.10	00  	Paper yarn	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+5308.90.90	00  	Other (800)	
+kg
+Free 1/		40%
+5309	 	Woven fabrics of flax:				
+ 	Containing 85 percent or more by weight of flax:				
+5309.11.00	 	Unbleached or bleached		Free 1/		40%
+5309.11.00.10	10  	Of a width exceeding 127 cm (810)	
+m²
+kg
+5309.11.00.90	90  	Other (810)	
+m²
+kg
+5309.19.00	 	Other		Free 1/		40%
+5309.19.00.10	10  	Of a width exceeding 127 cm (810)	
+m²
+kg
+5309.19.00.90	90  	Other (810)	
+m²
+kg
+ 	Containing less than 85 percent by weight of flax:				
+5309.21	 	Unbleached or bleached:				
+5309.21.20	00  	Containing more than 17 percent by weight of wool or fine animal hair (410)	
+m²
+kg
+14.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Other:				
+5309.21.30	 	Containing cotton and man-made fibers		6.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	78%
+ 	Subject to cotton restraints:				
+5309.21.30.05	05  	Poplin or broadcloth (314)	
+m²
+kg
+5309.21.30.10	10  	Sheeting (313)	
+m²
+kg
+5309.21.30.15	15  	Printcloth (315)	
+m²
+kg
+5309.21.30.20	20  	Other (220)	
+m²
+kg
+ 	Subject to man-made fiber restraints:				
+5309.21.30.55	55  	Poplin or broadcloth (614)	
+m²
+kg
+5309.21.30.60	60  	Sheeting (613)	
+m²
+kg
+5309.21.30.65	65  	Printcloth (615)	
+m²
+kg
+5309.21.30.70	70  	Other (220)	
+m²
+kg
+5309.21.30.90	90  	Other (810)	
+m²
+kg
+5309.21.40	 	Other		Free 1/		40%
+5309.21.40.10	10  	Of a width exceeding 127 cm (810)	
+m²
+kg
+5309.21.40.90	90  	Other (810)	
+m²
+kg
+5309.29	 	Other:				
+5309.29.20	00  	Containing more than 17 percent by weight of wool or fine animal hair (410)	
+m²
+kg
+14.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Other:				
+5309.29.30	 	Containing cotton and man-made fibers		Free 1/		78%
+ 	Subject to cotton restraints:				
+5309.29.30.05	05  	Poplin or broadcloth (314)	
+m²
+kg
+5309.29.30.10	10  	Sheeting (313)	
+m²
+kg
+5309.29.30.15	15  	Printcloth (315)	
+m²
+kg
+5309.29.30.20	20  	Other (220)	
+m²
+kg
+ 	Subject to man-made fiber restraints:				
+5309.29.30.55	55  	Poplin or broadcloth (614)	
+m²
+kg
+5309.29.30.60	60  	Sheeting (613)	
+m²
+kg
+5309.29.30.65	65  	Printcloth (615)	
+m²
+kg
+5309.29.30.70	70  	Other (220)	
+m²
+kg
+5309.29.30.90	90  	Other (810)	
+m²
+kg
+5309.29.40	 	Other		Free 1/		40%
+5309.29.40.10	10  	Of a width exceeding 127 cm (810)	
+m²
+kg
+5309.29.40.90	90  	Other (810)	
+m²
+kg
+5310	 	Woven fabrics of jute or of other textile bast fibers of heading 5303:				
+5310.10.00	 	Unbleached		Free 1/		40%
+5310.10.00.20	20  	Not over 130 cm in width	
+m²
+kg
+5310.10.00.40	40  	Over 130 cm but not over 250 cm in width	
+m²
+kg
+5310.10.00.60	60  	Over 250 cm in width	
+m²
+kg
+5310.90.00	00  	Other	
+m²
+kg
+Free 1/		11.5%
+5311.00	 	Woven fabrics of other vegetable textile fibers; woven fabrics of paper yarn:				
+ 	Of vegetable textile fibers:				
+5311.00.20	00  	Containing more than 17 percent by weight of wool or fine animal hair (410)	
+m²
+kg
+14.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+ 	Other:				
+5311.00.30	 	Containing cotton and man-made fibers		Free 1/		78%
+ 	Subject to cotton restraints:				
+5311.00.30.05	05  	Poplin or broadcloth (314)	
+m²
+kg
+5311.00.30.10	10  	Sheeting (313)	
+m²
+kg
+5311.00.30.15	15  	Printcloth (315)	
+m²
+kg
+5311.00.30.20	20  	Other (220)	
+m²
+kg
+ 	Subject to man-made fiber restraints:				
+5311.00.30.55	55  	Poplin or broadcloth (614)	
+m²
+kg
+5311.00.30.60	60  	Sheeting (613)	
+m²
+kg
+5311.00.30.65	65  	Printcloth (615)	
+m²
+kg
+5311.00.30.70	70  	Other (220)	
+m²
+kg
+5311.00.30.90	90  	Other (810)	
+m²
+kg
+5311.00.40	 	Other		Free 1/		40%
+5311.00.40.10	10  	Of true hemp fibers (810)	
+m²
+kg
+5311.00.40.20	20  	Other (810)	
+m²
+kg
+5311.00.60	00  	Of paper yarn	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+[5304</	 	Deleted]				

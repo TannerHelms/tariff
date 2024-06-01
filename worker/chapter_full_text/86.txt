@@ -1,0 +1,122 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+8601	 	Rail locomotives powered from an external source of electricity or by electric accumulators (batteries):				
+8601.10.00	00  	Powered from an external source of electricity	
+No.
+Free 1/		35%
+8601.20.00	00  	Powered by electric accumulators (batteries)	
+No.
+Free 1/		35%
+8602	 	Other rail locomotives; locomotive tenders:				
+8602.10.00	00  	Diesel-electric locomotives	
+No.
+Free 1/		35%
+8602.90.00	00  	Other	
+No.
+Free 1/		35%
+8603	 	Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 8604:				
+8603.10.00	00  	Powered from an external source of electricity	
+No.
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+8603.90.00	00  	Other	
+No.
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+8604.00.00	00  	Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles)	
+No.
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8605.00.00	00  	Railway or tramway passenger coaches, not self- propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self- propelled (excluding those of heading 8604)	
+No.
+14% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8606	 	Railway or tramway freight cars, not self-propelled:				
+8606.10.00	00  	Tank cars and the like	
+No.
+14% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8606.30.00	00  	Self-discharging cars, other than those of subheading 8606.10	
+No.
+14% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+ 	Other:				
+8606.91.00	00  	Covered and closed	
+No.
+14% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8606.92.00	00  	Open, with non-removable sides of a height exceeding 60 cm	
+No.
+14% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8606.99.01	 	Other		14% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8606.99.01.30	30  	Flatcars having a flat floor or deck laid on the underframe, with no roof and with no raised sides or ends	
+No.
+8606.99.01.60	60  	Other	
+No.
+8607	 	Parts of railway or tramway locomotives or rolling stock:				
+ 	Truck assemblies, axles and wheels, and parts thereof:				
+8607.11.00	00  	Truck assemblies for self-propelled vehicles	
+No.
+Free 1/		35%
+8607.12.00	00  	Other truck assemblies	
+No.
+3.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8607.19	 	Other, including parts:				
+ 	Axles and parts thereof:				
+8607.19.03	00  	Axles	
+kg
+0.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3%
+8607.19.06	00  	Parts of axles	
+kg
+0.4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3%
+ 	Wheels and parts thereof, and any of such wheels or parts imported with axles fitted in them:				
+8607.19.12	00  	Wheels, whether or not fitted with axles	
+kg
+Free 1/		2.2¢/kg 1/
+8607.19.15	00  	Parts of wheels	
+kg
+Free 1/		2.2¢/kg
+8607.19.30	 	Parts of truck assemblies of vehicles of heading 8605 or 8606		3.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8607.19.30.10	10  	Bolsters	
+kg
+8607.19.30.20	20  	Side frames	
+kg
+8607.19.30.90	90  	Other	
+kg
+8607.19.90	00  	Other	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Brakes and parts thereof:				
+8607.21	 	Air brakes and parts thereof:				
+8607.21.10	00  	For vehicles of heading 8605 or 8606 1/	
+kg
+3.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8607.21.50	00  	Other	
+kg
+3.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+8607.29	 	Other:				
+8607.29.10	00  	For vehicles of heading 8605 or 8606	
+kg
+3.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8607.29.50	00  	Other	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+8607.30	 	Hooks and other coupling devices, buffers, and parts thereof:				
+8607.30.10	00  	For vehicles of heading 8605 or 8606 1/	
+kg
+3.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8607.30.50	00  	Other	
+kg
+2.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+8607.91.00	00  	Of locomotives	
+kg
+Free 1/		35%
+8607.99	 	Other:				
+8607.99.10	00  	For vehicles of heading 8605 or 8606, except brake regulators	
+kg
+2.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8607.99.50	00  	Other	
+kg
+3.1% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	35%
+8608.00.00	00  	Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signaling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts of the foregoing	
+kg
+3.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8609.00.00	00  	Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport	
+No.
+Free		25% 1/

@@ -1,0 +1,44 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+8001	 	Unwrought tin:				
+8001.10.00	00  	Tin, not alloyed	
+kg
+Free		Free
+8001.20.00	 	Tin alloys		Free		Free
+8001.20.00.10	10  	Containing, by weight, 5 percent or less of lead	
+kg
+8001.20.00.50	50  	Containing, by weight, more than 5 percent but not more than 25 percent of lead	
+kg
+Pb kg
+8001.20.00.90	90  	Containing, by weight, more than 25 percent of lead	
+kg
+Pb kg
+8002.00.00	00  	Tin waste and scrap	
+kg
+Free		Free
+8003.00.00	00  	Tin bars, rods, profiles and wire	
+kg
+3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8007.00	 	Other articles of tin:				
+8007.00.10	 	Articles not elsewhere specified or included of a type used for household, table or kitchen use; toilet and sanitary wares; all the foregoing not coated or plated with precious metal		2.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+8007.00.10.10	10  	Suitable for food or beverage service	
+No.
+8007.00.10.50	50  	Other	
+No.
+8007.00.20	00  	Tin plates, sheets and strip, of a thickness exceeding 0.2 mm	
+kg
+2.4%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8007.00.31	00  	Tin foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials), of a thickness (excluding any backing) not exceeding 0.2 mm	
+kg
+3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+8007.00.32	00  	Powders and flakes	
+kg
+2.8%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8007.00.40	00  	Tin tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves)	
+kg
+2.4%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+8007.00.50	00  	Other	
+kg
+2.8% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%

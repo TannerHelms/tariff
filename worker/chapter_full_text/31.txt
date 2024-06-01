@@ -1,0 +1,94 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+3101.00.00	00  	Animal or vegetable fertilizers, whether or not mixed together or chemically treated; fertilizers produced by the mixing or chemical treatment of animal or vegetable products	
+t
+Free 1/		Free
+3102	 	Mineral or chemical fertilizers, nitrogenous:				
+3102.10.00	 	Urea, whether or not in aqueous solution		Free 1/		Free
+3102.10.00.10	10  	Solid urea	
+t
+ 	Other:				
+3102.10.00.30	30  	Diesel exhaust fluid (DEF) of a kind meeting ISO 22241	
+t
+3102.10.00.50	50  	Other	
+t
+ 	Ammonium sulfate; double salts and mixtures of ammonium sulfate and ammonium nitrate:				
+3102.21.00	00  	Ammonium sulfate	
+t
+Free 1/		Free
+3102.29.00	00  	Other	
+t
+Free 1/		Free
+3102.30.00	00  	Ammonium nitrate, whether or not in aqueous solution	
+t
+Free 1/		Free
+3102.40.00	00  	Mixtures of ammonium nitrate with calcium carbonate or other inorganic nonfertilizing substances	
+t
+Free 1/		Free
+3102.50.00	00  	Sodium nitrate	
+t
+Free 1/		Free
+3102.60.00	00  	Double salts and mixtures of calcium nitrate and ammonium nitrate	
+t
+Free 1/		Free
+3102.80.00	00  	Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution	
+t
+Free 1/		Free
+3102.90.01	00  	Other, including mixtures not specified in the foregoing subheadings	
+t
+Free 1/		Free
+3103	 	Mineral or chemical fertilizers, phosphatic:				
+ 	Superphosphates:				
+3103.11.00	00  	Containing by weight 35 percent or more of diphosphorous pentaoxide (P2O5)	
+t
+Free 1/		Free
+3103.19.00	00  	Other	
+t
+Free 1/		Free
+3103.90.01	00  	Other	
+t
+Free 1/		Free
+3104	 	Mineral or chemical fertilizers, potassic:				
+3104.20.00	 	Potassium chloride		Free 1/		Free
+3104.20.00.10	10  	Containing not more than 62 percent by weight of potassium oxide (K2O)	
+t
+3104.20.00.50	50  	Containing more than 62 percent by weight of potassium oxide (K2O)	
+t
+3104.30.00	00  	Potassium sulfate	
+t
+Free 1/		Free
+3104.90.01	00  	Other	
+t
+Free 1/		Free
+3105	 	Mineral or chemical fertilizers containing two or three of the fertilizing elements nitrogen, phosphorus and potassium; other fertilizers; goods of this chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg:				
+3105.10.00	00  	Products of this chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg	
+kg
+Free 1/		Free
+3105.20.00	00  	Mineral or chemical fertilizers containing the three fertilizing elements nitrogen, phosphorus and potassium	
+t
+Free 1/		Free
+3105.30.00	00  	Diammonium hydrogenorthophosphate (Diammonium phosphate)	
+t
+Free 1/		Free
+3105.40.00	 	Ammonium dihydrogenorthophosphate (Monoammonium phosphate) and mixtures thereof with diammonium hydrogenorthophosphate (Diammonium phosphate)		Free 1/		Free
+3105.40.00.10	10  	Ammonium dihydrogenorthophosphate (Monoammonium phosphate)	
+t
+3105.40.00.50	50  	Other	
+t
+ 	Other mineral or chemical fertilizers containing the two fertilizing elements nitrogen and phosphorus:				
+3105.51.00	00  	Containing nitrates and phosphates	
+t
+Free 1/		Free
+3105.59.00	00  	Other	
+t
+Free 1/		Free
+3105.60.00	00  	Mineral or chemical fertilizers containing the two fertilizing elements phosphorus and potassium	
+t
+Free 1/		Free
+3105.90.00	 	Other		Free 1/		Free
+3105.90.00.10	10  	Potassium nitrate-sodium nitrate mixtures	
+t
+3105.90.00.50	50  	Other	
+t

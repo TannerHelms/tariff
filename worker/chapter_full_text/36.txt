@@ -1,0 +1,63 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+3601.00.00	00  	Propellant powders	
+kg
+3.25% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+3602.00.00	 	Prepared explosives, other than propellant powders		Free 1/		Free
+3602.00.00.30	30  	Dynamite and other high explosives, put up in cartridges, sticks or other forms, suitable for blasting	
+kg
+3602.00.00.60	60  	Other	
+kg
+3603	 	Safety fuses; detonating cords; percussion or detonating caps; igniters; electric detonators:				
+3603.10.00	00  	Safety fuses	
+thousand m
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.3%
+3603.20.00	00  	Detonating cords	
+thousand m
+3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	8.3%
+3603.30.00	00  	Percussion caps	
+thousands
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+3603.40.00	00  	Detonating caps	
+No.
+0.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.3% 1/
+3603.50.00	00  	Igniters	
+No.
+0.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.3% 1/
+3603.60.00	00  	Electric detonators	
+No.
+0.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.3% 1/
+3604	 	Fireworks, signaling flares, rain rockets, fog signals and other pyrotechnic articles:				
+3604.10	 	Fireworks:				
+3604.10.10	00  	Display or special fireworks (Class 1.3G)	
+kg
+2.4%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12.5%
+3604.10.90	 	Other (including Class 1.4G)		5.3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	12.5%
+3604.10.90.10	10  	Class 1.4G (Class C)	
+kg
+3604.10.90.50	50  	Other	
+kg
+3604.90.00	00  	Other	
+kg
+6.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+3605.00.00	 	Matches, other than pyrotechnic articles of heading 3604		Free 1/		20¢/gross of immediate containers
+3605.00.00.30	30  	Matches with natural wood stems	
+kg
+3605.00.00.60	60  	Other	
+kg
+3606	 	Ferrocerium and other pyrophoric alloys in all forms; articles of combustible materials as specified in note 2 to this chapter:				
+3606.10.00	00  	Liquid or liquefied-gas fuels in containers of a kind used for filling or refilling cigarette or similar lighters and of a capacity not exceeding 300 cm3	
+No.
+Free 1/		Free
+3606.90	 	Other:				
+3606.90.30	00  	Ferrocerium and other pyrophoric alloys	
+kg
+5.9%	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	56.7%
+3606.90.40	00  	Metaldehyde	
+kg
+Free 1/		25%
+3606.90.80	00  	Other	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%

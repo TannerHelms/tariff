@@ -1,0 +1,259 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+5601	 	Wadding of textile materials and articles thereof; textile fibers, not exceeding 5 mm in length (flock), textile dust and mill neps:				
+ 	Wadding of textile materials and articles thereof:				
+5601.21.00	 	Of cotton		3.6% 1/	Free (AU, B, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5601.21.00.10	10  	Wadding, in the piece (223)	
+kg
+5601.21.00.90	90  	Other (369)	
+kg
+5601.22.00	 	Of man-made fibers		6.3% 1/	Free (AU, B, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+5601.22.00.10	10  	Wadding, in the piece (223)	
+kg
+5601.22.00.50	50  	Flocked swabs, other than articles of heading 3926 (669)	
+kg
+5601.22.00.91	91  	Other (669)	
+kg
+5601.29.00	 	Other		4% 1/	Free (AU, B, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5601.29.00.10	10  	Containing 85 percent or more by weight of silk or silk waste	
+kg
+5601.29.00.20	20  	Of wool or fine animal hair (469)	
+kg
+5601.29.00.90	90  	Other (899)	
+kg
+5601.30.00	00  	Textile flock and dust and mill neps	
+kg
+Free 1/		25%
+5602	 	Felt, whether or not impregnated, coated, covered or laminated:				
+5602.10	 	Needleloom felt and stitchbonded fiber fabrics:				
+5602.10.10	00  	Laminated fabrics (223)	
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	83.5%
+5602.10.90	 	Other		10.6% 1/	Free (AU, B, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+5602.10.90.10	10  	Of wool or fine animal hair (414)	
+kg
+5602.10.90.90	90  	Other (223)	
+kg
+ 	Other felt, not impregnated, coated, covered or laminated:				
+5602.21.00	00  	Of wool or fine animal hair (414)	
+kg
+49.5¢/kg + 7.5% 1/	Free (AU, B, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	88¢/kg + 40%
+5602.29.00	00  	Of other textile materials (223)	
+kg
+6.3% 1/	Free (AU, B, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+5602.90	 	Other:				
+5602.90.30	00  	Laminated fabrics (223)	
+kg
+Free 1/		83.5%
+ 	Other:				
+5602.90.60	00  	Of man-made fibers (223)	
+kg
+6.3% 1/	Free (AU, B, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+5602.90.90	00  	Other (414)	
+kg
+52.9¢/kg + 8% 1/	Free (AU, B, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	88¢/kg + 40%
+5603	 	Nonwovens, whether or not impregnated, coated, covered or laminated:				
+ 	Of man-made filaments:				
+5603.11.00	 	Weighing not more than 25 g/m2		Free 1/		74%
+5603.11.00.10	10  	Impregnated, coated or covered with material other than or in addition to rubber, plastics, wood pulp or glass fibers; "imitation suede" (223)	
+kg
+5603.11.00.70	70  	Nonwoven articles, ready for use and packaged for industrial, institutional or retail sale, whether or not separated, perforated or impregnated, not elsewhere specified or included (223)	
+kg
+5603.11.00.95	95  	Other (223)	
+m2
+kg
+5603.12.00	 	Weighing more than 25 g/m2 but not more than 70 g/m2		Free 1/		74%
+5603.12.00.10	10  	Impregnated, coated or covered with material other than or in addition to rubber, plastics, wood pulp or glass fibers; "imitation suede" (223)	
+kg
+5603.12.00.70	70  	Nonwoven articles, ready for use and packaged for industrial, institutional or retail sale, whether or not separated, perforated or impregnated, not elsewhere specified or included (223) 1/	
+kg
+5603.12.00.95	95  	Other (223) 1/	
+kg
+5603.13.00	 	Weighing more than 70 g/m2 but not more than 150 g/m2		Free 1/		74%
+5603.13.00.10	10  	Impregnated, coated or covered with material other than or in addition to rubber, plastics, wood pulp or glass fibers; "imitation suede" (223)	
+kg
+5603.13.00.70	70  	Nonwoven articles, ready for use and packaged for industrial, institutional or retail sale, whether or not separated, perforated or impregnated, not elsewhere specified or included (223)	
+kg
+5603.13.00.95	95  	Other (223)	
+kg
+5603.14	 	Weighing more than 150 g/m2:				
+5603.14.30	00  	Laminated fabrics (223)	
+kg
+Free 1/		83.5%
+5603.14.90	 	Other		Free 1/		74%
+5603.14.90.10	10  	Impregnated, coated or covered with material other than or in addition to rubber, plastics, wood pulp or glass fibers; "imitation suede" (223)	
+kg
+5603.14.90.90	90  	Other (223) 1/	
+kg
+ 	Other:				
+5603.91.00	 	Weighing not more than 25 g/m2		Free 1/		74%
+5603.91.00.10	10  	Impregnated, coated or covered with material other than or in addition to rubber, plastics, wood pulp or glass fibers; "imitation suede" (223)	
+kg
+5603.91.00.90	90  	Other (223)	
+kg
+5603.92.00	 	Weighing more than 25 g/m2 but not more than 70 g/m2		Free 1/		74%
+5603.92.00.10	10  	Impregnated, coated or covered with material other than or in addition to rubber, plastics, wood pulp or glass fibers; "imitation suede" (223)	
+kg
+5603.92.00.70	70  	Nonwoven articles, ready for use and packaged for industrial, institutional or retail sale, whether or not separated, perforated or impregnated, not elsewhere specified or included (223) 1/	
+kg
+5603.92.00.95	95  	Other (223) 1/	
+kg
+5603.93.00	 	Weighing more than 70 g/m2 but not more than 150 g/m2		Free 1/		74%
+5603.93.00.10	10  	Impregnated, coated or covered with material other than or in addition to rubber, plastics, wood pulp or glass fibers; "imitation suede" (223)	
+kg
+5603.93.00.90	90  	Other (223) 1/	
+kg
+5603.94	 	Weighing more than 150 g/m2:				
+5603.94.10	 	Floor covering underlays		Free 1/		40%
+5603.94.10.10	10  	Of wool or fine animal hair (469)	
+m2
+kg
+5603.94.10.90	90  	Other	
+m2
+kg
+ 	Other:				
+5603.94.30	00  	Laminated fabrics (223)	
+kg
+Free 1/		83.5%
+5603.94.90	 	Other		Free 1/		74%
+5603.94.90.10	10  	Impregnated, coated or covered with material other than or in addition to rubber, plastics, wood pulp or glass fibers; "imitation suede" (223)	
+kg
+ 	Other nonwovens, whether or not impregnated, coated or covered:				
+5603.94.90.30	30  	Thermal bonded, of staple fibers (223)	
+kg
+5603.94.90.50	50  	Obtained by mechanical entanglement, of staple fibers (223)	
+kg
+ 	Other:				
+5603.94.90.70	70  	Of filaments (223)	
+kg
+5603.94.90.90	90  	Of staple fibers (223) 1/	
+kg
+5604	 	Rubber thread and cord, textile covered; textile yarn, and strip and the like of heading 5404 or 5405, impregnated, coated, covered or sheathed with rubber or plastics:				
+5604.10.00	00  	Rubber thread and cord, textile covered (201)	
+kg
+6.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+5604.90.20	00  	High tenacity yarn of polyesters, of nylon or other polyamides or of viscose rayon, impregnated or coated (201)	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5604.90.90	00  	Other	
+kg
+5% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5605.00	 	Metalized yarn, whether or not gimped, being textile yarn, or strip or the like of heading 5404 or 5405, combined with metal in the form of thread, strip or powder or covered with metal:				
+5605.00.10	00  	Metal coated or metal laminated man-made filament or strip or the like, ungimped, and untwisted or with twist of less than 5 turns per meter	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5605.00.90	00  	Other (201)	
+kg
+13.2% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5606.00.00	 	Gimped yarn, and strip and the like of heading 5404 or 5405, gimped (other than those of heading 5605 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn		8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+5606.00.00.10	10  	Containing elastomeric filaments (201)	
+kg
+5606.00.00.90	90  	Other (201)	
+kg
+5607	 	Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics:				
+ 	Of sisal or other textile fibers of the genus Agave:				
+5607.21.00	00  	Binder or baler twine	
+kg
+Free 1/		Free
+5607.29.00	00  	Other	
+kg
+3.6% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Of polyethylene or polypropylene:				
+5607.41	 	Binder or baler twine:				
+5607.41.10	00  	Of wide nonfibrillated strip	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+5607.41.30	00  	Other (201)	
+kg
+4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	76.5%
+5607.49	 	Other:				
+5607.49.10	00  	Of wide nonfibrillated strip	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Other, not braided or plaited:				
+5607.49.15	00  	Measuring less than 4.8 mm in diameter (201)	
+kg
+7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	76.5%
+5607.49.25	00  	Other (201)	
+kg
+9.8¢/kg + 5.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	27.6¢/kg + 76.5%
+5607.49.30	00  	Other (669)	
+kg
+3.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+5607.50	 	Of other synthetic fibers:				
+ 	Not braided or plaited:				
+5607.50.25	00  	3-ply or 4-ply multicolored twine having a final "S" twist, containing at least 10 percent by weight of cotton, measuring less than 3.5 mm in diameter (201)	
+kg
+7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	76.5%
+5607.50.35	00  	Other (201)	
+kg
+19.9¢/kg + 10.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	27.6¢/kg + 76.5%
+5607.50.40	00  	Other (669)	
+kg
+3.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+5607.90	 	Other:				
+5607.90.10	00  	Of coir	
+kg
+Free 1/		Free
+5607.90.15	00  	Of jute or other textile bast fibers of heading 5303	
+kg
+Free 1/		20%
+ 	Of abaca (Manila hemp or Musa textilis Nee) or other hard (leaf) fibers:				
+5607.90.25	00  	Of stranded construction measuring 1.88 cm or over in diameter	
+kg
+Free 1/		4¢/kg
+5607.90.35	00  	Other	
+kg
+3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5607.90.90	00  	Other (201)	
+kg
+6.3% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5608	 	Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials:				
+ 	Of man-made textile materials:				
+5608.11.00	 	Made up fishing nets		8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	82%
+5608.11.00.10	10  	Hand-cast string-drawn	
+kg
+5608.11.00.90	90  	Other (229)	
+kg
+5608.19	 	Other:				
+5608.19.10	 	Fish netting		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	82%
+5608.19.10.10	10  	Salmon gill netting, of nylon or other polyamides (229)	
+kg
+5608.19.10.20	20  	Other (229)	
+kg
+5608.19.20	 	Other		5% 1/	Free (AU, B, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5608.19.20.10	10  	Bait bags with draw string closures	
+kg
+5608.19.20.90	90  	Other (229)	
+kg
+5608.90	 	Other:				
+5608.90.10	00  	Fish netting and fishing nets	
+kg
+8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	82%
+ 	Other:				
+ 	Of cotton:				
+5608.90.23	00  	Hammocks	
+kg
+14.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5608.90.27	00  	Other (229)	
+kg
+14.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5608.90.30	00  	Other	
+kg
+5% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+5609.00	 	Articles of yarn, strip or the like of heading 5404 or 5405, twine, cordage, rope or cables, not elsewhere specified or included:				
+5609.00.10	00  	Of cotton	
+kg
+2.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+5609.00.20	00  	Of vegetable fibers, except cotton	
+kg
+Free 1/		40%
+5609.00.30	00  	Of man-made fibers	
+kg
+4.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	78.5%
+5609.00.40	00  	Other	
+kg
+3.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%

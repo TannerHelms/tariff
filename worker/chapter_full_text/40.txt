@@ -1,0 +1,637 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+4001	 	Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip:				
+4001.10.00	00  	Natural rubber latex, whether or not pre-vulcanized	
+kg 1/
+Free 1/		Free
+ 	Natural rubber in other forms:				
+4001.21.00	 	Smoked sheets		Free 1/		Free
+4001.21.00.10	10  	Grade 1	
+kg
+4001.21.00.20	20  	Grade 2	
+kg
+4001.21.00.30	30  	Grade 3	
+kg
+4001.21.00.50	50  	Other	
+kg
+4001.22.00	 	Technically specified natural rubber (TSNR)		Free 1/		Free 1/
+4001.22.00.05	05  	Grade 5	
+kg
+4001.22.00.10	10  	Grade CV	
+kg
+4001.22.00.15	15  	Grade L	
+kg
+4001.22.00.20	20  	Grade 10	
+kg
+4001.22.00.25	25  	Grade 20	
+kg
+4001.22.00.50	50  	Other	
+kg
+4001.29.00	00  	Other	
+kg
+Free 1/		Free
+4001.30.00	 	Balata, gutta-percha, guayule, chicle and similar natural gums		Free 1/		Free
+4001.30.00.05	05  	Balata	
+kg
+4001.30.00.10	10  	Gutta-percha and guttas, not elsewhere specified or included	
+kg
+4001.30.00.20	20  	Chicle	
+kg
+4001.30.00.55	55  	Other	
+kg
+4002	 	Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of any product of heading 4001 with any product of this heading, in primary forms or in plates, sheets or strip:				
+ 	Styrene-butadiene rubber (SBR); carboxylated styrene-butadiene rubber (XSBR):				
+4002.11.00	00  	Latex	
+kg
+Free 1/		20%
+4002.19.00	 	Other		Free 1/		20% 1/
+ 	Containing 50 percent or less styrene by weight of the dry polymer:				
+4002.19.00.14	14  	Styrene-butadiene-styrene block co- polymers produced by solution polymerization (SBS, thermoplastic elastormers), in granules, crumbs or powders	
+kg
+4002.19.00.15	15  	Styrene-butadiene rubber produced by emulsion polymerization (E-SBR) in bales	
+kg
+4002.19.00.16	16  	Styrene-butadiene rubber produced by solution polymerization (S-SBR) in bales	
+kg
+4002.19.00.19	19  	Other	
+kg
+4002.19.00.20	20  	Containing over 50 percent styrene by weight of the dry polymer	
+kg
+4002.20.00	00  	Butadiene rubber (BR)	
+kg
+Free 1/		20% 1/
+ 	Isobutene-isoprene (butyl) rubber (IIR); halo-isobutene-isoprene rubber (CIIR or BIIR):				
+4002.31.00	00  	Isobutene-isoprene (butyl) rubber (IIR)	
+kg
+Free 1/		20% 1/
+4002.39.00	00  	Other	
+kg
+Free 1/		20% 1/
+ 	Chloroprene (chlorobutadiene) rubber (CR):				
+4002.41.00	00  	Latex	
+kg
+Free 1/		20%
+4002.49.00	00  	Other	
+kg
+Free 1/		20%
+ 	Acrylonitrile-butadiene rubber (NBR):				
+4002.51.00	00  	Latex	
+kg
+Free 1/		20%
+4002.59.00	00  	Other	
+kg
+Free 1/		20% 1/
+4002.60.00	00  	Isoprene rubber (IR)	
+kg
+Free 1/		20%
+4002.70.00	00  	Ethylene-propylene-nonconjugated diene rubber (EPDM)	
+kg
+Free 1/		20%
+4002.80.00	00  	Mixtures of any product of heading 4001 with any product of this heading	
+kg
+Free 1/		20%
+ 	Other:				
+4002.91.00	00  	Latex	
+kg
+Free 1/		20%
+4002.99.00	00  	Other	
+kg
+Free 1/		20%
+4003.00.00	00  	Reclaimed rubber in primary forms or in plates, sheets or strip	
+kg
+Free 1/		Free 1/
+4004.00.00	00  	Waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom	
+kg
+Free 1/		Free
+4005	 	Compounded rubber, unvulcanized, in primary forms or in plates, sheets or strip:				
+4005.10.00	00  	Compounded with carbon black or silica	
+kg
+Free 1/		20%
+4005.20.00	00  	Solutions; dispersions other than those of subheading 4005.10	
+kg
+Free 1/		20%
+ 	Other:				
+4005.91.00	00  	Plates, sheets, and strip	
+kg
+Free 1/		20% 1/
+4005.99.00	00  	Other	
+kg
+Free 1/		20% 1/
+4006	 	Other forms (for example, rods, tubes and profile shapes) and articles (for example, discs and rings), of unvulcanized rubber:				
+4006.10.00	00  	"Camel-back" strips for retreading rubber tires	
+kg
+2.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+4006.90	 	Other:				
+4006.90.10	00  	Of natural rubber	
+kg
+Free 1/		35%
+4006.90.50	00  	Other	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4007.00.00	00  	Vulcanized rubber thread and cord	
+kg
+Free 1/		35%
+4008	 	Plates, sheets, strip, rods and profile shapes, of vulcanized rubber other than hard rubber:				
+ 	Of cellular rubber:				
+4008.11	 	Plates, sheets and strip:				
+4008.11.10	00  	Of natural rubber	
+kg
+Free 1/		25% 1/
+4008.11.50	00  	Other	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+4008.19	 	Other:				
+ 	Of natural rubber:				
+4008.19.20	00  	Profile shapes	
+kg
+Free 1/		25%
+4008.19.40	00  	Other	
+kg
+Free 1/		25%
+ 	Other:				
+4008.19.60	00  	Profile shapes	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+4008.19.80	00  	Other	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Of noncellular rubber:				
+4008.21.00	00  	Plates, sheets and strip	
+kg
+Free 1/		40%
+4008.29	 	Other:				
+4008.29.20	00  	Profile shapes	
+kg
+2.9% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+4008.29.40	00  	Other	
+kg
+2.9% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+4009	 	Tubes, pipes and hoses, of vulcanized rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges):				
+ 	Not reinforced or otherwise combined with other materials:				
+4009.11.00	00  	Without fittings	
+kg
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	25%
+4009.12.00	 	With fittings		2.5% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4009.12.00.20	20  	Brake hoses for the vehicles of subheadings 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, 8705 or 8711	
+kg
+4009.12.00.50	50  	Other	
+kg
+ 	Reinforced or otherwise combined only with metal:				
+4009.21.00	00  	Without fittings	
+kg
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4009.22.00	 	With fittings		2.5% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4009.22.00.20	20  	Brake hoses for the vehicles of subheadings 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, 8705 or 8711	
+kg
+4009.22.00.50	50  	Other	
+kg
+ 	Reinforced or otherwise combined only with textile materials:				
+4009.31.00	00  	Without fittings	
+kg
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4009.32.00	 	With fittings		2.5% 1/	Free (A*, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4009.32.00.20	20  	Brake hoses for the vehicles of subheadings 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, 8705 or 8711	
+kg
+4009.32.00.50	50  	Other	
+kg
+ 	Reinforced or otherwise combined with other materials:				
+4009.41.00	00  	Without fittings	
+kg
+2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4009.42.00	 	With fittings		2.5% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4009.42.00.20	20  	Brake hoses for the vehicles of subheadings 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, 8705 or 8711	
+kg
+4009.42.00.50	50  	Other	
+kg
+4010	 	Conveyor or transmission belts or belting, of vulcanized rubber:				
+ 	Conveyor belts and belting:				
+4010.11.00	00  	Reinforced only with metal	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4010.12	 	Reinforced only with textile materials:				
+4010.12.10	00  	With textile components in which vegetable fibers predominate by weight over any other single textile fiber	
+kg
+4.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	With textile components in which man-made fibers predominate by weight over any other single textile fiber:				
+4010.12.50	00  	Of a width exceeding 20 cm	
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+4010.12.55	00  	Other	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+4010.12.90	00  	Other	
+kg
+1.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4010.19	 	Other:				
+ 	Combined with textile materials:				
+4010.19.10	00  	With textile components in which vegetable fibers predominate by weight over any other single textile fiber	
+kg
+4.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	With textile components in which man-made fibers predominate by weight over any other single textile fiber:				
+4010.19.50	00  	Of a width exceeding 20 cm	
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+4010.19.55	00  	Other	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+4010.19.80	00  	Other	
+kg
+1.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4010.19.91	00  	Other	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Transmission belts or belting:				
+4010.31	 	Endless transmission belts of trapezoidal cross section (V-belts),V-ribbed, of an outside circumference exceeding 60 cm but not exceeding 180 cm:				
+4010.31.30	00  	Combined with textile materials	
+kg
+3.4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30% 1/
+4010.31.60	00  	Other	
+kg
+2.8% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4010.32	 	Endless transmission belts of trapezoidal cross section (V-belts), other than V-ribbed, of an outside circumference exceeding 60 cm but not exceeding 180 cm:				
+4010.32.30	00  	Combined with textile materials	
+kg
+3.4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4010.32.60	00  	Other	
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4010.33	 	Endless transmission belts of trapezoidal cross section (V-belts), V-ribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm:				
+4010.33.30	00  	Combined with textile materials	
+kg
+3.4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4010.33.60	00  	Other	
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4010.34	 	Endless transmission belts of trapezoidal cross section (V-belts), other thanV-ribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm:				
+4010.34.30	00  	Combined with textile materials	
+kg
+3.4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4010.34.60	00  	Other	
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4010.35	 	Endless synchronous belts of an outside circumference exceeding 60 cm but not exceeding 150 cm:				
+ 	Combined with textile materials:				
+4010.35.30	00  	With textile components in which vegetable fibers predominate by weight over any other single textile fiber	
+kg
+4.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	With textile components in which man-made fibers predominate by weight over any other single textile fiber:				
+4010.35.41	00  	Of a width exceeding 20 cm	
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+4010.35.45	00  	Other	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+4010.35.50	00  	Other	
+kg
+1.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4010.35.90	00  	Other 1/	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4010.36	 	Endless synchronous belts of an outside circumference exceeding 150 cm but not exceeding 198 cm:				
+ 	Combined with textile materials:				
+4010.36.30	00  	With textile components in which vegetable fibers predominate by weight over any other single textile fiber	
+kg
+4.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	With textile components in which man-made fibers predominate by weight over any other single textile fiber:				
+4010.36.41	00  	Of a width exceeding 20 cm	
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+4010.36.45	00  	Other	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+4010.36.50	00  	Other	
+kg
+1.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4010.36.90	00  	Other	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4010.39	 	Other:				
+ 	Of trapezoidal cross section (V-belts and belting):				
+4010.39.10	00  	Combined with textile materials:	
+kg
+3.4% 1/	Free (A+, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+4010.39.20	00  	Other	
+kg
+2.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+ 	Other:				
+ 	Combined with textile materials:				
+4010.39.30	00  	With textile components in which vegetable fibers predominate by weight over any other single textile fiber	
+kg
+4.1% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+ 	With textile components in which man-made fibers predominate by weight over any other single textile fiber:				
+4010.39.41	00  	Of a width exceeding 20 cm	
+kg
+8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+4010.39.45	00  	Other	
+kg
+6.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	74%
+4010.39.50	00  	Other	
+kg
+1.9% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4010.39.90	00  	Other	
+kg
+3.3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4011	 	New pneumatic tires, of rubber:				
+4011.10	 	Of a kind used on motor cars (including station wagons and racing cars):				
+4011.10.10	 	Radial		4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+4011.10.10.10	10  	Having a rim diameter of 33.02 cm (13 inches) or less	
+No.
+4011.10.10.20	20  	Having a rim diameter greater than 33.02 cm (13 inches) but not more than 35.56 cm (14 inches)	
+No.
+4011.10.10.30	30  	Having a rim diameter greater than 35.56 cm (14 inches) but not more than 38.10 cm (15 inches)	
+No.
+4011.10.10.40	40  	Having a rim diameter greater than 38.10 cm (15 inches) but not more than 40.64 cm (16 inches)	
+No.
+4011.10.10.50	50  	Having a rim diameter greater than 40.64 cm (16 inches) but not more than 43.18 cm (17 inches)	
+No.
+4011.10.10.60	60  	Having a rim diameter greater than 43.18 cm (17 inches) but not more than 45.72 cm (18 inches)	
+No.
+4011.10.10.70	70  	Having a rim diameter greater than 45.72 cm (18 inches)	
+No.
+4011.10.50	00  	Other	
+No.
+3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+4011.20	 	Of a kind used on buses or trucks:				
+4011.20.10	 	Radial		4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+ 	On-the-highway:				
+4011.20.10.05	05  	Light truck	
+No.
+4011.20.10.15	15  	Other	
+No.
+ 	Off-the-highway:				
+4011.20.10.25	25  	For use on a rim measuring 40.6 cm or more in diameter	
+No.
+4011.20.10.35	35  	Other	
+No.
+4011.20.50	 	Other		3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+ 	On-the-highway:				
+4011.20.50.10	10  	Light truck	
+No.
+4011.20.50.20	20  	Other	
+No.
+ 	Off-the-highway:				
+4011.20.50.30	30  	For use on a rim measuring 40.6 cm or more in diameter	
+No.
+4011.20.50.50	50  	Other	
+No.
+4011.30.00	 	Of a kind used on aircraft		Free 1/		30% 1/
+4011.30.00.10	10  	For use in civil aircraft	
+No.
+4011.30.00.50	50  	Other	
+No.
+4011.40.00	00  	Of a kind used on motorcycles	
+No.
+Free 1/		10% 1/
+4011.50.00	00  	Of a kind used on bicycles	
+No.
+Free 1/		10%
+4011.70.00	 	Of a kind used on agricultural or forestry vehicles and machines		Free 1/		Free 1/
+4011.70.00.10	10  	Having a "herring-bone" or similar tread	
+No.
+4011.70.00.50	50  	Other	
+No.
+4011.80	 	Of a kind used on construction, mining or industrial handling vehicles and machines:				
+4011.80.10	 	Having a "herring-bone" or similar tread		Free 1/		10%
+4011.80.10.10	10  	Having a rim size not exceeding 61 cm	
+No.
+4011.80.10.20	20  	Having a rim size exceeding 61 cm	
+No.
+ 	Other:				
+4011.80.20	 	Radial		4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+4011.80.20.10	10  	Having a rim size not exceeding 61 cm	
+No.
+4011.80.20.20	20  	Having a rim size exceeding 61 cm	
+No.
+4011.80.80	 	Other		3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	10%
+4011.80.80.10	10  	Having a rim size not exceeding 61 cm	
+No.
+4011.80.80.20	20  	Having a rim size exceeding 61 cm	
+No.
+4011.90	 	Other:				
+4011.90.10	 	Having a "herring-bone" or similar tread		Free 1/		10% 1/
+4011.90.10.10	10  	Of a kind used on golf carts, all-terrain vehicles, and for turf, lawn and garden, and trailer applications	
+No.
+4011.90.10.50	50  	Other	
+No.
+4011.90.20	 	Radial		4% 1/	Free (A*, AU, BH, CL, CO, D, E IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+4011.90.20.10	10  	Of a kind used on golf carts, all-terrain vehicles, and for turf, lawn and garden, and trailer applications	
+No.
+4011.90.20.50	50  	Other	
+No.
+4011.90.80	 	Other		3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+4011.90.80.10	10  	Of a kind used on golf carts, all-terrain vehicles, and for turf, lawn and garden, and trailer applications	
+No.
+4011.90.80.50	50  	Other	
+No.
+4012	 	Retreaded or used pneumatic tires of rubber; solid or cushion tires, tire treads and tire flaps, of rubber:				
+ 	Retreaded tires:				
+4012.11	 	Of a kind used on motor cars (including station wagons and racing cars):				
+4012.11.40	00  	Radial	
+No.
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+4012.11.80	00  	Other	
+No.
+3.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10% 1/
+4012.12	 	Of a kind used on buses or trucks:				
+4012.12.40	 	Radial		4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+ 	On-the-highway truck and bus tires:				
+4012.12.40.15	15  	Light truck	
+No.
+4012.12.40.25	25  	Other	
+No.
+4012.12.40.35	35  	Other	
+No.
+4012.12.80	 	Other		3.4% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+ 	On-the-highway truck and bus tires:				
+4012.12.80.19	19  	Light truck	
+No.
+4012.12.80.29	29  	Other	
+No.
+4012.12.80.50	50  	Other	
+No.
+4012.13.00	 	Of a kind used on aircraft		Free 1/		30%
+4012.13.00.10	10  	For use in civil aircraft	
+No.
+4012.13.00.50	50  	Other	
+No.
+4012.19	 	Other:				
+4012.19.20	00  	Designed for tractors provided for in subheadings 8701.91.10, 8701.92.10, 8701.93.10, 8701.94.10 or 8701.95.10 or for agricultural or horticultural machinery or implements provided for in chapter 84 or in subheading 8716.80.10	
+No.
+Free 1/		Free
+ 	Other:				
+4012.19.40	00  	Radial	
+No.
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+4012.19.80	00  	Other	
+No.
+3.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+4012.20	 	Used pneumatic tires:				
+4012.20.10	 	Aircraft		Free 1/		30%
+4012.20.10.10	10  	For use in civil aircraft	
+No.
+4012.20.10.50	50  	Other	
+No.
+ 	Designed for tractors provided for in subheadings 8701.91.10, 8701.92.10, 8701.93.10, 8701.94.10 or 8701.95.10 or for agricultural or horticultural machinery or implements provided for in chapter 84 or in subheading 8716.80.10:				
+4012.20.15	00  	Of a kind used on vehicles, including tractors, for the on-highway transport of passengers or goods	
+No.
+Free 1/		Free
+4012.20.45	00  	Other	
+No.
+Free 1/		Free
+ 	Other:				
+4012.20.60	00  	Of a kind used on vehicles, including tractors, for the on-highway transport of passengers or goods, or on vehicles of heading 8705	
+No.
+Free 1/		10% 1/
+4012.20.80	00  	Other	
+No.
+Free 1/		10% 1/
+4012.90	 	Other:				
+4012.90.10	00  	Solid or cushion tires	
+No.
+Free 1/		25% 1/
+ 	Other:				
+ 	Of natural rubber:				
+4012.90.30	00  	Bicycle rim strips	
+kg
+No.
+Free 1/		35%
+4012.90.45	00  	Other	
+kg
+No.
+4.2% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+ 	Other:				
+4012.90.70	00  	Bicycle rim strips	
+kg
+No.
+Free 1/		80%
+4012.90.90	00  	Other	
+kg
+No.
+2.7% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4013	 	Inner tubes, of rubber:				
+4013.10.00	 	Of a kind used on motor cars (including station wagons and racing cars), buses or trucks		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4013.10.00.10	10  	Motor car	
+No.
+4013.10.00.20	20  	Truck and bus	
+No.
+4013.20.00	00  	Of a kind used on bicycles	
+No.
+Free 1/		30%
+4013.90	 	Other:				
+4013.90.10	00  	Designed for tires provided for in subheadings 4011.70.00, 4012.19.20, 4012.20.15 and 4012.20.45	
+No.
+Free 1/		Free 1/
+4013.90.50	 	Other		3.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4013.90.50.10	10  	Motorcycle (including moped)	
+No.
+4013.90.50.50	50  	Other	
+No.
+4014	 	Hygienic or pharmaceutical articles (including nursing nipples), of vulcanized rubber other than hard rubber, with or without fittings of hard rubber:				
+4014.10.00	00  	Sheath contraceptives	
+gross
+Free		25%
+4014.90	 	Other:				
+4014.90.10	00  	Nursing nipples	
+gross
+Free		25%
+4014.90.50	00  	Other	
+No.
+4.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4015	 	Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanized rubber other than hard rubber:				
+ 	Gloves, mittens and mitts:				
+4015.12	 	Of a kind used for medical, surgical, dental or veterinary purposes:				
+4015.12.10	 	Of a kind used for medical or surgical purposes		Free 1/		25%
+4015.12.10.10	10  	Medical gloves, mittens and mitts	
+doz. prs.
+4015.12.10.20	20  	Surgical gloves, mittens and mitts	
+doz. prs.
+4015.12.90	00  	Other	
+doz. prs.
+14% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+4015.19	 	Other:				
+4015.19.11	 	Seamless		3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+4015.19.11.10	10  	Disposable	
+doz. prs.
+4015.19.11.50	50  	Other	
+doz. prs.
+4015.19.51	00  	Other	
+doz. prs.
+14% 1/	Free(A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	75%
+4015.90.00	 	Other		4% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4015.90.00.10	10  	Aprons	
+doz.
+4015.90.00.50	50  	Other	
+doz.
+4016	 	Other articles of vulcanized rubber other than hard rubber:				
+4016.10.00	00  	Of cellular rubber	
+kg
+Free 1/		25%
+ 	Other:				
+4016.91.00	00  	Floor coverings and mats	
+kg
+2.7% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+4016.92.00	00  	Erasers	
+kg
+4.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	35%
+4016.93	 	Gaskets, washers and other seals:				
+4016.93.10	 	Of a kind used in the automotive goods of chapter 87		2.5% 1/	Free (A*, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4016.93.10.10	10  	O-Rings	
+kg
+4016.93.10.20	20  	Oil seals	
+No.
+kg
+4016.93.10.50	50  	Other	
+kg
+4016.93.50	 	Other		2.5% 1/	Free (A*, AU, BH, C, CL, CO, D, E, IL, JO, JP, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4016.93.50.10	10  	O-Rings	
+kg
+4016.93.50.20	20  	Oil seals	
+No.
+kg
+4016.93.50.50	50  	Other	
+kg
+4016.94.00	00  	Boat or dock fenders, whether or not inflatable	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4016.95.00	00  	Other inflatable articles	
+kg
+4.2% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25% 1/
+4016.99	 	Other:				
+4016.99.03	00  	Containers, with or without their closures, of a kind used for the packing, transporting or marketing of merchandise	
+kg
+3% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4016.99.05	00  	Household articles not elsewhere specified or included	
+kg
+3.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4016.99.10	00  	Handles and knobs	
+kg
+3.3% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	57.5%
+4016.99.15	00  	Caps, lids, seals, stoppers and other closures	
+kg
+2.7% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4016.99.20	00  	Toys for pets	
+kg
+4.3%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+ 	Other:				
+ 	Of natural rubber:				
+4016.99.30	00  	Vibration control goods of a kind used in the vehicles of headings 8701 through 8705	
+kg
+Free 1/		35%
+4016.99.35	 	Other		Free 1/		35%
+4016.99.35.10	10  	Rubber bands	
+kg
+4016.99.35.50	50  	Other	
+kg
+ 	Other:				
+4016.99.55	00  	Vibration control goods of a kind used in the vehicles of headings 8701 through 8705	
+kg
+2.5% 1/	Free (A, AU, B, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4016.99.60	 	Other		2.5% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+4016.99.60.10	10  	Mechanical articles for motor vehicles	
+kg
+4016.99.60.50	50  	Other	
+kg
+4017.00.00	00  	Hard rubber (for example, ebonite) in all forms, including waste and scrap; articles of hard rubber	
+kg
+2.7% 1/	Free (A, AU, B, BH, C, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%

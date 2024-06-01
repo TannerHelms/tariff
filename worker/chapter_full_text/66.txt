@@ -1,0 +1,33 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+6601	 	Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas):				
+6601.10.00	00  	Garden or similar umbrellas	
+doz.
+6.5%	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+ 	Other:				
+6601.91.00	00  	Having a telescopic shaft	
+doz.
+Free		40%
+6601.99.00	00  	Other	
+doz.
+8.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+6602.00.00	00  	Walking-sticks, seat-sticks, whips, riding-crops and the like	
+No.
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	40%
+6603	 	Parts, trimmings and accessories of articles of heading 6601 or 6602:				
+6603.20	 	Umbrella frames, including frames mounted on shafts (sticks):				
+6603.20.30	00  	For hand-held umbrellas chiefly used for protection against rain	
+No.
+Free		60%
+6603.20.90	00  	Other	
+No.
+12%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	60%
+6603.90	 	Other:				
+6603.90.41	00  	Umbrella handles, knobs, tips and caps	
+kg
+Free 1/		45%
+6603.90.81	00  	Other	
+kg
+5.2%	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%

@@ -1,0 +1,260 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+6501.00	 	Hat forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons), of felt:				
+ 	Of fur felt:				
+6501.00.30	00  	For men or boys	
+doz.
+kg
+Free 1/		$16/doz. + 25%
+6501.00.60	00  	Other	
+doz.
+kg
+96¢/doz. + 1.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$16/doz. + 25%
+6501.00.90	00  	Other (459)	
+No.
+kg
+10.3¢/kg + 10.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	88.2¢/kg + 55%
+6502.00	 	Hat shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, not lined, nor trimmed:				
+ 	Of vegetable fibers, of unspun fibrous vegetable materials, of paper yarn or of any combination thereof:				
+6502.00.20	00  	Sewed	
+doz.
+kg
+34¢/doz. + 3.4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$3/doz. + 50%
+ 	Not sewed:				
+6502.00.40	00  	Not bleached and not colored	
+doz.
+kg
+4% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	25%
+6502.00.60	 	Bleached or colored		Free 1/		25¢/doz. + 25%
+6502.00.60.30	30  	Of paper	
+doz.
+6502.00.60.60	60  	Other	
+doz.
+kg
+6502.00.90	 	Other		6.8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6502.00.90.30	30  	Of man-made fibers (659)	
+doz.
+kg
+6502.00.90.60	60  	Other	
+doz.
+kg
+6504.00	 	Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed:				
+ 	Of vegetable fibers, of unspun fibrous vegetable materials, of paper yarn or of any combination thereof:				
+6504.00.30	00  	Sewed	
+doz.
+kg
+6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$3/doz. + 50%
+6504.00.60	00  	Not sewed	
+doz.
+kg
+94¢/doz. + 4.6% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	$3.50/doz. + 50%
+6504.00.90	 	Other		6.8% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	90%
+ 	Sewed:				
+6504.00.90.15	15  	Of man-made fibers (659)	
+doz.
+kg
+6504.00.90.45	45  	Other	
+doz.
+kg
+ 	Not sewed:				
+6504.00.90.60	60  	Of man-made fibers (659)	
+doz.
+kg
+6504.00.90.75	75  	Other	
+doz.
+kg
+6505.00	 	Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed:				
+6505.00.01	00  	Hair-nets	
+kg
+6.4% 1/ 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	20%
+ 	Other:				
+ 	Felt hats and other felt headgear, made from the hat bodies, hoods or plateaux of heading 6501, whether or not lined or trimmed:				
+6505.00.04	 	Of fur felt		Free 1/		$16/doz. + 25%
+6505.00.04.10	10  	For men or boys	
+doz.
+kg
+6505.00.04.50	50  	Other	
+doz.
+kg
+6505.00.08	00  	Other	
+No.
+kg
+13.5¢/kg + 6.3% + 1.9¢/article 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	88.2¢/kg + 55% + 12.5¢/ article
+ 	Other:				
+ 	Of cotton, flax or both:				
+6505.00.15	 	Knitted		7.9% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	45%
+ 	Of cotton:				
+6505.00.15.15	15  	For babies (239)	
+doz.
+kg
+ 	Other:				
+6505.00.15.25	25  	Visors, and other headgear which provides no covering for the crown of the head (359)	
+doz.
+kg
+6505.00.15.40	40  	Other (359)	
+doz.
+kg
+6505.00.15.60	60  	Other (859)	
+doz.
+kg
+ 	Not knitted:				
+6505.00.20	 	Certified hand-loomed and folklore products; and headwear of cotton		7.5% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	37.5%
+6505.00.20.30	30  	For babies (239)	
+doz.
+kg
+6505.00.20.60	60  	Other (359)	
+doz.
+kg
+6505.00.25	 	Other		7.5% 1/	Free (AU, BH, CL, CO, E*, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	37.5%
+6505.00.25.45	45  	Visors, and other headgear of cotton which provides no covering for the crown of the head (359)	
+doz.
+kg
+6505.00.25.90	90  	Other (859)	
+doz.
+kg
+ 	Of wool:				
+6505.00.30	 	Knitted or crocheted or made up from knitted or crocheted fabric		25.4¢/kg + 7.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	$1.10/kg + 50%
+6505.00.30.30	30  	For babies (439)	
+doz.
+kg
+ 	Other:				
+6505.00.30.45	45  	Visors, and other headgear which provides no covering for the crown of the head (459)	
+doz.
+kg
+6505.00.30.90	90  	Other (459)	
+doz.
+kg
+6505.00.40	 	Other		31¢/kg + 7.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	$1.10/kg + 50%
+6505.00.40.30	30  	For babies (439)	
+doz.
+kg
+ 	Other:				
+6505.00.40.45	45  	Visors, and other headgear which provides no covering for the crown of the head (459)	
+doz.
+kg
+6505.00.40.90	90  	Other (459)	
+doz.
+kg
+ 	Of man-made fibers:				
+ 	Knitted or crocheted or made up from knitted or crocheted fabric:				
+6505.00.50	 	Wholly or in part of braid		6.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	90%
+6505.00.50.30	30  	For babies (239)	
+doz.
+kg
+ 	Other:				
+6505.00.50.45	45  	Visors, and other headgear which provides no covering for the crown of the head (659)	
+doz.
+kg
+6505.00.50.90	90  	Other (659)	
+doz.
+kg
+6505.00.60	 	Not in part of braid		20¢/kg + 7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	99.2¢/kg + 65%
+6505.00.60.30	30  	For babies (239)	
+doz.
+kg
+ 	Other:				
+6505.00.60.40	40  	Containing 23 percent or more by weight of wool or fine animal hair (459)	
+doz.
+kg
+ 	Other:				
+6505.00.60.45	45  	Visors, and other headgear which provides no covering for the crown of the head (659)	
+doz.
+kg
+6505.00.60.90	90  	Other (659)	
+doz.
+kg
+ 	Other:				
+6505.00.70	 	Wholly or in part of braid		6.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	90%
+6505.00.70.30	30  	For babies (239)	
+doz.
+kg
+ 	Other:				
+6505.00.70.45	45  	Visors, and other headgear which provides no covering for the crown of the head (659)	
+doz.
+kg
+6505.00.70.90	90  	Other (659)	
+doz.
+kg
+6505.00.80	 	Not in part of braid		18.7¢/kg + 6.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	99.2¢/kg + 65%
+6505.00.80.15	15  	Nonwoven disposable headgear without peaks or visors 1/	
+doz.
+kg
+ 	Other:				
+6505.00.80.45	45  	For babies (239)	
+doz.
+kg
+ 	Other:				
+6505.00.80.50	50  	Visors, and other headgear which provides no covering for the crown of the head (659)	
+doz.
+kg
+6505.00.80.90	90  	Other (659)	
+doz.
+kg
+6505.00.90	 	Other		20.7¢/kg + 7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	99.2¢/kg + 65%
+6505.00.90.30	30  	Containing 70 percent or more by weight of silk or silk waste (759)	
+doz.
+kg
+ 	Other:				
+6505.00.90.45	45  	Of fine animal hair (459)	
+doz.
+kg
+6505.00.90.50	50  	Of paper yarn	
+doz.
+kg
+ 	Other:				
+6505.00.90.76	76  	Of unspun vegetable fibers	
+doz.
+kg
+6505.00.90.89	89  	Other (859)	
+doz.
+kg
+6506	 	Other headgear, whether or not lined or trimmed:				
+6506.10	 	Safety headgear:				
+6506.10.30	 	Of reinforced or laminated plastics		Free 1/		$1.10/kg + 40%
+6506.10.30.30	30  	Motorcycle helmets	
+No.
+kg
+ 	Other:				
+6506.10.30.45	45  	Athletic, recreational and sporting headgear	
+doz.
+kg
+6506.10.30.75	75  	Other	
+doz.
+kg
+6506.10.60	 	Other		Free 1/		25% 1/
+6506.10.60.30	30  	Motorcycle helmets 1/	
+No.
+kg
+ 	Other:				
+6506.10.60.45	45  	Athletic, recreational and sporting headgear 1/	
+doz.
+kg
+6506.10.60.75	75  	Other	
+doz.
+kg
+ 	Other:				
+6506.91.00	 	Of rubber or plastics		Free 1/		25%
+6506.91.00.30	30  	Bathing caps	
+doz.
+kg
+6506.91.00.45	45  	Visors, or other headgear which provides no covering for the crown of the head	
+doz.
+kg
+6506.91.00.60	60  	Other	
+doz.
+kg
+6506.99	 	Of other materials:				
+6506.99.30	00  	Of furskin	
+doz.
+kg
+3.3% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	50%
+6506.99.60	00  	Other	
+doz.
+kg
+8.5% 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, NP, OM, P, PA, PE, S, SG)	35%
+6507.00.00	00  	Headbands, linings, covers, hat foundations, hat frames, peaks (visors) and chin straps, for headgear	
+doz.
+kg
+Free 1/		35%

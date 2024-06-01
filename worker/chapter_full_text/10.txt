@@ -1,0 +1,191 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+1001	 	Wheat and meslin:				
+ 	Durum wheat:				
+1001.11.00	00  	Seed	
+kg
+0.65¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.5¢/kg
+1001.19.00	 	Other		0.65¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.5¢/kg
+1001.19.00.25	25  	Certified Organic	
+kg
+ 	Other:				
+1001.19.00.51	51  	Grade 1	
+kg
+1001.19.00.53	53  	Grade 2	
+kg
+1001.19.00.69	69  	Other	
+kg
+ 	Other:				
+1001.91.00	00  	Seed	
+kg
+2.8% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+1001.99.00	 	Other		0.35¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.5¢/kg
+1001.99.00.05	05  	Canadian western extra strong hard red spring (CWES/HRS) wheat	
+kg
+ 	Other:				
+ 	Certified organic:				
+1001.99.00.07	07  	Red spring wheat	
+kg
+1001.99.00.09	09  	Other	
+kg
+ 	Other:				
+ 	Red spring wheat:				
+ 	Grade 1:				
+1001.99.00.10	10  	Having a specified protein content not exceeding 12.9% by weight	
+kg
+1001.99.00.17	17  	Having a specified protein content exceeding 12.9% but not exceeding 13.9% by weight.	
+kg
+1001.99.00.18	18  	Having a specified protein content exceeding 13.9% by weight	
+kg
+ 	Grade 2:				
+1001.99.00.27	27  	Having a specified protein content not exceeding 12.9% by weight	
+kg
+1001.99.00.30	30  	Having a specified protein content exceeding 12.9% but not exceeding 13.9% by weight.	
+kg
+1001.99.00.33	33  	Having a specified protein content exceeding 13.9% by weight.	
+kg
+1001.99.00.36	36  	Other red spring wheat	
+kg
+1001.99.00.45	45  	White winter wheat	
+kg
+1001.99.00.55	55  	"Canadian" western red winter wheat	
+kg
+1001.99.00.65	65  	Soft white spring wheat	
+kg
+1001.99.00.97	97  	Other	
+kg
+1002	 	Rye:				
+1002.10.00	 	Seed		Free 1/		0.59¢/kg
+1002.10.00.10	10  	Seeds of a kind used for sowing	
+kg
+1002.10.00.90	90  	Other	
+kg
+1002.90.00	00  	Other	
+kg
+Free 1/		0.59¢/kg
+1003	 	Barley:				
+1003.10.00	00  	Seed	
+kg
+0.15¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.92¢/kg
+1003.90	 	Other:				
+1003.90.20	00  	For malting purposes	
+kg
+0.1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.92¢/kg
+1003.90.40	 	Other		0.15¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.92¢/kg
+1003.90.40.20	20  	Certified organic	
+kg
+1003.90.40.30	30  	Other	
+kg
+1004	 	Oats:				
+1004.10.00	00  	Seed	
+kg
+Free 1/		1.1¢/kg
+1004.90.00	 	Other		Free 1/		1.1¢/kg
+1004.90.00.10	10  	Certified organic	
+kg
+1004.90.00.90	90  	Other	
+kg
+1005	 	Corn (maize):				
+1005.10.00	 	Seed		Free 1/		0.98¢/kg
+1005.10.00.10	10  	Yellow corn	
+kg
+1005.10.00.90	90  	Other	
+kg
+1005.90	 	Other:				
+1005.90.20	 	Yellow dent corn		0.05¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.98¢/kg
+1005.90.20.15	15  	Certified Organic	
+kg
+1005.90.20.25	25  	Other	
+kg
+1005.90.40	 	Other		0.25¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	0.98¢/kg
+1005.90.40.40	40  	Popcorn	
+kg
+1005.90.40.60	60  	Other	
+kg
+1006	 	Rice:				
+1006.10.00	00  	Rice in the husk (paddy or rough)	
+kg
+1.8¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.8¢/kg
+1006.20	 	Husked (brown) rice:				
+1006.20.20	 	Basmati		0.83¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.3¢/kg
+1006.20.20.10	10  	Certified organic	
+kg
+1006.20.20.90	90  	Other	
+kg
+1006.20.40	 	Other		2.1¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	3.3¢/kg
+ 	Long grain:				
+1006.20.40.25	25  	Jasmine	
+kg
+1006.20.40.35	35  	Other	
+kg
+1006.20.40.40	40  	Medium grain	
+kg
+1006.20.40.60	60  	Short grain	
+kg
+1006.20.40.80	80  	Mixtures of any of the above	
+kg
+1006.30	 	Semi-milled or wholly milled rice, whether or not polished or glazed:				
+1006.30.10	 	Parboiled		11.2% 1/	Free (AU, BH, CL, CO, D, E, IL, JO, MA, OM, P, PA, PE, S, SG) 1.4% (KR)	35%
+1006.30.10.20	20  	Long grain	
+kg
+1006.30.10.40	40  	Other, including mixtures	
+kg
+1006.30.90	 	Other		1.4¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	5.5¢/kg
+1006.30.90.15	15  	Certified Organic	
+kg
+ 	Other:				
+ 	Long grain:				
+1006.30.90.57	57  	Jasmine	
+kg
+1006.30.90.59	59  	Basmati	
+kg
+1006.30.90.61	61  	Other	
+kg
+1006.30.90.65	65  	Medium grain	
+kg
+1006.30.90.75	75  	Short grain	
+kg
+1006.30.90.85	85  	Mixtures of any of the above	
+kg
+1006.40.00	00  	Broken rice	
+kg
+0.44¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	1.4¢/kg
+1007	 	Grain sorghum:				
+1007.10.00	00  	Seed	
+kg
+0.22¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+1007.90.00	00  	Other	
+kg
+0.22¢/kg 1/	Free (A*, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	4.4¢/kg
+1008	 	Buckwheat, millet and canary seeds; other cereals (including wild rice):				
+1008.10.00	00  	Buckwheat	
+kg
+Free 1/		0.55¢/kg
+ 	Millet:				
+1008.21.00	00  	Seed	
+kg
+0.32¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+1008.29.00	00  	Other	
+kg
+0.32¢/kg 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+1008.30.00	00  	Canary seeds	
+kg
+0.12¢/kg 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	2.2¢/kg
+1008.40.00	00  	Fonio (Digitaria spp.)	
+kg
+1.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+1008.50.00	 	Quinoa (Chenopodium quinoa)		1.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+1008.50.00.10	10  	Certified organic	
+kg
+1008.50.00.90	90  	Other	
+kg
+1008.60.00	00  	Triticale	
+kg
+1.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+1008.90.01	 	Other cereals (including wild rice)		1.1% 1/	Free (A+, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	10%
+1008.90.01.20	20  	Wild rice	
+kg
+1008.90.01.40	40  	Other	
+kg

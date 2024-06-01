@@ -1,0 +1,956 @@
+Heading/ Subheading	Stat Suffix	Article Description	Unit of Quantity	RATES OF DUTY Rates of duty are divided in to columns 1 and 2 and column 1 is further divided into General and Special. The General sub-column sets forth the general or normal trade relations (NTR) rates which are applicable to all products other than those of those countries with products eligible for special tariff treatment (such as countries with free trade agreements, trade acts, preference programs, etc.) The Special sub-column reflects rates of duty under one or more special tariff treatment programs. These countries are identified in parentheses immediately following the duty rate specified in such sub-column. These rates apply to those products which are properly classified under a provision for which a special rate is indicated and for which all of the legal requirements for eligibility for such program or programs have been met. Where no special rate of duty is provided for a provision, the rates of duty in the General sub-column apply. Rates of duty in column 2 apply to products of Cuba and North Korea.
+1	2
+General	
+Special Click to view agreements information
+5401	 	Sewing thread of man-made filaments, whether or not put up for retail sale:				
+5401.10.00	00  	Of synthetic filaments (200)	
+kg
+11.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5401.20.00	00  	Of artificial filaments (200)	
+kg
+11.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402	 	Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex:				
+ 	High tenacity yarn of nylon or other polyamides, whether or not textured:				
+5402.11	 	Of aramids:				
+5402.11.30	 	Single yarn		8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Not more than 920 decitex:				
+5402.11.30.10	10  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5402.11.30.30	30  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+ 	More than 920 decitex:				
+5402.11.30.50	50  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5402.11.30.70	70  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+5402.11.60	00  	Multiple (folded) or cabled (606)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402.19	 	Other:				
+5402.19.30	 	Single yarn		8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Not more than 920 decitex:				
+5402.19.30.10	10  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5402.19.30.30	30  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+ 	More than 920 decitex:				
+5402.19.30.50	50  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5402.19.30.70	70  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+5402.19.60	00  	Multiple (folded) or cabled (606)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402.20	 	High tenacity yarn of polyesters, whether or not textured:				
+5402.20.30	 	Single yarn		8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Not more than 920 decitex:				
+5402.20.30.10	10  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5402.20.30.30	30  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+ 	More than 920 decitex:				
+5402.20.30.50	50  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5402.20.30.70	70  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+5402.20.60	00  	Multiple (folded) or cabled (606)	
+kg
+7.5%	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+ 	Textured yarn:				
+5402.31	 	Of nylon or other polyamides, measuring per single yarn not more than 500 decitex:				
+5402.31.30	00  	Single yarn (600)	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.31.60	00  	Multiple (folded) or cabled yarn (600)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402.32	 	Of nylon or other polyamides, measuring per single yarn more than 500 decitex:				
+5402.32.30	00  	Single yarn (600)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.32.60	00  	Multiple (folded) or cabled yarn (600)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402.33	 	Of polyesters:				
+5402.33.30	00  	Single yarn (600)	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.33.60	00  	Multiple (folded) or cabled yarn (600)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402.34	 	Of polypropylene:				
+5402.34.30	00  	Single yarn (600)	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.34.60	00  	Multiple (folded) or cabled yarn (600)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402.39	 	Other:				
+5402.39.31	 	Single yarn		8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.39.31.10	10  	Of polyethylene (600)	
+kg
+5402.39.31.90	90  	Other (600)	
+kg
+5402.39.61	 	Multiple (folded) or cabled yarn		8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402.39.61.10	10  	Of polyethylene (600)	
+kg
+5402.39.61.90	90  	Other (600)	
+kg
+ 	Other yarn, single, untwisted or with a twist not exceeding 50 turns/m:				
+5402.44.00	 	Elastomeric		8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.44.00.05	05  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5402.44.00.40	40  	Other	
+kg
+5402.45	 	Other, of nylon or other polyamides:				
+5402.45.10	00  	Colored multifilament, untwisted or with a twist of less than 5 turns per meter, measuring not less than 22 decitex per filament, certified by the importer to be used in the manufacture of wigs for dolls	
+kg
+Free 1/		50%
+5402.45.90	 	Other		8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter:				
+5402.45.90.10	10  	Multifilament, partially oriented	
+kg
+5402.45.90.30	30  	Other	
+kg
+5402.45.90.40	40  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+5402.46.00	00  	Other, of polyesters, partially oriented	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.47	 	Other, of polyesters:				
+5402.47.10	 	Wholly of polyester, measuring not less than 75 decitex but not more than 80 decitex, and having 24 filaments per yarn		8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.47.10.20	20  	Untwisted or with twist of less than 5 turns per meter	
+kg
+5402.47.10.40	40  	With twist of 5 turns or more per meter (606)	
+kg
+5402.47.90	 	Other		8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.47.90.20	20  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5402.47.90.40	40  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+5402.48.00	 	Other, of polypropylene		8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.48.00.10	10  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5402.48.00.70	70  	Other	
+kg
+5402.49	 	Other:				
+5402.49.11	00  	Colored multifilament, of modacrylic, untwisted or with a twist of less than 5 turns per meter, measuring not less than 22 decitex per filament, certified by the importer to be used in the manufacture of wigs for dolls	
+kg
+Free 1/		50%
+5402.49.91	 	Other		8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter:				
+5402.49.91.15	15  	Of polyethylene	
+kg
+5402.49.91.40	40  	Other	
+kg
+ 	Multifilament, with twist of 5 turns or more per meter:				
+5402.49.91.75	75  	Of polyethylene (606)	
+kg
+5402.49.91.80	80  	Other (606)	
+kg
+ 	Other yarn, single, with a twist exceeding 50 turns/m:				
+5402.51.00	00  	Of nylon or other polyamides (606)	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.52	 	Of polyesters:				
+5402.52.10	00  	Wholly of polyester, measuring not less than 75 decitex but not more than 80 decitex, and having 24 filaments per yarn (606)	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.52.90	00  	Other (606)	
+kg
+8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.53.00	00  	Of polypropylene (606)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5402.59.01	00  	Other (606)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+ 	Other yarn, multiple (folded) or cabled:				
+5402.61.00	00  	Of nylon or other polyamides (606)	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402.62.00	00  	Of polyesters (606)	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402.63.00	00  	Of polypropylene (606)	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5402.69.01	00  	Other (606)	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5403	 	Artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex:				
+5403.10	 	High tenacity yarn of viscose rayon:				
+5403.10.30	 	Single yarn		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5403.10.30.20	20  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5403.10.30.40	40  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+5403.10.60	00  	Multiple (folded) or cabled (606)	
+kg
+9.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+ 	Other yarn, single:				
+5403.31.00	 	Of viscose rayon, untwisted or with a twist not ex- ceeding 120 turns/m		10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5403.31.00.20	20  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5403.31.00.40	40  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+5403.32.00	00  	Of viscose rayon, with a twist exceeding 120 turns/m (606)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5403.33.00	 	Of cellulose acetate		8.8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5403.33.00.20	20  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5403.33.00.40	40  	Multifilament, with twist of 5 turns or more per ` meter (606)	
+kg
+5403.39	 	Other:				
+5403.39.10	00  	Textured yarn (600)	
+kg
+10% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5403.39.90	 	Other		8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5403.39.90.20	20  	Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter	
+kg
+5403.39.90.40	40  	Multifilament, with twist of 5 turns or more per meter (606)	
+kg
+ 	Other yarn, multiple (folded) or cabled:				
+5403.41.00	00  	Of viscose rayon (606)	
+kg
+9.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5403.42.00	00  	Of cellulose acetate (606)	
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5403.49	 	Other:				
+5403.49.10	00  	Textured yarn (600)	
+kg
+9.1% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5403.49.90	00  	Other (606)	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5404	 	Synthetic monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of synthetic textile materials of an apparent width not exceeding 5 mm:				
+ 	Monofilament:				
+5404.11.00	00  	Elastomeric	
+kg
+6.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5404.12	 	Other, of polypropylene:				
+5404.12.10	00  	Not over 254 mm in length	
+kg
+6.9% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5404.12.90	00  	Other	
+kg
+6.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5404.19	 	Other:				
+5404.19.10	00  	Racket strings	
+kg
+2.7% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	30%
+5404.19.80	 	Other		6.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5404.19.80.20	20  	Of nylon or other polyamides	
+kg
+5404.19.80.40	40  	Of polyesters	
+kg
+5404.19.80.80	80  	Other	
+kg
+5404.90.00	00  	Other	
+kg
+Free 1/		45%
+5405.00	 	Artificial monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of artificial textile materials of an apparent width not exceeding 5 mm:				
+5405.00.30	00  	Monofilament	
+kg
+6.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	50%
+5405.00.60	00  	Other	
+kg
+5.8% 1/	Free (A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	45%
+5406.00	 	Man-made filament yarn (other than sewing thread), put up for retail sale:				
+5406.00.10	 	Synthetic filament yarn		7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5406.00.10.20	20  	Of acrylic (200)	
+kg
+5406.00.10.40	40  	Of polyesters (200)	
+kg
+5406.00.10.90	90  	Other (200)	
+kg
+5406.00.20	00  	Artificial filament yarn (200)	
+kg
+7.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	55%
+5407	 	Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading 5404:				
+5407.10.00	 	Woven fabrics obtained from high tenacity yarn of nylon or other polyamides or of polyesters		13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.10.00.10	10  	Of polyester, weighing not more than 170 g/m² (619)	
+m²
+kg
+5407.10.00.90	90  	Other (620)	
+m²
+kg
+5407.20.00	00  	Woven fabrics obtained from strip or the like (620)	
+m²
+kg
+Free 1/		81%
+5407.30	 	Fabrics specified in note 9 to section XI:				
+5407.30.10	00  	Over 60 percent by weight of plastics	
+m²
+kg
+Free 1/		40%
+5407.30.90	00  	Other (620)	
+m²
+kg
+8% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	83.5%
+ 	Other woven fabrics, containing 85 percent or more by weight of filaments of nylon or other polyamides:				
+5407.41.00	 	Unbleached or bleached		13.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Suitable for making typewriter and machine ribbon, containing yarns the average decitex of which exceeds 28 but not 83, the total thread count (treating multiple (folded) or cabled yarns as single threads), of which per centimeter is not less than 59 warp and 39 filling and not more than 83 warp and 55 filling and in which the thread count of the warp does not exceed 60 percent of the total thread count of the warp and filling:				
+5407.41.00.10	10  	With both selvages woven (621)	
+m²
+kg
+5407.41.00.20	20  	Other (621)	
+m²
+kg
+ 	Other:				
+5407.41.00.30	30  	Weighing not more than 170 g/m² (620)	
+m²
+kg
+5407.41.00.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.42.00	 	Dyed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.42.00.30	30  	Weighing not more than 170 g/m² (620)	
+m²
+kg
+5407.42.00.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.43	 	Of yarns of different colors:				
+5407.43.10	00  	The thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling (620)	
+m²
+kg
+12.2¢/kg + 11.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg + 81%
+5407.43.20	 	Other		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.43.20.30	30  	Weighing not more than 170 g/m² (620)	
+m²
+kg
+5407.43.20.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.44.00	 	Printed		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.44.00.30	30  	Weighing not more than 170 g/m² (620)	
+m²
+kg
+5407.44.00.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+ 	Other woven fabrics, containing 85 percent or more by weight of textured polyester filaments:				
+5407.51.00	 	Unbleached or bleached		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Weighing not more than 170 g/m²:				
+5407.51.00.20	20  	Flat fabrics (619)	
+m²
+kg
+5407.51.00.40	40  	Other (619)	
+m²
+kg
+5407.51.00.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.52	 	Dyed:				
+5407.52.05	00  	Measuring less than 77 cm in width or less than 77 cm between selvages, the thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling (619)	
+m²
+kg
+18.9¢/kg + 17.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg + 81%
+5407.52.20	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Weighing not more than 170 g/m²:				
+5407.52.20.20	20  	Flat fabrics (619)	
+m²
+kg
+5407.52.20.40	40  	Other (619)	
+m²
+kg
+5407.52.20.60	60  	Weighing more than 170 g/m² (620) 1/	
+m²
+kg
+5407.53	 	Of yarns of different colors:				
+5407.53.10	00  	The thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling (619)	
+m²
+kg
+18.8¢/kg + 17.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg + 81%
+5407.53.20	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Weighing not more than 170 g/m²:				
+5407.53.20.20	20  	Flat fabrics (619)	
+m²
+kg
+5407.53.20.40	40  	Other (619)	
+m²
+kg
+5407.53.20.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.54.00	 	Printed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Weighing not more than 170 g/m²:				
+5407.54.00.20	20  	Flat fabrics (619)	
+m²
+kg
+5407.54.00.40	40  	Other (619)	
+m²
+kg
+5407.54.00.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+ 	Other woven fabrics, containing 85 percent or more by weight of polyester filaments:				
+5407.61	 	Containing 85 percent or more by weight of non textured polyester filaments:				
+ 	Dyed, measuring less than 77 cm in width or less than 77 cm between selvages, the thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling:				
+5407.61.11	00  	Wholly of polyester, of single yarns measuring not less than 75 decitex but not more than 80 decitex, having 24 filaments per yarn and with a twist of 900 or more turns per meter (619)	
+m²
+kg
+19.4¢/kg + 18% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg + 81%
+5407.61.19	00  	Other (619)	
+m²
+kg
+19.4¢/kg + 18% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg + 81%
+ 	Of yarns of different colors, the thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling:				
+5407.61.21	00  	Wholly of polyester, of single yarns meas- uring not less than 75 decitex but not more than 80 decitex, having 24 filaments per yarn and with a twist of 900 or more turns per meter (619)	
+m²
+kg
+12.2¢/kg + 11.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg + 81%
+5407.61.29	00  	Other (619)	
+m²
+kg
+12.2¢/kg + 11.3% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg + 81%
+ 	Other:				
+5407.61.91	00  	Wholly of polyester, of single yarns meas- uring not less than 75 decitex but not more than 80 decitex, having 24 filaments per yarn and with a twist of 900 or more turns per meter (619)	
+m²
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.61.99	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Unbleached or bleached:				
+ 	Weighing not more than 170 g/m²:				
+5407.61.99.05	05  	Flat fabrics (619)	
+m²
+kg
+5407.61.99.10	10  	Other (619)	
+m²
+kg
+5407.61.99.15	15  	Weighing more than 170 g/m² (620)	
+m²
+kg
+ 	Dyed:				
+ 	Weighing not more than 170 g/m²:				
+5407.61.99.25	25  	Flat fabrics (619)	
+m²
+kg
+5407.61.99.30	30  	Other (619) 1/	
+m2
+kg
+5407.61.99.35	35  	Weighing more than 170 g/m² (620) 1/	
+m²
+kg
+ 	Of yarns of different colors:				
+ 	Weighing not more than 170 g/m²:				
+5407.61.99.45	45  	Flat fabrics (619)	
+m²
+kg
+5407.61.99.50	50  	Other (619)	
+m²
+kg
+5407.61.99.55	55  	Weighing more than 170 g/m² (620)	
+m²
+kg
+ 	Printed:				
+ 	Weighing not more than 170 g/m²:				
+5407.61.99.65	65  	Flat fabrics (619)	
+m²
+kg
+5407.61.99.70	70  	Other (619)	
+m2
+kg
+5407.61.99.75	75  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.69	 	Other:				
+5407.69.10	 	Unbleached or bleached		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.69.10.10	10  	Weighing not more than 170 g/m² (619)	
+m²
+kg
+5407.69.10.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.69.20	 	Dyed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.69.20.10	10  	Weighing not more than 170 g/m² (619)	
+m²
+kg
+5407.69.20.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+ 	Of yarns of different colors:				
+5407.69.30	00  	The thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling (620)	
+m²
+kg
+Free 1/		24.3¢/kg + 81%
+5407.69.40	 	Other		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.69.40.10	10  	Weighing not more than 170 g/m² (619)	
+m²
+kg
+5407.69.40.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.69.90	 	Printed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.69.90.10	10  	Weighing not more than 170 g/m² (619)	
+m²
+kg
+5407.69.90.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+ 	Other woven fabrics, containing 85 percent or more by weight of synthetic filaments:				
+5407.71.00	 	Unbleached or bleached		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.71.00.15	15  	Weighing not more than 170 g/m² (620)	
+m²
+kg
+5407.71.00.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.72.00	 	Dyed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.72.00.15	15  	Weighing not more than 170 g/m² (620) 1/	
+m²
+kg
+5407.72.00.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.73	 	Of yarns of different colors:				
+5407.73.10	00  	The thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling (620)	
+m²
+kg
+Free 1/		24.3¢/kg + 81%
+5407.73.20	 	Other		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.73.20.15	15  	Weighing not more than 170 g/m² (620)	
+m²
+kg
+5407.73.20.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+5407.74.00	 	Printed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.74.00.15	15  	Weighing not more than 170 g/m² (620)	
+m²
+kg
+5407.74.00.60	60  	Weighing more than 170 g/m² (620)	
+m²
+kg
+ 	Other woven fabrics, containing less than 85 percent by weight of synthetic filaments, mixed mainly or solely with cotton:				
+5407.81.00	 	Unbleached or bleached		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.81.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+5407.81.00.20	20  	Sheeting (627)	
+m²
+kg
+5407.81.00.30	30  	Printcloth (626)	
+m²
+kg
+5407.81.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+5407.81.00.90	90  	Other (629)	
+m²
+kg
+5407.82.00	 	Dyed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.82.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+5407.82.00.20	20  	Sheeting (627)	
+m²
+kg
+5407.82.00.30	30  	Printcloth (626)	
+m²
+kg
+5407.82.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+5407.82.00.90	90  	Other (629)	
+m²
+kg
+5407.83.00	 	Of yarns of different colors		8.5% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.83.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+5407.83.00.20	20  	Sheeting (627)	
+m²
+kg
+5407.83.00.30	30  	Printcloth (626)	
+m²
+kg
+5407.83.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+5407.83.00.90	90  	Other (629)	
+m²
+kg
+5407.84.00	 	Printed		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.84.00.10	10  	Poplin or broadcloth (625)	
+m²
+kg
+5407.84.00.20	20  	Sheeting (627)	
+m²
+kg
+5407.84.00.30	30  	Printcloth (626)	
+m²
+kg
+5407.84.00.40	40  	Satin weave or twill weave (628)	
+m²
+kg
+5407.84.00.90	90  	Other (629)	
+m²
+kg
+ 	Other woven fabrics:				
+5407.91	 	Unbleached or bleached:				
+ 	Mixed mainly or solely with wool or fine animal hair:				
+5407.91.05	 	Containing 36 percent or more by weight of wool or fine animal hair		25% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5407.91.05.10	10  	Not combed (410)	
+m²
+kg
+5407.91.05.20	20  	Combed (410)	
+m²
+kg
+5407.91.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+5407.91.20	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.91.20.10	10  	Mixed mainly or solely with artificial filaments (620)	
+m²
+kg
+ 	Other:				
+5407.91.20.20	20  	Poplin or broadcloth (625)	
+m²
+kg
+5407.91.20.30	30  	Sheeting (627)	
+m²
+kg
+5407.91.20.40	40  	Printcloth (626)	
+m²
+kg
+5407.91.20.50	50  	Satin weave or twill weave (628)	
+m²
+kg
+5407.91.20.90	90  	Other (629)	
+m²
+kg
+5407.92	 	Dyed:				
+ 	Mixed mainly or solely with wool or fine animal hair:				
+5407.92.05	 	Containing 36 percent or more by weight of wool or fine animal hair		25% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5407.92.05.10	10  	Not combed (410)	
+m²
+kg
+5407.92.05.20	20  	Combed (410)	
+m²
+kg
+5407.92.10	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+5407.92.10.10	10  	Not combed (624)	
+m²
+kg
+5407.92.10.20	20  	Combed (624)	
+m²
+kg
+5407.92.20	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.92.20.10	10  	Mixed mainly or solely with artificial filaments or metalized yarn (620)	
+m²
+kg
+ 	Other:				
+5407.92.20.20	20  	Poplin or broadcloth (625)	
+m²
+kg
+5407.92.20.30	30  	Sheeting (627)	
+m²
+kg
+5407.92.20.40	40  	Printcloth (626)	
+m²
+kg
+5407.92.20.50	50  	Satin weave or twill weave (628)	
+m²
+kg
+5407.92.20.90	90  	Other (629)	
+m²
+kg
+5407.93	 	Of yarns of different colors:				
+ 	Mixed mainly or solely with wool or fine animal hair:				
+5407.93.05	 	Containing 36 percent or more by weight of wool or fine animal hair		25% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5407.93.05.10	10  	Not combed (410)	
+m²
+kg
+5407.93.05.20	20  	Combed (410)	
+m²
+kg
+5407.93.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+ 	Other:				
+5407.93.15	00  	Containing 85 percent or more by weight of man-made filaments, the thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling (620)	
+m²
+kg
+Free 1/		24.3¢/kg + 81%
+5407.93.20	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.93.20.10	10  	Mixed mainly or solely with artificial filaments or metalized yarn (620)	
+m²
+kg
+ 	Other:				
+5407.93.20.20	20  	Poplin or broadcloth (625)	
+m²
+kg
+5407.93.20.30	30  	Sheeting (627)	
+m²
+kg
+5407.93.20.40	40  	Printcloth (626)	
+m²
+kg
+5407.93.20.50	50  	Satin weave or twill weave (628)	
+m²
+kg
+5407.93.20.90	90  	Other (629)	
+m²
+kg
+5407.94	 	Printed:				
+ 	Mixed mainly or solely with wool or fine animal hair:				
+5407.94.05	 	Containing 36 percent or more by weight of wool or fine animal hair		Free 1/		48.5¢/kg + 68.5%
+5407.94.05.10	10  	Not combed (410)	
+m²
+kg
+5407.94.05.20	20  	Combed (410)	
+m²
+kg
+5407.94.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+5407.94.20	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5407.94.20.10	10  	Mixed mainly or solely with artificial filaments or metalized yarns (620)	
+m²
+kg
+ 	Other:				
+5407.94.20.20	20  	Poplin or broadcloth (625)	
+m²
+kg
+5407.94.20.30	30  	Sheeting (627)	
+m²
+kg
+5407.94.20.40	40  	Printcloth (626)	
+m²
+kg
+5407.94.20.50	50  	Satin weave or twill weave (628)	
+m²
+kg
+5407.94.20.90	90  	Other (629)	
+m²
+kg
+5408	 	Woven fabrics of artificial filament yarn, including woven fabrics obtained from materials of heading 5405:				
+5408.10.00	00  	Woven fabrics obtained from high tenacity yarn of viscose rayon (618)	
+m²
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Other woven fabrics, containing 85 percent or more by weight of artificial filament or strip or the like:				
+5408.21.00	 	Unbleached or bleached		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5408.21.00.30	30  	Weighing not more than 170 g/m² (618)	
+m²
+kg
+5408.21.00.60	60  	Weighing more than 170 g/m² (618)	
+m²
+kg
+5408.22	 	Dyed:				
+5408.22.10	00  	Of cuprammonium rayon (618)	
+m²
+kg
+14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5408.22.90	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5408.22.90.30	30  	Weighing not more than 170 g/m² (618)	
+m²
+kg
+5408.22.90.60	60  	Weighing more than 170 g/m² (618)	
+m²
+kg
+5408.23	 	Of yarns of different colors:				
+ 	The thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling:				
+5408.23.11	00  	Of cuprammonium rayon (618)	
+m²
+kg
+Free 1/		24.3¢/kg + 81%
+5408.23.19	00  	Other (618)	
+m²
+kg
+Free 1/		24.3¢/kg + 81%
+ 	Other:				
+5408.23.21	00  	Of cuprammonium rayon (618)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5408.23.29	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5408.23.29.30	30  	Weighing not more than 170 g/m² (618)	
+m²
+kg
+5408.23.29.60	60  	Weighing more than 170 g/m² (618)	
+m²
+kg
+5408.24	 	Printed:				
+5408.24.10	00  	Of cuprammonium rayon (618)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5408.24.90	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+ 	Weighing not more than 170 g/m²:				
+5408.24.90.10	10  	Discharge printed (618)	
+m²
+kg
+5408.24.90.20	20  	Other (618)	
+m²
+kg
+ 	Weighing more than 170 g/m²:				
+5408.24.90.40	40  	Discharge printed (618)	
+m²
+kg
+5408.24.90.50	50  	Other (618)	
+m²
+kg
+ 	Other woven fabrics:				
+5408.31	 	Unbleached or bleached:				
+ 	Mixed mainly or solely with wool or fine animal hair:				
+5408.31.05	 	Containing 36 percent or more by weight of wool or fine animal hair		25% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5408.31.05.10	10  	Not combed (410)	
+m²
+kg
+5408.31.05.20	20  	Combed (410)	
+m²
+kg
+5408.31.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+5408.31.20	 	Other		14.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5408.31.20.10	10  	Mixed mainly or solely with synthetic filaments (618)	
+m²
+kg
+ 	Other:				
+5408.31.20.20	20  	Poplin or broadcloth (625)	
+m²
+kg
+5408.31.20.30	30  	Sheeting (627)	
+m²
+kg
+5408.31.20.40	40  	Printcloth (626)	
+m²
+kg
+5408.31.20.50	50  	Satin weave or twill weave (628)	
+m²
+kg
+5408.31.20.90	90  	Other (629)	
+m²
+kg
+5408.32	 	Dyed:				
+ 	Mixed mainly or solely with wool or fine animal hair:				
+5408.32.05	 	Containing 36 percent or more by weight of wool or fine animal hair		19.7% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5408.32.05.10	10  	Not combed (410)	
+m²
+kg
+5408.32.05.20	20  	Combed (410)	
+m²
+kg
+5408.32.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+ 	Other:				
+5408.32.30	00  	Containing 30 percent or more by weight of silk or silk waste, valued over $33 per kg (618)	
+m²
+kg
+6.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+5408.32.90	 	Other		15% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5408.32.90.10	10  	Mixed mainly or solely with synthetic filaments (618)	
+m²
+kg
+ 	Other:				
+5408.32.90.20	20  	Poplin or broadcloth (625)	
+m²
+kg
+5408.32.90.30	30  	Sheeting (627)	
+m²
+kg
+5408.32.90.40	40  	Printcloth (626)	
+m²
+kg
+5408.32.90.50	50  	Satin weave or twill weave (628)	
+m²
+kg
+5408.32.90.90	90  	Other (629)	
+m²
+kg
+5408.33	 	Of yarns of different colors:				
+ 	Mixed mainly or solely with wool or fine animal hair:				
+5408.33.05	 	Containing 36 percent or more by weight of wool or fine animal hair		19.6% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	48.5¢/kg + 68.5%
+5408.33.05.10	10  	Not combed (410)	
+m²
+kg
+5408.33.05.20	20  	Combed (410)	
+m²
+kg
+5408.33.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+ 	Other:				
+5408.33.15	00  	Containing 85 percent or more by weight of man-made filaments, the thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling (618)	
+m²
+kg
+12.3¢/kg + 11.4% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	24.3¢/kg + 81%
+5408.33.30	00  	Containing 30 percent or more by weight of silk or silk waste, valued over $33 per kg (618)	
+m²
+kg
+6.9% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80%
+5408.33.90	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5408.33.90.10	10  	Mixed mainly or solely with synthetic filaments or metalized yarn (618)	
+m²
+kg
+ 	Other:				
+5408.33.90.20	20  	Poplin or broadcloth (625)	
+m²
+kg
+5408.33.90.30	30  	Sheeting(627)	
+m²
+kg
+5408.33.90.40	40  	Printcloth (626)	
+m²
+kg
+5408.33.90.50	50  	Satin weave or twill weave (628)	
+m²
+kg
+5408.33.90.90	90  	Other (629)	
+m²
+kg
+5408.34	 	Printed:				
+ 	Mixed mainly or solely with wool or fine animal hair:				
+5408.34.05	 	Containing 36 percent or more by weight of wool or fine animal hair		Free 1/		48.5¢/kg + 68.5%
+5408.34.05.10	10  	Not combed (410)	
+m²
+kg
+5408.34.05.20	20  	Combed (410)	
+m²
+kg
+5408.34.10	00  	Other (624)	
+m²
+kg
+12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	80.5%
+ 	Other:				
+5408.34.30	00  	Containing 30 percent or more by weight of silk or silk waste, valued over $33 per kg (618)	
+m²
+kg
+Free 1/		80%
+5408.34.90	 	Other		12% 1/	Free (AU, BH, CL, CO, IL, JO, KR, MA, OM, P, PA, PE, S, SG)	81%
+5408.34.90.10	10  	Mixed mainly or solely with synthetic filaments (618)	
+m²
+kg
+ 	Other:				
+5408.34.90.20	20  	Poplin or broadcloth (625)	
+m²
+kg
+5408.34.90.30	30  	Sheeting(627)	
+m²
+kg
+5408.34.90.40	40  	Printcloth (626)	
+m²
+kg
+5408.34.90.50	50  	Satin weave or twill weave (628)	
+m²
+kg
+ 	Other:				
+5408.34.90.85	85  	Discharge printed (629)	
+m²
+kg
+5408.34.90.95	95  	Other (629)	
+m²
+kg
