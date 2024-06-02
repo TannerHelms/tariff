@@ -74,7 +74,7 @@ async def main():
     print('work is starting...')
     # Feel free to remove the connection parameter, if your redis runs on localhost
     worker = Worker("product", process, {"connection": {
-        "host": 'redis',
+        "host": 'localhost',
         "port": 6379,
     }})
 

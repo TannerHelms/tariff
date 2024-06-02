@@ -12,8 +12,10 @@ RUN pip install prisma
 
 RUN pip install requests
 
+RUN pip install openai
+
 COPY ./schema.prisma ./schema.prisma
 RUN prisma generate
-COPY ./product.py ./product.py
+COPY ./ ./
 
-CMD ["python", "product.py"]
+CMD ["python", "worker.py"]

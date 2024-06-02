@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
       "start": "cd client && yarn && yarn dev",
-      "worker": "cd worker && py product.py",
+      "worker": "docker compose up -d --build worker && docker compose logs -f -t worker",
       "generate": "cd client && prisma generate",
       "migrate": "cd client && prisma migrate dev",
       "migrate-deploy": "cd client && prisma migrate deploy",
