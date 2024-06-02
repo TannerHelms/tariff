@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-      "start": "cd client && yarn && yarn dev",
+      "start": "docker compose up -d --build && cd client && yarn && yarn dev",
       "worker": "docker compose up -d --build worker && docker compose logs -f -t worker",
       "generate": "cd client && prisma generate",
       "migrate": "cd client && prisma migrate dev",
