@@ -15,8 +15,11 @@ import { Product } from "@/utils/types";
 import { ReloadIcon } from "@radix-ui/react-icons";
 import { FieldValues, useForm } from "react-hook-form";
 import { formValues } from "./product-form-values";
+import { Separator } from "../ui/separator";
+import { redirect, useRouter } from "next/navigation";
 
 export default function ProductForm() {
+  const router = useRouter();
   const form = useForm({
     defaultValues: {
       product: "",
@@ -36,10 +39,13 @@ export default function ProductForm() {
       type: data.type,
     };
     createProduct(product);
+    router.replace("/app");
   };
 
   return (
     <Card className="rounded-xl p-4 w-[400px] bg-white">
+      <h3 className="my-4">Create a Product</h3>
+      <Separator className=" my-4" />
       <Form {...form}>
         <form
           onSubmit={form.handleSubmit(handleFormSubmit)}

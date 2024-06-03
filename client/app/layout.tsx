@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import { ClerkProvider, SignIn, SignOutButton, SignUp, SignedIn, SignedOut } from "@clerk/nextjs";
+import Link from "next/link";
+import { Navbar } from "@/components/navbar/navbar";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,10 +18,17 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={inter.className} suppressHydrationWarning>
-        {children}
-      </body>
-    </html>
+    <ClerkProvider>
+      <html lang="en">
+        <body className={inter.className} suppressHydrationWarning>
+          <div className="bg-gray-200 w-screen h-screen">
+            <Navbar />
+            {children}
+          </div>
+        </body>
+      </html>
+    </ClerkProvider>
   );
 }
+
+
