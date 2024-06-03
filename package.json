@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "npm-run-all compose migrate --parallel worker dev",
+    "start": "yarn install && npm-run-all compose migrate --parallel worker dev",
     "dev": "cd client && yarn && yarn dev",
     "worker": "docker compose logs -f -t worker",
-    "compose": "yarn && docker compose up -d --build",
+    "compose": "docker compose up -d --build",
     "generate": "cd client && prisma generate",
     "migrate": "cd client && prisma migrate dev",
     "migrate-deploy": "cd client && prisma migrate deploy",
