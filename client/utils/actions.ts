@@ -4,7 +4,7 @@ import { Job, Status } from "@prisma/client"
 import db from "./db"
 import productQueue from "./redis"
 import { Product } from "./types"
-import { currentUser } from "@clerk/nextjs/server"
+// import { currentUser } from "@clerk/nextjs/server"
 
 export const createProduct = async (product: Product) => {
 
@@ -58,7 +58,7 @@ export const deleteJob = async (jobId: string) => {
 }
 
 export const fetchProfileImage = async () => {
-    const user = await currentUser();
-    if (!user) return null;
-    return user.imageUrl;;
+    // const user = await currentUser();
+    // if (!user) return null;
+    // return user.imageUrl;;
 }

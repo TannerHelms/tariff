@@ -18,7 +18,6 @@
     "push": "prisma db push"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.1.3",
     "@hookform/resolvers": "^3.4.2",
     "@prisma/client": "^5.14.0",
     "@radix-ui/react-dialog": "^1.0.5",

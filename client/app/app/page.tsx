@@ -4,7 +4,7 @@ import ProductList from "@/components/product/product-list";
 
 export default function Home() {
   return (
-    <main className="flex justify-center mt-40">
+    <main className="flex justify-center pt-40">
       <ProductList />
     </main>
   );

@@ -1,5 +1,5 @@
 
-import { SignOutButton } from "@clerk/nextjs";
+// import { SignOutButton } from "@clerk/nextjs";
 import { Button } from "../ui/button";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuTrigger } from "../ui/dropdown-menu";
 import { AlignLeftIcon } from "../ui/icons";
@@ -25,9 +25,9 @@ export default function LinksDropdown() {
                         ={link.href} className="block px-4 py-2 text-gray-800 hover:bg-gray-100">{link.name}</a>
                 ))}
 
-                <SignOutButton>
+                {/* <SignOutButton>
                     <button className="w-full block px-4 py-2 text-gray-800 hover:bg-gray-100 text-left">Sign out</button>
-                </SignOutButton>
+                </SignOutButton> */}
             </DropdownMenuContent>
         </DropdownMenu>
     )
