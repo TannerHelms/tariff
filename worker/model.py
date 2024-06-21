@@ -1,8 +1,11 @@
 import os
 import json
-from openai import OpenAI
+import time
+import re
+import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
+from openai import OpenAI
 
 # Load environment variables from .env file located one directory above
 load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
@@ -14,6 +17,80 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
+# Function to format the document names
+def format_document_name(doc_name):
+    if "chapter_notes_" in doc_name:
+        number = re.search(r'\d+', doc_name).group()
+        return f"Chapter Notes {number}"
+    elif "section_" in doc_name and "_notes" in doc_name:
+        numeral = re.search(r'(?<=section_)\w+', doc_name).group().upper()
+        return f"Section {numeral} Notes"
+    elif "section_" in doc_name and "_explanatory_notes" in doc_name:
+        numeral = re.search(r'(?<=section_)\w+', doc_name).group().upper()
+        return f"Section {numeral} Explanatory Notes"
+    elif "chapter_" in doc_name and "_explanatory_notes" in doc_name:
+        number = re.search(r'\d+', doc_name).group()
+        return f"Chapter {number} Explanatory Notes"
+    else:
+        return doc_name
+
+# Function to run an assistant and get the JSON response
+def run_assistant(assistant_id, product_info, output_list, index):
+    try:
+        # Retrieve the Assistant
+        my_assistant = client.beta.assistants.retrieve(assistant_id)
+        
+        # Create a New Thread
+        thread = client.beta.threads.create()
+        
+        # Add User Message to Thread
+        message = client.beta.threads.messages.create(
+            thread_id=thread.id,
+            role="user", 
+            content=product_info
+        )
+        
+        # Create a Run
+        run = client.beta.threads.runs.create(
+            thread_id=thread.id,
+            assistant_id=my_assistant.id
+        )
+        
+        # Poll the run status until it is completed
+        while run.status != "completed":
+            time.sleep(1)  # Add a small delay to avoid hitting the API rate limit
+            run = client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
+        
+        # Retrieve the assistant's response messages
+        response_messages = client.beta.threads.messages.list(thread_id=thread.id)
+        
+        # Extract and store the JSON response from the assistant
+        for message in response_messages.data:
+            if message.role == "assistant":
+                # Iterate over the message content to find the JSON block
+                for content_block in message.content:
+                    if content_block.type == "text" and "```json" in content_block.text.value:
+                        json_start = content_block.text.value.find("```json")
+                        json_end = content_block.text.value.find("```", json_start + 6)
+                        if json_start != -1 and json_end != -1:
+                            json_content = content_block.text.value[json_start + 6:json_end].strip()
+                            json_content = json_content.replace("n\n", "").strip()  # Clean the JSON content
+                            if json_content:
+                                try:
+                                    parsed_content = json.loads(json_content)
+                                    # Format the document names
+                                    for item in parsed_content:
+                                        item["document"] = format_document_name(item["document"])
+                                    output_list[index] = parsed_content
+                                except json.JSONDecodeError as e:
+                                    output_list[index] = {"error": str(e), "json_content": json_content}
+                            else:
+                                output_list[index] = {"error": "Empty JSON content"}
+                            return
+        output_list[index] = {"error": "No valid JSON response found"}
+    except Exception as e:
+        output_list[index] = {"error": str(e)}
+
 def safe_api_call(call, *args, **kwargs):
     try:
         response = call(*args, **kwargs)
@@ -23,7 +100,7 @@ def safe_api_call(call, *args, **kwargs):
         print(f"An error occurred: {e}")
         return None
 
-def gpt_contextual_match(product_info, section_info, client, model="gpt-4o"):
+def gpt_contextual_match(product_info, section_info, relevant_notes, client, model="gpt-4o"):
     messages = [
         {
             "role": "system",
@@ -32,13 +109,15 @@ def gpt_contextual_match(product_info, section_info, client, model="gpt-4o"):
         {
             "role": "user",
             "content": f"""
-            Given the product information and section description below, respond with a JSON object containing the section number and a "fit" value of 1 if the product (based on its description, material, end use, and type) could possibly fall into this section, otherwise respond with a "fit" value of 0.
+            Given the product information and section description below, respond with a JSON object containing the section number and a "fit" value of 1 if the product (based on its description, relevant notes, material, end use, and type) could possibly fall into this section, otherwise respond with a "fit" value of 0.
 
             Product: {product_info['product']}
             Description: {product_info['product_description']}
             Material: {product_info['product_material']}
             End Use: {product_info['end_use']}
             Type: {product_info['type']}
+
+            Relevant Notes: {json.dumps(relevant_notes)}
 
             Section: {section_info['title']}
             Section Number: {section_info['section']}
@@ -81,7 +160,7 @@ def gpt_contextual_match(product_info, section_info, client, model="gpt-4o"):
         print(f"API error: {e}")
         return section_info['section'], 0
 
-def gpt_chapter_match(product_info, chapter_info, client, model="gpt-4o"):
+def gpt_chapter_match(product_info, chapter_info, relevant_notes, client, model="gpt-4o"):
     messages = [
         {
             "role": "system",
@@ -90,13 +169,15 @@ def gpt_chapter_match(product_info, chapter_info, client, model="gpt-4o"):
         {
             "role": "user",
             "content": f"""
-            Given the product information and chapter description below, respond with a JSON object containing the chapter number and a "fit" value of 1 if the product (based on its description, material, end use, and type) could possibly fall into this chapter, otherwise respond with a "fit" value of 0. Be generous with material.
+            Given the product information and chapter description below, respond with a JSON object containing the chapter number and a "fit" value of 1 if the product (based on its description, relevant notes, material, end use, and type) could possibly fall into this chapter, otherwise respond with a "fit" value of 0.
 
             Product: {product_info['product']}
             Description: {product_info['product_description']}
             Material: {product_info['product_material']}
             End Use: {product_info['end_use']}
             Type: {product_info['type']}
+
+            Relevant Notes: {json.dumps(relevant_notes)}
 
             Chapter: {chapter_info['title']}
             Chapter Number: {chapter_info['chapter']}
@@ -138,7 +219,7 @@ def gpt_chapter_match(product_info, chapter_info, client, model="gpt-4o"):
         print(f"API error: {e}")
         return chapter_info['chapter'], 0
 
-def gpt_hts_code(product_info, htsus_text, client, model="gpt-4o"):
+def gpt_hts_code(product_info, htsus_text, relevant_notes, client, model="gpt-4o"):
     messages = [
         {
             "role": "system",
@@ -154,6 +235,8 @@ def gpt_hts_code(product_info, htsus_text, client, model="gpt-4o"):
             Material: {product_info['product_material']}
             End Use: {product_info['end_use']}
             Type: {product_info['type']}
+
+            Relevant Notes: {json.dumps(relevant_notes)}
 
             HTSUS Text: {htsus_text}
             """
@@ -195,6 +278,34 @@ def gpt_hts_code(product_info, htsus_text, client, model="gpt-4o"):
         return None
 
 def process_product_info(product_info, section_data):
+    # List to hold the responses from new assistants
+    responses = [None, None]
+
+    # Define assistant IDs
+    en_assistant = "asst_54JwBC4fyfoVrAVdMJ0JZY0N"
+    notes_assistant = "asst_ofjnsJb6AygWWv5PXHBRgNJL"
+
+    # Create threads for both assistants
+    thread_1 = threading.Thread(target=run_assistant, args=(en_assistant, product_info, responses, 0))
+    thread_2 = threading.Thread(target=run_assistant, args=(notes_assistant, product_info, responses, 1))
+
+    # Start the threads
+    thread_1.start()
+    thread_2.start()
+
+    # Wait for both threads to complete
+    thread_1.join()
+    thread_2.join()
+
+    # Combine the outputs into a single JSON object
+    combined_response = {
+        "Explanatory Notes": responses[0],
+        "Chapter and Section Notes": responses[1]
+    }
+
+    # Print the combined JSON object
+    print(json.dumps(combined_response, indent=4))
+
     matching_sections = []
     if section_data:
         with ThreadPoolExecutor(max_workers=22) as executor:
@@ -205,7 +316,7 @@ def process_product_info(product_info, section_data):
                     'section': section['section'],
                     'section_notes': section.get('section_notes', '')
                 }
-                futures.append(executor.submit(gpt_contextual_match, product_info, section_info, client))
+                futures.append(executor.submit(gpt_contextual_match, product_info, section_info, combined_response, client))
 
             for future in as_completed(futures):
                 try:
@@ -226,7 +337,7 @@ def process_product_info(product_info, section_data):
                             'chapter': chapter['chapter'],
                             'title': chapter['title']
                         }
-                        futures.append(executor.submit(gpt_chapter_match, product_info, chapter_info, client))
+                        futures.append(executor.submit(gpt_chapter_match, product_info, chapter_info, combined_response, client))
 
             for future in as_completed(futures):
                 try:
@@ -248,7 +359,7 @@ def process_product_info(product_info, section_data):
                 try:
                     with open(os.path.join('chapter_full_text', f'{chapter_number}.txt'), 'r', encoding='utf-8') as f:
                         htsus_text = f.read()
-                        futures.append(executor.submit(gpt_hts_code, product_info, htsus_text, client))
+                        futures.append(executor.submit(gpt_hts_code, product_info, htsus_text, combined_response, client))
                 except FileNotFoundError as e:
                     print(f"File not found: {e}")
 
@@ -260,10 +371,10 @@ def process_product_info(product_info, section_data):
                 except Exception as e:
                     print(f"Error in future result: {e}")
 
-    return matching_sections, true_chapters, true_hts_matches
+    return matching_sections, true_chapters, true_hts_matches, combined_response
 
 def main(product_info, section_data):
-    matching_sections, true_chapters, true_hts_matches = process_product_info(product_info, section_data)
+    matching_sections, true_chapters, true_hts_matches, combined_response = process_product_info(product_info, section_data)
 
     with open('true_sections.json', 'w', encoding='utf-8') as f:
         json.dump(matching_sections, f, indent=4, ensure_ascii=False)
@@ -274,9 +385,13 @@ def main(product_info, section_data):
     with open('true_hts_matches.json', 'w', encoding='utf-8') as f:
         json.dump(true_hts_matches, f, indent=4, ensure_ascii=False)
 
+    with open('combined_response.json', 'w', encoding='utf-8') as f:
+        json.dump(combined_response, f, indent=4, ensure_ascii=False)
+
     print(f"Matching sections saved to true_sections.json")
     print(f"True chapters saved to true_chapters.json")
     print(f"True HTS matches saved to true_hts_matches.json")
+    print(f"Combined response saved to combined_response.json")
 
 if __name__ == "__main__":
     with open('product.json', 'r', encoding='utf-8') as f:
