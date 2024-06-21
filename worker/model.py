@@ -7,7 +7,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 from openai import OpenAI
 
-# Load environment variables from .env file located one directory above
 load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
 
 os.environ['PYTHONIOENCODING'] = 'utf-8'
@@ -17,7 +16,7 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
-# Function to format the document names
+# Function to format doc names
 def format_document_name(doc_name):
     if "chapter_notes_" in doc_name:
         number = re.search(r'\d+', doc_name).group()
@@ -34,16 +33,15 @@ def format_document_name(doc_name):
     else:
         return doc_name
 
-# Function to run an assistant and get the JSON response
+# Function torun an assistant and get the JSON response
 def run_assistant(assistant_id, product_info, output_list, index):
     try:
-        # Retrieve the Assistant
+        # Retrieve assistant
         my_assistant = client.beta.assistants.retrieve(assistant_id)
         
-        # Create a New Thread
+        # Create a new thread
         thread = client.beta.threads.create()
         
-        # Add User Message to Thread
         message = client.beta.threads.messages.create(
             thread_id=thread.id,
             role="user", 
@@ -64,10 +62,10 @@ def run_assistant(assistant_id, product_info, output_list, index):
         # Retrieve the assistant's response messages
         response_messages = client.beta.threads.messages.list(thread_id=thread.id)
         
-        # Extract and store the JSON response from the assistant
+        # store the JSON response from the assistant
         for message in response_messages.data:
             if message.role == "assistant":
-                # Iterate over the message content to find the JSON block
+                #Go over the message content to find the JSON block
                 for content_block in message.content:
                     if content_block.type == "text" and "```json" in content_block.text.value:
                         json_start = content_block.text.value.find("```json")
@@ -281,7 +279,7 @@ def process_product_info(product_info, section_data):
     # List to hold the responses from new assistants
     responses = [None, None]
 
-    # Define assistant IDs
+    #assistant IDs
     en_assistant = "asst_54JwBC4fyfoVrAVdMJ0JZY0N"
     notes_assistant = "asst_ofjnsJb6AygWWv5PXHBRgNJL"
 
@@ -289,7 +287,6 @@ def process_product_info(product_info, section_data):
     thread_1 = threading.Thread(target=run_assistant, args=(en_assistant, product_info, responses, 0))
     thread_2 = threading.Thread(target=run_assistant, args=(notes_assistant, product_info, responses, 1))
 
-    # Start the threads
     thread_1.start()
     thread_2.start()
 
@@ -303,7 +300,7 @@ def process_product_info(product_info, section_data):
         "Chapter and Section Notes": responses[1]
     }
 
-    # Print the combined JSON object
+    # Print the combined response
     print(json.dumps(combined_response, indent=4))
 
     matching_sections = []
