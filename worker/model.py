@@ -81,10 +81,10 @@ def run_assistant(assistant_id, product_info, output_list, index):
                 for content_block in message.content:
                     if content_block.type == "text" and "```json" in content_block.text:
                         json_start = content_block.text.find("```json")
-                        json_end = content_block.text.find("```", json_start + 6)
+                        json_end = content_block.text.rfind("```")
                         if json_start != -1 and json_end != -1:
                             json_content = content_block.text[json_start + 6:json_end].strip()
-                            json_content = json_content.replace("n\n", "").strip()  # Clean the JSON content
+                            json_content = json_content.replace("\n", "").strip()  # Clean the JSON content
                             if json_content:
                                 try:
                                     parsed_content = json.loads(json_content)
@@ -92,11 +92,11 @@ def run_assistant(assistant_id, product_info, output_list, index):
                                     for item in parsed_content:
                                         item["document"] = format_document_name(item["document"])
                                     output_list[index] = parsed_content
+                                    return
                                 except json.JSONDecodeError as e:
                                     output_list[index] = {"error": str(e), "json_content": json_content}
                             else:
                                 output_list[index] = {"error": "Empty JSON content"}
-                            return
         output_list[index] = {"error": "No valid JSON response found"}
     except Exception as e:
         output_list[index] = {"error": str(e)}
