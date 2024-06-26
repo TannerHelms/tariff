@@ -7,6 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 from openai import OpenAI
 
+# Load environment variables from .env file located one directory above
 load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
 
 os.environ['PYTHONIOENCODING'] = 'utf-8'
@@ -16,7 +17,7 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
-# Function to format doc names
+# Function to format document names
 def format_document_name(doc_name):
     if "chapter_notes_" in doc_name:
         number = re.search(r'\d+', doc_name).group()
@@ -33,7 +34,7 @@ def format_document_name(doc_name):
     else:
         return doc_name
 
-# Function torun an assistant and get the JSON response
+# Function to run an assistant and get the JSON response
 def run_assistant(assistant_id, product_info, output_list, index):
     try:
         # Retrieve assistant
@@ -42,10 +43,17 @@ def run_assistant(assistant_id, product_info, output_list, index):
         # Create a new thread
         thread = client.beta.threads.create()
         
+        # Format the message content correctly
+        message_content = json.dumps(product_info)
+        
+        # Create the message
         message = client.beta.threads.messages.create(
             thread_id=thread.id,
             role="user", 
-            content=product_info
+            content=[{
+                "type": "text",
+                "text": message_content
+            }]
         )
         
         # Create a Run
@@ -56,22 +64,26 @@ def run_assistant(assistant_id, product_info, output_list, index):
         
         # Poll the run status until it is completed
         while run.status != "completed":
-            time.sleep(1)  # Add a small delay to avoid hitting the API rate limit
+            time.sleep(0.5)  # Add a small delay to avoid hitting the API rate limit
             run = client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
         
         # Retrieve the assistant's response messages
         response_messages = client.beta.threads.messages.list(thread_id=thread.id)
         
-        # store the JSON response from the assistant
+        # Log the response messages for debugging
+        for message in response_messages.data:
+            print(f"Message role: {message.role}, content: {message.content}")
+        
+        # Store the JSON response from the assistant
         for message in response_messages.data:
             if message.role == "assistant":
-                #Go over the message content to find the JSON block
+                # Go over the message content to find the JSON block
                 for content_block in message.content:
-                    if content_block.type == "text" and "```json" in content_block.text.value:
-                        json_start = content_block.text.value.find("```json")
-                        json_end = content_block.text.value.find("```", json_start + 6)
+                    if content_block.type == "text" and "```json" in content_block.text:
+                        json_start = content_block.text.find("```json")
+                        json_end = content_block.text.find("```", json_start + 6)
                         if json_start != -1 and json_end != -1:
-                            json_content = content_block.text.value[json_start + 6:json_end].strip()
+                            json_content = content_block.text[json_start + 6:json_end].strip()
                             json_content = json_content.replace("n\n", "").strip()  # Clean the JSON content
                             if json_content:
                                 try:
@@ -88,6 +100,8 @@ def run_assistant(assistant_id, product_info, output_list, index):
         output_list[index] = {"error": "No valid JSON response found"}
     except Exception as e:
         output_list[index] = {"error": str(e)}
+
+
 
 def safe_api_call(call, *args, **kwargs):
     try:
@@ -279,7 +293,7 @@ def process_product_info(product_info, section_data):
     # List to hold the responses from new assistants
     responses = [None, None]
 
-    #assistant IDs
+    # Assistant IDs
     en_assistant = "asst_54JwBC4fyfoVrAVdMJ0JZY0N"
     notes_assistant = "asst_ofjnsJb6AygWWv5PXHBRgNJL"
 
