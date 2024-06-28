@@ -378,6 +378,7 @@ def process_product_info(product_info, section_data):
 
     return matching_sections, true_chapters, true_hts_matches, combined_response
 
+
 def main(product_info, section_data):
     matching_sections, true_chapters, true_hts_matches, combined_response = process_product_info(product_info, section_data)
 

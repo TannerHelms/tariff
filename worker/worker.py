@@ -3,7 +3,6 @@ import os
 from bullmq import Worker
 from prisma import Prisma
 import json
-import time
 from model import process_product_info
 from dotenv import load_dotenv
 
@@ -51,7 +50,7 @@ async def process(job, job_token):
         section_data = None
 
     # Process the product information with the model
-    matching_sections, true_chapters, true_hts_matches = process_product_info(product_info, section_data)
+    matching_sections, true_chapters, true_hts_matches, combined_response = process_product_info(product_info, section_data)
 
     # Update the job status with the results
     await db.job.update(
@@ -62,7 +61,8 @@ async def process(job, job_token):
             'result': json.dumps({
                 'matching_sections': matching_sections,
                 'true_chapters': true_chapters,
-                'true_hts_matches': true_hts_matches
+                'true_hts_matches': true_hts_matches,
+                'combined_response': combined_response  # updated to inclde agents response
             }, ensure_ascii=False, indent=4),
             'status': 'COMPLETED'
         }
@@ -72,7 +72,7 @@ async def process(job, job_token):
 
 async def main():
     print('work is starting...')
-    # Feel free to remove the connection parameter, if your redis runs on localhost
+    # cn remove the connection parameter, if redis runs on localhost
     worker = Worker("product", process, {"connection": {
         "host": 'redis',
         "port": 6379,
