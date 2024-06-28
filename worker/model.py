@@ -64,27 +64,23 @@ def run_assistant(assistant_id, product_info, output_list, index):
         
         # Poll the run status until it is completed
         while run.status != "completed":
-            time.sleep(0.5)  # Add a small delay to avoid hitting the API rate limit
+            time.sleep(1)  # Add a small delay to avoid hitting the API rate limit
             run = client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
         
         # Retrieve the assistant's response messages
         response_messages = client.beta.threads.messages.list(thread_id=thread.id)
         
-        # Log the response messages for debugging
-        for message in response_messages.data:
-            print(f"Message role: {message.role}, content: {message.content}")
-        
-        # Store the JSON response from the assistant
+        # Extract and store the JSON response from the assistant
         for message in response_messages.data:
             if message.role == "assistant":
-                # Go over the message content to find the JSON block
+                # Iterate over the message content to find the JSON block
                 for content_block in message.content:
-                    if content_block.type == "text" and "```json" in content_block.text:
-                        json_start = content_block.text.find("```json")
-                        json_end = content_block.text.rfind("```")
+                    if content_block.type == "text" and "```json" in content_block.text.value:
+                        json_start = content_block.text.value.find("```json")
+                        json_end = content_block.text.value.find("```", json_start + 6)
                         if json_start != -1 and json_end != -1:
-                            json_content = content_block.text[json_start + 6:json_end].strip()
-                            json_content = json_content.replace("\n", "").strip()  # Clean the JSON content
+                            json_content = content_block.text.value[json_start + 6:json_end].strip()
+                            json_content = json_content.replace("n\n", "").strip()  # Clean the JSON content
                             if json_content:
                                 try:
                                     parsed_content = json.loads(json_content)
@@ -92,16 +88,14 @@ def run_assistant(assistant_id, product_info, output_list, index):
                                     for item in parsed_content:
                                         item["document"] = format_document_name(item["document"])
                                     output_list[index] = parsed_content
-                                    return
                                 except json.JSONDecodeError as e:
                                     output_list[index] = {"error": str(e), "json_content": json_content}
                             else:
                                 output_list[index] = {"error": "Empty JSON content"}
+                            return
         output_list[index] = {"error": "No valid JSON response found"}
     except Exception as e:
         output_list[index] = {"error": str(e)}
-
-
 
 def safe_api_call(call, *args, **kwargs):
     try:
